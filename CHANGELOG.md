@@ -4,6 +4,47 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.6-conversation-engine] - 2024-07-16
+
+### Agregado
+
+**Conversation Engine (STAGE_05):**
+- ConversationManager - Coordinator central del sistema de conversación
+- ConversationContextManager - Gestor de contexto temporal
+- ConversationStateManager - State machine con 6 estados
+- ConversationSession - Modelo de sesión de conversación
+- Message - Modelo de mensaje con roles (SYSTEM, USER, ASSISTANT)
+- IntentProcessor - Interfaz para procesamiento de intenciones
+- AIProvider - Interfaz para proveedores de IA
+- ResponseGenerator - Interfaz para generación de respuestas
+- Conversation Events: CONVERSATION_STARTED, USER_MESSAGE_RECEIVED, PROCESSING_STARTED, ASSISTANT_RESPONSE_READY, CONVERSATION_ENDED
+- Capability CONVERSATION_ENGINE
+- Integración con RuntimeManager
+
+### Flujo Preparado
+```
+Wake Word Detected → Conversation Started → Audio Input → Processing → Response
+```
+
+### Providers Preparados (Futuros)
+- AI: Groq, OpenAI, Gemini, Anthropic, Local
+- Intent: Rule-based, AI-powered, Keyword matching
+
+### Características Técnicas
+- **Arquitectura desacoplada**: Interfaces para providers
+- **State Machine**: Transiciones validadas
+- **Context Management**: Máximo 50 mensajes, 32000 caracteres
+- **Integración Runtime**: ConversationManager integrado
+
+### Restricciones Cumplidas
+- ✅ Sin IA real
+- ✅ Sin Groq
+- ✅ Sin OpenAI
+- ✅ Sin Gemini
+- ✅ Sin procesamiento inteligente
+
+---
+
 ## [0.0.5-wakeword-framework] - 2024-07-16
 
 ### Agregado

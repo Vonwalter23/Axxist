@@ -11,6 +11,8 @@ import com.axxist.app.runtime.audio.AudioManager
 import com.axxist.app.runtime.audio.state.AudioState
 import com.axxist.app.runtime.wakeword.WakeWordManager
 import com.axxist.app.runtime.wakeword.state.WakeWordState
+import com.axxist.app.runtime.conversation.ConversationManager
+import com.axxist.app.runtime.conversation.state.ConversationState
 
 /**
  * RuntimeManager - Main coordinator for the Axxist Runtime.
@@ -23,6 +25,7 @@ import com.axxist.app.runtime.wakeword.state.WakeWordState
  * - Registering modules
  * - Managing Audio subsystem
  * - Managing WakeWord subsystem
+ * - Managing Conversation subsystem
  * 
  * No other module should start or stop the service directly.
  */
@@ -50,6 +53,7 @@ class RuntimeManager private constructor(private val context: Context) {
     private var serviceStarted = false
     private var audioManager: AudioManager? = null
     private var wakeWordManager: WakeWordManager? = null
+    private var conversationManager: ConversationManager? = null
     
     data class ModuleInfo(
         val name: String,
@@ -68,6 +72,8 @@ class RuntimeManager private constructor(private val context: Context) {
     init {
         Logger.d(TAG, "RuntimeManager initialized")
     }
+    
+    // ========== Audio Subsystem ==========
     
     /**
      * Initialize Audio subsystem.
@@ -100,6 +106,8 @@ class RuntimeManager private constructor(private val context: Context) {
         return audioManager?.getState() ?: AudioState.IDLE
     }
     
+    // ========== WakeWord Subsystem ==========
+    
     /**
      * Initialize WakeWord subsystem.
      */
@@ -129,6 +137,39 @@ class RuntimeManager private constructor(private val context: Context) {
      */
     fun getWakeWordState(): WakeWordState {
         return wakeWordManager?.getState() ?: WakeWordState.DISABLED
+    }
+    
+    // ========== Conversation Subsystem ==========
+    
+    /**
+     * Initialize Conversation subsystem.
+     */
+    fun initializeConversation(): ConversationManager {
+        if (conversationManager == null) {
+            conversationManager = ConversationManager.initialize(context)
+        }
+        return conversationManager!!
+    }
+    
+    /**
+     * Get ConversationManager instance.
+     */
+    fun getConversationManager(): ConversationManager {
+        return conversationManager ?: initializeConversation()
+    }
+    
+    /**
+     * Check if conversation is active.
+     */
+    fun isConversationActive(): Boolean {
+        return conversationManager?.isActive() ?: false
+    }
+    
+    /**
+     * Get conversation state.
+     */
+    fun getConversationState(): ConversationState {
+        return conversationManager?.getState() ?: ConversationState.IDLE
     }
     
     /**
@@ -185,6 +226,15 @@ class RuntimeManager private constructor(private val context: Context) {
         }
         
         try {
+            // Stop conversation if active
+            conversationManager?.let { conv ->
+                try {
+                    conv.endConversation()
+                } catch (e: Exception) {
+                    Logger.e(TAG, "Error stopping conversation", e)
+                }
+            }
+            
             // Stop wake word if active
             wakeWordManager?.let { ww ->
                 try {
@@ -312,7 +362,9 @@ class RuntimeManager private constructor(private val context: Context) {
         "audioState" to getAudioState().name,
         "audioActive" to isAudioActive(),
         "wakeWordState" to getWakeWordState().name,
-        "wakeWordActive" to isWakeWordActive()
+        "wakeWordActive" to isWakeWordActive(),
+        "conversationState" to getConversationState().name,
+        "conversationActive" to isConversationActive()
     )
     
     /**
@@ -321,6 +373,7 @@ class RuntimeManager private constructor(private val context: Context) {
     fun reset() {
         Logger.d(TAG, "Resetting Runtime...")
         stop()
+        conversationManager?.reset()
         wakeWordManager?.reset()
         audioManager?.reset()
         stateManager.reset()

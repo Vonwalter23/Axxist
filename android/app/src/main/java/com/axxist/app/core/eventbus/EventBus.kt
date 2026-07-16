@@ -3,6 +3,7 @@ package com.axxist.app.core.eventbus
 import com.axxist.app.runtime.state.RuntimeState
 import com.axxist.app.runtime.audio.state.AudioState
 import com.axxist.app.runtime.wakeword.state.WakeWordState
+import com.axxist.app.runtime.conversation.state.ConversationState
 
 /**
  * Base event interface for the EventBus system.
@@ -97,6 +98,23 @@ sealed class WakeWordEvent : AxxistEvent {
 }
 
 /**
+ * Conversation lifecycle events.
+ */
+sealed class ConversationEvent : AxxistEvent {
+    data class Started(val sessionId: String) : ConversationEvent()
+    data class UserMessageReceived(val messageId: String, val text: String) : ConversationEvent()
+    data object ProcessingStarted : ConversationEvent()
+    data class AssistantResponseReady(val messageId: String, val text: String) : ConversationEvent()
+    data object Ended : ConversationEvent()
+    data class StateChanged(
+        val fromState: ConversationState,
+        val toState: ConversationState,
+        val errorMessage: String? = null
+    ) : ConversationEvent()
+    data class Error(val message: String) : ConversationEvent()
+}
+
+/**
  * Event type definitions.
  */
 object EventTypes {
@@ -131,7 +149,7 @@ object EventTypes {
     
     // Audio events
     const val AUDIO_INITIALIZING = "audio_initializing"
-    const val AUDIO_STARTED = "audio_started"
+    const val AUDIO_STARTED = "audio_starting"
     const val AUDIO_STOPPED = "audio_stopped"
     const val AUDIO_STATE_CHANGED = "audio_state_changed"
     const val AUDIO_ERROR = "audio_error"
@@ -146,4 +164,13 @@ object EventTypes {
     const val WAKE_WORD_STOPPED = "wake_word_stopped"
     const val WAKE_WORD_ERROR = "wake_word_error"
     const val WAKE_WORD_STATE_CHANGED = "wake_word_state_changed"
+    
+    // Conversation events
+    const val CONVERSATION_STARTED = "conversation_started"
+    const val USER_MESSAGE_RECEIVED = "user_message_received"
+    const val PROCESSING_STARTED = "processing_started"
+    const val ASSISTANT_RESPONSE_READY = "assistant_response_ready"
+    const val CONVERSATION_ENDED = "conversation_ended"
+    const val CONVERSATION_STATE_CHANGED = "conversation_state_changed"
+    const val CONVERSATION_ERROR = "conversation_error"
 }

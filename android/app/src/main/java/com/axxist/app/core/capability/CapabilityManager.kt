@@ -88,6 +88,16 @@ object CapabilityManager {
             )
         )
         
+        // Conversation Engine (STAGE_05)
+        registerCapability(
+            Capability(
+                id = CapabilityIds.CONVERSATION_ENGINE,
+                name = "Conversation Engine",
+                description = "Conversation management and context (framework only, no AI)",
+                status = CapabilityStatus.NOT_IMPLEMENTED
+            )
+        )
+        
         // Phone capabilities
         registerCapability(
             Capability(
@@ -334,6 +344,7 @@ object CapabilityManager {
         const val TEXT_TO_SPEECH = "text_to_speech"
         const val WAKE_WORD = "wake_word"
         const val WAKE_WORD_FRAMEWORK = "wake_word_framework"
+        const val CONVERSATION_ENGINE = "conversation_engine"
         const val PHONE_CALL = "phone_call"
         const val CONTACTS = "contacts"
         const val SMS = "sms"

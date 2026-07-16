@@ -4,9 +4,9 @@
 
 **Proyecto:** Axxist
 
-**Versión:** 0.0.5-wakeword-framework
+**Versión:** 0.0.6-conversation-engine
 
-**Estado:** STAGE_04 Wake Word Framework Completado
+**Estado:** STAGE_05 Conversation Engine Completado
 
 **Repositorio:** https://github.com/Vonwalter23/Axxist
 
@@ -16,15 +16,15 @@
 
 Fase actual:
 
-➡️ STAGE_04 Wake Word Framework - Completado ✅
+➡️ STAGE_05 Conversation Engine - Completado ✅
 
 Último Stage completado:
 
-STAGE_04 Wake Word Framework ✅
+STAGE_05 Conversation Engine ✅
 
 Próximo Stage:
 
-STAGE_05 Conversation Engine
+STAGE_06 AI Router
 
 ---
 
@@ -39,7 +39,7 @@ STAGE_05 Conversation Engine
 | STAGE_02 Runtime | ✅ Completada |
 | STAGE_03 Audio Core | ✅ Completada |
 | STAGE_04 Wake Word | ✅ Completada |
-| STAGE_05 Conversation Engine | ⏳ Pendiente |
+| STAGE_05 Conversation Engine | ✅ Completada |
 | STAGE_06 AI Router | ⏳ Pendiente |
 | STAGE_07 Intent Engine | ⏳ Pendiente |
 | STAGE_08 Action Engine | ⏳ Pendiente |
@@ -61,7 +61,7 @@ STAGE_05 Conversation Engine
 ## Última APK
 
 ✅ Disponible: `android/app/build/outputs/apk/debug/app-debug.apk`
-- **Versión:** 0.0.5-wakeword-framework (versionCode 5)
+- **Versión:** 0.0.6-conversation-engine (versionCode 6)
 - **Package:** com.axxist.app
 - **Min SDK:** 29 (Android 10)
 - **Target SDK:** 34 (Android 14)
@@ -78,6 +78,7 @@ STAGE_05 Conversation Engine
 | v0.0.3-runtime | STAGE_02 | 2024-07-16 | Runtime completado |
 | v0.0.4-audio-core | STAGE_03 | 2024-07-16 | Audio Core completado |
 | v0.0.5-wakeword-framework | STAGE_04 | 2024-07-16 | Wake Word Framework completado |
+| v0.0.6-conversation-engine | STAGE_05 | 2024-07-16 | Conversation Engine completado |
 
 ---
 
@@ -104,9 +105,9 @@ develop
 - **Secrets:** NO almacenados en Git
 
 ### Versiones
-- **Version Name:** 0.0.5-wakeword-framework
-- **Version Code:** 5
-- **Stage:** STAGE_04
+- **Version Name:** 0.0.6-conversation-engine
+- **Version Code:** 6
+- **Stage:** STAGE_05
 
 ---
 
@@ -158,3 +159,16 @@ develop
 - ✅ Wake Word Events en EventBus
 - ✅ Integración con RuntimeManager
 - ✅ Capability WAKE_WORD_FRAMEWORK
+
+### STAGE_05 - Conversation Engine
+- ✅ ConversationManager (Coordinator)
+- ✅ ConversationContextManager (Gestor de contexto)
+- ✅ ConversationStateManager (State machine)
+- ✅ ConversationSession (Modelo)
+- ✅ Message (Modelo con roles)
+- ✅ IntentProcessor (Interfaz)
+- ✅ AIProvider (Interfaz)
+- ✅ ResponseGenerator (Interfaz)
+- ✅ Conversation Events en EventBus
+- ✅ Integración con RuntimeManager
+- ✅ Capability CONVERSATION_ENGINE

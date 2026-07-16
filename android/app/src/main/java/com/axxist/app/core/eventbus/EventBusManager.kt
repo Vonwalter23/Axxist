@@ -138,6 +138,13 @@ object EventBusManager {
     }
 
     /**
+     * Emit a conversation event.
+     */
+    fun emitConversationEvent(event: ConversationEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -175,6 +182,13 @@ object EventBusManager {
             is WakeWordEvent.Detected -> EventTypes.WAKE_WORD_DETECTED
             is WakeWordEvent.StateChanged -> EventTypes.WAKE_WORD_STATE_CHANGED
             is WakeWordEvent.Error -> EventTypes.WAKE_WORD_ERROR
+            is ConversationEvent.Started -> EventTypes.CONVERSATION_STARTED
+            is ConversationEvent.UserMessageReceived -> EventTypes.USER_MESSAGE_RECEIVED
+            is ConversationEvent.ProcessingStarted -> EventTypes.PROCESSING_STARTED
+            is ConversationEvent.AssistantResponseReady -> EventTypes.ASSISTANT_RESPONSE_READY
+            is ConversationEvent.Ended -> EventTypes.CONVERSATION_ENDED
+            is ConversationEvent.StateChanged -> EventTypes.CONVERSATION_STATE_CHANGED
+            is ConversationEvent.Error -> EventTypes.CONVERSATION_ERROR
             else -> event.javaClass.simpleName
         }
     }
