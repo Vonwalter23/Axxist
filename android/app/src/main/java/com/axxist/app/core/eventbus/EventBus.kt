@@ -4,6 +4,7 @@ import com.axxist.app.runtime.state.RuntimeState
 import com.axxist.app.runtime.audio.state.AudioState
 import com.axxist.app.runtime.wakeword.state.WakeWordState
 import com.axxist.app.runtime.conversation.state.ConversationState
+import com.axxist.app.runtime.ai.state.AIState
 
 /**
  * Base event interface for the EventBus system.
@@ -115,6 +116,21 @@ sealed class ConversationEvent : AxxistEvent {
 }
 
 /**
+ * AI lifecycle events.
+ */
+sealed class AIEvent : AxxistEvent {
+    data object RequestStarted : AIEvent()
+    data class ProviderSelected(val providerType: String) : AIEvent()
+    data class ResponseReceived(val content: String, val provider: String, val tokens: Int) : AIEvent()
+    data class StateChanged(
+        val fromState: AIState,
+        val toState: AIState,
+        val errorMessage: String? = null
+    ) : AIEvent()
+    data class Error(val message: String) : AIEvent()
+}
+
+/**
  * Event type definitions.
  */
 object EventTypes {
@@ -173,4 +189,11 @@ object EventTypes {
     const val CONVERSATION_ENDED = "conversation_ended"
     const val CONVERSATION_STATE_CHANGED = "conversation_state_changed"
     const val CONVERSATION_ERROR = "conversation_error"
+    
+    // AI events
+    const val AI_REQUEST_STARTED = "ai_request_started"
+    const val AI_PROVIDER_SELECTED = "ai_provider_selected"
+    const val AI_RESPONSE_RECEIVED = "ai_response_received"
+    const val AI_STATE_CHANGED = "ai_state_changed"
+    const val AI_ERROR = "ai_error"
 }

@@ -145,6 +145,13 @@ object EventBusManager {
     }
 
     /**
+     * Emit an AI event.
+     */
+    fun emitAIEvent(event: AIEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -189,6 +196,11 @@ object EventBusManager {
             is ConversationEvent.Ended -> EventTypes.CONVERSATION_ENDED
             is ConversationEvent.StateChanged -> EventTypes.CONVERSATION_STATE_CHANGED
             is ConversationEvent.Error -> EventTypes.CONVERSATION_ERROR
+            is AIEvent.RequestStarted -> EventTypes.AI_REQUEST_STARTED
+            is AIEvent.ProviderSelected -> EventTypes.AI_PROVIDER_SELECTED
+            is AIEvent.ResponseReceived -> EventTypes.AI_RESPONSE_RECEIVED
+            is AIEvent.StateChanged -> EventTypes.AI_STATE_CHANGED
+            is AIEvent.Error -> EventTypes.AI_ERROR
             else -> event.javaClass.simpleName
         }
     }

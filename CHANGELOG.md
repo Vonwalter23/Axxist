@@ -4,6 +4,49 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.7-ai-router] - 2024-07-16
+
+### Agregado
+
+**AI Router (STAGE_06):**
+- AIManager - Coordinator principal de AI
+- AIRouter - Router de providers con selección y fallback
+- AIConfiguration - Configuración de providers
+- AIStateManager - State machine con 5 estados
+- AIState - Enum de estados
+- AIProvider placeholders:
+  - GroqProvider - Groq API
+  - GeminiProvider - Google Gemini
+  - OpenAIProvider - OpenAI
+  - LocalAIProvider - LLM local
+- AI Events: AI_REQUEST_STARTED, AI_PROVIDER_SELECTED, AI_RESPONSE_RECEIVED, AI_ERROR
+- Capability AI_ROUTER
+
+### Flujo
+```
+User Message → Conversation Engine → AI Router → Provider → Response
+```
+
+### Providers Preparados
+- Groq (llama-3.3-70b-versatile)
+- Gemini (gemini-1.5-flash)
+- OpenAI (gpt-4o-mini)
+- Local (llama3.2, mistral)
+
+### Características Técnicas
+- **Fallback automático**: Si falla el provider preferido, usa fallback
+- **Provider availability**: Verifica disponibilidad antes de enviar
+- **State tracking**: Historial de uso y errores por provider
+- **Placeholder implementations**: Sin llamadas reales a APIs
+
+### Restricciones Cumplidas
+- ✅ Sin API keys
+- ✅ Sin llamadas reales
+- ✅ Sin comandos reales
+- ✅ Arquitectura desacoplada
+
+---
+
 ## [0.0.6-conversation-engine] - 2024-07-16
 
 ### Agregado
