@@ -8,6 +8,8 @@ import com.axxist.app.core.eventbus.EventBusManager
 import com.axxist.app.core.lifecycle.AppLifecycleManager
 import com.axxist.app.core.logger.LogLevel
 import com.axxist.app.core.logger.Logger
+import com.axxist.app.runtime.health.HealthMonitor
+import com.axxist.app.runtime.manager.RuntimeManager
 import android.content.Context
 
 /**
@@ -22,6 +24,7 @@ object AndroidCore {
     
     private lateinit var context: Context
     private lateinit var lifecycleManager: AppLifecycleManager
+    private lateinit var healthMonitor: HealthMonitor
     
     private var isInitialized = false
     
@@ -37,13 +40,14 @@ object AndroidCore {
         
         this.context = context.applicationContext
         
-        // Initialize in order: Logger -> EventBus -> Config -> Capability -> Lifecycle
+        // Initialize in order: Logger -> EventBus -> Config -> Capability -> Lifecycle -> Runtime
         initializeLogger()
         initializeEventBus()
         initializeConfig()
         initializeCapabilities()
         initializeLifecycle()
         initializeBuildConfig()
+        initializeRuntime()
         
         isInitialized = true
         Logger.d(TAG, "AndroidCore initialized successfully")
@@ -86,6 +90,13 @@ object AndroidCore {
         Logger.d(TAG, "BuildConfiguration initialized")
     }
     
+    private fun initializeRuntime() {
+        RuntimeManager.initialize(context)
+        healthMonitor = HealthMonitor()
+        healthMonitor.start()
+        Logger.d(TAG, "RuntimeManager and HealthMonitor initialized")
+    }
+    
     /**
      * Get the application context.
      */
@@ -122,6 +133,20 @@ object AndroidCore {
     }
     
     /**
+     * Get the RuntimeManager instance.
+     */
+    fun getRuntimeManager(): RuntimeManager {
+        return RuntimeManager.getInstance()
+    }
+    
+    /**
+     * Get the HealthMonitor instance.
+     */
+    fun getHealthMonitor(): HealthMonitor {
+        return healthMonitor
+    }
+    
+    /**
      * Check if AndroidCore is initialized.
      */
     fun isInitialized(): Boolean = isInitialized
@@ -132,6 +157,17 @@ object AndroidCore {
      */
     fun shutdown() {
         Logger.d(TAG, "Shutting down AndroidCore...")
+        
+        // Stop runtime first
+        try {
+            RuntimeManager.getInstance().stop()
+        } catch (e: Exception) {
+            Logger.e(TAG, "Error stopping Runtime", e)
+        }
+        
+        // Stop health monitoring
+        healthMonitor.stop()
+        
         EventBusManager.shutdown()
         CapabilityManager.clear()
         Logger.setEnabled(false)

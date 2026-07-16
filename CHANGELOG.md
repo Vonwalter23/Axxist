@@ -4,6 +4,47 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.3-runtime] - 2024-07-16
+
+### Agregado
+
+**Runtime Foundation (STAGE_02):**
+- AssistantService - Foreground Service para operación permanente
+- RuntimeManager - Coordinator central del Runtime
+- RuntimeStateManager - State machine con 6 estados
+- HealthMonitor - Monitor de salud del Runtime
+- BootReceiver - BroadcastReceiver para auto-inicio
+- Notification Channel "axxist_runtime_channel"
+- Notificación permanente "Axxist está preparado"
+- Nuevos eventos Runtime (RUNTIME_STARTED, RUNTIME_STOPPED, etc.)
+- Nuevos eventos Service (SERVICE_CREATED, SERVICE_DESTROYED, etc.)
+- Interfaces preparadas: VoiceManager, AIManager, MemoryManager
+
+### Permisos Agregados
+- FOREGROUND_SERVICE
+- FOREGROUND_SERVICE_MICROPHONE
+- FOREGROUND_SERVICE_MEDIA_PLAYBACK
+- FOREGROUND_SERVICE_SPECIAL_USE
+- RECEIVE_BOOT_COMPLETED
+- WAKE_LOCK
+- POST_NOTIFICATIONS
+
+### Características Técnicas
+- **Foreground Service**: START_STICKY para recuperación
+- **Android 14+**: Compatible con foregroundServiceType
+- **State Machine**: STOPPED → STARTING → RUNNING → PAUSED → STOPPING → STOPPED
+- **Health Monitoring**: Verificación cada 60 segundos
+- **Auto-inicio**: Preparado, no automático sin consentimiento
+
+### Restricciones Cumplidas
+- ✅ Sin Wake Word
+- ✅ Sin Speech Recognition
+- ✅ Sin Text To Speech
+- ✅ Sin Groq o IA
+- ✅ Sin integraciones externas
+
+---
+
 ## [0.0.2-android-core] - 2024-07-16
 
 ### Agregado
@@ -23,7 +64,6 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 - BuildConfiguration actualizado con más metadata
 
 ### Características Técnicas
-
 - **React Native**: 0.76.6
 - **Kotlin**: 2.1.0
 - **Min SDK**: Android 10 (API 29)
@@ -32,7 +72,6 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 - **Arquitectura**: Modular por stages
 
 ### Seguridad
-
 - ✅ Secrets fuera de Git (keystore.properties)
 - ✅ Debug keystore separado
 - ✅ Release signing configurable

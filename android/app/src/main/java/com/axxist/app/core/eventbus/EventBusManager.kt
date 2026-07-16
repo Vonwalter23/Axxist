@@ -77,7 +77,6 @@ object EventBusManager {
             Logger.d(TAG, "Emitting event: ${getEventName(event)}")
             _events.emit(event)
             
-            // Also call direct listeners
             val eventName = getEventName(event)
             listeners[eventName]?.forEach { callback ->
                 try {
@@ -111,6 +110,20 @@ object EventBusManager {
     }
 
     /**
+     * Emit a runtime event.
+     */
+    fun emitRuntimeEvent(event: RuntimeEvent) {
+        emit(event)
+    }
+
+    /**
+     * Emit a service event.
+     */
+    fun emitServiceEvent(event: ServiceEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -124,6 +137,16 @@ object EventBusManager {
             is ModuleEvent.Unloaded -> EventTypes.MODULE_UNLOADED
             is ConfigEvent.Updated -> EventTypes.CONFIG_UPDATED
             is ConfigEvent.KeyUpdated -> EventTypes.CONFIG_KEY_UPDATED
+            is RuntimeEvent.Started -> EventTypes.RUNTIME_STARTED
+            is RuntimeEvent.Stopped -> EventTypes.RUNTIME_STOPPED
+            is RuntimeEvent.StateChanged -> EventTypes.RUNTIME_STATE_CHANGED
+            is RuntimeEvent.Error -> EventTypes.RUNTIME_ERROR
+            is RuntimeEvent.HealthCheck -> EventTypes.RUNTIME_HEALTH_CHECK
+            is RuntimeEvent.BootCompleted -> EventTypes.BOOT_COMPLETED
+            is ServiceEvent.Created -> EventTypes.SERVICE_CREATED
+            is ServiceEvent.Destroyed -> EventTypes.SERVICE_DESTROYED
+            is ServiceEvent.ForegroundStarted -> EventTypes.SERVICE_FOREGROUND_STARTED
+            is ServiceEvent.ForegroundStopped -> EventTypes.SERVICE_FOREGROUND_STOPPED
             else -> event.javaClass.simpleName
         }
     }

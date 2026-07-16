@@ -16,8 +16,8 @@ android {
         applicationId "com.axxist.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
-        versionName "0.0.2-android-core"
+        versionCode 3
+        versionName "0.0.3-runtime"
         
         // Enable multidex for future growth
         multiDexEnabled true
