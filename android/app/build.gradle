@@ -1,6 +1,13 @@
 apply plugin: "com.android.application"
 apply plugin: "org.jetbrains.kotlin.android"
 
+def keystorePropertiesFile = rootProject.file("keystore.properties")
+def keystoreProperties = new Properties()
+
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
 android {
     namespace "com.axxist.app"
     compileSdk rootProject.ext.compileSdkVersion
@@ -9,26 +16,51 @@ android {
         applicationId "com.axxist.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "0.0.1-foundation"
+        versionCode 2
+        versionName "0.0.2-android-core"
+        
+        // Enable multidex for future growth
+        multiDexEnabled true
     }
 
     signingConfigs {
         debug {
             storeFile file('debug.keystore')
-            storePassword 'android'
-            keyAlias 'androiddebugkey'
-            keyPassword 'android'
+            storePassword keystoreProperties.getProperty('DEBUG_STORE_PASSWORD', 'android')
+            keyAlias keystoreProperties.getProperty('DEBUG_KEY_ALIAS', 'androiddebugkey')
+            keyPassword keystoreProperties.getProperty('DEBUG_KEY_PASSWORD', 'android')
+        }
+        
+        // Release signing config - requires keystore.properties file
+        release {
+            // Will only work if keystore.properties exists with valid keys
+            if (keystorePropertiesFile.exists()) {
+                storeFile rootProject.file(keystoreProperties.getProperty('RELEASE_KEYSTORE_PATH', 'release.keystore'))
+                storePassword keystoreProperties.getProperty('RELEASE_STORE_PASSWORD')
+                keyAlias keystoreProperties.getProperty('RELEASE_KEY_ALIAS')
+                keyPassword keystoreProperties.getProperty('RELEASE_KEY_PASSWORD')
+            }
         }
     }
 
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
+            applicationIdSuffix ".debug"
+            versionNameSuffix "-debug"
         }
+        
         release {
-            signingConfig signingConfigs.debug
-            minifyEnabled false
+            // Use release signing only if keystore.properties is configured
+            if (keystorePropertiesFile.exists() && keystoreProperties.getProperty('RELEASE_KEYSTORE_PATH')) {
+                signingConfig signingConfigs.release
+            } else {
+                // Fallback to debug signing for CI/CD without keystore
+                signingConfig signingConfigs.debug
+                println "WARNING: Using debug signing for release build. Configure keystore.properties for production."
+            }
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
@@ -47,6 +79,11 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
+    
+    // Separate debug and release build configurations
+    buildFeatures {
+        buildConfig true
+    }
 }
 
 dependencies {
@@ -63,4 +100,7 @@ dependencies {
     // Coroutines
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3'
+    
+    // Multidex support
+    implementation 'androidx.multidex:multidex:2.0.1'
 }

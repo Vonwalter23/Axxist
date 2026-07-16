@@ -8,6 +8,42 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 
 ### Agregado
 
+**Production Foundation (STAGE_01.5):**
+- Configuración release preparada en build.gradle
+- Estructura signing segura con keystore.properties
+- Template keystore.properties.example
+- .gitignore actualizado para excluir secrets
+- VersionCode y VersionName actualizados
+- Separación debug/release en buildTypes
+- Minify y shrinkResources habilitado para release
+- BuildConfig habilitado
+- Multidex support agregado
+- gradle.properties con metadata de build
+- docs/RELEASE_PROCESS.md - Guía completa de release
+- BuildConfiguration actualizado con más metadata
+
+### Características Técnicas
+
+- **React Native**: 0.76.6
+- **Kotlin**: 2.1.0
+- **Min SDK**: Android 10 (API 29)
+- **Target SDK**: Android 14 (API 34)
+- **Package**: com.axxist.app
+- **Arquitectura**: Modular por stages
+
+### Seguridad
+
+- ✅ Secrets fuera de Git (keystore.properties)
+- ✅ Debug keystore separado
+- ✅ Release signing configurable
+- ✅ Fallback a debug signing si no hay keystore
+
+---
+
+## [0.0.2-android-core] - 2024-07-16
+
+### Agregado
+
 **Android Core Modules (Kotlin):**
 - AndroidCore - Punto de entrada central
 - Logger - Sistema de logging centralizado con niveles DEBUG/INFO/WARNING/ERROR
@@ -33,15 +69,6 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 **Dependencias:**
 - kotlinx-coroutines-android: 1.7.3
 - kotlinx-coroutines-core: 1.7.3
-
-### Características Técnicas
-
-- **React Native**: 0.76.6
-- **Kotlin**: 2.1.0
-- **Min SDK**: Android 10 (API 29)
-- **Target SDK**: Android 14 (API 34)
-- **Arquitectura**: Modular por stages
-- **APK SHA256**: 6a0fd2a8441f2c507f0da5cdd1dfa95fad06a158b0b2cd1d7193e8c1ce6db4d6
 
 ### Restricciones Cumplidas
 
@@ -84,15 +111,6 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 - ✅ Sin solicitud de permisos en primer inicio
 - ✅ Dependencias no utilizadas eliminadas
 - ✅ Código mínimo y limpio
-
-### Características Técnicas
-
-- **React Native**: 0.76.6
-- **Kotlin**: 2.1.0
-- **Min SDK**: Android 10 (API 29)
-- **Target SDK**: Android 14 (API 34)
-- **Arquitectura**: Modular por stages
-- **APK SHA256**: bc0de051e4103351abef35b2ffc16ac486070e73397337aeb84951ec87273ed1
 
 ---
 
