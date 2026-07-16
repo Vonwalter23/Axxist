@@ -4,11 +4,11 @@
 
 **Proyecto:** Axxist
 
-**Versión:** 0.0.0
+**Versión:** 0.0.2-android-core
 
-**Estado:** En desarrollo
+**Estado:** STAGE_01 Completado
 
-**Repositorio:** (Completar URL de GitHub)
+**Repositorio:** https://github.com/Vonwalter23/Axxist
 
 ---
 
@@ -16,15 +16,15 @@
 
 Fase actual:
 
-➡️ FASE_00 Auditoría Técnica
+➡️ STAGE_01 Android Core - Completado ✅
 
 Último Stage completado:
 
-Ninguno
+STAGE_01 Android Core ✅
 
 Próximo Stage:
 
-STAGE_00 Foundation
+STAGE_02 Runtime
 
 ---
 
@@ -32,9 +32,9 @@ STAGE_00 Foundation
 
 | Stage | Estado |
 |--------|---------|
-| FASE_00 Auditoría | ⏳ Pendiente |
-| STAGE_00 Foundation | ⏳ Pendiente |
-| STAGE_01 Android Core | ⏳ Pendiente |
+| FASE_00 Auditoría | ✅ Completada |
+| STAGE_00 Foundation | ✅ Completada |
+| STAGE_01 Android Core | ✅ Completada |
 | STAGE_02 Runtime | ⏳ Pendiente |
 | STAGE_03 Audio Core | ⏳ Pendiente |
 | STAGE_04 Wake Word | ⏳ Pendiente |
@@ -59,13 +59,18 @@ STAGE_00 Foundation
 
 ## Última APK
 
-No disponible.
+✅ Disponible: `android/app/build/outputs/apk/debug/app-debug.apk`
+- **SHA256:** 6a0fd2a8441f2c507f0da5cdd1dfa95fad06a158b0b2cd1d7193e8c1ce6db4d6
+- **Tamaño:** ~101MB
 
 ---
 
-## Última Release
+## Releases
 
-No disponible.
+| Versión | Stage | Fecha | Notas |
+|---------|-------|-------|-------|
+| v0.0.1-foundation | STAGE_00 | 2024-07-16 | Foundation completado |
+| v0.0.2-android-core | STAGE_01 | 2024-07-16 | Android Core completado |
 
 ---
 
@@ -76,3 +81,17 @@ main
 ## Rama de desarrollo
 
 develop
+
+---
+
+## Módulos Implementados en STAGE_01
+
+- ✅ Logger (Kotlin + TypeScript)
+- ✅ EventBus (Kotlin + TypeScript)
+- ✅ ConfigManager (Kotlin + TypeScript)
+- ✅ PermissionManager (Kotlin - infraestructura)
+- ✅ CapabilityManager (Kotlin + TypeScript)
+- ✅ NativeBridge (Kotlin + TypeScript)
+- ✅ AppLifecycle (Kotlin + TypeScript)
+- ✅ BuildConfiguration (Kotlin + TypeScript)
+- ✅ AndroidCore (Kotlin - coordinador)

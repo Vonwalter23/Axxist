@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/axxi_primary</item>
+        <item name="colorPrimaryDark">@color/axxi_primary_dark</item>
+        <item name="colorSecondary">@color/axxi_secondary</item>
+        <item name="android:statusBarColor">@color/axxi_primary</item>
+        <item name="android:windowBackground">@color/axxi_background</item>
+    </style>
+</resources>

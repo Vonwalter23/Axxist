@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="axxi_primary">#6200EE</color>
+    <color name="axxi_primary_dark">#3700B3</color>
+    <color name="axxi_secondary">#03DAC6</color>
+    <color name="axxi_background">#FFFFFF</color>
+    <color name="axxi_surface">#FFFFFF</color>
+    <color name="axxi_error">#B00020</color>
+    <color name="axxi_on_primary">#FFFFFF</color>
+    <color name="axxi_on_secondary">#000000</color>
+    <color name="axxi_on_background">#000000</color>
+    <color name="axxi_on_surface">#000000</color>
+    <color name="axxi_on_error">#FFFFFF</color>
+</resources>
