@@ -118,6 +118,16 @@ object CapabilityManager {
             )
         )
         
+        // Action Framework (STAGE_08)
+        registerCapability(
+            Capability(
+                id = CapabilityIds.ACTION_FRAMEWORK,
+                name = "Action Framework",
+                description = "Action execution framework (infrastructure only, no real execution)",
+                status = CapabilityStatus.AVAILABLE
+            )
+        )
+        
         // Phone capabilities
         registerCapability(
             Capability(
@@ -367,6 +377,7 @@ object CapabilityManager {
         const val CONVERSATION_ENGINE = "conversation_engine"
         const val AI_ROUTER = "ai_router"
         const val INTENT_ENGINE = "intent_engine"
+        const val ACTION_FRAMEWORK = "action_framework"
         const val PHONE_CALL = "phone_call"
         const val CONTACTS = "contacts"
         const val SMS = "sms"

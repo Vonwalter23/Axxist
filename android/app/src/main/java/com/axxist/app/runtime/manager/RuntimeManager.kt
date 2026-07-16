@@ -15,6 +15,8 @@ import com.axxist.app.runtime.conversation.ConversationManager
 import com.axxist.app.runtime.conversation.state.ConversationState
 import com.axxist.app.runtime.intent.IntentManager
 import com.axxist.app.runtime.intent.state.IntentState
+import com.axxist.app.runtime.action.ActionManager
+import com.axxist.app.runtime.action.model.ActionState
 
 /**
  * RuntimeManager - Main coordinator for the Axxist Runtime.
@@ -29,6 +31,7 @@ import com.axxist.app.runtime.intent.state.IntentState
  * - Managing WakeWord subsystem
  * - Managing Conversation subsystem
  * - Managing Intent subsystem
+ * - Managing Action subsystem
  * 
  * No other module should start or stop the service directly.
  */
@@ -58,6 +61,7 @@ class RuntimeManager private constructor(private val context: Context) {
     private var wakeWordManager: WakeWordManager? = null
     private var conversationManager: ConversationManager? = null
     private var intentManager: IntentManager? = null
+    private var actionManager: ActionManager? = null
     
     data class ModuleInfo(
         val name: String,
@@ -207,6 +211,32 @@ class RuntimeManager private constructor(private val context: Context) {
      */
     fun getIntentState(): IntentState {
         return intentManager?.getState() ?: IntentState.IDLE
+    }
+    
+    // ========== Action Subsystem ==========
+    
+    /**
+     * Initialize Action subsystem.
+     */
+    fun initializeAction(): ActionManager {
+        if (actionManager == null) {
+            actionManager = ActionManager.initialize(context)
+        }
+        return actionManager!!
+    }
+    
+    /**
+     * Get ActionManager instance.
+     */
+    fun getActionManager(): ActionManager {
+        return actionManager ?: initializeAction()
+    }
+    
+    /**
+     * Check if action framework is ready.
+     */
+    fun isActionReady(): Boolean {
+        return actionManager?.isReady() ?: false
     }
     
     /**
@@ -403,7 +433,8 @@ class RuntimeManager private constructor(private val context: Context) {
         "conversationState" to getConversationState().name,
         "conversationActive" to isConversationActive(),
         "intentState" to getIntentState().name,
-        "intentReady" to isIntentReady()
+        "intentReady" to isIntentReady(),
+        "actionReady" to isActionReady()
     )
     
     /**
@@ -412,6 +443,7 @@ class RuntimeManager private constructor(private val context: Context) {
     fun reset() {
         Logger.d(TAG, "Resetting Runtime...")
         stop()
+        actionManager?.reset()
         intentManager?.reset()
         conversationManager?.reset()
         wakeWordManager?.reset()

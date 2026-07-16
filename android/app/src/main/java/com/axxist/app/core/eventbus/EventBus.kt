@@ -8,6 +8,7 @@ import com.axxist.app.runtime.ai.state.AIState
 import com.axxist.app.runtime.intent.model.ConfidenceLevel
 import com.axxist.app.runtime.intent.model.Entity
 import com.axxist.app.runtime.intent.model.IntentState
+import com.axxist.app.runtime.action.model.ActionState
 
 /**
  * Base event interface for the EventBus system.
@@ -153,6 +154,25 @@ sealed class IntentEvent : AxxistEvent {
 }
 
 /**
+ * Action Framework lifecycle events.
+ */
+sealed class ActionEvent : AxxistEvent {
+    data class Queued(val actionId: String, val requestId: String) : ActionEvent()
+    data class Validated(val actionId: String, val isValid: Boolean) : ActionEvent()
+    data class Started(val actionId: String, val requestId: String) : ActionEvent()
+    data class Completed(val actionId: String, val requestId: String, val executionTimeMs: Long) : ActionEvent()
+    data class Failed(val actionId: String, val requestId: String, val error: String) : ActionEvent()
+    data class Cancelled(val actionId: String, val requestId: String) : ActionEvent()
+    data class Error(val message: String) : ActionEvent()
+    data class StateChanged(
+        val fromState: ActionState,
+        val toState: ActionState,
+        val actionId: String? = null,
+        val errorMessage: String? = null
+    ) : ActionEvent()
+}
+
+/**
  * Event type definitions.
  */
 object EventTypes {
@@ -229,4 +249,14 @@ object EventTypes {
     const val INTENT_FAILED = "intent_failed"
     const val INTENT_ERROR = "intent_error"
     const val INTENT_STATE_CHANGED = "intent_state_changed"
+    
+    // Action events
+    const val ACTION_QUEUED = "action_queued"
+    const val ACTION_VALIDATED = "action_validated"
+    const val ACTION_STARTED = "action_started"
+    const val ACTION_COMPLETED = "action_completed"
+    const val ACTION_FAILED = "action_failed"
+    const val ACTION_CANCELLED = "action_cancelled"
+    const val ACTION_ERROR = "action_error"
+    const val ACTION_STATE_CHANGED = "action_state_changed"
 }

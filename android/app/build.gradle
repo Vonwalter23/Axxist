@@ -16,8 +16,8 @@ android {
         applicationId "com.axxist.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 8
-        versionName "0.0.8-intent-framework"
+        versionCode 9
+        versionName "0.0.9-action-framework"
         
         // Enable multidex for future growth
         multiDexEnabled true

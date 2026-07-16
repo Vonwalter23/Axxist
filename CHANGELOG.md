@@ -4,6 +4,60 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.9-action-framework] - 2024-07-16
+
+### Agregado
+
+**Action Framework (STAGE_08):**
+- ActionManager - Coordinator principal
+- ActionRegistry - Registro de 18 acciones base
+- ActionRouter - Selección de mecanismo (Android/Local/External/Hybrid)
+- ActionValidator - Validación de requests
+- ActionExecutor - Infraestructura (sin ejecución real)
+- PermissionChecker - Infraestructura de permisos
+- RetryManager - Política de reintentos
+- ActionDiagnosticsCollector - Diagnósticos
+
+**Models:**
+- Action, ActionDefinition, ActionRequest, ActionResult
+- ActionError, ActionMetadata, RetryPolicy
+
+**Enums:**
+- ActionState (IDLE, QUEUED, VALIDATING, EXECUTING, COMPLETED, FAILED, CANCELLED, ERROR)
+- ActionPriority (LOW, NORMAL, HIGH, CRITICAL)
+- ActionCategory (SYSTEM, MEDIA, COMMUNICATION, DEVICE, SEARCH, PRODUCTIVITY, AUTOMATION, AI, CUSTOM)
+- ActionStatus, ActionType
+
+**Events:**
+- ActionEvent sealed class con 8 tipos de eventos
+- Event types: ACTION_QUEUED, ACTION_STARTED, ACTION_COMPLETED, etc.
+
+**Actions registradas:**
+- OPEN_APP, CLOSE_APP
+- MAKE_CALL, SEND_SMS, SEND_WHATSAPP, SEND_EMAIL
+- PLAY_MUSIC, STOP_MUSIC, SET_VOLUME
+- NAVIGATE_TO, SEARCH_NEARBY
+- CREATE_REMINDER, CREATE_ALARM, CREATE_NOTE
+- TOGGLE_WIFI, TOGGLE_BLUETOOTH, TOGGLE_FLASHLIGHT
+- TAKE_PHOTO
+- SEARCH_WEB, SEARCH_CONTACTS
+
+### Características Técnicas
+- **Arquitectura desacoplada**: Interfaces para providers
+- **State Machine**: 8 estados con transiciones validadas
+- **Permission infrastructure**: Sin requests reales
+- **Retry policies**: NONE, IMMEDIATE, DEFERRED, EXPONENTIAL
+- **Integration**: RuntimeManager actualizado con Action subsystem
+- **Capability**: ACTION_FRAMEWORK disponible
+
+### Restricciones Cumplidas
+- ✅ Sin ejecución de acciones Android
+- ✅ Sin apertura de aplicaciones reales
+- ✅ Sin uso de APIs reales
+- ✅ Infraestructura lista para expansión
+
+---
+
 ## [0.0.8-intent-framework] - 2024-07-16
 
 ### Agregado

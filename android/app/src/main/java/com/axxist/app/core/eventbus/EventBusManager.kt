@@ -159,6 +159,13 @@ object EventBusManager {
     }
 
     /**
+     * Emit an Action event.
+     */
+    fun emitActionEvent(event: ActionEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -217,6 +224,14 @@ object EventBusManager {
             is IntentEvent.Failed -> EventTypes.INTENT_FAILED
             is IntentEvent.Error -> EventTypes.INTENT_ERROR
             is IntentEvent.StateChanged -> EventTypes.INTENT_STATE_CHANGED
+            is ActionEvent.Queued -> EventTypes.ACTION_QUEUED
+            is ActionEvent.Validated -> EventTypes.ACTION_VALIDATED
+            is ActionEvent.Started -> EventTypes.ACTION_STARTED
+            is ActionEvent.Completed -> EventTypes.ACTION_COMPLETED
+            is ActionEvent.Failed -> EventTypes.ACTION_FAILED
+            is ActionEvent.Cancelled -> EventTypes.ACTION_CANCELLED
+            is ActionEvent.Error -> EventTypes.ACTION_ERROR
+            is ActionEvent.StateChanged -> EventTypes.ACTION_STATE_CHANGED
             else -> event.javaClass.simpleName
         }
     }
