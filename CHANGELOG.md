@@ -4,6 +4,39 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.4-audio-core] - 2024-07-16
+
+### Agregado
+
+**Audio Core Foundation (STAGE_03):**
+- AudioManager - Coordinator central del sistema de audio
+- AudioStateManager - State machine con 6 estados (IDLE, INITIALIZING, LISTENING, PROCESSING, STOPPING, ERROR)
+- AudioState - Enum de estados de audio
+- AudioInputProvider - Interfaz para entrada de audio
+- SpeechRecognizerProvider - Interfaz para reconocimiento de voz
+- VoiceActivityDetector - Interfaz para detección de actividad de voz
+- AudioException - Exception classes para errores de audio
+- Audio Events: AUDIO_INITIALIZING, AUDIO_STARTED, AUDIO_STOPPED, AUDIO_ERROR, VOICE_ACTIVITY_DETECTED
+- Integración con RuntimeManager
+
+### Permisos Agregados
+- RECORD_AUDIO
+
+### Características Técnicas
+- **Arquitectura desacoplada**: Interfaces permiten diferentes implementaciones
+- **State Machine**: Transiciones validadas
+- **Permisos preparados**: RECORD_AUDIO en AndroidManifest
+- **Integración Runtime**: Audio se detiene con Runtime
+
+### Restricciones Cumplidas
+- ✅ Sin Wake Word
+- ✅ Sin Speech Recognition funcional
+- ✅ Sin Text To Speech
+- ✅ Sin IA
+- ✅ Sin proveedores externos
+
+---
+
 ## [0.0.3-runtime] - 2024-07-16
 
 ### Agregado

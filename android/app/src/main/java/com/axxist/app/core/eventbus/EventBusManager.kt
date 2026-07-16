@@ -124,6 +124,13 @@ object EventBusManager {
     }
 
     /**
+     * Emit an audio event.
+     */
+    fun emitAudioEvent(event: AudioEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -147,6 +154,13 @@ object EventBusManager {
             is ServiceEvent.Destroyed -> EventTypes.SERVICE_DESTROYED
             is ServiceEvent.ForegroundStarted -> EventTypes.SERVICE_FOREGROUND_STARTED
             is ServiceEvent.ForegroundStopped -> EventTypes.SERVICE_FOREGROUND_STOPPED
+            is AudioEvent.Initializing -> EventTypes.AUDIO_INITIALIZING
+            is AudioEvent.Started -> EventTypes.AUDIO_STARTED
+            is AudioEvent.Stopped -> EventTypes.AUDIO_STOPPED
+            is AudioEvent.StateChanged -> EventTypes.AUDIO_STATE_CHANGED
+            is AudioEvent.Error -> EventTypes.AUDIO_ERROR
+            is AudioEvent.VoiceActivityDetected -> EventTypes.VOICE_ACTIVITY_DETECTED
+            is AudioEvent.VoiceActivityEnded -> EventTypes.VOICE_ACTIVITY_ENDED
             else -> event.javaClass.simpleName
         }
     }

@@ -16,8 +16,8 @@ android {
         applicationId "com.axxist.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 3
-        versionName "0.0.3-runtime"
+        versionCode 4
+        versionName "0.0.4-audio-core"
         
         // Enable multidex for future growth
         multiDexEnabled true

@@ -7,6 +7,8 @@ import com.axxist.app.core.logger.Logger
 import com.axxist.app.runtime.service.AssistantService
 import com.axxist.app.runtime.state.RuntimeState
 import com.axxist.app.runtime.state.RuntimeStateManager
+import com.axxist.app.runtime.audio.AudioManager
+import com.axxist.app.runtime.audio.state.AudioState
 
 /**
  * RuntimeManager - Main coordinator for the Axxist Runtime.
@@ -17,6 +19,7 @@ import com.axxist.app.runtime.state.RuntimeStateManager
  * - Restarting the Runtime
  * - Querying state
  * - Registering modules
+ * - Managing Audio subsystem
  * 
  * No other module should start or stop the service directly.
  */
@@ -42,6 +45,7 @@ class RuntimeManager private constructor(private val context: Context) {
     private val stateManager = RuntimeStateManager.getInstance()
     private val registeredModules = mutableMapOf<String, ModuleInfo>()
     private var serviceStarted = false
+    private var audioManager: AudioManager? = null
     
     data class ModuleInfo(
         val name: String,
@@ -62,6 +66,37 @@ class RuntimeManager private constructor(private val context: Context) {
     }
     
     /**
+     * Initialize Audio subsystem.
+     */
+    fun initializeAudio(): AudioManager {
+        if (audioManager == null) {
+            audioManager = AudioManager.initialize(context)
+        }
+        return audioManager!!
+    }
+    
+    /**
+     * Get AudioManager instance.
+     */
+    fun getAudioManager(): AudioManager {
+        return audioManager ?: initializeAudio()
+    }
+    
+    /**
+     * Check if audio is active.
+     */
+    fun isAudioActive(): Boolean {
+        return audioManager?.isActive() ?: false
+    }
+    
+    /**
+     * Get audio state.
+     */
+    fun getAudioState(): AudioState {
+        return audioManager?.getState() ?: AudioState.IDLE
+    }
+    
+    /**
      * Start the Runtime.
      */
     fun start(): Boolean {
@@ -78,6 +113,9 @@ class RuntimeManager private constructor(private val context: Context) {
         }
         
         try {
+            // Initialize audio subsystem
+            initializeAudio()
+            
             AssistantService.startService(context)
             serviceStarted = true
             
@@ -112,6 +150,17 @@ class RuntimeManager private constructor(private val context: Context) {
         }
         
         try {
+            // Stop audio if active
+            audioManager?.let { audio ->
+                try {
+                    kotlinx.coroutines.runBlocking {
+                        audio.stop()
+                    }
+                } catch (e: Exception) {
+                    Logger.e(TAG, "Error stopping audio", e)
+                }
+            }
+            
             if (serviceStarted) {
                 AssistantService.stopService(context)
                 serviceStarted = false
@@ -213,7 +262,9 @@ class RuntimeManager private constructor(private val context: Context) {
         "isActive" to isActive(),
         "uptime" to getUptime(),
         "modulesCount" to registeredModules.size,
-        "serviceStarted" to serviceStarted
+        "serviceStarted" to serviceStarted,
+        "audioState" to getAudioState().name,
+        "audioActive" to isAudioActive()
     )
     
     /**
@@ -222,6 +273,7 @@ class RuntimeManager private constructor(private val context: Context) {
     fun reset() {
         Logger.d(TAG, "Resetting Runtime...")
         stop()
+        audioManager?.reset()
         stateManager.reset()
         registeredModules.clear()
         serviceStarted = false

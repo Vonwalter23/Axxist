@@ -1,6 +1,7 @@
 package com.axxist.app.core.eventbus
 
 import com.axxist.app.runtime.state.RuntimeState
+import com.axxist.app.runtime.audio.state.AudioState
 
 /**
  * Base event interface for the EventBus system.
@@ -61,6 +62,23 @@ sealed class ServiceEvent : AxxistEvent {
 }
 
 /**
+ * Audio lifecycle events.
+ */
+sealed class AudioEvent : AxxistEvent {
+    data object Initializing : AudioEvent()
+    data object Started : AudioEvent()
+    data object Stopped : AudioEvent()
+    data class StateChanged(
+        val fromState: AudioState,
+        val toState: AudioState,
+        val errorMessage: String? = null
+    ) : AudioEvent()
+    data class Error(val message: String) : AudioEvent()
+    data object VoiceActivityDetected : AudioEvent()
+    data object VoiceActivityEnded : AudioEvent()
+}
+
+/**
  * Event type definitions.
  */
 object EventTypes {
@@ -92,4 +110,13 @@ object EventTypes {
     const val SERVICE_DESTROYED = "service_destroyed"
     const val SERVICE_FOREGROUND_STARTED = "service_foreground_started"
     const val SERVICE_FOREGROUND_STOPPED = "service_foreground_stopped"
+    
+    // Audio events
+    const val AUDIO_INITIALIZING = "audio_initializing"
+    const val AUDIO_STARTED = "audio_started"
+    const val AUDIO_STOPPED = "audio_stopped"
+    const val AUDIO_STATE_CHANGED = "audio_state_changed"
+    const val AUDIO_ERROR = "audio_error"
+    const val VOICE_ACTIVITY_DETECTED = "voice_activity_detected"
+    const val VOICE_ACTIVITY_ENDED = "voice_activity_ended"
 }
