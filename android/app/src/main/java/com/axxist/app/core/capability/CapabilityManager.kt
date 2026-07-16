@@ -108,6 +108,16 @@ object CapabilityManager {
             )
         )
         
+        // Intent Engine (STAGE_07)
+        registerCapability(
+            Capability(
+                id = CapabilityIds.INTENT_ENGINE,
+                name = "Intent Engine",
+                description = "Intent parsing and interpretation framework (no execution)",
+                status = CapabilityStatus.AVAILABLE
+            )
+        )
+        
         // Phone capabilities
         registerCapability(
             Capability(
@@ -356,6 +366,7 @@ object CapabilityManager {
         const val WAKE_WORD_FRAMEWORK = "wake_word_framework"
         const val CONVERSATION_ENGINE = "conversation_engine"
         const val AI_ROUTER = "ai_router"
+        const val INTENT_ENGINE = "intent_engine"
         const val PHONE_CALL = "phone_call"
         const val CONTACTS = "contacts"
         const val SMS = "sms"

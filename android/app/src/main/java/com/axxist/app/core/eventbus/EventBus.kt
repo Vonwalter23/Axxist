@@ -5,6 +5,9 @@ import com.axxist.app.runtime.audio.state.AudioState
 import com.axxist.app.runtime.wakeword.state.WakeWordState
 import com.axxist.app.runtime.conversation.state.ConversationState
 import com.axxist.app.runtime.ai.state.AIState
+import com.axxist.app.runtime.intent.model.ConfidenceLevel
+import com.axxist.app.runtime.intent.model.Entity
+import com.axxist.app.runtime.intent.model.IntentState
 
 /**
  * Base event interface for the EventBus system.
@@ -131,6 +134,25 @@ sealed class AIEvent : AxxistEvent {
 }
 
 /**
+ * Intent Framework lifecycle events.
+ */
+sealed class IntentEvent : AxxistEvent {
+    data object AnalysisStarted : IntentEvent()
+    data class Matched(val intentId: String, val confidence: Float) : IntentEvent()
+    data class Validated(val intentId: String, val isValid: Boolean) : IntentEvent()
+    data class EntityExtracted(val entities: List<Entity>) : IntentEvent()
+    data class ConfidenceUpdated(val intentId: String, val confidence: Float, val level: ConfidenceLevel) : IntentEvent()
+    data class Ready(val intentId: String) : IntentEvent()
+    data class Failed(val reason: String) : IntentEvent()
+    data class Error(val message: String) : IntentEvent()
+    data class StateChanged(
+        val fromState: IntentState,
+        val toState: IntentState,
+        val errorMessage: String? = null
+    ) : IntentEvent()
+}
+
+/**
  * Event type definitions.
  */
 object EventTypes {
@@ -196,4 +218,15 @@ object EventTypes {
     const val AI_RESPONSE_RECEIVED = "ai_response_received"
     const val AI_STATE_CHANGED = "ai_state_changed"
     const val AI_ERROR = "ai_error"
+    
+    // Intent events
+    const val INTENT_ANALYSIS_STARTED = "intent_analysis_started"
+    const val INTENT_MATCHED = "intent_matched"
+    const val INTENT_VALIDATED = "intent_validated"
+    const val ENTITY_EXTRACTED = "entity_extracted"
+    const val CONFIDENCE_UPDATED = "confidence_updated"
+    const val INTENT_READY = "intent_ready"
+    const val INTENT_FAILED = "intent_failed"
+    const val INTENT_ERROR = "intent_error"
+    const val INTENT_STATE_CHANGED = "intent_state_changed"
 }

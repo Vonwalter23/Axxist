@@ -4,9 +4,9 @@
 
 **Proyecto:** Axxist
 
-**Versión:** 0.0.7-ai-router
+**Versión:** 0.0.8-intent-framework
 
-**Estado:** STAGE_06 AI Router Completado
+**Estado:** STAGE_07 Intent Engine Completado
 
 **Repositorio:** https://github.com/Vonwalter23/Axxist
 
@@ -16,15 +16,15 @@
 
 Fase actual:
 
-➡️ STAGE_06 AI Router - Completado ✅
+➡️ STAGE_07 Intent Engine - Completado ✅
 
 Último Stage completado:
 
-STAGE_06 AI Router ✅
+STAGE_07 Intent Engine ✅
 
 Próximo Stage:
 
-STAGE_06 AI Router
+STAGE_08 Action Engine
 
 ---
 
@@ -39,9 +39,9 @@ STAGE_06 AI Router
 | STAGE_02 Runtime | ✅ Completada |
 | STAGE_03 Audio Core | ✅ Completada |
 | STAGE_04 Wake Word | ✅ Completada |
+| STAGE_05 Conversation Engine | ✅ Completada |
 | STAGE_06 AI Router | ✅ Completada |
-| STAGE_06 | ✅ Completada |
-| STAGE_07 Intent Engine | ⏳ Pendiente |
+| STAGE_07 Intent Engine | ✅ Completada |
 | STAGE_08 Action Engine | ⏳ Pendiente |
 | STAGE_09 Android Actions | ⏳ Pendiente |
 | STAGE_10 Contacts & Phone | ⏳ Pendiente |
@@ -61,7 +61,7 @@ STAGE_06 AI Router
 ## Última APK
 
 ✅ Disponible: `android/app/build/outputs/apk/debug/app-debug.apk`
-- **Versión:** 0.0.7-ai-router (versionCode 7)
+- **Versión:** 0.0.8-intent-framework (versionCode 8)
 - **Package:** com.axxist.app
 - **Min SDK:** 29 (Android 10)
 - **Target SDK:** 34 (Android 14)
@@ -78,7 +78,9 @@ STAGE_06 AI Router
 | v0.0.3-runtime | STAGE_02 | 2024-07-16 | Runtime completado |
 | v0.0.4-audio-core | STAGE_03 | 2024-07-16 | Audio Core completado |
 | v0.0.5-wakeword-framework | STAGE_04 | 2024-07-16 | Wake Word Framework completado |
-| v0.0.7-ai-router | STAGE_05 | 2024-07-16 | Conversation Engine completado |
+| v0.0.6-conversation-engine | STAGE_05 | 2024-07-16 | Conversation Engine completado |
+| v0.0.7-ai-router | STAGE_06 | 2024-07-16 | AI Router completado |
+| v0.0.8-intent-framework | STAGE_07 | 2024-07-16 | Intent Engine completado |
 
 ---
 
@@ -105,9 +107,9 @@ develop
 - **Secrets:** NO almacenados en Git
 
 ### Versiones
-- **Version Name:** 0.0.7-ai-router
-- **Version Code:** 6
-- **Stage:** STAGE_05
+- **Version Name:** 0.0.8-intent-framework
+- **Version Code:** 8
+- **Stage:** STAGE_07
 
 ---
 
@@ -185,3 +187,18 @@ develop
 - ✅ LocalAIProvider (Placeholder)
 - ✅ AI Events en EventBus
 - ✅ Capability AI_ROUTER
+
+### STAGE_07 - Intent Engine
+- ✅ IntentManager (Coordinator principal)
+- ✅ IntentRouter (Selección de método)
+- ✅ IntentRegistry (Registro de 10 intents base)
+- ✅ IntentValidator (Validación de intents)
+- ✅ EntityExtractor (Extracción de entidades)
+- ✅ ConfidenceEvaluator (Evaluación de confianza)
+- ✅ IntentDiagnosticsCollector (Diagnósticos)
+- ✅ IntentStateManager (State machine)
+- ✅ IntentProcessor interfaces (Rule, AI, Hybrid)
+- ✅ IntentCategory (10 categorías)
+- ✅ IntentEvent en EventBus
+- ✅ Capability INTENT_ENGINE (AVAILABLE)
+- ✅ Integración con RuntimeManager

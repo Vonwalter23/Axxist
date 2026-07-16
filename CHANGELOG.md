@@ -4,6 +4,60 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.8-intent-framework] - 2024-07-16
+
+### Agregado
+
+**Intent Engine (STAGE_07):**
+- IntentManager - Coordinator principal del Intent Framework
+- IntentRouter - Selección de método (Rule/AI/Hybrid)
+- IntentRegistry - Registro de intents disponibles (10 intents base)
+- IntentValidator - Validación de intents y entidades
+- EntityExtractor - Extracción de entidades (regex-based)
+- ConfidenceEvaluator - Evaluación de niveles de confianza
+- IntentDiagnosticsCollector - Diagnósticos internos
+- IntentStateManager - State machine con 7 estados
+- IntentProcessor interfaces (Rule, AI, Hybrid)
+
+**Models:**
+- IntentCategory (10 categorías: SYSTEM, DEVICE, MEDIA, etc.)
+- EntityType (21 tipos de entidades)
+- ConfidenceLevel (VERY_LOW a VERY_HIGH)
+- Intent, Entity, IntentResult, ValidationResult, IntentDiagnostics
+
+**Events:**
+- IntentEvent sealed class con 9 tipos de eventos
+- Event types: INTENT_ANALYSIS_STARTED, INTENT_MATCHED, etc.
+
+**Intents base registrados:**
+- CALL_CONTACT
+- SEND_WHATSAPP
+- SEND_EMAIL
+- PLAY_SPOTIFY
+- NAVIGATE_TO
+- CREATE_REMINDER
+- CREATE_ALARM
+- OPEN_APP
+- SEARCH_WEB
+- READ_NOTIFICATIONS
+
+### Características Técnicas
+- **Arquitectura desacoplada**: Interfaces para providers
+- **State Machine**: Transiciones validadas
+- **Entity extraction**: Regex patterns para Phone, Email, URL, Time, Date
+- **Confidence evaluation**: Multi-factor calculation
+- **Integration**: RuntimeManager actualizado con Intent subsystem
+- **Capability**: INTENT_ENGINE disponible
+
+### Restricciones Cumplidas
+- ✅ Sin ejecución de acciones Android
+- ✅ Sin automaciones reales
+- ✅ Sin apertura de aplicaciones
+- ✅ Sin IA real
+- ✅ Arquitectura preparada para expansión
+
+---
+
 ## [0.0.7-ai-router] - 2024-07-16
 
 ### Agregado

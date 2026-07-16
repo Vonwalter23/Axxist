@@ -152,6 +152,13 @@ object EventBusManager {
     }
 
     /**
+     * Emit an Intent event.
+     */
+    fun emitIntentEvent(event: IntentEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -201,6 +208,15 @@ object EventBusManager {
             is AIEvent.ResponseReceived -> EventTypes.AI_RESPONSE_RECEIVED
             is AIEvent.StateChanged -> EventTypes.AI_STATE_CHANGED
             is AIEvent.Error -> EventTypes.AI_ERROR
+            is IntentEvent.AnalysisStarted -> EventTypes.INTENT_ANALYSIS_STARTED
+            is IntentEvent.Matched -> EventTypes.INTENT_MATCHED
+            is IntentEvent.Validated -> EventTypes.INTENT_VALIDATED
+            is IntentEvent.EntityExtracted -> EventTypes.ENTITY_EXTRACTED
+            is IntentEvent.ConfidenceUpdated -> EventTypes.CONFIDENCE_UPDATED
+            is IntentEvent.Ready -> EventTypes.INTENT_READY
+            is IntentEvent.Failed -> EventTypes.INTENT_FAILED
+            is IntentEvent.Error -> EventTypes.INTENT_ERROR
+            is IntentEvent.StateChanged -> EventTypes.INTENT_STATE_CHANGED
             else -> event.javaClass.simpleName
         }
     }
