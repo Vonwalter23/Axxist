@@ -9,6 +9,8 @@ import com.axxist.app.runtime.state.RuntimeState
 import com.axxist.app.runtime.state.RuntimeStateManager
 import com.axxist.app.runtime.audio.AudioManager
 import com.axxist.app.runtime.audio.state.AudioState
+import com.axxist.app.runtime.wakeword.WakeWordManager
+import com.axxist.app.runtime.wakeword.state.WakeWordState
 
 /**
  * RuntimeManager - Main coordinator for the Axxist Runtime.
@@ -20,6 +22,7 @@ import com.axxist.app.runtime.audio.state.AudioState
  * - Querying state
  * - Registering modules
  * - Managing Audio subsystem
+ * - Managing WakeWord subsystem
  * 
  * No other module should start or stop the service directly.
  */
@@ -46,6 +49,7 @@ class RuntimeManager private constructor(private val context: Context) {
     private val registeredModules = mutableMapOf<String, ModuleInfo>()
     private var serviceStarted = false
     private var audioManager: AudioManager? = null
+    private var wakeWordManager: WakeWordManager? = null
     
     data class ModuleInfo(
         val name: String,
@@ -94,6 +98,37 @@ class RuntimeManager private constructor(private val context: Context) {
      */
     fun getAudioState(): AudioState {
         return audioManager?.getState() ?: AudioState.IDLE
+    }
+    
+    /**
+     * Initialize WakeWord subsystem.
+     */
+    fun initializeWakeWord(): WakeWordManager {
+        if (wakeWordManager == null) {
+            wakeWordManager = WakeWordManager.initialize(context)
+        }
+        return wakeWordManager!!
+    }
+    
+    /**
+     * Get WakeWordManager instance.
+     */
+    fun getWakeWordManager(): WakeWordManager {
+        return wakeWordManager ?: initializeWakeWord()
+    }
+    
+    /**
+     * Check if wake word detection is active.
+     */
+    fun isWakeWordActive(): Boolean {
+        return wakeWordManager?.isActive() ?: false
+    }
+    
+    /**
+     * Get wake word state.
+     */
+    fun getWakeWordState(): WakeWordState {
+        return wakeWordManager?.getState() ?: WakeWordState.DISABLED
     }
     
     /**
@@ -150,6 +185,17 @@ class RuntimeManager private constructor(private val context: Context) {
         }
         
         try {
+            // Stop wake word if active
+            wakeWordManager?.let { ww ->
+                try {
+                    kotlinx.coroutines.runBlocking {
+                        ww.stop()
+                    }
+                } catch (e: Exception) {
+                    Logger.e(TAG, "Error stopping wake word", e)
+                }
+            }
+            
             // Stop audio if active
             audioManager?.let { audio ->
                 try {
@@ -264,7 +310,9 @@ class RuntimeManager private constructor(private val context: Context) {
         "modulesCount" to registeredModules.size,
         "serviceStarted" to serviceStarted,
         "audioState" to getAudioState().name,
-        "audioActive" to isAudioActive()
+        "audioActive" to isAudioActive(),
+        "wakeWordState" to getWakeWordState().name,
+        "wakeWordActive" to isWakeWordActive()
     )
     
     /**
@@ -273,6 +321,7 @@ class RuntimeManager private constructor(private val context: Context) {
     fun reset() {
         Logger.d(TAG, "Resetting Runtime...")
         stop()
+        wakeWordManager?.reset()
         audioManager?.reset()
         stateManager.reset()
         registeredModules.clear()

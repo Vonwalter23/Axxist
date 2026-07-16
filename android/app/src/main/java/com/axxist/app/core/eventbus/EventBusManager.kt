@@ -131,6 +131,13 @@ object EventBusManager {
     }
 
     /**
+     * Emit a wake word event.
+     */
+    fun emitWakeWordEvent(event: WakeWordEvent) {
+        emit(event)
+    }
+
+    /**
      * Get the event name for logging purposes.
      */
     private fun getEventName(event: AxxistEvent): String {
@@ -161,6 +168,13 @@ object EventBusManager {
             is AudioEvent.Error -> EventTypes.AUDIO_ERROR
             is AudioEvent.VoiceActivityDetected -> EventTypes.VOICE_ACTIVITY_DETECTED
             is AudioEvent.VoiceActivityEnded -> EventTypes.VOICE_ACTIVITY_ENDED
+            is WakeWordEvent.Initializing -> EventTypes.WAKE_WORD_INITIALIZING
+            is WakeWordEvent.Ready -> EventTypes.WAKE_WORD_READY
+            is WakeWordEvent.Listening -> EventTypes.WAKE_WORD_LISTENING
+            is WakeWordEvent.Stopped -> EventTypes.WAKE_WORD_STOPPED
+            is WakeWordEvent.Detected -> EventTypes.WAKE_WORD_DETECTED
+            is WakeWordEvent.StateChanged -> EventTypes.WAKE_WORD_STATE_CHANGED
+            is WakeWordEvent.Error -> EventTypes.WAKE_WORD_ERROR
             else -> event.javaClass.simpleName
         }
     }

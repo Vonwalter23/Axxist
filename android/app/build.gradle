@@ -16,8 +16,8 @@ android {
         applicationId "com.axxist.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 4
-        versionName "0.0.4-audio-core"
+        versionCode 5
+        versionName "0.0.5-wakeword-framework"
         
         // Enable multidex for future growth
         multiDexEnabled true

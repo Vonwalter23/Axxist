@@ -2,6 +2,7 @@ package com.axxist.app.core.eventbus
 
 import com.axxist.app.runtime.state.RuntimeState
 import com.axxist.app.runtime.audio.state.AudioState
+import com.axxist.app.runtime.wakeword.state.WakeWordState
 
 /**
  * Base event interface for the EventBus system.
@@ -79,6 +80,23 @@ sealed class AudioEvent : AxxistEvent {
 }
 
 /**
+ * Wake word lifecycle events.
+ */
+sealed class WakeWordEvent : AxxistEvent {
+    data object Initializing : WakeWordEvent()
+    data object Ready : WakeWordEvent()
+    data object Listening : WakeWordEvent()
+    data object Stopped : WakeWordEvent()
+    data class Detected(val keyword: String, val confidence: Float) : WakeWordEvent()
+    data class StateChanged(
+        val fromState: WakeWordState,
+        val toState: WakeWordState,
+        val errorMessage: String? = null
+    ) : WakeWordEvent()
+    data class Error(val message: String) : WakeWordEvent()
+}
+
+/**
  * Event type definitions.
  */
 object EventTypes {
@@ -119,4 +137,13 @@ object EventTypes {
     const val AUDIO_ERROR = "audio_error"
     const val VOICE_ACTIVITY_DETECTED = "voice_activity_detected"
     const val VOICE_ACTIVITY_ENDED = "voice_activity_ended"
+    
+    // Wake word events
+    const val WAKE_WORD_INITIALIZING = "wake_word_initializing"
+    const val WAKE_WORD_READY = "wake_word_ready"
+    const val WAKE_WORD_LISTENING = "wake_word_listening"
+    const val WAKE_WORD_DETECTED = "wake_word_detected"
+    const val WAKE_WORD_STOPPED = "wake_word_stopped"
+    const val WAKE_WORD_ERROR = "wake_word_error"
+    const val WAKE_WORD_STATE_CHANGED = "wake_word_state_changed"
 }

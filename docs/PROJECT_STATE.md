@@ -4,9 +4,9 @@
 
 **Proyecto:** Axxist
 
-**Versión:** 0.0.4-audio-core
+**Versión:** 0.0.5-wakeword-framework
 
-**Estado:** STAGE_03 Audio Core Completado
+**Estado:** STAGE_04 Wake Word Framework Completado
 
 **Repositorio:** https://github.com/Vonwalter23/Axxist
 
@@ -16,15 +16,15 @@
 
 Fase actual:
 
-➡️ STAGE_03 Audio Core - Completado ✅
+➡️ STAGE_04 Wake Word Framework - Completado ✅
 
 Último Stage completado:
 
-STAGE_03 Audio Core ✅
+STAGE_04 Wake Word Framework ✅
 
 Próximo Stage:
 
-STAGE_04 Wake Word Framework
+STAGE_05 Conversation Engine
 
 ---
 
@@ -38,7 +38,7 @@ STAGE_04 Wake Word Framework
 | STAGE_01.5 Production Foundation | ✅ Completada |
 | STAGE_02 Runtime | ✅ Completada |
 | STAGE_03 Audio Core | ✅ Completada |
-| STAGE_04 Wake Word | ⏳ Pendiente |
+| STAGE_04 Wake Word | ✅ Completada |
 | STAGE_05 Conversation Engine | ⏳ Pendiente |
 | STAGE_06 AI Router | ⏳ Pendiente |
 | STAGE_07 Intent Engine | ⏳ Pendiente |
@@ -61,7 +61,7 @@ STAGE_04 Wake Word Framework
 ## Última APK
 
 ✅ Disponible: `android/app/build/outputs/apk/debug/app-debug.apk`
-- **Versión:** 0.0.4-audio-core (versionCode 4)
+- **Versión:** 0.0.5-wakeword-framework (versionCode 5)
 - **Package:** com.axxist.app
 - **Min SDK:** 29 (Android 10)
 - **Target SDK:** 34 (Android 14)
@@ -77,6 +77,7 @@ STAGE_04 Wake Word Framework
 | v0.0.2-android-core | STAGE_01.5 | 2024-07-16 | Production Foundation completado |
 | v0.0.3-runtime | STAGE_02 | 2024-07-16 | Runtime completado |
 | v0.0.4-audio-core | STAGE_03 | 2024-07-16 | Audio Core completado |
+| v0.0.5-wakeword-framework | STAGE_04 | 2024-07-16 | Wake Word Framework completado |
 
 ---
 
@@ -103,9 +104,9 @@ develop
 - **Secrets:** NO almacenados en Git
 
 ### Versiones
-- **Version Name:** 0.0.4-audio-core
-- **Version Code:** 4
-- **Stage:** STAGE_03
+- **Version Name:** 0.0.5-wakeword-framework
+- **Version Code:** 5
+- **Stage:** STAGE_04
 
 ---
 
@@ -148,3 +149,12 @@ develop
 - ✅ AudioException (Exception classes)
 - ✅ Audio Events en EventBus
 - ✅ Integración con RuntimeManager
+
+### STAGE_04 - Wake Word Framework
+- ✅ WakeWordManager (Coordinator)
+- ✅ WakeWordStateManager (State machine)
+- ✅ WakeWordProvider (Interfaz)
+- ✅ WakeWordState (Enum)
+- ✅ Wake Word Events en EventBus
+- ✅ Integración con RuntimeManager
+- ✅ Capability WAKE_WORD_FRAMEWORK

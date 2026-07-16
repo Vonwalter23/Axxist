@@ -78,6 +78,16 @@ object CapabilityManager {
             )
         )
         
+        // Wake Word Framework (STAGE_04)
+        registerCapability(
+            Capability(
+                id = CapabilityIds.WAKE_WORD_FRAMEWORK,
+                name = "Wake Word Framework",
+                description = "Wake word detection framework (interface only, no engine)",
+                status = CapabilityStatus.NOT_IMPLEMENTED
+            )
+        )
+        
         // Phone capabilities
         registerCapability(
             Capability(
@@ -323,6 +333,7 @@ object CapabilityManager {
         const val VOICE_RECOGNITION = "voice_recognition"
         const val TEXT_TO_SPEECH = "text_to_speech"
         const val WAKE_WORD = "wake_word"
+        const val WAKE_WORD_FRAMEWORK = "wake_word_framework"
         const val PHONE_CALL = "phone_call"
         const val CONTACTS = "contacts"
         const val SMS = "sms"

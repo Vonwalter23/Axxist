@@ -4,6 +4,41 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [0.0.5-wakeword-framework] - 2024-07-16
+
+### Agregado
+
+**Wake Word Framework (STAGE_04):**
+- WakeWordManager - Coordinator central del sistema de wake word
+- WakeWordStateManager - State machine con 5 estados (DISABLED, INITIALIZING, LISTENING, DETECTED, ERROR)
+- WakeWordState - Enum de estados de wake word
+- WakeWordProvider - Interfaz para motores de detección de wake word
+- Wake Word Events: WAKE_WORD_INITIALIZING, WAKE_WORD_READY, WAKE_WORD_LISTENING, WAKE_WORD_DETECTED, WAKE_WORD_STOPPED, WAKE_WORD_ERROR
+- Capability WAKE_WORD_FRAMEWORK
+- Integración con RuntimeManager
+
+### Proveedores Preparados (Futuros)
+- Porcupine (Picovoice)
+- Snowboy
+- TensorFlow Lite
+- Whisper Keyword Detection
+- Custom models
+
+### Características Técnicas
+- **Arquitectura desacoplada**: WakeWordProvider permite diferentes implementaciones
+- **State Machine**: Transiciones validadas
+- **Consume Audio Core**: No duplica captura de audio
+- **Provider opcional**: Funciona sin proveedor para testing
+
+### Restricciones Cumplidas
+- ✅ Sin Porcupine
+- ✅ Sin Snowboy
+- ✅ Sin TFLite models
+- ✅ Sin reconocimiento de comandos
+- ✅ Sin IA
+
+---
+
 ## [0.0.4-audio-core] - 2024-07-16
 
 ### Agregado
