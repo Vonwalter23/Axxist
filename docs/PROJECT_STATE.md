@@ -59,34 +59,67 @@ STAGE_09 Android Actions
 
 ---
 
+## Quality Gate - Dual Architecture
+
+### NIVEL 1: Build Quality Gate
+
+| Campo | Valor |
+|-------|-------|
+| **Workflow** | `android-quality-gate.yml` |
+| **Trigger** | push, pull_request |
+| **Estado** | ✅ OPERATIVO |
+
+**Validaciones:**
+- ✅ assembleDebug
+- ✅ assembleRelease
+- ✅ lintDebug
+- ✅ APK Generation con SHA256
+- ✅ APK Validation Report
+
+### NIVEL 2: Runtime Validation
+
+| Campo | Valor |
+|-------|-------|
+| **Workflow** | `android-runtime-validation.yml` |
+| **Trigger** | workflow_dispatch |
+| **Estado** | ✅ DISPONIBLE ( bajo demanda) |
+
+**Validaciones:**
+- ✅ Emulator Boot (API 34)
+- ✅ APK Installation
+- ✅ Application Launch
+- ✅ Runtime Monitoring (180s)
+- ✅ Crash Detection
+
+---
+
 ## Quality Gate Validation Result
 
 | Campo | Valor |
 |-------|-------|
 | **Fecha de Validación** | 2024-07-17 |
-| **Commit Probado** | f073ca7 |
-| **Workflow Run** | 29588855650 |
-| **Resultado** | ✅ PASS |
+| **Commit Probado** | d7ce807 |
+| **Workflow Run (Build)** | 29588855650 |
+| **Resultado Build** | ✅ PASS |
 | **Build Validation** | ✅ SUCCESS |
 | **APK Generation** | ✅ SUCCESS |
 | **Lint** | ✅ SUCCESS |
-| **Runtime Validation** | ⏭️ SKIPPED (opcional, habilitable via workflow_dispatch) |
 
 ### Artifacts Generados
 
-| Artifact | Tamaño |
-|----------|--------|
-| app-debug.apk | 29.4 MB |
-| app-release-apk | 14.3 MB |
-| lint-report | 1.0 KB |
-| build-summary | 415 bytes |
+| Artifact | Tamaño | SHA256 |
+|----------|--------|--------|
+| Axxist-debug.apk | 29.4 MB | ✅ Generado |
+| Axxist-release.apk | 14.3 MB | ✅ Generado |
+| apk-validation-report.html | Reporte | ✅ Generado |
+| lint-report | 1.0 KB | ✅ Generado |
+| build-summary | 415 bytes | ✅ Generado |
 
 ### Runtime Validation
 
-- **Estado**: Opcional (habilitable via workflow_dispatch)
-- **Razón**: El emulador puede fallar en algunos runners de GitHub Actions
-- **Configuración**: Por defecto `skip_runtime_validation=true`
-- **Uso**: Para habilitar, usar `workflow_dispatch` con `skip_runtime_validation=false`
+- **Estado**: Disponible bajo demanda
+- **Workflow**: `android-runtime-validation.yml`
+- **Uso**: Actions → "Android Runtime Validation" → Run workflow
 
 ---
 

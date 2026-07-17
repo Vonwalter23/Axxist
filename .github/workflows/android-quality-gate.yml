@@ -3,11 +3,11 @@
 # Purpose:
 # - Automatic execution on push and pull requests
 # - Quality validation before accepting changes
-# - Runtime crash detection (optional, requires emulator)
+# - APK generation and certification
 # - Required Status Check for main branch protection
 #
 # Author: OpenHands
-# Version: 3.0
+# Version: 4.0
 
 name: Android Quality Gate
 
@@ -18,10 +18,15 @@ on:
     branches: [main]
   workflow_dispatch:
     inputs:
-      skip_runtime_validation:
-        description: 'Skip runtime validation (for faster builds, emulator may fail on some runners)'
+      build_type:
+        description: 'Build type to execute'
         required: false
-        default: 'true'
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - debug
+          - release
 
 env:
   JAVA_VERSION: '17'
@@ -29,7 +34,6 @@ env:
   ANDROID_BUILD_TOOLS: '34.0.0'
   ANDROID_MIN_SDK: '29'
   GRADLE_OPTS: '-Dorg.gradle.jvmargs=-Xmx4g -Dorg.gradle.daemon=false'
-  EMULATOR_TIMEOUT: '180'
 
 permissions:
   contents: read
@@ -42,11 +46,20 @@ jobs:
     name: Build Validation
     runs-on: ubuntu-latest
     
+    outputs:
+      debug_apk_exists: ${{ steps.build_debug.outputs.DEBUG_APK_EXISTS }}
+      debug_apk_size: ${{ steps.build_debug.outputs.DEBUG_APK_SIZE }}
+      debug_sha256: ${{ steps.build_debug.outputs.DEBUG_SHA256 }}
+      release_apk_exists: ${{ steps.build_release.outputs.RELEASE_APK_EXISTS }}
+      release_apk_size: ${{ steps.build_release.outputs.RELEASE_APK_SIZE }}
+      release_sha256: ${{ steps.build_release.outputs.RELEASE_SHA256 }}
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
+          lfs: true
       
       - name: Setup Java JDK 17
         uses: actions/setup-java@v4
@@ -68,8 +81,12 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x android/gradlew
       
+      # ============================================================
+      # Build Debug APK
+      # ============================================================
       - name: Build Debug APK
         id: build_debug
+        if: ${{ github.event.inputs.build_type == 'all' || github.event.inputs.build_type == 'debug' || github.event.inputs.build_type == '' }}
         run: |
           cd android
           ./gradlew assembleDebug --no-daemon --stacktrace 2>&1 | tee build-debug.log
@@ -77,29 +94,33 @@ jobs:
             echo "DEBUG_APK_EXISTS=true" >> $GITHUB_OUTPUT
             echo "DEBUG_APK_SIZE=$(ls -lh app/build/outputs/apk/debug/app-debug.apk | awk '{print $5}')" >> $GITHUB_OUTPUT
             echo "DEBUG_SHA256=$(sha256sum app/build/outputs/apk/debug/app-debug.apk | awk '{print $1}')" >> $GITHUB_OUTPUT
+            echo "DEBUG_APK_ABSOLUTE=$(realpath app/build/outputs/apk/debug/app-debug.apk)" >> $GITHUB_OUTPUT
           else
             echo "DEBUG_APK_EXISTS=false" >> $GITHUB_OUTPUT
-            echo "DEBUG_BUILD_FAILED=true" >> $GITHUB_OUTPUT
           fi
       
       - name: Upload Debug Build Log
-        if: always()
+        if: always() && (${{ github.event.inputs.build_type == 'all' }} || ${{ github.event.inputs.build_type == '' }})
         uses: actions/upload-artifact@v4
         with:
           name: build-debug-log
           path: android/build-debug.log
           retention-days: 7
       
-      - name: Upload Debug APK
+      - name: Upload Axxist-debug.apk
         if: steps.build_debug.outputs.DEBUG_APK_EXISTS == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: app-debug-apk
+          name: Axxist-debug.apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
-          retention-days: 14
+          retention-days: 30
       
+      # ============================================================
+      # Build Release APK
+      # ============================================================
       - name: Build Release APK
         id: build_release
+        if: ${{ github.event.inputs.build_type == 'all' || github.event.inputs.build_type == 'release' || github.event.inputs.build_type == '' }}
         run: |
           cd android
           ./gradlew assembleRelease --no-daemon --stacktrace 2>&1 | tee build-release.log
@@ -107,36 +128,40 @@ jobs:
             echo "RELEASE_APK_EXISTS=true" >> $GITHUB_OUTPUT
             echo "RELEASE_APK_SIZE=$(ls -lh app/build/outputs/apk/release/app-release.apk | awk '{print $5}')" >> $GITHUB_OUTPUT
             echo "RELEASE_SHA256=$(sha256sum app/build/outputs/apk/release/app-release.apk | awk '{print $1}')" >> $GITHUB_OUTPUT
+            echo "RELEASE_APK_ABSOLUTE=$(realpath app/build/outputs/apk/release/app-release.apk)" >> $GITHUB_OUTPUT
           else
             echo "RELEASE_APK_EXISTS=false" >> $GITHUB_OUTPUT
-            echo "RELEASE_BUILD_FAILED=true" >> $GITHUB_OUTPUT
           fi
       
       - name: Upload Release Build Log
-        if: always()
+        if: always() && (${{ github.event.inputs.build_type == 'all' }} || ${{ github.event.inputs.build_type == '' }})
         uses: actions/upload-artifact@v4
         with:
           name: build-release-log
           path: android/build-release.log
           retention-days: 7
       
-      - name: Upload Release APK
+      - name: Upload Axxist-release.apk
         if: steps.build_release.outputs.RELEASE_APK_EXISTS == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: app-release-apk
+          name: Axxist-release.apk
           path: android/app/build/outputs/apk/release/app-release.apk
-          retention-days: 14
+          retention-days: 30
       
+      # ============================================================
+      # Android Lint
+      # ============================================================
       - name: Run Android Lint
         id: lint
+        if: ${{ github.event.inputs.build_type == 'all' || github.event.inputs.build_type == '' }}
         run: |
           cd android
           ./gradlew lintDebug --no-daemon 2>&1 | tee lint.log
           echo "LINT_COMPLETED=true" >> $GITHUB_OUTPUT
       
       - name: Upload Lint Report
-        if: always()
+        if: always() && (${{ github.event.inputs.build_type == 'all' }} || ${{ github.event.inputs.build_type == '' }})
         uses: actions/upload-artifact@v4
         with:
           name: lint-report
@@ -144,159 +169,15 @@ jobs:
             android/lint.log
             android/app/build/reports/lint-results.html
             android/app/build/reports/lint-results.xml
-          retention-days: 14
+          retention-days: 30
 
   # ============================================================
-  # JOB 2: Runtime Validation (Optional)
+  # JOB 2: Generate APK Validation Report
   # ============================================================
-  runtime-validation:
-    name: Runtime Validation
-    runs-on: ubuntu-latest
-    needs: build-validation
-    if: ${{ github.event.inputs.skip_runtime_validation == 'false' }}
-    
-    outputs:
-      emulator_booted: ${{ steps.emulator.outputs.EMULATOR_STATUS }}
-      app_installed: ${{ steps.install.outputs.INSTALL_SUCCESS }}
-      app_launched: ${{ steps.launch.outputs.LAUNCH_SUCCESS }}
-      runtime_duration: ${{ steps.runtime.outputs.DURATION }}
-      crash_detected: ${{ steps.analysis.outputs.CRASH_DETECTED }}
-      crash_count: ${{ steps.analysis.outputs.CRASH_COUNT }}
-    
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-      
-      - name: Setup Java JDK 17
-        uses: actions/setup-java@v4
-        with:
-          java-version: ${{ env.JAVA_VERSION }}
-          distribution: 'temurin'
-          cache: 'gradle'
-      
-      - name: Grant execute permission for gradlew
-        run: chmod +x android/gradlew
-      
-      - name: Build Debug APK
-        run: |
-          cd android
-          ./gradlew assembleDebug --no-daemon 2>&1 | tail -20
-      
-      - name: Download Debug APK
-        uses: actions/download-artifact@v4
-        with:
-          name: app-debug-apk
-          path: /tmp
-      
-      - name: Create Android Emulator
-        id: emulator
-        uses: reactivecircus/android-emulator-runner@v2
-        with:
-          api-level: 34
-          target: google_apis
-          arch: x86_64
-          profile: pixel_6
-          disable-animations: true
-          emulator-options: -no-window -no-snapshot -noaudio -gpu swiftshader_indirect
-          script: |
-            echo "Waiting for emulator boot..."
-            boot_output=$(adb wait-for-device shell getprop sys.boot_completed 2>&1)
-            echo "Boot completed: $boot_output"
-            if [ "$boot_output" = "1" ]; then
-              echo "EMULATOR_STATUS=BOOTED" >> $GITHUB_OUTPUT
-            else
-              echo "EMULATOR_STATUS=FAILED" >> $GITHUB_OUTPUT
-            fi
-      
-      - name: Install Debug APK
-        id: install
-        run: |
-          echo "Installing APK..."
-          adb install -r /tmp/app-debug.apk
-          if [ $? -eq 0 ]; then
-            echo "INSTALL_SUCCESS=true" >> $GITHUB_OUTPUT
-          else
-            echo "INSTALL_SUCCESS=false" >> $GITHUB_OUTPUT
-          fi
-      
-      - name: Launch Application
-        id: launch
-        run: |
-          PACKAGE_NAME="com.axxist.app"
-          adb shell am start -n "$PACKAGE_NAME/.MainActivity"
-          sleep 2
-          if [ $? -eq 0 ]; then
-            echo "LAUNCH_SUCCESS=true" >> $GITHUB_OUTPUT
-          else
-            echo "LAUNCH_SUCCESS=false" >> $GITHUB_OUTPUT
-          fi
-      
-      - name: Runtime Validation
-        id: runtime
-        run: |
-          echo "Starting runtime validation..."
-          START_TIME=$(date +%s)
-          
-          adb logcat -c
-          adb logcat > /tmp/logcat.txt &
-          LOGCAT_PID=$!
-          
-          PACKAGE_NAME="com.axxist.app"
-          adb shell monkey -p "$PACKAGE_NAME" -c android.intent.category.LAUNCHER 1 > /dev/null 2>&1 &
-          
-          sleep ${{ env.EMULATOR_TIMEOUT }}
-          
-          END_TIME=$(date +%s)
-          DURATION=$((END_TIME - START_TIME))
-          echo "DURATION=$DURATION" >> $GITHUB_OUTPUT
-          
-          kill $LOGCAT_PID 2>/dev/null || true
-          echo "Runtime validation completed. Duration: $DURATION seconds"
-      
-      - name: Upload Logcat
-        uses: actions/upload-artifact@v4
-        with:
-          name: logcat
-          path: /tmp/logcat.txt
-          retention-days: 14
-      
-      - name: Analyze Logcat for Crashes
-        id: analysis
-        run: |
-          echo "Analyzing logcat for crashes..."
-          
-          FATAL_COUNT=$(grep -c "FATAL EXCEPTION" /tmp/logcat.txt 2>/dev/null || echo "0")
-          RUNTIME_COUNT=$(grep -c "AndroidRuntime" /tmp/logcat.txt 2>/dev/null || echo "0")
-          TOTAL_CRASHES=$((FATAL_COUNT + RUNTIME_COUNT))
-          
-          echo "FATAL EXCEPTION count: $FATAL_COUNT"
-          echo "AndroidRuntime count: $RUNTIME_COUNT"
-          echo "TOTAL_CRASHES=$TOTAL_CRASHES" >> $GITHUB_OUTPUT
-          
-          if [ "$TOTAL_CRASHES" -gt 0 ]; then
-            echo "CRASH_DETECTED=true" >> $GITHUB_OUTPUT
-            echo "CRASH_COUNT=$TOTAL_CRASHES" >> $GITHUB_OUTPUT
-          else
-            echo "CRASH_DETECTED=false" >> $GITHUB_OUTPUT
-            echo "CRASH_COUNT=0" >> $GITHUB_OUTPUT
-          fi
-      
-      - name: Stop Emulator
-        if: always()
-        run: |
-          echo "Stopping emulator..."
-          adb emu kill 2>/dev/null || true
-
-  # ============================================================
-  # JOB 3: Generate Report
-  # ============================================================
-  generate-report:
-    name: Generate Report
+  apk-validation-report:
+    name: APK Validation Report
     runs-on: ubuntu-latest
     needs: [build-validation]
-    if: ${{ always() }}
     
     steps:
       - name: Checkout code
@@ -304,11 +185,27 @@ jobs:
         with:
           fetch-depth: 1
       
-      - name: Download all artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: artifacts
+      - name: Generate APK Validation Report
+        run: |
+          cp .github/workflows/generate-report.py ./
+          python3 generate-report.py
       
+      - name: Upload APK Validation Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: apk-validation-report
+          path: apk-validation-report.html
+          retention-days: 30
+
+  # ============================================================
+  # JOB 3: Generate Build Summary
+  # ============================================================
+  build-summary:
+    name: Build Summary
+    runs-on: ubuntu-latest
+    needs: [build-validation]
+    
+    steps:
       - name: Generate Build Summary
         run: |
           echo "=============================================" > build-summary.txt
@@ -320,22 +217,18 @@ jobs:
           echo "Branch: ${{ github.ref_name }}" >> build-summary.txt
           echo "Date: $(date -u +\"%Y-%m-%d %H:%M:%S UTC\")" >> build-summary.txt
           echo "" >> build-summary.txt
-          echo "STAGE: STAGE_08 (Action Framework)" >> build-summary.txt
-          echo "" >> build-summary.txt
-          echo "BUILD VALIDATION" >> build-summary.txt
-          echo "----------------" >> build-summary.txt
-          echo "Debug Build: ${{ needs.build-validation.result }}" >> build-summary.txt
-          echo "Release Build: ${{ needs.build-validation.result }}" >> build-summary.txt
-          echo "Lint: ${{ needs.build-validation.result }}" >> build-summary.txt
-          echo "" >> build-summary.txt
-          echo "RUNTIME VALIDATION" >> build-summary.txt
-          echo "------------------" >> build-summary.txt
-          echo "Status: ${{ needs.build-validation.result == 'success' && 'PASS (Build Only)' || 'FAIL' }}" >> build-summary.txt
+          echo "APK VALIDATION" >> build-summary.txt
+          echo "--------------" >> build-summary.txt
+          echo "Debug APK: ${{ needs.build-validation.outputs.debug_apk_exists }}" >> build-summary.txt
+          echo "Debug Size: ${{ needs.build-validation.outputs.debug_apk_size }}" >> build-summary.txt
+          echo "Debug SHA256: ${{ needs.build-validation.outputs.debug_sha256 }}" >> build-summary.txt
+          echo "Release APK: ${{ needs.build-validation.outputs.release_apk_exists }}" >> build-summary.txt
+          echo "Release Size: ${{ needs.build-validation.outputs.release_apk_size }}" >> build-summary.txt
+          echo "Release SHA256: ${{ needs.build-validation.outputs.release_sha256 }}" >> build-summary.txt
           echo "" >> build-summary.txt
           echo "=============================================" >> build-summary.txt
           echo "RESULT: ${{ needs.build-validation.result == 'success' && 'QUALITY GATE PASSED' || 'QUALITY GATE FAILED' }}" >> build-summary.txt
           echo "=============================================" >> build-summary.txt
-          cat build-summary.txt
       
       - name: Upload Build Summary
         uses: actions/upload-artifact@v4
@@ -346,18 +239,20 @@ jobs:
       
       - name: Final Summary
         run: |
-          echo "## Axxist Quality Gate Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## Axxist Quality Gate" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "| Check | Result |" >> $GITHUB_STEP_SUMMARY
           echo "|-------|--------|" >> $GITHUB_STEP_SUMMARY
           echo "| Build Validation | ${{ needs.build-validation.result }} |" >> $GITHUB_STEP_SUMMARY
-          echo "| APK Generation | ${{ needs.build-validation.result == 'success' && 'SUCCESS' || 'FAILED' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Debug APK | ${{ needs.build-validation.outputs.debug_apk_exists }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Release APK | ${{ needs.build-validation.outputs.release_apk_exists }} |" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Generated Artifacts:" >> $GITHUB_STEP_SUMMARY
-          echo "- app-debug-apk" >> $GITHUB_STEP_SUMMARY
-          echo "- app-release-apk" >> $GITHUB_STEP_SUMMARY
-          echo "- lint-report" >> $GITHUB_STEP_SUMMARY
-          echo "- build-summary" >> $GITHUB_STEP_SUMMARY
+          echo "### Generated APKs:" >> $GITHUB_STEP_SUMMARY
+          echo "- **Axxist-debug.apk** (${{ needs.build-validation.outputs.debug_apk_size }})" >> $GITHUB_STEP_SUMMARY
+          echo "- **Axxist-release.apk** (${{ needs.build-validation.outputs.release_apk_size }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "SHA256 Debug: \`${{ needs.build-validation.outputs.debug_sha256 }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "SHA256 Release: \`${{ needs.build-validation.outputs.release_sha256 }}\`" >> $GITHUB_STEP_SUMMARY
 
   # ============================================================
   # JOB 4: Final Status
@@ -365,24 +260,23 @@ jobs:
   final-status:
     name: Final Quality Gate Status
     runs-on: ubuntu-latest
-    needs: [build-validation, generate-report]
+    needs: [build-validation, build-summary]
     if: always()
     
     steps:
       - name: Determine Final Status
-        id: final
         run: |
           BUILD_STATUS=${{ needs.build-validation.result }}
           
           echo "Build Validation: $BUILD_STATUS"
           
           if [ "$BUILD_STATUS" == "success" ]; then
-            echo "FINAL_RESULT=PASS" >> $GITHUB_OUTPUT
+            echo "FINAL_STATUS=PASS" >> $GITHUB_OUTPUT
             echo "FINAL_STATUS=PASS" >> $GITHUB_ENV
             echo "RESULT=PASS"
             echo "✅ QUALITY GATE PASSED"
           else
-            echo "FINAL_RESULT=FAIL" >> $GITHUB_OUTPUT
+            echo "FINAL_STATUS=FAIL" >> $GITHUB_OUTPUT
             echo "FINAL_STATUS=FAIL" >> $GITHUB_ENV
             echo "RESULT=FAIL"
             echo "❌ QUALITY GATE FAILED"

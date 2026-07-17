@@ -1,0 +1,477 @@
+# Axxist Android Runtime Validation - GitHub Actions Workflow
+#
+# Purpose:
+# - Runtime validation of APK on Android emulator
+# - APK installation verification
+# - Application launch validation
+# - Crash detection during runtime
+# - Required before releases
+#
+# Author: OpenHands
+# Version: 1.0
+
+name: Android Runtime Validation
+
+on:
+  workflow_dispatch:
+    inputs:
+      apk_path:
+        description: 'Path to APK file (default: Axxist-debug.apk from artifacts)'
+        required: false
+        default: ''
+      runtime_duration:
+        description: 'Runtime duration in seconds (default: 180)'
+        required: false
+        default: '180'
+        type: number
+      emulator_api:
+        description: 'Android API level'
+        required: false
+        default: '34'
+        type: number
+
+env:
+  JAVA_VERSION: '17'
+  EMULATOR_API: ${{ github.event.inputs.emulator_api || '34' }}
+  RUNTIME_DURATION: ${{ github.event.inputs.runtime_duration || '180' }}
+  PACKAGE_NAME: 'com.axxist.app'
+  GRADLE_OPTS: '-Dorg.gradle.jvmargs=-Xmx4g -Dorg.gradle.daemon=false'
+
+permissions:
+  contents: read
+
+jobs:
+  # ============================================================
+  # JOB 1: Environment Setup
+  # ============================================================
+  environment-setup:
+    name: Environment Setup
+    runs-on: ubuntu-latest
+    
+    outputs:
+      apk_available: ${{ steps.check_apk.outputs.APK_AVAILABLE }}
+      apk_path: ${{ steps.check_apk.outputs.APK_PATH }}
+      apk_size: ${{ steps.check_apk.outputs.APK_SIZE }}
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      
+      - name: Setup Java JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: ${{ env.JAVA_VERSION }}
+          distribution: 'temurin'
+          cache: 'gradle'
+      
+      - name: Grant execute permission for gradlew
+        run: chmod +x android/gradlew
+      
+      - name: Build Debug APK
+        if: ${{ github.event.inputs.apk_path == '' }}
+        run: |
+          cd android
+          ./gradlew assembleDebug --no-daemon 2>&1 | tail -20
+      
+      - name: Check APK Availability
+        id: check_apk
+        run: |
+          if [ -n "${{ github.event.inputs.apk_path }}" ]; then
+            echo "APK_PATH=${{ github.event.inputs.apk_path }}" >> $GITHUB_OUTPUT
+            echo "APK_SIZE=$(ls -lh ${{ github.event.inputs.apk_path }} | awk '{print $5}')" >> $GITHUB_OUTPUT
+            echo "APK_AVAILABLE=true" >> $GITHUB_OUTPUT
+          elif [ -f "android/app/build/outputs/apk/debug/app-debug.apk" ]; then
+            echo "APK_PATH=android/app/build/outputs/apk/debug/app-debug.apk" >> $GITHUB_OUTPUT
+            echo "APK_SIZE=$(ls -lh android/app/build/outputs/apk/debug/app-debug.apk | awk '{print $5}')" >> $GITHUB_OUTPUT
+            echo "APK_AVAILABLE=true" >> $GITHUB_OUTPUT
+          else
+            echo "APK_AVAILABLE=false" >> $GITHUB_OUTPUT
+          fi
+
+  # ============================================================
+  # JOB 2: Emulator Setup
+  # ============================================================
+  emulator-setup:
+    name: Emulator Setup
+    runs-on: ubuntu-latest
+    needs: environment-setup
+    if: needs.environment-setup.outputs.apk_available == 'true'
+    
+    outputs:
+      emulator_status: ${{ steps.emulator.outputs.EMULATOR_STATUS }}
+      emulator_api: ${{ env.EMULATOR_API }}
+    
+    steps:
+      - name: Create Android Emulator
+        id: emulator
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: ${{ env.EMULATOR_API }}
+          target: google_apis
+          arch: x86_64
+          profile: pixel_6
+          disable-animations: true
+          emulator-options: -no-window -no-snapshot -noaudio -gpu swiftshader_indirect
+          script: |
+            echo "Waiting for emulator boot..."
+            BOOT_TIMEOUT=300
+            ELAPSED=0
+            while [ $ELAPSED -lt $BOOT_TIMEOUT ]; do
+              BOOT_STATUS=$(adb shell getprop sys.boot_completed 2>/dev/null | tr -d '\r')
+              if [ "$BOOT_STATUS" = "1" ]; then
+                echo "EMULATOR_STATUS=BOOTED" >> $GITHUB_OUTPUT
+                echo "Emulator booted successfully"
+                # Save emulator info
+                adb shell getprop > emulator-info.txt
+                echo "Device: $(adb shell getprop ro.product.model)" >> emulator-info.txt
+                echo "API Level: $(adb shell getprop ro.build.version.sdk)" >> emulator-info.txt
+                echo "Android Version: $(adb shell getprop ro.build.version.release)" >> emulator-info.txt
+                exit 0
+              fi
+              echo "Waiting for boot... ($ELAPSED/$BOOT_TIMEOUT)"
+              sleep 10
+              ELAPSED=$((ELAPSED + 10))
+            done
+            echo "EMULATOR_STATUS=FAILED" >> $GITHUB_OUTPUT
+            echo "Emulator boot timeout" >&2
+            exit 1
+      
+      - name: Upload Emulator Info
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: emulator-info
+          path: emulator-info.txt
+          retention-days: 30
+
+  # ============================================================
+  # JOB 3: APK Installation
+  # ============================================================
+  apk-installation:
+    name: APK Installation
+    runs-on: ubuntu-latest
+    needs: [environment-setup, emulator-setup]
+    if: always() && needs.environment-setup.outputs.apk_available == 'true'
+    
+    outputs:
+      install_success: ${{ steps.install.outputs.INSTALL_SUCCESS }}
+      install_output: ${{ steps.install.outputs.INSTALL_OUTPUT }}
+    
+    steps:
+      - name: Download Debug APK
+        if: ${{ github.event.inputs.apk_path == '' }}
+        uses: actions/download-artifact@v4
+        with:
+          name: Axxist-debug.apk
+          path: /tmp
+          continue-on-error: true
+      
+      - name: Install APK
+        id: install
+        run: |
+          echo "Installing APK..."
+          echo "APK Path: ${{ needs.environment-setup.outputs.apk_path }}"
+          
+          # Use downloaded APK or built APK
+          if [ -f "/tmp/Axxist-debug.apk" ]; then
+            APK_TO_INSTALL="/tmp/Axxist-debug.apk"
+          else
+            APK_TO_INSTALL="${{ needs.environment-setup.outputs.apk_path }}"
+          fi
+          
+          echo "Installing: $APK_TO_INSTALL"
+          INSTALL_OUTPUT=$(adb install -r "$APK_TO_INSTALL" 2>&1)
+          echo "INSTALL_OUTPUT=$INSTALL_OUTPUT" >> $GITHUB_OUTPUT
+          
+          if [ $? -eq 0 ]; then
+            echo "INSTALL_SUCCESS=true" >> $GITHUB_OUTPUT
+            echo "✅ APK installed successfully"
+          else
+            echo "INSTALL_SUCCESS=false" >> $GITHUB_OUTPUT
+            echo "❌ APK installation failed"
+            echo "$INSTALL_OUTPUT"
+          fi
+      
+      - name: Verify Installation
+        if: steps.install.outputs.INSTALL_SUCCESS == 'true'
+        run: |
+          echo "Verifying installation..."
+          PACKAGE_CHECK=$(adb shell pm list packages | grep "${{ env.PACKAGE_NAME }}")
+          if [ -n "$PACKAGE_CHECK" ]; then
+            echo "✅ Package ${{ env.PACKAGE_NAME }} is installed"
+          else
+            echo "❌ Package not found"
+          fi
+
+  # ============================================================
+  # JOB 4: Application Launch
+  # ============================================================
+  app-launch:
+    name: Application Launch
+    runs-on: ubuntu-latest
+    needs: [environment-setup, emulator-setup, apk-installation]
+    if: always() && needs.apk-installation.outputs.install_success == 'true'
+    
+    outputs:
+      launch_success: ${{ steps.launch.outputs.LAUNCH_SUCCESS }}
+      activity_name: ${{ env.PACKAGE_NAME }}/.MainActivity
+    
+    steps:
+      - name: Launch Application
+        id: launch
+        run: |
+          echo "Launching application..."
+          ACTIVITY="${{ env.PACKAGE_NAME }}/.MainActivity"
+          
+          adb shell am start -n "$ACTIVITY"
+          sleep 3
+          
+          if [ $? -eq 0 ]; then
+            echo "LAUNCH_SUCCESS=true" >> $GITHUB_OUTPUT
+            echo "✅ Application launched successfully"
+            
+            # Verify process is running
+            sleep 2
+            PROCESS_CHECK=$(adb shell ps -A | grep "${{ env.PACKAGE_NAME }}")
+            if [ -n "$PROCESS_CHECK" ]; then
+              echo "✅ Process is running"
+            else
+              echo "⚠️ Process may have crashed immediately"
+            fi
+          else
+            echo "LAUNCH_SUCCESS=false" >> $GITHUB_OUTPUT
+            echo "❌ Application launch failed"
+          fi
+
+  # ============================================================
+  # JOB 5: Runtime Monitoring
+  # ============================================================
+  runtime-monitoring:
+    name: Runtime Monitoring
+    runs-on: ubuntu-latest
+    needs: [environment-setup, emulator-setup, apk-installation, app-launch]
+    if: always() && needs.app-launch.outputs.launch_success == 'true'
+    
+    outputs:
+      runtime_duration: ${{ steps.monitor.outputs.RUNTIME_DURATION }}
+      crash_detected: ${{ steps.analyze.outputs.CRASH_DETECTED }}
+      crash_count: ${{ steps.analyze.outputs.CRASH_COUNT }}
+    
+    steps:
+      - name: Runtime Monitoring
+        id: monitor
+        run: |
+          echo "Starting runtime monitoring..."
+          echo "Duration: ${{ env.RUNTIME_DURATION }} seconds"
+          
+          START_TIME=$(date +%s)
+          
+          # Clear previous logs
+          adb logcat -c
+          
+          # Start logcat capture
+          mkdir -p /tmp/runtime
+          adb logcat > /tmp/runtime/runtime-logcat.txt &
+          LOGCAT_PID=$!
+          
+          # Keep app alive with periodic monkey events
+          PACKAGE="${{ env.PACKAGE_NAME }}"
+          for i in $(seq 1 20); do
+            adb shell monkey -p "$PACKAGE" -c android.intent.category.LAUNCHER 1 > /dev/null 2>&1
+            sleep $(( ${{ env.RUNTIME_DURATION }} / 20 ))
+          done &
+          MONKEY_PID=$!
+          
+          # Wait for runtime duration
+          sleep ${{ env.RUNTIME_DURATION }}
+          
+          # Calculate actual duration
+          END_TIME=$(date +%s)
+          DURATION=$((END_TIME - START_TIME))
+          echo "RUNTIME_DURATION=$DURATION" >> $GITHUB_OUTPUT
+          
+          # Cleanup
+          kill $LOGCAT_PID 2>/dev/null || true
+          kill $MONKEY_PID 2>/dev/null || true
+          
+          echo "Runtime monitoring completed. Duration: $DURATION seconds"
+      
+      - name: Upload Runtime Logcat
+        uses: actions/upload-artifact@v4
+        with:
+          name: runtime-logcat
+          path: /tmp/runtime/runtime-logcat.txt
+          retention-days: 30
+
+  # ============================================================
+  # JOB 6: Crash Analysis
+  # ============================================================
+  crash-analysis:
+    name: Crash Analysis
+    runs-on: ubuntu-latest
+    needs: [environment-setup, emulator-setup, apk-installation, app-launch, runtime-monitoring]
+    if: always()
+    
+    outputs:
+      crash_detected: ${{ steps.analyze.outputs.CRASH_DETECTED }}
+      crash_count: ${{ steps.analyze.outputs.CRASH_COUNT }}
+      fatal_exceptions: ${{ steps.analyze.outputs.FATAL_EXCEPTIONS }}
+      runtime_errors: ${{ steps.analyze.outputs.RUNTIME_ERRORS }}
+    
+    steps:
+      - name: Download Runtime Logcat
+        uses: actions/download-artifact@v4
+        with:
+          name: runtime-logcat
+          path: /tmp/runtime
+          continue-on-error: true
+      
+      - name: Analyze Logcat for Crashes
+        id: analyze
+        run: |
+          echo "Analyzing logcat for crashes..."
+          
+          LOGCAT_FILE="/tmp/runtime/runtime-logcat.txt"
+          
+          if [ ! -f "$LOGCAT_FILE" ]; then
+            echo "⚠️ Logcat file not found"
+            echo "CRASH_DETECTED=UNKNOWN" >> $GITHUB_OUTPUT
+            echo "CRASH_COUNT=0" >> $GITHUB_OUTPUT
+            echo "FATAL_EXCEPTIONS=0" >> $GITHUB_OUTPUT
+            echo "RUNTIME_ERRORS=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Count crashes
+          FATAL_COUNT=$(grep -c "FATAL EXCEPTION" "$LOGCAT_FILE" 2>/dev/null || echo "0")
+          RUNTIME_COUNT=$(grep -c "AndroidRuntime" "$LOGCAT_FILE" 2>/dev/null || echo "0")
+          ANR_COUNT=$(grep -c "ANR in" "$LOGCAT_FILE" 2>/dev/null || echo "0")
+          SIGSEGV_COUNT=$(grep -c "SIGSEGV" "$LOGCAT_FILE" 2>/dev/null || echo "0")
+          SECURITY_COUNT=$(grep -c "SecurityException" "$LOGCAT_FILE" 2>/dev/null || echo "0")
+          ILLEGAL_COUNT=$(grep -c "IllegalStateException" "$LOGCAT_FILE" 2>/dev/null || echo "0")
+          
+          TOTAL_CRASHES=$((FATAL_COUNT + RUNTIME_COUNT + ANR_COUNT + SIGSEGV_COUNT))
+          
+          echo "Analysis Results:" >> crash-analysis.txt
+          echo "=================" >> crash-analysis.txt
+          echo "FATAL EXCEPTION: $FATAL_COUNT" >> crash-analysis.txt
+          echo "AndroidRuntime: $RUNTIME_COUNT" >> crash-analysis.txt
+          echo "ANR: $ANR_COUNT" >> crash-analysis.txt
+          echo "SIGSEGV: $SIGSEGV_COUNT" >> crash-analysis.txt
+          echo "SecurityException: $SECURITY_COUNT" >> crash-analysis.txt
+          echo "IllegalStateException: $ILLEGAL_COUNT" >> crash-analysis.txt
+          echo "TOTAL CRASHES: $TOTAL_CRASHES" >> crash-analysis.txt
+          
+          # Extract crash details
+          if [ "$TOTAL_CRASHES" -gt 0 ]; then
+            echo "" >> crash-analysis.txt
+            echo "Crash Details:" >> crash-analysis.txt
+            echo "=============" >> crash-analysis.txt
+            grep -A 5 "FATAL EXCEPTION" "$LOGCAT_FILE" >> crash-analysis.txt 2>/dev/null || true
+            grep -A 5 "ANR in" "$LOGCAT_FILE" >> crash-analysis.txt 2>/dev/null || true
+          fi
+          
+          echo "CRASH_COUNT=$TOTAL_CRASHES" >> $GITHUB_OUTPUT
+          echo "FATAL_EXCEPTIONS=$FATAL_COUNT" >> $GITHUB_OUTPUT
+          echo "RUNTIME_ERRORS=$RUNTIME_COUNT" >> $GITHUB_OUTPUT
+          
+          if [ "$TOTAL_CRASHES" -gt 0 ]; then
+            echo "CRASH_DETECTED=true" >> $GITHUB_OUTPUT
+            echo "❌ CRASHES DETECTED: $TOTAL_CRASHES"
+          else
+            echo "CRASH_DETECTED=false" >> $GITHUB_OUTPUT
+            echo "✅ No crashes detected"
+          fi
+      
+      - name: Upload Crash Analysis
+        uses: actions/upload-artifact@v4
+        with:
+          name: crash-analysis
+          path: crash-analysis.txt
+          retention-days: 30
+
+  # ============================================================
+  # JOB 7: Generate Runtime Report
+  # ============================================================
+  runtime-report:
+    name: Runtime Report
+    runs-on: ubuntu-latest
+    needs: [environment-setup, emulator-setup, apk-installation, app-launch, runtime-monitoring, crash-analysis]
+    if: always()
+    
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          continue-on-error: true
+      
+      - name: Generate Runtime Validation Report
+        run: |
+          cp .github/workflows/generate-runtime-report.py ./
+          python3 generate-runtime-report.py
+      
+      - name: Upload Runtime Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: runtime-report
+          path: runtime-report.html
+          retention-days: 30
+
+  # ============================================================
+  # JOB 8: Final Status
+  # ============================================================
+  final-status:
+    name: Final Status
+    runs-on: ubuntu-latest
+    needs: [environment-setup, emulator-setup, apk-installation, app-launch, crash-analysis]
+    if: always()
+    
+    steps:
+      - name: Determine Final Status
+        run: |
+          echo "Runtime Validation Summary"
+          echo "========================="
+          echo "APK Available: ${{ needs.environment-setup.outputs.apk_available }}"
+          echo "Emulator: ${{ needs.emulator-setup.outputs.emulator_status }}"
+          echo "Install: ${{ needs.apk-installation.outputs.install_success }}"
+          echo "Launch: ${{ needs.app-launch.outputs.launch_success }}"
+          echo "Crashes: ${{ needs.crash-analysis.outputs.crash_count }}"
+          
+          # Determine overall status
+          if [ "${{ needs.environment-setup.outputs.apk_available }}" == "true" ] && \
+             [ "${{ needs.emulator-setup.outputs.emulator_status }}" == "BOOTED" ] && \
+             [ "${{ needs.apk-installation.outputs.install_success }}" == "true" ] && \
+             [ "${{ needs.app-launch.outputs.launch_success }}" == "true" ] && \
+             [ "${{ needs.crash-analysis.outputs.crash_detected }}" != "true" ]; then
+            echo ""
+            echo "✅ RUNTIME VALIDATION PASSED"
+            echo "FINAL_STATUS=PASS" >> $GITHUB_OUTPUT
+            echo "FINAL_STATUS=PASS" >> $GITHUB_ENV
+          else
+            echo ""
+            echo "❌ RUNTIME VALIDATION FAILED"
+            echo "FINAL_STATUS=FAIL" >> $GITHUB_OUTPUT
+            echo "FINAL_STATUS=FAIL" >> $GITHUB_ENV
+          fi
+      
+      - name: Fail if validation failed
+        if: env.FINAL_STATUS == 'FAIL'
+        run: |
+          echo "Runtime Validation FAILED"
+          echo "Please review the logs and fix any issues"
+          exit 1
+      
+      - name: Final Summary
+        run: |
+          echo "## Axxist Runtime Validation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Check | Result |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|--------|" >> $GITHUB_STEP_SUMMARY
+          echo "| APK Available | ${{ needs.environment-setup.outputs.apk_available }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Emulator | ${{ needs.emulator-setup.outputs.emulator_status }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Installation | ${{ needs.apk-installation.outputs.install_success }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Launch | ${{ needs.app-launch.outputs.launch_success }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Crashes | ${{ needs.crash-analysis.outputs.crash_count }} |" >> $GITHUB_STEP_SUMMARY

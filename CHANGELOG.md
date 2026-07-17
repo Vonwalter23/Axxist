@@ -4,6 +4,39 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
+## [1.1.0-apk-certification] - 2024-07-17
+
+### Agregado
+
+**Infrastructure - Dual Quality Gate Architecture:**
+
+**NIVEL 1 - Build Quality Gate:**
+- `.github/workflows/android-quality-gate.yml` - Workflow de validación de builds (v4.0)
+- APK Generation con SHA256 para verificación de integridad
+- APK Validation Report HTML con metadata completa
+- Artifact naming estandarizado: `Axxist-debug.apk`, `Axxist-release.apk`
+
+**NIVEL 2 - Runtime Validation:**
+- `.github/workflows/android-runtime-validation.yml` - Workflow de validación runtime (v1.0)
+- Emulator Setup con boot verification
+- APK Installation validation
+- Application Launch validation
+- Runtime Monitoring (180 segundos)
+- Crash Detection con análisis de logcat
+- Runtime Report HTML con certificación
+
+**Documentación de Políticas:**
+- `docs/APK_VALIDATION_POLICY.md` - Política de validación APK
+- `docs/RELEASE_VALIDATION_POLICY.md` - Política de validación de releases
+
+### Actualizado
+
+- `README.md` - Nueva arquitectura Dual Quality Gate
+- `docs/PROJECT_STATE.md` - Estado de validación actualizado
+- `CHANGELOG.md` - Nueva versión con certificación APK
+
+---
+
 ## [1.0.0-quality-gate] - 2024-07-17
 
 ### Agregado
@@ -11,7 +44,7 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 **Infrastructure - Quality Gate CI/CD:**
 
 **GitHub Actions Workflow:**
-- `.github/workflows/android-quality-gate.yml` - Workflow completo de validación
+- `.github/workflows/android-quality-gate.yml` - Workflow de validación
 
 ### Validado
 

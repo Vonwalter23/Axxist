@@ -1,7 +1,7 @@
 # Axxist Development Policy
 
 ## Versión
-1.0
+1.1
 
 ## Fecha
 2024-07-17
@@ -21,95 +21,159 @@ Esta política establece los requisitos obligatorios de validación de calidad p
 
 ## 2. Definición
 
-El **Axxist Quality Gate** es un sistema automatizado de validación que se ejecuta en cada push y pull request mediante GitHub Actions.
+El **Axxist Quality Gate** es un sistema automatizado de validación que se ejecuta en cada push y pull request mediante GitHub Actions. Implementa una arquitectura dual para máxima cobertura de validación.
 
-## 3. Validaciones Obligatorias
+## 3. Arquitectura Dual Quality Gate
 
-### 3.1 Build Validation
+Axxist implementa un sistema de validación de dos niveles:
+
+### NIVEL 1: Build Quality Gate (Obligatorio)
+
+**Trigger**: push, pull_request
+
+**Workflow**: `android-quality-gate.yml`
 
 | Validación | Descripción | Criterio de Éxito |
 |------------|-------------|-------------------|
 | assembleDebug | Compilación Debug | APK generado correctamente |
 | assembleRelease | Compilación Release | APK generado correctamente |
 | lintDebug | Análisis estático | Sin errores fatales |
+| APK SHA256 | Hash de integridad | Generado automáticamente |
+| APK Report | Metadata del APK | HTML con detalles completos |
 
-### 3.2 Runtime Validation
+### NIVEL 2: Runtime Validation (Recomendado para Releases)
+
+**Trigger**: workflow_dispatch
+
+**Workflow**: `android-runtime-validation.yml`
 
 | Validación | Descripción | Criterio de Éxito |
 |------------|-------------|-------------------|
 | Emulator Boot | Arranque de emulador | sys.boot_completed=1 |
 | APK Install | Instalación de APK | Instalación exitosa |
 | App Launch | Lanzamiento de app | App iniciada sin errores |
-| Runtime Duration | Tiempo de ejecución | Mínimo 30 segundos |
+| Runtime Duration | Tiempo de ejecución | 180 segundos |
 | Crash Detection | Análisis de logcat | Sin FATAL EXCEPTION ni AndroidRuntime |
 
-### 3.3 Crash Detection
+## 4. APK Delivery
+
+### 4.1 Artifact Policy
+
+Todo build exitoso genera:
+
+```
+Axxist-debug.apk                # APK Debug
+Axxist-release.apk              # APK Release
+apk-validation-report.html      # Reporte de validación
+build-summary.txt               # Resumen de build
+lint-report/                     # Reporte de lint
+```
+
+### 4.2 APK Metadata
+
+Cada APK incluye:
+- **SHA256**: Hash para verificación de integridad
+- **Size**: Tamaño del archivo
+- **Commit**: SHA del commit de origen
+- **Build Date**: Fecha de generación
+
+## 5. Crash Detection
 
 El sistema analiza automáticamente el logcat buscando:
 - `FATAL EXCEPTION`
 - `AndroidRuntime`
 - `Process:`
 - `Caused by:`
+- `ANR`
+- `SIGSEGV`
+- `SecurityException`
+- `IllegalStateException`
 
 Si se detecta cualquiera de estos errores, el Quality Gate falla.
 
-## 4. Funcionamiento
+## 6. Funcionamiento
 
-### 4.1 Pipeline de Ejecución
+### 6.1 Pipeline de Ejecución - Build Quality Gate
 
 ```
-1. Checkout
+1. Checkout (fetch LFS)
    ↓
-2. Configuración del entorno (JDK 17, Android SDK, Build Tools)
+2. Setup Java JDK 17
    ↓
-3. Cache (Gradle, Android dependencies)
+3. Cache Gradle
    ↓
-4. Build Validation
-   ├── assembleDebug
-   ├── assembleRelease
-   └── lintDebug
+4. Build Debug APK
+   └── Generate SHA256
    ↓
-5. Runtime Validation
-   ├── Crear emulador (Android 14, API 34)
-   ├── Esperar boot completo
-   ├── Instalar app-debug.apk
-   ├── Lanzar con adb shell monkey
-   ├── Capturar logcat (180 segundos)
-   └── Analizar crashes
+5. Upload Axxist-debug.apk
    ↓
-6. Generar Reportes
-   ├── report.html
-   ├── build-summary.txt
-   └── Publicar artifacts
+6. Build Release APK
+   └── Generate SHA256
+   ↓
+7. Upload Axxist-release.apk
+   ↓
+8. Run Lint
+   ↓
+9. Generate APK Validation Report
+   ↓
+10. Final Status
 ```
 
-### 4.2 Triggers
+### 6.2 Pipeline de Ejecución - Runtime Validation
 
-El Quality Gate se ejecuta automáticamente en:
-- Push a `main` o `develop`
-- Pull Request a `main`
-- Ejecución manual (`workflow_dispatch`)
+```
+1. Environment Setup
+   └── Build or Download APK
+   ↓
+2. Emulator Setup
+   └── Wait for sys.boot_completed=1
+   ↓
+3. APK Installation
+   └── adb install -r
+   ↓
+4. App Launch
+   └── adb shell am start
+   ↓
+5. Runtime Monitoring
+   └── Capture logcat (180s)
+   ↓
+6. Crash Analysis
+   └── Generate crash-analysis.txt
+   ↓
+7. Generate Runtime Report
+   ↓
+8. Final Status
+```
 
-## 5. Artifacts Generados
+### 6.3 Triggers
 
-### 5.1 Obligatorios
+| Workflow | Triggers |
+|----------|----------|
+| Android Quality Gate | push, pull_request, workflow_dispatch |
+| Android Runtime Validation | workflow_dispatch |
+
+## 7. Artifacts Generados
+
+### 7.1 Build Quality Gate Artifacts
 
 | Artifact | Descripción | Retention |
 |----------|-------------|-----------|
-| app-debug.apk | APK Debug | 14 días |
-| app-release.apk | APK Release | 14 días |
-| logcat.txt | Logcat completo | 14 días |
-| report.html | Reporte HTML | 30 días |
+| Axxist-debug.apk | APK Debug firmable | 30 días |
+| Axxist-release.apk | APK Release | 30 días |
+| apk-validation-report.html | Reporte HTML de validación | 30 días |
 | build-summary.txt | Resumen de build | 30 días |
-| lint-report/ | Reporte de lint | 14 días |
+| lint-report/ | Reporte de lint | 30 días |
 
-### 5.2 Opcionales
+### 7.2 Runtime Validation Artifacts
 
-| Artifact | Descripción |
-|----------|-------------|
-| emulator-video.mp4 | Video del emulador |
+| Artifact | Descripción | Retention |
+|----------|-------------|-----------|
+| runtime-logcat.txt | Logcat completo | 30 días |
+| crash-analysis.txt | Análisis de crashes | 30 días |
+| emulator-info.txt | Info del emulador | 30 días |
+| runtime-report.html | Reporte HTML runtime | 30 días |
 
-## 6. Reporte HTML
+## 8. Reportes HTML
 
 El reporte HTML incluye:
 
@@ -119,9 +183,6 @@ El reporte HTML incluye:
 | Commit SHA | Hash del commit |
 | Fecha | Fecha de ejecución |
 | Branch | Rama evaluada |
-| Stage | Stage actual del proyecto |
-| Build Debug | Estado de compilación Debug |
-| Build Release | Estado de compilación Release |
 | APK Size | Tamaño de los APKs |
 | SHA256 Debug | Hash SHA256 del APK Debug |
 | SHA256 Release | Hash SHA256 del APK Release |
@@ -131,12 +192,11 @@ El reporte HTML incluye:
 | Launch Success | Estado de lanzamiento |
 | Runtime Duration | Duración de la validación |
 | Crash Detection | Resultado del análisis de crashes |
-| Warnings | Advertencias encontradas |
 | Resultado Final | PASS o FAIL |
 
-## 7. Obligatoriedad
+## 9. Obligatoriedad
 
-### 7.1 Para Completar un Stage
+### 9.1 Para Completar un Stage
 
 Para que un Stage se considere **COMPLETADO**, deben cumplirse TODAS las condiciones:
 
@@ -145,18 +205,18 @@ Para que un Stage se considere **COMPLETADO**, deben cumplirse TODAS las condici
 3. ✅ Reporte del Stage generado
 4. ✅ **Quality Gate aprobado en GitHub Actions**
 
-### 7.2 Para Merge a main
+### 9.2 Para Merge a main
 
 Ningún código puede fusionarse a `main` sin:
 - Pull Request creada
 - **Android Quality Gate** aprobado
 - Revisión aprobada (si está configurado)
 
-## 8. Required Status Check
+## 10. Required Status Check
 
 El workflow está preparado para funcionar como **Required Status Check** en GitHub.
 
-### 8.1 Configuración Manual Requerida
+### 10.1 Configuración Manual Requerida
 
 Para activar la protección de rama:
 
@@ -169,7 +229,7 @@ Para activar la protección de rama:
 
 **Nota**: Esta configuración debe realizarse manualmente con permisos de administrador del repositorio.
 
-## 9. Manejo de Limitaciones Técnicas
+## 11. Manejo de Limitaciones Técnicas
 
 Si alguna validación no puede ejecutarse por limitaciones del entorno:
 
@@ -182,7 +242,7 @@ Si alguna validación no puede ejecutarse por limitaciones del entorno:
 
 **Importante**: No inventar resultados. Documentar la limitación.
 
-## 10. Mejora Continua
+## 12. Mejora Continua
 
 Esta política es **permanente** y se revisará en cada Stage mayor para:
 - Agregar validaciones adicionales si es necesario

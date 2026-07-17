@@ -10,40 +10,85 @@ El proyecto cuenta con infraestructura completa de frameworks para Voice AI Assi
 
 ## 🛡️ Axxist Quality Gate
 
-Este proyecto implementa un **Quality Gate obligatorio** para todas las contribuciones.
+Este proyecto implementa un **Dual Quality Gate Architecture** para validación completa.
 
-### Workflow de Validación
+### Arquitectura de Validación
 
-El Quality Gate se ejecuta automáticamente en cada push y pull request:
+```
+┌─────────────────────────────────────────────────────────────┐
+│              AXXIST DUAL QUALITY GATE                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ┌─────────────────────────────────────────────────────┐  │
+│  │  NIVEL 1: BUILD QUALITY GATE                        │  │
+│  │  android-quality-gate.yml (Auto)                     │  │
+│  │  ─────────────────────────────────────────────────   │  │
+│  │  ✓ assembleDebug                                     │  │
+│  │  ✓ assembleRelease                                   │  │
+│  │  ✓ lintDebug                                         │  │
+│  │  ✓ APK Generation (SHA256)                          │  │
+│  │  ✓ APK Validation Report                             │  │
+│  │  Trigger: push, pull_request                         │  │
+│  └─────────────────────────────────────────────────────┘  │
+│                          │                                 │
+│                          ▼                                 │
+│  ┌─────────────────────────────────────────────────────┐  │
+│  │  NIVEL 2: RUNTIME VALIDATION                         │  │
+│  │  android-runtime-validation.yml (On-Demand)          │  │
+│  │  ─────────────────────────────────────────────────   │  │
+│  │  ✓ Emulator Boot (API 34)                           │  │
+│  │  ✓ APK Installation                                  │  │
+│  │  ✓ Application Launch                               │  │
+│  │  ✓ Runtime Monitoring (180s)                         │  │
+│  │  ✓ Crash Detection                                   │  │
+│  │  Trigger: workflow_dispatch                          │  │
+│  └─────────────────────────────────────────────────────┘  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-| Fase | Validación | Descripción |
-|------|------------|-------------|
-| Build | assembleDebug | Compilación Debug APK |
-| Build | assembleRelease | Compilación Release APK |
-| Build | lintDebug | Análisis estático de código |
-| Runtime | Emulator Boot | Verificación de boot del emulador |
-| Runtime | APK Install | Instalación del APK |
-| Runtime | App Launch | Lanzamiento de la aplicación |
-| Runtime | Crash Detection | Análisis de logcat |
+### Workflows Disponibles
+
+| Workflow | Trigger | Propósito |
+|----------|---------|-----------|
+| `Android Quality Gate` | push, pull_request | Validación automática de builds |
+| `Android Runtime Validation` | workflow_dispatch | Validación runtime bajo demanda |
 
 ### Artifacts Generados
 
-- 📦 `app-debug.apk` - APK Debug
-- 📦 `app-release.apk` - APK Release
-- 📄 `logcat.txt` - Logcat completo
-- 📊 `report.html` - Reporte HTML de validación
+**Build Quality Gate:**
+- 📦 `Axxist-debug.apk` - APK Debug (29.4 MB)
+- 📦 `Axxist-release.apk` - APK Release (14.3 MB)
+- 📄 `apk-validation-report.html` - Reporte de validación
 - 📝 `build-summary.txt` - Resumen de build
+- 📊 `lint-report/` - Reporte de lint
+
+**Runtime Validation (On-Demand):**
+- 📄 `runtime-logcat.txt` - Logcat runtime
+- 📄 `crash-analysis.txt` - Análisis de crashes
+- 📄 `emulator-info.txt` - Info del emulador
+- 📊 `runtime-report.html` - Reporte runtime
+
+### APK Metadata
+
+Cada APK incluye:
+- **SHA256**: Hash para verificación de integridad
+- **Size**: Tamaño del archivo
+- **Commit**: SHA del commit de origen
+- **Date**: Fecha de generación
 
 ### Required Status Check
 
-El workflow está preparado para funcionar como **Required Status Check**.
+El **Build Quality Gate** está preparado como **Required Status Check**.
 
 > ⚠️ **Nota**: La configuración de Branch Protection debe realizarse manualmente. Ver [docs/GITHUB_BRANCH_PROTECTION.md](docs/GITHUB_BRANCH_PROTECTION.md)
 
-### Documentación
+### Documentación de Calidad
 
 - [docs/DEVELOPMENT_POLICY.md](docs/DEVELOPMENT_POLICY.md) - Políticas de desarrollo
 - [docs/GITHUB_BRANCH_PROTECTION.md](docs/GITHUB_BRANCH_PROTECTION.md) - Configuración de protección
+- [docs/APK_VALIDATION_POLICY.md](docs/APK_VALIDATION_POLICY.md) - Política de validación APK
+- [docs/RELEASE_VALIDATION_POLICY.md](docs/RELEASE_VALIDATION_POLICY.md) - Política de validación de releases
 
 ## ⚠️ Estado de Verificación
 
