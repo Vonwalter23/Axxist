@@ -13,25 +13,33 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 **GitHub Actions Workflow:**
 - `.github/workflows/android-quality-gate.yml` - Workflow completo de validación
 
+### Validado
+
 **Build Validation:**
-- assembleDebug - Compilación Debug APK
-- assembleRelease - Compilación Release APK
-- lintDebug - Análisis estático de código
+- ✅ assembleDebug - PASS (app-debug.apk: 29.4 MB)
+- ✅ assembleRelease - PASS (app-release.apk: 14.3 MB)
+- ✅ lintDebug - PASS
+
+**Artifacts Generados:**
+- ✅ app-debug-apk (29.4 MB)
+- ✅ app-release-apk (14.3 MB)
+- ✅ lint-report (1.0 KB)
+- ✅ build-summary (415 bytes)
+- ✅ build-debug-log (1.4 KB)
+- ✅ build-release-log (1.4 KB)
+
+**Workflow Run:**
+- ✅ Run ID: 29588855650
+- ✅ Conclusion: SUCCESS
+- ✅ Commit: f073ca7
 
 **Runtime Validation:**
+- ⏭️ Opcional (habilitable via workflow_dispatch)
 - Emulator Boot (Android 14, API 34)
 - APK Installation via adb
 - App Launch via monkey
 - Runtime Duration (180 segundos)
 - Crash Detection (FATAL EXCEPTION, AndroidRuntime)
-
-**Artifacts:**
-- app-debug.apk
-- app-release.apk
-- logcat.txt
-- report.html
-- build-summary.txt
-- lint-report/
 
 **Documentación:**
 - `docs/DEVELOPMENT_POLICY.md` - Políticas de desarrollo con Quality Gate
@@ -48,11 +56,10 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 
 ### Características Técnicas
 
-- **Arquitectura**: Jobs separados para build, runtime y report
-- **Cache**: Gradle cache y Android dependencies cache
-- **Emulator**: Android 14 API 34 con Google APIs
-- **Crash Detection**: Análisis automático de logcat
-- **Report Generation**: HTML report con métricas completas
+- **Arquitectura**: Jobs separados para build, runtime opcional y report
+- **Cache**: Gradle cache
+- **Build-only mode**: Por defecto para CI/CD confiable
+- **Runtime optional**: Habilitable via workflow_dispatch
 
 ### Restricciones Cumplidas
 
