@@ -16,6 +16,8 @@ class IntentValidator(
     
     companion object {
         private const val TAG = "IntentValidator"
+        private const val MIN_CONFIDENCE_THRESHOLD = 0.5f
+        private const val ENTITY_CONFIDENCE_THRESHOLD = 0.3f
         
         @Volatile
         private var instance: IntentValidator? = null
@@ -111,9 +113,4 @@ class IntentValidator(
         "minConfidenceThreshold" to MIN_CONFIDENCE_THRESHOLD,
         "entityConfidenceThreshold" to ENTITY_CONFIDENCE_THRESHOLD
     )
-    
-    private companion object {
-        const val MIN_CONFIDENCE_THRESHOLD = 0.5f
-        const val ENTITY_CONFIDENCE_THRESHOLD = 0.3f
-    }
 }

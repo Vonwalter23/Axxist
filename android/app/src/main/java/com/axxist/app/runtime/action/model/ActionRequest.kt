@@ -12,7 +12,10 @@ data class ActionRequest(
     val validationOnly: Boolean = false
 ) {
     fun getStringParam(key: String): String? = parameters[key] as? String
-    fun getIntParam(key: String): Int? = parameters[key] as? Int
+    fun getIntParam(key: String): Int? = (parameters[key] as? Number)?.toInt()
     fun getBooleanParam(key: String): Boolean? = parameters[key] as? Boolean
-    fun getListParam(key: String): List<Any>? = parameters[key] as? List<*>>
+    fun getListParam(key: String): kotlin.collections.List<Any>? {
+        @Suppress("UNCHECKED_CAST")
+        return parameters[key] as? kotlin.collections.List<Any>
+    }
 }

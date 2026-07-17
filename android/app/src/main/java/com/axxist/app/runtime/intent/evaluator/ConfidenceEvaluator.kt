@@ -23,11 +23,11 @@ class ConfidenceEvaluator : ConfidenceProvider {
         }
     }
     
-    override fun evaluate(intent: Intent): ConfidenceResult {
+    override fun evaluate(intent: Intent): ConfidenceProvider.ConfidenceResult {
         return evaluate(intent, emptyMap())
     }
     
-    override fun evaluate(intent: Intent, context: Map<String, Any>): ConfidenceResult {
+    override fun evaluate(intent: Intent, context: Map<String, Any>): ConfidenceProvider.ConfidenceResult {
         val factors = mutableMapOf<String, Float>()
         
         // Base confidence from intent
@@ -71,7 +71,7 @@ class ConfidenceEvaluator : ConfidenceProvider {
         
         Logger.d(TAG, "Evaluated confidence: $confidence (level: $level, passed: $passedThreshold)")
         
-        return ConfidenceResult(
+        return ConfidenceProvider.ConfidenceResult(
             confidence = confidence,
             level = level,
             factors = factors,
@@ -89,6 +89,6 @@ class ConfidenceEvaluator : ConfidenceProvider {
     fun rankIntents(intents: List<Intent>): List<Pair<Intent, Float>> {
         return intents.map { intent ->
             intent to evaluate(intent).confidence
-        }.sortedByDescending { it.second }
+        }.sortedByDescending { (_, confidence) -> confidence }
     }
 }

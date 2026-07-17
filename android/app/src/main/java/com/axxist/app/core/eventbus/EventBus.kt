@@ -7,7 +7,7 @@ import com.axxist.app.runtime.conversation.state.ConversationState
 import com.axxist.app.runtime.ai.state.AIState
 import com.axxist.app.runtime.intent.model.ConfidenceLevel
 import com.axxist.app.runtime.intent.model.Entity
-import com.axxist.app.runtime.intent.model.IntentState
+import com.axxist.app.runtime.intent.state.IntentState
 import com.axxist.app.runtime.action.model.ActionState
 
 /**
