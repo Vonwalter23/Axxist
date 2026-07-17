@@ -43,6 +43,7 @@ STAGE_09 Android Actions
 | STAGE_06 AI Router | ✅ Completada |
 | STAGE_07 Intent Engine | ✅ Completada |
 | STAGE_08 Action Framework | ✅ Completada |
+| **INFRA** Quality Gate CI/CD | ✅ Completada |
 | STAGE_09 Android Actions | ⏳ Pendiente |
 | STAGE_10 Contacts & Phone | ⏳ Pendiente |
 | STAGE_11 WhatsApp | ⏳ Pendiente |
@@ -65,6 +66,43 @@ STAGE_09 Android Actions
 - **Package:** com.axxist.app
 - **Min SDK:** 29 (Android 10)
 - **Target SDK:** 34 (Android 14)
+
+---
+
+## Axxist Quality Gate
+
+**Estado:** ✅ Implementado
+
+### Workflow
+
+`.github/workflows/android-quality-gate.yml`
+
+### Validaciones
+
+| Validación | Tipo | Estado |
+|-----------|------|--------|
+| assembleDebug | Build | ✅ |
+| assembleRelease | Build | ✅ |
+| lintDebug | Build | ✅ |
+| Emulator Boot | Runtime | ✅ |
+| APK Install | Runtime | ✅ |
+| App Launch | Runtime | ✅ |
+| Crash Detection | Runtime | ✅ |
+
+### Required Status Check
+
+⏳ Pendiente de configurar manualmente
+
+Ver: [docs/GITHUB_BRANCH_PROTECTION.md](docs/GITHUB_BRANCH_PROTECTION.md)
+
+### Artifacts
+
+- app-debug.apk
+- app-release.apk
+- logcat.txt
+- report.html
+- build-summary.txt
+- lint-report/
 
 ---
 

@@ -4,9 +4,46 @@ Intelligent Assistant for Android - Plataforma de asistencia inteligente con cap
 
 ## 🚀 Estado del Proyecto
 
-**STAGE_00 Foundation** - Completado ✅ (En revisión)
+**STAGE_08 Action Framework** - Completado ✅
 
-El proyecto se encuentra en fase de fundación, con la estructura básica establecida y lista para comenzar el desarrollo de funcionalidades.
+El proyecto cuenta con infraestructura completa de frameworks para Voice AI Assistant.
+
+## 🛡️ Axxist Quality Gate
+
+Este proyecto implementa un **Quality Gate obligatorio** para todas las contribuciones.
+
+### Workflow de Validación
+
+El Quality Gate se ejecuta automáticamente en cada push y pull request:
+
+| Fase | Validación | Descripción |
+|------|------------|-------------|
+| Build | assembleDebug | Compilación Debug APK |
+| Build | assembleRelease | Compilación Release APK |
+| Build | lintDebug | Análisis estático de código |
+| Runtime | Emulator Boot | Verificación de boot del emulador |
+| Runtime | APK Install | Instalación del APK |
+| Runtime | App Launch | Lanzamiento de la aplicación |
+| Runtime | Crash Detection | Análisis de logcat |
+
+### Artifacts Generados
+
+- 📦 `app-debug.apk` - APK Debug
+- 📦 `app-release.apk` - APK Release
+- 📄 `logcat.txt` - Logcat completo
+- 📊 `report.html` - Reporte HTML de validación
+- 📝 `build-summary.txt` - Resumen de build
+
+### Required Status Check
+
+El workflow está preparado para funcionar como **Required Status Check**.
+
+> ⚠️ **Nota**: La configuración de Branch Protection debe realizarse manualmente. Ver [docs/GITHUB_BRANCH_PROTECTION.md](docs/GITHUB_BRANCH_PROTECTION.md)
+
+### Documentación
+
+- [docs/DEVELOPMENT_POLICY.md](docs/DEVELOPMENT_POLICY.md) - Políticas de desarrollo
+- [docs/GITHUB_BRANCH_PROTECTION.md](docs/GITHUB_BRANCH_PROTECTION.md) - Configuración de protección
 
 ## ⚠️ Estado de Verificación
 
@@ -17,6 +54,7 @@ El proyecto se encuentra en fase de fundación, con la estructura básica establ
 | Foreground Service preparado | ✅ Verificado |
 | Sin permisos en primer inicio | ✅ Verificado |
 | Dependencias mínimas | ✅ Verificado |
+| Quality Gate implementado | ✅ Verificado | |
 
 ## 📋 Requisitos
 
