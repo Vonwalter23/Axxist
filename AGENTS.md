@@ -92,6 +92,8 @@ axxist/
 
 ## Recursos Adicionales
 
-- Material de Investigación: `Material_de_soporte.pdf`
-- Imágenes extraídas del PDF: `pdf_images/`
-- Texto extraído: `pdf_extracted_text.txt`
+- Material de Investigación FUNIBER: `Material_Investigacion_FUNIBER.pdf`
+- Material de soporte: `docs/Material de soporte.pdf`
+- Reportes por stage: `docs/reports/` (FASE_00 a STAGE_08)
+- Estado del proyecto: `docs/PROJECT_STATE.md`
+- Decisiones técnicas: `docs/DECISIONS.md`
