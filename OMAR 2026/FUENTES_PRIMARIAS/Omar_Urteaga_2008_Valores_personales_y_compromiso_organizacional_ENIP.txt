@@ -1,0 +1,1071 @@
+   
+Enseñanza e Investigación en Psicología
+ISSN: 0185-1594
+rbulle@uv.mx
+Consejo Nacional para la Enseñanza en
+Investigación en Psicología A.C.
+México
+Omar, Alicia; Florencia Urteaga, Alicia
+Valores personales y compromiso organizacional
+Enseñanza e Investigación en Psicología, vol. 13, núm. 2, julio-diciembre, 2008, pp. 353-372
+Consejo Nacional para la Enseñanza en Investigación en Psicología A.C.
+Xalapa, México
+Disponible en: http://www.redalyc.org/articulo.oa?id=29213210
+   Cómo citar el artículo
+   Número completo
+   Más información del artículo
+   Página de la revista en redalyc.org
+Sistema de Información Científica
+Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+ 
+VALORES PERSONALES 
+Y COMPROMISO ORGANIZACIONAL1 
+ 
+Personal values and organizational commitment 
+ 
+ 
+Alicia Omar** y Alicia Florencia Urteaga*** 
+**Consejo Nacional de Investigaciones Científicas y Tecnológicas2 
+***Universidad Nacional de Entre Ríos3 
+ 
+ 
+RESUMEN 
+Se exploraron las relaciones entre los valores individuales y el compromiso 
+organizacional en una muestra integrada por 429 empleados de empresas ar-
+gentinas. Los sujetos completaron una hoja de datos personales, la Escala de 
+Individualismo-Colectivismo y la de Compromiso Organizacional. La muestra 
+total se clasificó en ocho subgrupos en función de la dicotomización por la 
+mediana de las cuatro dimensiones axiológicas, de los cuales se seleccionaron 
+los cuatro subgrupos más representativos, en los que se hicieron análisis de 
+varianza simple, pruebas de comparación a posteriori y análisis de correlación 
+entre las variables exploradas. Los resultados mostraron que los colectivistas 
+desarrollan mayor nivel de compromiso afectivo; las mujeres y los empleados 
+con mayor antigüedad exhiben mayores niveles de compromiso afectivo y 
+normativo; quienes ocupan cargos gerenciales y los empleados de grandes em-
+presas se sienten unidos a sus organizaciones a través del compromiso norma-
+tivo, y el compromiso calculativo pareciera operar de modo diferente al afectivo 
+y al normativo. Se analizan las limitaciones del estudio y se proponen alterna-
+tivas para futuras investigaciones en el área. 
+Indicadores: Colectivismo e individualismo; Compromiso organizacional; Valores 
+personales. 
+ 
+ABSTRACT  
+The relationships between personal values and organizational commitment 
+were analyzed in a sample of 429 workers from Argentinean organizations. The 
+subjects completed a questionnaire of personal data, and the Individualism-
+                                                 
+1 El presente trabajó se realizó en el marco del proyecto “Cultura, justicia y compromiso or-
+ganizacional” (PID-CONICET-5108). 
+2 Italia 1365, 1º A (2000), Rosario, Argentina, correo electrónico: agomar@arnet.com.ar. 
+Artículo recibido el 24 de diciembre de 2007 y aceptado el 23 de marzo de 2008. 
+3 Ruta 11 Km 10 (3100), Oro Verde, Paraná, Entre Ríos, Argentina. 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+354 
+Collectivism and the Organizational Commitment scales. All subjects were clas-
+sified into eight subgroups after dichotomizing by the median of the four each 
+dimensions of values. The four most representative subgroups were selected, in 
+which analysis of simple variance, comparison tests post-hoc, and a correlation 
+analysis were conducted. The results indicate that collectivists show a higher 
+level of affective commitment; women and senior employees exhibit greater levels 
+of affective and normative commitment; managers, employees with higher 
+academic degrees, and employees of large companies feel attached to their or-
+ganizations through normative commitment; continuance commitment seems to 
+work differently from affective and normative commitment. The strengths and 
+limitations of the study are discussed, and suggestions are made for future 
+research.  
+Keywords: Collectivism and individualism; Organizational commitment; Personal values. 
+ 
+ 
+INTRODUCCIÓN 
+La cultura de una sociedad puede entenderse como un conjunto de va-
+lores ubicados a lo largo de ciertas dimensiones, algunas de las cuales 
+parecen ser universales (Oyserman, Kemmelmeier y Coon, 2002; Smith 
+y Bond, 1993, 1999), y la ubicación de la persona en cada una de ellas 
+describe su patrón cultural. A partir de uno de los primeros estudios 
+realizados con el propósito de identificar los valores culturales propios 
+de cada sociedad (Hofstede, 1980), se sugirió que las culturas pueden 
+ser clasificadas según su posición en cuatro dimensiones básicas: in-
+dividualismo-colectivismo, referida a la naturaleza de las relaciones que 
+un individuo mantiene con su grupo (Oyserman, Coon y Kemmelmeier, 
+2002); distancia al poder, que alude al grado con que los miembros de 
+una sociedad aceptan una desigual distribución de poder, prestigio y 
+riquezas; evitación de la incertidumbre, vinculada al grado con que los 
+miembros de diferentes grupos se sienten amenazados por situacio-
+nes desconocidas o ambiguas, y masculinidad-feminidad, referida a la 
+valoración diferencial de los papeles femeninos y masculinos. Todos 
+los países participantes del estudio (se trabajó con empleados de 53 
+subsidiarias de IBM, una gran compañía multinacional) recibieron un 
+puntaje correspondiente a su posición en cada una de las dimensiones, 
+ubicándose la mayoría de los países latinoamericanos en el cuadrante 
+de los más colectivistas, con un mayor grado de evitación de la incer-
+tidumbre, de feminidad y de distancia al poder.  
+De las cuatro dimensiones axiológicas propuestas por Hofstede 
+(1980, 1997), la de individualismo ha sido la más investigada hasta la 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+355 
+fecha y es la que ha permitido comparar sistemáticamente a las so-
+ciedades en función de sus orientaciones culturales (Hattrup, Mueller 
+y Joems, 2007; Oyserman y cols., 2002). En su extenso programa so-
+bre los valores humanos, Triandis (1995) definió al individualismo y al 
+colectivismo como síndromes culturales consistentes en compartir acti-
+tudes, creencias, normas, papeles y definiciones del yo. Según Trian-
+dis, las culturas individualistas se caracterizan por valorar la autono-
+mía del individuo y su independencia emocional de los grupos socia-
+les, mientras que las sociedades colectivistas rescatan la tradición 
+heredada y privilegian los intereses grupales. Ante las situaciones 
+conflictivas, los colectivistas tratan de preservar la armonía en las re-
+laciones con los demás, mientras que los individualistas tratan de 
+conseguir justicia (Ohbuchi, Fukishima y Tedeschi, 1999), de manera 
+que para resolver los conflictos los primeros prefieren métodos que no 
+destruyan las relaciones –tales como la mediación–, mientras que los 
+segundos se inclinan por la confrontación (Leung, 1997). Más recien-
+temente, Triandis (2001) ha señalado que en las culturas colectivistas 
+las personas tienden a ser más interdependientes, prestan más aten-
+ción a los procesos externos como determinantes de su conducta so-
+cial y se concentran más en el contexto que en el contenido cuando se 
+comunican. Según Ramamoorthy y Flood (2002), la diferencia básica 
+entre el individualismo y el colectivismo radica en el énfasis atribuido 
+a las metas personales o grupales, ya que aquél da más valor a los pro-
+pios intereses mientras que éste otorga mayor importancia al bienes-
+tar colectivo y a las metas grupales.  
+Si bien la dimensión individualismo-colectivismo fue introducida 
+en la literatura como una variable unidimensional (Hofstede, 1980), a 
+partir de la obra de Triandis (1995) se comenzó a considerar al indivi-
+dualismo y al colectivismo como dos factores independientes, lo que 
+hizo abandonar la idea, vigente hasta ese momento, de que constituían 
+los polos opuestos de un mismo constructo. Esta reconceptualización 
+permitió sostener que cada sujeto puede mostrar características de 
+ambas orientaciones en diferentes proporciones, siendo muchas ve-
+ces el contexto el que definirá el estilo de comportamiento prevaleciente 
+(Triandis, Chen y Chan, 1998). En esta línea argumental, Dutta-Berg-
+man y Wells (2002) han provisto amplia evidencia de variaciones dentro 
+de las culturas en términos de individualismo y colectivismo y las con-
+secuentes diferencias exhibidas con respecto a indicadores compor-
+tamentales.  
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+356 
+Triandis observó además la existencia de diferentes tipos de indi-
+vidualismo y colectivismo; con el propósito de caracterizarlos, introdujo 
+los atributos de “horizontal” y “vertical” (Triandis, 1995, 2001), propios 
+de la dimensión de distancia al poder de Hofstede (1980). La distancia 
+al poder fue definida por este autor como el grado en que los miembros 
+menos poderosos de las instituciones y organizaciones de un país “acep-
+tan que el poder se distribuya desigualmente” (p. 28). Vale decir que 
+mientras que el individualismo se enfoca sobre las diferencias huma-
+nas, la distancia al poder se concentra en cuán ampliamente esas di-
+ferencias individuales están relacionadas con otras desigualdades en 
+poder, riqueza o prestigio, y hasta qué punto tales desigualdades son 
+vistas como legítimas o ilegítimas. En esencia, desde la perspectiva de 
+Triandis, tanto individualismo como colectivismo pueden ser horizon-
+tales (si enfatizan la igualdad) como verticales (si recalcan las jerarquí-
+as). La investigación ha mostrado que algunas culturas individualistas, 
+tales como Australia y Suiza, ponen acento en la igualdad, mientras que 
+culturas como la norteamericana hacen hincapié en la jerarquía.  
+El concepto de “horizontal” sugiere que las personas son similares 
+en la mayoría de los aspectos, especialmente en estatus; para los indivi-
+dualistas, esto se manifiesta en un yo independiente, aunque similar 
+a los demás, posiblemente por el alto nivel de libertad y de igualdad que 
+los caracteriza. Así, las personas que se orientan al individualismo hori-
+zontal (IH) disfrutan de la privacidad y la independencia y se perciben 
+como iguales a otros. Para los colectivistas (CH), en cambio, se tra-
+duce en un yo interdependiente, aunque similar a los demás, debido a 
+la escasa libertad y gran igualdad que los identifica; se perciben simi-
+lares a los demás miembros de su grupo, enfatizan los objetivos co-
+munes, disfrutan colaborando con sus compañeros y se esfuerzan por 
+mantener la armonía grupal. 
+El concepto de “vertical” sugiere que existen diferencias entre las 
+personas, especialmente en estatus y jerarquía. Para los individualis-
+tas, lo anterior se refleja en un yo independiente y diferente de los de-
+más posiblemente porque aceptan una baja igualdad, aunque le dan 
+máxima importancia al sentido de libertad. Las personas que se orien-
+tan al individualismo vertical (IV) quieren diferenciarse de las demás 
+adquiriendo estatus social, son competitivas y les cuesta aceptar el fra-
+caso. En el caso de los colectivistas, esto se significa por un yo interde-
+pendiente, pero diferente de los demás, posiblemente debido a un bajo 
+sentido de libertad e igualdad (Triandis y Gelfand, 1998). Las perso-
+nas que se orientan al colectivismo vertical (CV) disfrutan sirviendo a los 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+357 
+demás, hacen sacrificios en beneficio de su propio grupo de pertenen-
+cia, son modestas y cumplen sus obligaciones como si estuvieran im-
+puestas por normas sociales (Kurman y Sriram, 2002).  
+A partir de esta reconceptualización de Triandis, es posible identi-
+ficar cuatro tipos de culturas: individualismo horizontal (IH), en que las 
+personas se esfuerzan por ser únicas y hacen las cosas a su manera; 
+individualismo vertical (IV), en que la gente quiere hacer las cosas a su 
+manera y se esfuerza por hacerlas mejor que los demás; colectivismo 
+horizontal (CH), donde los objetivos del individuo se confunden o fusio-
+nan con los de su grupo de pertenencia, y colectivismo vertical (CV), en 
+que la gente se somete a la autoridad de su grupo y está dispuesta a 
+sacrificarse por los intereses grupales (Triandis, 2001; Triandis y Suh, 
+2002). Si bien esta tipología fue inicialmente propuesta para facilitar 
+comparaciones entre culturas, está demostrando ser un enfoque muy 
+útil para profundizar en el conocimiento de las variaciones del colecti-
+vismo y el individualismo dentro de una misma cultura. Definida esta 
+nueva estructura axiológica multifactorial, Triandis y sus colaborado-
+res (Singelis, Triandis, Bhawuk y Gelfand, 1995) desarrollaron la Esca-
+la de Individualismo-Colectivismo para explorarla.  
+En los últimos años se viene observado un crecimiento importan-
+te de los estudios orientados a analizar las posibles implicaciones psi-
+cológicas de la orientación hacia el individualismo o el colectivismo, sea 
+vertical, sea horizontal. Los hallazgos de Oyserman, Coon y Kemmel-
+meier (2002), por ejemplo, indican que el colectivismo influye sobre el 
+bienestar y la interacción social, en tanto que el individualismo lo hace 
+sobre el autoconcepto y los estilos cognitivos. Dayan, Doyle y Markie-
+wicz (2001) señalan que los CH tienen fuerte necesidad de afiliación y 
+se inclinan por el empleo de la búsqueda de apoyo social como estra-
+tegia de afrontamiento, en tanto que los IV y los IH son más asertivos, 
+aunque su autoestima se consolida a través del apoyo social de sus 
+mejores amigos; Nelson y Shavitt (2002) emplean la nueva taxonomía 
+para predecir las diferencias en la importancia adjudicada a los logros 
+obtenidos y al éxito.  
+ 
+Valores individuales y compromiso organizacional 
+El grado de compromiso del empleado con la empresa donde trabaja se 
+ha convertido en uno de los fenómenos más estudiados en los últimos 
+años. Una de las razones de tal interés es que los gerentes y directivos 
+han comenzado a darse cuenta de que para lograr ventajas competitivas 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+358 
+en una economía global es indispensable contar con recursos huma-
+nos identificados con los objetivos de la empresa. Además de ser una 
+de las alternativas más eficaces para la consecución de las metas orga-
+nizacionales, la importancia del compromiso organizacional (CO) radica 
+en su capacidad para influir sobre la eficiencia y el bienestar de los 
+miembros de una organización. El concepto se refiere al grado con que 
+las personas se identifican, están consustanciadas con sus organizacio-
+nes y dispuestas a continuar trabajando en ellas (Allen y Meyer, 1996). 
+Se ha observado que el compromiso que un empleado tiene con su or-
+ganización se vincula estrechamente con su comportamiento en el lugar 
+de trabajo. No obstante, la naturaleza y dirección de tales relaciones 
+son complejas y dependen del contexto y de las variables en estudio 
+(Meyer, Stanley, Herscovitch y Topolnytsky, 2002).  
+Inicialmente el constructo fue considerado como unidimensional 
+ya que se ponía el énfasis casi exclusivamente en el apego afectivo a la 
+organización (Mathieu y Zajack, 1990). No obstante, la concepción del 
+CO como un constructo multidimensional se ha ido fortaleciendo pau-
+latinamente (Greenberg y Baron, 1997). El modelo propuesto por Me-
+yer y Allen (1991) se encuadra en esta perspectiva. Estos autores con-
+cibieron al CO como un estado psicológico que caracteriza la relación 
+del empleado con su organización y que tiene implicaciones en su de-
+cisión de mantener o no su condición de miembro de esa organización. 
+Sintetizando las evidencias reunidas por estudios anteriores, Meyer, 
+Allen y Smith (1993) sostuvieron que el CO está constituido por tres 
+factores separados, asociados a la vinculación afectiva con la organiza-
+ción, a la percepción de los costos asociados a dejar el empleo y a la 
+obligación de permanecer en ella. Tales factores fueron designados, res-
+pectivamente, como compromiso afectivo, compromiso calculativo y com-
+promiso normativo. En síntesis, desde la perspectiva de Meyer y sus 
+colaboradores, el CO es una relación que se define por el deseo, la ne-
+cesidad y la obligación de permanecer en la organización.  
+El compromiso afectivo fue definido como los lazos emocionales 
+que unen al individuo con la organización. Allen y Meyer (1996) seña-
+laron que en el proceso de formación de tales lazos interviene la valora-
+ción que hace el empleado del apoyo y los beneficios recibidos por parte 
+de la empresa. Si sus evaluaciones son positivas, comenzará a perci-
+bir los objetivos de la empresa como si fueran sus propios objetivos y 
+deseará seguir perteneciendo a la misma porque la considera parte de su 
+ 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+359 
+vida. El compromiso calculativo fue considerado como la toma de con-
+ciencia por parte del empleado de los altos costos que generaría el hecho 
+de dejar la organización. El proceso de formación de este tipo de com-
+promiso se basa en un análisis de costo-beneficio. Antes de tomar una 
+decisión, el empleado evaluará los sacrificios realizados hasta ese mo-
+mento, los perjuicios que traería para su familia si dejara el empleo y 
+las posibilidades concretas de encontrar un nuevo empleo frente a las 
+alternativas laborales disponibles en el mercado. Si a resultas de tales 
+evaluaciones los costos de dejar la organización son mayores que los 
+beneficios, entonces optará por permanecer en la empresa por necesi-
+dad, más que por un deseo genuino. Su vínculo con ésta será produc-
+to de una decisión calculada, por lo que su pertenencia estará susten-
+tada en un compromiso de tipo calculativo. Finalmente, el compromiso 
+normativo ha sido definido como el sentimiento de deber o la obligación 
+de permanecer en la organización. En la formación de este tipo de com-
+promiso, tiene un peso preponderante el proceso de socialización al que 
+estuvo sometido el sujeto; vale decir, el respeto por las normas, la va-
+loración de los grupos de pertenencia, la lealtad al empleador y el reco-
+nocimiento de las inversiones que ha realizado la empresa en el desa-
+rrollo de la persona (por ejemplo, gastos en capacitación y entrenamien-
+to, asistencia para la educación de sus hijos, etc.). Esta presión nor-
+mativa genera en el empleado sentimientos de retribución que se tra-
+ducen en la obligación (o el deber) de seguir perteneciendo a la empresa 
+como una forma de reconocimiento. Su vínculo con ella no es el resul-
+tado del deseo ni la conveniencia, sino que refleja un sentimiento de 
+deber u obligación.      
+Luego de identificar y definir cada una de las dimensiones del CO, 
+Meyer y Allen (1991) señalaron que tales dimensiones pueden ser vi-
+venciadas al mismo tiempo en diferentes grados, aunque por lo general 
+siempre prevalece un tipo de CO que vincula al empleado con su em-
+presa. Indican también que el compromiso afectivo será el que tenga 
+consecuencias más positivas para el desarrollo de ésta. Desde el mo-
+mento en que los empleados establecen relaciones afectivas, basadas 
+en experiencias positivas y gratificantes vividas en el seno de su orga-
+nización, son los más identificados y los más dispuestos a sacrificarse 
+para el logro de las metas organizacionales. Por lo anterior, dichos autores 
+dejan entrever que toda organización que se esfuerza por desarrollar 
+ 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+360 
+el compromiso afectivo de sus miembros se verá gratificada con un plan-
+tel de empleados consustanciado con la empresa, con las consecuentes 
+ventajas corporativas que ello trae aparejado.  
+Existe amplio consenso entre los investigadores (cfr. Yousef, 2003) 
+en considerar al CO como un constructo constituido por los tres compo-
+nentes identificados por Allen y Meyer (1996), a pesar de algunas pro-
+puestas de operacionalización diferentes, como las de Blau (2003), quien 
+propone cuatro componentes (compromiso afectivo, compromiso norma-
+tivo, costos acumulados y alternativas limitadas), o la de Wang (2004), 
+quien identifica cinco componentes (compromiso afectivo, compromiso 
+normativo, compromiso calculativo pasivo, compromiso calculativo acti-
+vo y compromiso valorativo). Como resultado del proceso de validación 
+empírica de su modelo tridimensional, Allen y Meyer (1996) desarrolla-
+ron un instrumento de exploración con buenas cualidades psicométri-
+cas compuesto por 18 ítems, con ocho ítems para cada dimensión. 
+Estudios recientes han encontrado que las facetas afectiva y normativa 
+del CO se correlacionan positivamente, y ambas aparecen como predic-
+tores de comportamientos organizacionalmente positivos, incluyendo 
+aumentos en la calidad del trabajo, satisfacción laboral, permanencia 
+y asistencia (Meyer y cols., 2002). El compromiso calculativo, por otro 
+lado, no muestra correlaciones con el compromiso afectivo y se vincu-
+la negativamente con conductas organizacionalmente positivas. La úni-
+ca similitud entre los tres componentes del CO parece ser su vincula-
+ción con bajas intenciones de renunciar (o cogniciones de repliegue), 
+aunque los resultados de un metaanálisis conducido por Meyer y cols. 
+(2002) sugieren que no existe una fuerte relación entre el compromiso 
+calculativo y las intenciones de renunciar. Por ende, la pregunta que 
+ahora está instalada es si el compromiso calculativo puede ser visto 
+como una verdadera faceta del compromiso organizacional, sobre todo 
+porque el CO fue definido por Allen y Meyer (1996) como un estado psi-
+cológico que une al individuo con la organización y, llamativamente, 
+el compromiso calculativo no necesariamente supone un involucramiento 
+psicológico (Virtanen, 2000).  
+Simultáneamente a los estudios orientados a la operacionaliza-
+ción del constructo, la investigación sobre CO se viene preocupando 
+por identificar los antecedentes y correlatos de cada una de sus face-
+tas. De particular interés para el presente trabajo son las investiga-
+ciones referidas al impacto de la cultura nacional sobre el compromiso. 
+En uno de los primeros estudios en esta dirección, Cole, Kalleberg y 
+Lincoln (1993) argumentaron que la cultura puede influir en el compro-
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+361 
+miso del empleado mediante el desarrollo de creencias sobre las acti-
+tudes que se esperan de él, como en el caso de las empresas japone-
+sas, conocidas mundialmente por sus prácticas de incentivo a la par-
+ticipación de los empleados mediante programas de mejoramiento con-
+tinuo de la calidad. En esta misma línea de estudios, Pearson y Chong 
+(1997) demostraron que los valores colectivistas explican una porción 
+significativa del CO entre los trabajadores malasios, y Parkes, Bochner 
+y Schneider (2001) también constatan una asociación positiva entre la 
+orientación colectivista y el CO, explicando que el compromiso surge 
+como una retribución a las relaciones más familiares y protectoras 
+entre patrones y empleados que se establecen en las culturas colecti-
+vistas. Finegan (2000) encontró que los valores organizacionales per-
+cibidos –vale decir, los valores que el empleado cree que maneja la 
+organización– se vinculan en gran medida con su tipo y nivel de CO. Al 
+respecto, observó que el compromiso afectivo y el normativo eran ma-
+yores cuando los empleados percibían que la organización manejaba 
+valores humanitarios (cortesía y cooperación) y visionarios (creatividad 
+y apertura al cambio). El compromiso calculativo, en cambio, caracteri-
+zó a los empleados que percibían que sus organizaciones se identifica-
+ban con valores económicos, obediencia y formalidad. A pesar de tales 
+evidencias, otras perspectivas han puesto en duda las relaciones en-
+tre valores culturales y CO. Palich, Hom y Griffeth (1995), por ejemplo, 
+mostraron que si bien algunas variables tales como recompensas ex-
+trínsecas y percepción de justicia son buenos predictores del compromi-
+so afectivo, la cultura no surge como un predictor idóneo; por consi-
+guiente, estos autores concluyen señalando que posiblemente el CO 
+no podría tener vínculos con la cultura, si bien puntualizan algunas 
+limitaciones de su trabajo, tales como haber empleado una sola faceta 
+del constructo (compromiso afectivo) y analizado los datos en el ámbito 
+grupal-nacional. Por ello, recomendaron que en futuras investigaciones 
+se usen los puntajes individuales, ya que se ha demostrado que los 
+valores culturales de los individuos difieren dentro de las culturas na-
+cionales. Tales controversias justifican nuevos estudios que permitan 
+aclarar el papel de la cultura sobre el compromiso con la organización.  
+El propósito de la presente investigación fue contribuir a un me-
+jor conocimiento del rol del individualismo y del colectivismo vertical y 
+horizontal sobre el CO. Más específicamente, verificar la capacidad de 
+la reconceptualización axiológica de Triandis (IV-IH-CV-CH) para detectar 
+diferencias en la orientación cultural de las personas dentro de una 
+misma cultura, y examinar cómo influye la orientación cultural en el 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+362 
+tipo y grado de compromiso que vincula al empleado con su organiza-
+ción, sobre todo porque hasta el momento la investigación ha estado 
+dedicada al estudio del individualismo y del colectivismo entre culturas 
+(Dutta-Bergman y Wells, 2002; Ferreira, Assmar, Omar y cols., 2006; 
+Omar, Uribe, Ferreira y cols., 2007) y podría ser esclarecedor emplear 
+la tipología del individualismo y del colectivismo vertical y horizontal 
+dentro de una misma cultura (Shavitt, Zhang, Torelli y Lalwani, 2006).  
+ 
+ 
+MÉTODO 
+Participantes 
+Se estudió una muestra por disponibilidad, integrada por 429 emplea-
+dos argentinos (228 varones y 201 mujeres) de empresas radicadas en 
+las zonas centro y sur del país (Tabla 1). El promedio de edad fue de 
+35.2 años y la antigüedad laboral promedio fue de 4.6 años. El 82% 
+de la muestra tenía estudios secundarios completos o universitarios 
+incompletos, y el 18% restante tenía estudios universitarios completos 
+y ocupaba puestos gerenciales o de cierta responsabilidad. Los sujetos 
+fueron contactados en sus respectivos lugares de trabajo y, luego de 
+hacerles conocer los objetivos del estudio, se les invitó a responder un 
+cuadernillo integrado por una hoja de datos personales y por los reac-
+tivos que se describen adelante. Se les garantizó el anonimato y el em-
+pleo confidencial de la información suministrada.  
+Tabla 1. Características sociodemográficas de la muestra (N = 429). 
+Variables sociodemográficas 
+(%) 
+Varones  
+53 
+Sexo 
+Mujeres 
+47 
+Secundario completo 
+52 
+Universitario incompleto 
+30 
+Escolaridad 
+Universitario completo 
+18 
+No gerencial 
+82 
+Cargo 
+Gerencial 
+18 
+Hasta 10 empleados 
+27 
+De 11 a 20 empleados 
+45 
+Tamaño de la empresa 
+De 21 a 50 empleados 
+28 
+Edad 
+Media = 35.20; s = 3.65  
+ 
+Antigüedad 
+Media = 4.60; s = 1.20 
+ 
+ 
+ 
+ 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+363 
+Instrumentos  
+Variables personales  
+A cada empleado se le solicitó información acerca de su edad, género, 
+escolaridad, cargo y antigüedad laboral. La edad y la antigüedad laboral 
+fueron medidas por extenso. Género y cargo fueron operacionalizados co-
+mo variables dummy (1 = varón y 2 = mujer, y 1 = no gerencial y 2 = geren-
+cial), respectivamente. Se empleó una codificación basada en esca-
+las de tres puntos para la operacionalización del nivel de escolaridad 
+(1 = secundario completo, 2 = universitario incompleto y 3 = universita-
+rio completo) y el tamaño de la empresa (1 = hasta 10 empleados, 2 = de 
+11 a 20 empleados y 3 = de 21 a 50 empleados).     
+ 
+Colectivismo e individualismo vertical y horizontal 
+La orientación axiológica fue explorada mediante la versión validada 
+por Omar (2005) de la Escala de Individualismo-Colectivismo desarro-
+llada por Singelis y cols. (1995). Integrada por 32 ítems con formato 
+Likert de cinco puntos, con recorrido de 1 (totalmente en desacuerdo) a 
+5 (totalmente de acuerdo), la escala evalúa cada una de las cuatro di-
+mensiones del individualismo-colectivismo mediante ocho ítems cada 
+una. La dimensión IH enfatiza la independencia y la autonomía (p. e., 
+“Me gusta ser único y diferente a los otros de muchas maneras”, “Pre-
+fiero ser directo y franco cuando discuto con la gente”). La dimensión 
+IV enfatiza el poder y la competencia (p. e., “Ganar es todo”, “Para mí 
+es importante hacer mi trabajo mejor que los demás”). La dimensión 
+CH se caracteriza por la cooperación y la preservación de la armonía 
+grupal (p. e., “Me siento bien cuando colaboro con los demás”, “Para 
+mí es importante mantener la armonía dentro de mi grupo”). La di-
+mensión CV privilegia las metas grupales sobre las individuales y el 
+respeto por superiores y autoridades (p. e., “Haría lo que agrade a mi 
+familia, aun cuando a mí no me guste esa actividad”, “A los niños se 
+les debe enseñar el deber antes que el placer”). El índice de consisten-
+cia interna (alfa de Cronbach) de la escala total fue de 0.84 y las dimen-
+siones alcanzaron índices superiores a 0.75.  
+ 
+Compromiso organizacional 
+El CO fue explorado a través de la escala tridimensional desarrollada por 
+Allen y Meyer (1996), validada para su empleo con muestras argentinas 
+por Omar (2005). Integrada por 18 ítems con formato Likert de cinco 
+puntos, con recorrido de 1 (totalmente en desacuerdo) a 5 (totalmente 
+de acuerdo), la escala evalúa cada uno de los tres tipos de CO a través 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+364 
+de seis ítems cada uno. El compromiso afectivo (p. e., “Estaría feliz si 
+pasara el resto de mi carrera en la empresa donde trabajo”, “Siento co-
+mo si los problemas de la empresa fueran míos”); el compromiso nor-
+mativo (p. e., “Me sentiría culpable si abandono mi empresa”, “Esta or-
+ganización merece mi lealtad”) y el compromiso calculativo (p. e., “Sien-
+to que tengo pocas opciones de trabajo como para dejar mi organiza-
+ción”, “Si no hubiera dado tanto de mí a la empresa, podría conside-
+rar cambiar de trabajo”). Los índices de consistencia interna (alfa de 
+Cronbach) de la versión empleada en el presente estudio fueron de 
+0.82 para el compromiso afectivo, de 0.73 para el normativo y de 0.76 
+para el calculativo. 
+ 
+ 
+RESULTADOS 
+En primer lugar, y considerando la muestra inicial de 429 empleados, 
+se obtuvieron las medianas, medias y desvíos típicos correspondientes 
+a cada una de las orientaciones axiológicas exploradas mediante la 
+escala de Singelis y cols. (1995). En la Tabla 2 se presentan los res-
+pectivos índices descriptivos. 
+Tabla 2. Índices descriptivos correspondientes a cada una de las orientacio-
+nes axiológicas (N = 429). 
+Orientaciones axiológicas 
+Mediana Media Desvío 
+Individualismo horizontal (IH) 
+3.10 
+3.19 
+0.90 
+Individualismo vertical (IV) 
+2.05 
+2.11 
+0.81 
+Colectivismo horizontal (CH) 
+3.65 
+3.69 
+0.86 
+Colectivismo vertical (CV) 
+3.30 
+3.43 
+1.01 
+ 
+A continuación, y con el propósito de explorar las relaciones entre la 
+orientación cultural dominante de cada empleado y el CO con su empre-
+sa, se procedió a dicotomizar cada variable axiológica en función del va-
+lor de la mediana. Este procedimiento permitió conformar un total de 
+ocho subgrupos. A partir de ellos, se seleccionaron los cuatro más 
+representativos, considerándose como tales los que exhibían altos pun-
+tajes en sólo una de las cuatro dimensiones axiológicas y bajos en las 
+restantes tres dimensiones axiológicas. Los cuatro subgrupos represen-
+tativos de IH, IV, CH y CV quedaron integrados por 36, 29, 45 y 52 su-
+jetos, respectivamente, totalizando 162 sujetos, por lo que a posteriori 
+se analizaron las relaciones entre la orientación cultural y los tipos de 
+CO solamente en estos cuatro subgrupos. Dentro de cada subgrupo 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+365 
+axiológico se calculó la media de cada tipo de CO (Tabla 3), información 
+que fue empleada para el cálculo de análisis de la varianza simple 
+(ANOVA). 
+Tabla 3. Medias de los diferentes tipos de compromiso organizacional (CO) 
+correspondientes a cada uno de los cuatro subgrupos axiológicos 
+(N = 162). 
+CO 
+IH 
+IV 
+CH 
+CV TOTAL 
+Afectivo 
+2.96 3.02 4.25 3.60 
+3.46 
+Normativo 
+3.85 3.16 1.92 2.53 
+2.87 
+Calculativo 
+3.79 4.07 3.21 3.16 
+3.56 
+ 
+Los ANOVA ejecutados para comparar las diferencias de medias de tres 
+o más grupos simultáneamente revelaron que tanto el compromiso 
+afectivo (F(3, 159) = 5.72; p = 0.001) como el normativo (F(3, 159)= 3.87; 
+p = 0.01) fueron significativamente diferentes entre los cuatro grupos. 
+Comparaciones a posteriori mediante el test de Tukey mostraron que los 
+sujetos del grupo CH tenían más compromiso afectivo (media = 4.25) 
+que los del grupo de CV (media = 3.60; p < 0.01) y que los grupos de 
+individualistas (p = 0.02), en tanto que los sujetos del grupo IV recono-
+cían más compromiso calculativo (media = 4.07) que los restantes subgru-
+pos axiológicos. En términos generales, al ordenar los subgrupos axioló-
+gicos en función del monto de compromiso afectivo (CH > CV > IV > IH), se 
+observó que este tipo de compromiso fue mayor entre los colectivistas 
+que entre los individualistas; en cambio, tanto el compromiso normati-
+vo (IH > IV > CV > CH) como el calculativo (IV > IH > CH > CV) mostraron ser 
+más fuertes entre los individualistas que entre los colectivistas.  
+Finalmente, a efecto de verificar la incidencia de los factores socio-
+culturales sobre el compromiso entre los diferentes subgrupos axioló-
+gicos, se procedió a calcular los coeficientes de correlación entre las 
+variables exploradas. La Tabla 4 muestra la matriz de correlaciones en-
+tre la totalidad de dichas variables. 
+Como se desprende de dicha tabla, los coeficientes de correla-
+ción obtenidos confirman la mayor tendencia al compromiso afectivo por 
+parte de los colectivistas (horizontales y verticales), así como la preva-
+lencia del compromiso normativo y calculativo entre los individualistas 
+(horizontales y verticales). En lo que hace a las relaciones entre las carac-
+terísticas sociodemográficas de los empleados y el tipo de CO que los 
+ 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+366 
+Tabla 4. Matriz de correlaciones entre la totalidad de las variables estudiadas 
+(N = 162). 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+1. IH  
+– 
+.019 
+.002 
+.010 
+.114 
+.367** .297** 
+.035 
+.110 
+.251** 
+.147 
+.165 
+2. IV 
+ 
+– 
+.101 
+.097 
+.124 
+.286** .344** 
+.056 
+.059 
+.307** 
+.116 
+.157 
+3. CH  
+ 
+ 
+– 
+.116 .320** 
+.197* 
+.121 
+.101 
+.184* 
+–.185* 
+.098 
+–.340** 
+4. CV  
+ 
+ 
+ 
+– 
+.278** 
+.181* 
+.109 
+.018 
+.172 
+–.133 
+.134 
+–.276** 
+5. C afectivo 
+ 
+ 
+ 
+ 
+– 
+.015 
+.077 
+.527** .471** –.409** –.216** –.521** 
+6. C normativo  
+ 
+ 
+ 
+ 
+ 
+– 
+.104 
+.211** .356** 
+.287** 
+.316** 
+.321** 
+7. C calculativo 
+ 
+ 
+ 
+ 
+ 
+ 
+– 
+.115 
+.098 
+.144 
+.112 
+.176 
+8. Antigüedad  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– 
+.165 
+.355** 
+.098 
+.223** 
+9. Género 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– 
+–.182* 
+.178 
+.118 
+10. Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– 
+.618** 
+.127 
+11. Escolaridad  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– 
+.174 
+12. Tamaño E.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– 
+* p < 0.01; ** P < 0.001  
+ 
+vincula con su empresa, se observa que el compromiso afectivo se vin-
+cula positivamente con la antigüedad y el género de los empleados, aun-
+que negativamente con el cargo, el nivel de escolaridad y el tamaño de 
+la empresa. A su vez, mientras que el compromiso normativo se aso-
+cia positiva y significativamente con la totalidad de las variables so-
+ciodemográficas consideradas, el compromiso calculativo no muestra 
+asociaciones significativas con tales variables.  
+ 
+ 
+DISCUSIÓN 
+Los valores han sido definidos como principios que guían la vida (Sch-
+wartz, 1992) y orientan la conducta de las personas, incluidos los 
+asociados con el trabajo (Schwartz, 1999). De allí que muchos estu-
+dios actuales se centren en la congruencia entre los valores de los in-
+dividuos y los de las organizaciones donde trabajan, en sintonía con 
+las observaciones de Dose (1997), quien señala que como gran parte 
+del tiempo transcurre en entornos laborales, los valores asociados al 
+trabajo son particularmente importantes y relevantes. Y si bien la orien-
+tación cultural ha sido abordada predominantemente en los estudios 
+transculturales, la tendencia actual se orienta al análisis de los valores 
+individuales dentro de una misma cultura. El presente estudio se ins-
+cribe en esta tendencia, y con ese propósito se ha adoptado el esque-
+ma clasificatorio propuesto por Triandis, basado en los cuatro tipos 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+367 
+axiológicos (IH, IV, CH y CV), como herramienta idónea para examinar 
+el rol de la orientación cultural individual sobre el tipo y grado de com-
+promiso que vincula al empleado con su organización.   
+A partir de la clasificación de los sujetos en cuatro grupos de 
+acuerdo a su predisposición cultural, los resultados obtenidos confir-
+man y clarifican las vinculaciones entre la orientación axiológica indivi-
+dual y el compromiso organizacional. Aunque clasificados como colec-
+tivistas por investigaciones previas (Hofstede, 1980, 1997; Schwartz, 
+1994), los miembros de la cultura argentina exhiben diferencias en 
+cuanto a sus orientaciones culturales, lo que a su vez explicaría sus 
+diferentes tipos de compromiso con la organización donde se desempe-
+ñan. Al respecto, pareciera que los empleados con mayor orientación al 
+colectivismo –sea horizontal, sea vertical– desarrollan mayor nivel de 
+compromiso afectivo, en tanto que los más orientados al individualismo 
+se vinculan con sus organizaciones a través del compromiso normati-
+vo y calculativo.  
+En lo que hace a las variables sociodemográficas, y en coinci-
+dencia con lo informado por Van Breukelen, Van der Vlist y Steensma 
+(2004), son las mujeres y los empleados con mayor antigüedad quie-
+nes exhiben mayores niveles de compromiso afectivo y normativo. Los 
+empleados menos escolarizados y los que ocupan cargos de menor je-
+rarquía se sienten unidos a sus empresas mediante lazos afectivos, a 
+diferencia de los que han completado sus estudios superiores y de quie-
+nes ocupan cargos gerenciales, los que reconocen que su permanen-
+cia en la organización obedece a sentimientos de deber, lealtad y re-
+conocimiento por lo que la empresa ha hecho por ellos (compromiso 
+normativo). Por su parte, los empleados de empresas pequeñas (hasta 
+diez empleados) y medianas (entre once y veinte) demuestran mayor 
+compromiso afectivo que los empleados de empresas grandes (más de 
+veinte empleados), quienes a su vez se sienten unidos a sus organiza-
+ciones a través del compromiso normativo (sentimientos de deber y obli-
+gación de permanecer en la empresa). Estas vinculaciones entre CO y 
+tamaño de la empresa están en sintonía con los hallazgos comunica-
+dos por Latting, Beck, Snack y cols. (2004), quienes observan que los 
+grupos pequeños incrementan las interacciones sociales y contribuyen 
+al desarrollo y fortalecimiento del compromiso afectivo entre sus miem-
+bros. Asimismo, el tamaño de la empresa tiene asociaciones significa-
+tivas con la orientación axiológica del empleado desde el momento en 
+que los colectivistas (horizontales o verticales) parecen preferir las em-
+presas pequeñas o medianas, posiblemente porque encuentran que en 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+368 
+las empresas pequeñas se fortalecen sus necesidades de trabajar en 
+grupo, se relacionan emocionalmente con sus compañeros y se esfuer-
+zan en el logro de los objetivos grupales. En este sentido, resultan parti-
+cularmente ilustrativas las observaciones de Finegan (2000) cuando se-
+ñala que las empresas desarrollan sus propias culturas y tienden a 
+atraer gente con similares características, incluyendo sus valores.  
+El compromiso calculativo, por su parte, pareciera operar de mo-
+do diferente al normativo y al afectivo, pues no aparece vinculado con 
+ninguna de las variables sociodemográficas exploradas. Frente a este 
+comportamiento diferencial, la pregunta de si el compromiso calcula-
+tivo constituye una verdadera faceta del CO (Meyer y cols., 2002) vuel-
+ve a ocupar el centro de la escena, por lo que se imponen nuevas inves-
+tigaciones con el objetivo de verificar su pertenencia o no a la red no-
+mológica del constructo.  
+Para evaluar los hallazgos y las contribuciones del presente es-
+tudio se deben tomar en cuenta las limitaciones de su diseño. Al res-
+pecto, no hay que perder de vista que todas las variables fueron me-
+didas al mismo tiempo y con la misma muestra, lo que puede haber 
+ocasionado algunos sesgos. A su vez, como los datos fueron recolecta-
+dos en un mismo país, habría que tener cautela al momento de inten-
+tar generalizar los resultados obtenidos, sobre todo los vinculados a los 
+colectivistas.  
+Desde el trabajo pionero de Hofstede (1980), Argentina se ha ubi-
+cado entre los países colectivistas (Schwartz, 1994); sin embargo, como 
+lo ha señalado Kagitcibasi (1997), a medida que crece la urbanización 
+de los países en vías de desarrollo decrece la interdependencia inter-
+generacional, lo que contribuye a disminuir el colectivismo y aumen-
+tar el individualismo. Por lo tanto, es importante considerar si esa par-
+ticular circunstancia tiene alguna implicación en los resultados del 
+presente estudio. Finalmente, si bien esta investigación provee infor-
+mación preliminar sobre las relaciones entre orientación cultural y CO, 
+se necesitarían nuevas verificaciones para entender y explicar mejor el 
+rol de cada una de las orientaciones axiológicas en la determinación 
+de estos estados psicológicos particulares dentro de una misma cul-
+tura. Sobre esto, el empleo de enfoques cualitativos basados en obser-
+vaciones empíricas en el lugar de trabajo podría ser una contribución 
+importante.  
+ 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+369 
+REFERENCIAS 
+Allen, N.J. y Meyer, J.P. (1996). Affective, continuance and normative commitment 
+to the organization: An examination of construct validity. Journal of Vocational 
+Behavior, 49, 252–276.  
+Blau, G. (2003). Testing for a four-dimensional structure of occupational commitment 
+(Part 4). Journal of Occupational and Organizational Psychology, 76, 469-488. 
+Cole, R.E., Kalleberg, A.L. y Lincoln, J.R. (1993). Assessing commitment in the United 
+States and Japan: A comment on Besser. American Sociological Review, 58, 
+882-885. 
+Dayan, J., Doyle, A.B. y Markiewicz, D. (2001). Social support networks and self-
+esteem of idiocentric and allocentric children and adolescents. Journal of So-
+cial and Personal Relationships, 18, 767-784. 
+Dose, J.J. (1997). Work values: An integrative framework and illustrative applica-
+tion to organizational socialization. Journal of Occupational and Organizational 
+Psychology, 70, 219–240. 
+Dutta-Bergman, M.J. y Wells, W.D. (2002). The values and lifestyles of idiocentrics 
+and allocentrics in an individualist culture: A descriptive approach. Journal of 
+Consumer Psychology, 12(3), 231-242.  
+Ferreira, C., Assmar, E., Omar, A., Uribe, H., Terrones, A. y Galaz, M. (2006). Indivi-
+dualismo e colectivismo, percepçòes de justiça e comprometimento em orga-
+nizaçóes latino-americanas. Revista Interamericana de Psicologia, 40(2), 53-62.  
+Finegan, J.E. (2000). The impact of person and organizational values on organiza-
+tional commitment. Journal of Occupational and Organizational Psychology, 
+73(2), 149-169. 
+Greenberg, J. y Baron, R.A. (1997). Behavior in organizations. Trenton, NJ: Prentice-
+Hall. 
+Hattrup, K., Mueller, K. y Joems, I. (2007). The effects of nations and organizations 
+on work value importance: a cross-cultural investigation. Applied Psychology: 
+An International Review, 56(3), 479-499. 
+Hofstede, G. (1980). Culture’s consequences. New York: Sage. 
+Hofstede, G. (1997). Cultures and organizations: Software of the mind. New York: 
+McGraw-Hill. 
+Kagitcibasi, C. (1997). Individualism and collectivism. En J.W. Berry, M.H. Segall y 
+C. Kagitcibasi (Eds.): Handbook of Cross-Cultural Psychology (pp. 2-49). Bos-
+ton: Allyn & Bacon. 
+Kurman, J. y Sriram, N. (2002). Interrelationships among vertical and horizontal 
+collectivism, modesty, and self-enhancement. Journal of Cross-Cultural 
+Psychology, 33(1), 71-86.  
+ 
+ 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+370 
+Latting, J.K., Beck, M.H.,  Slack, K.J., Tetrick , L.E., Jones, A.P., Etchegaray, J.M. y 
+Da Silva, N. (2004). Promoting service quality and client adherence to the 
+service plan: The role of top management's support for innovation and learning. 
+Administration in Social Work, 28(2), 29-48. 
+Leung, K. (1997). Negotiation and reward allocations across cultures. En P. C. Ear-
+ley y M. Erez (Eds.): New perspectives on international industrial and organ-
+izational psychology (pp. 640-675). San Francisco, CA: Lexington Press. 
+Mathieu, J.E. y Zajac, D.M. (1990). A review and meta-analysis of the antecedents 
+and consequences of organizational commitment. Psychological Bulletin, 108, 
+171-194. 
+Meyer, J.P. y Allen, N.J. (1991). A three component conceptualization of organiza-
+tional commitment. Human Resource Management Review, 1, 61-89. 
+Meyer, J.P., Allen, N.J. y Smith, S. (1993). Commitment to organizations and occu-
+pations: Extension and test of a three-component conceptualization. Journal 
+of Applied Psychology, 78, 538-551. 
+Meyer, J.P., Stanley, D.J., Herscovitch, L. y Topolnytsky, L. (2002). Affective, con-
+tinuance and normative commitment to the organization: A meta-analysis of 
+antecedents, correlates and consequences. Journal of Vocational Behavior, 
+61, 20-52.  
+Nelson, M.R. y Shavitt, S. (2002). Horizontal and vertical individualism and achieve-
+ment values. A multimethod examination of Denmark and United States. 
+Journal of Cross-Cultural Psychology, 33, 439-458. 
+Ohbuchi, K.I., Fukishima, O, y Tedeschi, J.T. (1999). Cultural values in conflict man-
+agement: goal orientation, goal attainment, and tactical decision. Journal of 
+Cross-cultural Psychology, 30, 51-71. 
+Omar, A. (2005). La cultura organizacional de las empresas argentinas. Rosario (Ar-
+gentina): Conicet. 
+Omar, A., Uribe, H., Ferreira, C., Assmar, E., Terrones, A. y Galaz, M. (2007). Colec-
+tivismo, justicia y ciudadanía organizacional en empresas argentinas, mexi-
+canas y brasileras. Revista Mexicana de Psicología, 24(1), 101-116. 
+Oyserman, D., Coon, H. y Kemmelmeier, M. (2002). Rethinking individualism and 
+collectivism: Evaluation of theoretical assumptions and meta-analyses. Psy-
+chological Bulletin, 128, 3-73. 
+Oyserman, D., Kemmelmeier, M. y Coon, H. (2002). Cultural psychology, a new 
+look. Psychological Bulletin, 128, 110-117. 
+Palich, L.E., Hom, P.W. y Griffeth, R.W. (1995). Managing in the international con-
+text: Testing the cultural generality of sources of commitment to multinational 
+enterprises. Journal of Management, 21, 671-690. 
+Parkes, L.P., Bochner, S. y Schneider, S.K. (2001). Person-organization fit across 
+cultures: An empirical investigation of individualism and colectivism. Applied 
+Psychology: An International Review, 50, 81-108. 
+ 
+  ENSEÑANZA E INVESTIGACIÓN EN PSICOLOGÍA    VOL. 13, NUM. 2: 353-372   JULIO-DICIEMBRE, 2008 
+ 
+371 
+Pearson, C.A. y Chong, C. (1997). Contribution of job content and social information 
+on organizational commitment and job satisfaction: an exploration in a Malay-
+sian nursing context. Journal of Organizational and Occupational Psychology, 
+70, 357-374. 
+Ramamoorthy, N. y Flood, P. (2002). Employee attitudes and behavioral intentions: 
+A test of the main and moderating effects of individualism-collectivism orien-
+tations. Human Relations, 55, 1071-1096. 
+Schwartz, S.H. (1992). Universals in the content and structure of values: Theoreti-
+cal advances and empirical tests in 20 countries. Advances in Experimental 
+Social Psychology, 25, 1-65. 
+Schwartz, S.H. (1994). Beyond individualism-collectivism: New cultural dimensions 
+of values. En U. Kim, H. Triandis, C. Kagitcibasi, S.C. Choi y G. Yoon (Eds.): 
+Individualism and collectivism: Theory, method and applications (pp. 85-119). 
+Thousand Oaks, CA: Sage. 
+Schwartz, S.H. (1999). A theory of cultural values and some implications for work. 
+Applied Psychology: An International Review, 48(1), 23-47. 
+Shavitt, S., Zhang, J., Torelli, J. y Lalwani, A.K. (2006). Reflections on the meaning 
+and structure of the horizontal/vertical distinction. Journal of Consumer 
+Psychology, 16(4), 354-362. 
+Singelis, T.M., Triandis, H.C., Bhawuk, D. y Gelfand, M.J. (1995). Horizontal and 
+vertical dimensions of individualism and collectivism: A theoretical and mea-
+surement refinement. Cross-Cultural Research, 29, 240-275.  
+Smith, P.B. y Bond, M.H. (1993). Social psychology across cultures: Analysis and  
+perspectives. Boston: Allyn & Bacon. 
+Smith, P.B. y Bond, M.H. (1999). Social psychology across cultures. Boston: Allyn & 
+Bacon. 
+Triandis, H.C. (1995). Individualism and collectivism. Boulder, CO: Westview. 
+Triandis, H.C. (2001). Individualism-collectivism and personality. Journal of Persona-
+lity, 69, 907-924.  
+Triandis, H.C., Chen, X.P. y Chan, D.K. (1998). Scenarios for the measurement of 
+collectivism and individualism. Journal of Cross-Cultural Psychology, 29(2), 
+275-289. 
+Triandis, H.C. y Gelfand, M.J. (1998). Converging measurement of horizontal and 
+vertical individualism and collectivism. Journal of Personality and Social Psy-
+chology, 74(1), 118-128. 
+Triandis, H.C. y Suh, E.M. (2002). Cultural influences on personality. Annual Re-
+view of Psychology, 53, 133-160. 
+Van Breukelen, W., Van Der Vlist, R. y Steensma, H. (2004). Voluntary employee 
+turnover: combining variables from the “traditional” turnover literature with 
+the theory of planned behavior. Journal of Organizational Behavior, 25(7), 
+893-914. 
+ 
+VALORES PERSONALES Y COMPROMISO ORGANIZACIONAL 
+ 
+ 
+372 
+Virtanen, T. (2000). Commitment and the study of organizational culture and climate. 
+En N.M. Ashkanasy, C.P.M. Wilderom y M.F. Peterson (Eds.): Handbook of 
+organizational culture and climate (pp. 339-354). Thousand Oaks, CA: Sage. 
+Wangy, Y. (2004). Observations on the organizational commitment of Chinese em-
+ployees: Comparative studies of state-owned enterprises and foreign-
+invested enterprises. The International Journal of Human Resource Manage-
+ment, 15(4-5), 649-669. 
+Yousef, D.A. (2003). Validating the dimensionality of Porter et al.’s measurement of 
+organizational commitment in a non-Western setting. International Journal 
+of Human Resource Management, 14, 1067-1079. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

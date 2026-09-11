@@ -1,0 +1,1291 @@
+  UNIV. PSYCHOL.    BOGOTÁ, COLOMBIA    V. 9    NO. 1    PP. 79-92    ENE-ABR    2010    ISSN 1657-9267    
+  79 
+El impacto de la cultura nacional 
+sobre la cultura organizacional*
+The Impact of National Culture on the Organizational Culture
+Recibido: febrero 14 de 2009        Revisado: mayo 20 de 2009        Aceptado: mayo 30 de 2009
+ 
+ALICIA OMAR **
+ 
+Consejo Nacional de Investigaciones Científicas  
+ 
+y Tecnológicas, Argentina
+ 
+ALICIA FLORENCIA URTEAGA ***
+ 
+Universidad Nacional de Entre Ríos, Argentina
+R E S U M E N
+Se analizaron las relaciones entre la cultura nacional y la cultura organi-
+zacional en 16 empresas argentinas. La muestra estuvo integrada por 429 
+empleados (292 varones y 184 mujeres), con una edad promedio de 35 
+años. Los sujetos completaron un cuestionario de datos sociodemográfi-
+cos y las escalas de cultura nacional y de prácticas organizacionales en sus 
+respectivos lugares de trabajo. Los resultados obtenidos indicaron que las 
+prácticas implementadas por las empresas reflejan, en término medio, los 
+valores de la cultura de origen de la organización. Análisis de regresión 
+múltiple mostraron que las empresas nacionales argentinas se caracterizan 
+por prácticas estrechamente vinculadas con el colectivismo, alta distancia 
+al poder y alta evitación de la incertidumbre. En tanto que las empresas 
+privadas se destacan por la implementación de prácticas asociadas con el 
+individualismo, baja distancia al poder, baja evitación de la incertidumbre, 
+bajo paternalismo y bajo fatalismo. Se discuten los resultados a la luz de las 
+fortalezas y debilidades de la investigación. 
+Palabras clave autores
+Cultura nacional, valores, cultura organizacional, prácticas.
+Palabras clave descriptor
+Cultura corporative, nacionalismo y cultura, valores culturales.
+A B S T R A C T
+The relationships between national culture and organizational culture we-
+re analysed in 16 Argentinean companies. Sample was integrated by 429 
+employees (292 male, and 184 female), mean age 35 years old. Subjects 
+completed, in their own work places, a socio-demographic questionnaire, 
+a scale of national culture, and a scale of organizational practices. Results 
+indicated that organizations adopt practices that, on average, reflect the 
+cultural values of their country of origin. Multiple regression analysis showed 
+that Argentinean national companies are characterized by practices closely 
+associated with collectivism, high power distance, and high uncertainty 
+avoidance. In contrast, Argentinean privatized companies adopted practices 
+most linked to individualism, low power distance, low uncertainty avoidan-
+ce, low paternalism, and low fatalism. The results are discussed in light of its 
+strengths and weaknesses, and a new agenda for future research is suggested.
+Key words authors
+National Culture, Values, Organizational Culture, Practice. 
+Key words plus
+Corporate Culture, Cultural Nationalism, Cultural Valúes.
+*  El presente trabajo se realizó en el marco del pro-
+yecto PID-0506-CONICET.
+**  Instituto de Investigaciones-Facultad de Humanida-
+des y Artes, Universidad Nacional de Rosario, Italia 
+1365 (2000) Rosario-Argentina. Correo electrónico: 
+agomar@arnet.com.ar 
+***  Facultad de Ciencias Agrarias, Universidad Nacio-
+nal de Entre Ríos, Ruta 11, km 9,5 (3101) Paraná-
+Argentina. 
+ 
+Correo electrónico: furteaga@fca.uner.edu.ar
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+80     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+Desde la década de los años de 1990, la creciente 
+globalización de la economía ha hecho que los 
+procesos de fusión, expansión y adquisición de 
+empresas se convirtieran en procedimientos cada 
+vez más frecuentes, en el escenario mundial. Estos 
+procesos basados, casi exclusivamente, en criterios 
+económicos y competitivos han descuidado, por lo 
+general, los aspectos humanos y culturales subya-
+centes. De allí que ha sido frecuente observar los 
+problemas de adaptación, tanto de los empleados 
+a prácticas organizacionales oriundas de otros con-
+textos culturales como de los gerentes provenientes 
+de otras culturas, a las prácticas locales. La génesis de 
+tales problemas, desde la óptica de los científicos 
+sociales, debería buscarse en las diferencias de 
+valores entre la cultura de origen de la empresa y 
+la cultura local. Frente a este escenario, el estudio 
+de la cultura nacional, y sus implicancias para las 
+empresas y sus miembros, viene capturando la 
+atención de psicólogos sociales y organizacionales. 
+El constructo “cultura” ha sido definido de 
+muy diversas formas a través de los años. Hofs-
+tede (1980) la consideró como el conjunto de 
+programas mentales que controlan las respuestas 
+de un individuo en un contexto dado; el Proyecto 
+GLOBO la definió como la matriz de motivos, 
+valores, creencias y significados compartidos por 
+los miembros de un grupo y transmitidos a través 
+de las generaciones (House, Hanges, Javidan, 
+'RUIPDQ	*XSWDHQWDQWRTXH$ODV\
+Tuulik (2007) la describieron como el sistema de 
+creencias, ideologías, lenguaje, historia y herencia 
+étnica compartidos. 
+A pesar que no existe consenso internacional 
+sobre la definición del término, existe acuerdo 
+entre los especialistas (Hofstede, 2001; Triandis, 
+2000), de que el núcleo de la cultura está cons-
+tituido por los valores. Los valores son objetivos 
+deseables y trans-situacionales, que orientan con-
+ductas y sirven como principios que guían la vida 
+GHODVSHUVRQDV)LVKHU	/RZHOO'HDOOt
+que el estudio de la cultura se viene realizando 
+principalmente a través de un conjunto de valores 
+derivados de análisis teóricos y estudios empíricos 
+$ODV	7XXOLN2PDU	8UWHDJD
+YDQ5HNRPYDQ5LHO	:LHUHQJD(QXQR
+de los primeros estudios en esta dirección, realiza-
+do con empleados de 53 subsidiarias de una gran 
+compañía multinacional (IBM), Hofstede (1980, 
+2001) identificó cuatro valores básicos que fueron 
+rotulados como distancia al poder, individualis-
+mo-colectivismo, evitación de la incertidumbre y 
+masculinidad-femineidad. 
+La distancia al poder es el grado en que los miem-
+bros menos poderosos de la sociedad esperan que 
+el poder se distribuya desigualmente. En países con 
+una gran distancia al poder (por ejemplo, China) 
+las organizaciones son muy centralizadas, la rela-
+ción entre jefes y subordinados está estrictamente 
+reglamentada, las desigualdades y los privilegios 
+son normales y las diferencias salariales son muy 
+marcadas. En cambio, en países con poca distancia 
+al poder (Austria, Dinamarca) las relaciones inter-
+personales son más democráticas, las personas se 
+relacionan como iguales a pesar de las posiciones 
+formales que ocupan, y los subordinados se sienten 
+con el derecho de criticar las decisiones tomadas 
+por aquellos con más poder. 
+La evitación de la incertidumbre fue definida 
+como el grado en el que los miembros de una cul-
+tura perciben y reaccionan frente a situaciones o 
+amenazas desconocidas. Esta condición refleja la 
+necesidad de predictibilidad y de reglas, tanto 
+ escritas como tácitas. Hofstede ha señalado que en 
+las culturas con alta evitación de la incertidumbre, las 
+conductas basadas en reglas tienden a ser inconsis-
+tentes, poco claras y complicadas. En cambio, en 
+las culturas donde hay poca, las reglas se estable-
+cen sólo cuando son necesarias. Ejemplo de países 
+que puntúan alto en evitación de la incertidumbre 
+son Rusia, Taiwán, Ecuador, Colombia, Brasil, Ar-
+gentina y los países árabes, entre otros. House et 
+al. (2004), han demostrado que la evitación de la 
+incertidumbre no varía significativamente con la 
+edad, ni con la antigüedad laboral, pero sí lo hace 
+con el tipo de ocupación. 
+El individualismo-colectivismo se refiere a la natu-
+raleza de las relaciones que un individuo mantiene 
+con su grupo. Los miembros de culturas colectivis-
+tas se caracterizan por mantener fuertes vínculos 
+entre sí y por el convencimiento de que la lealtad 
+incondicional al grupo será correspondida con la 
+  2010  
+EL IMPACTO DE LA CULTURA NACIONAL SOBRE LA CULTURA ORGANIZACIONAL
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+    
+  81 
+protección necesaria. En cambio, los miembros de 
+culturas individualistas mantienen lazos afectivos 
+débiles y confían más en sí mismas y en su familia 
+inmediata, que en el grupo de pertenencia. En el 
+ordenamiento elaborado por Hofstede, se ubicaron 
+entre los países colectivistas: China, Japón, Grecia, 
+Jamaica, Rusia, España, Argentina, Brasil, México, 
+Colombia; en tanto que Estados Unidos de Nortea-
+mérica, Francia, Alemania, Noruega, Dinamarca, 
+se situaron entre los individualistas. En términos 
+generales, se trata de una dimensión vinculada con 
+HOGHVDUUROOR6FKLPPDFN2LVKL	'LHQHU
+ya que los países desarrollados aparecen como más 
+individualistas que los países en vías de desarrollo.
+La masculinidad-femineidad se refiere a la valora-
+ción diferencial de los papeles femeninos y masculi-
+nos. La masculinidad es característica de sociedades 
+con roles bien definidos para hombres y mujeres. La 
+femineidad se refiere a comportamientos donde los 
+roles sociales de ambos sexos se superponen consi-
+derablemente. Japón, Alemania y Estados Unidos 
+aparecen como los países con mayor puntaje en 
+masculinidad, en tanto que Rusia, Grecia, México, 
+Argentina, Bélgica, Francia, China, se agrupan en-
+tre los países más orientados a la femineidad.
+A estos cuatro valores básicos descritos por 
+Hofstede, más recientemente Aycan y sus colabo-
+radores agregaron dos nuevas orientaciones axio-
+lógicas, las que identificaron como paternalismo 
+y fatalismo. El paternalismo fue definido como el 
+grado en el que las autoridades ofrecen orientación, 
+apoyo y protección a sus subordinados los que, en 
+contrapartida, retribuyen con lealtad y respeto 
+$\FDQ.DQXQJR	6LQKD0LHQWUDVTXH
+el fatalismo (Aycan et al., 2000) se vincula con la 
+creencia de no tener el control sobre el resultado de 
+las propias acciones, lo que transforma en inocuos 
+los esfuerzos por alcanzar determinadas metas o 
+planes a largo plazo.
+Las prácticas organizacionales como 
+núcleo de la cultura organizacional
+La introducción de la expresión “cultura organi-
+zacional” en la literatura especializada se debe a 
+ Pettigrew (1979), quien la definió como “un siste-
+ma de significados pública y colectivamente acep-
+tado por un grupo dado, en un cierto período de 
+tiempo” (p. 574). De acuerdo con Schein (2004), la 
+cultura organizacional debe ser concebida como “...
+un patrón de presuposiciones básicas compartidas, 
+aprendidas por un grupo y enseñadas a los nuevos 
+miembros como un modo correcto de percibir, pen-
+sar y sentir en relación a los problemas del grupo” 
+(p. 12). Berson, Oreg y Dvir (2005) enfatizaron 
+que la cultura organizacional constituye una de 
+las características organizacionales  fundamentales, 
+puede ser influenciada por los valores de los líde-
+res y fundadores, y se manifiesta a través de las 
+prácticas organizacionales. 
+Hofstede, Neuijen, Ohayv y Sanders (1990) 
+fueron pioneros en destacar que las prácticas or-
+ganizacionales constituyen el lado visible de la 
+cultura y se expresan a través de símbolos, héroes 
+y rituales. En tanto que los valores se asocian a 
+sentimientos inconscientes, que no pueden ser 
+directamente observados, aunque pueden ser re-
+velados a través de comportamientos alternati-
+vos. A partir de tales presupuestos, estos autores 
+desarrollaron una escala destinada a explorar los 
+valores y las prácticas que caracterizan a la cultura 
+organizacional. El referido instrumento incluyó tres 
+dimensiones subyacentes a los valores (necesidad 
+de seguridad, centralidad del trabajo y necesidad de 
+autoridad) y seis dimensiones subyacentes a las 
+prácticas: procesos vs. resultados (opone una rígida 
+división de tareas, a una que permite variaciones 
+en función de los objetivos); empleado vs. tarea 
+(contrasta la preocupación por el elemento huma-
+no, con la preocupación por las tareas a ser ejecu-
+tadas); parroquial vs. profesional (orientada hacia 
+la derivación de la identidad del empleado a partir 
+de la organización o de su tipo de trabajo); siste-
+ma abierto vs. cerrado (contrapone un sistema de 
+estructuración interna transparente y fácilmente 
+comunicable a los nuevos miembros, a un sistema 
+de difícil aprehensión, que apenas los más antiguos 
+consiguen dominar); sistema rígido vs. flexible (di-
+ferencia entre un sistema que ejerce rígido control 
+formal sobre los empleados y un sistema que da 
+libertad y autonomía a los mismos) y normativa 
+  2010  
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+82     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+vs. pragmática (orientada por sus propias reglas o 
+por las necesidades de los consumidores). 
+Al aplicar su escala para comparar la cultura 
+de 20 organizaciones holandesas y dinamarquesas, 
+Hofstede y su equipo (1990) observaron que las 
+empresas estudiadas presentaban diferencias signi-
+ficativas en la mayoría de las prácticas, aunque se 
+diferenciaban poco en cuanto a los valores. Cons-
+tataron, además, que las prácticas organizacio-
+nales estaban significativamente correlacionadas 
+con una variedad de tareas, el tipo de estructura 
+y los sistemas de control característicos de cada 
+empresa. Frente a tales resultados, los autores 
+concluyeron que las prácticas diarias constituyen 
+la esencia de la cultura organizacional y que, por lo 
+tanto, la cultura de las empresas debe ser explora-
+da a través de las prácticas que la tipifican, reser-
+vándose los valores para la caracterización de la 
+cultura nacional. 
+Movido por el creciente interés sobre las posibi-
+lidades de las prácticas para influir sobre el compor-
+tamiento organizacional, Verbeke (2000) realizó 
+una adaptación de la escala de prácticas organiza-
+cionales de Hofstede et al. (1990),  incorporando 
+nuevos ítems y sometiéndola a un intenso progra-
+ma de validación. Tales procedimientos dieron por 
+resultado un instrumento con seis subescalas, de las 
+cuales cuatro (procesos vs. resultados; empleado 
+vs. tarea; sistema abierto vs. cerrado; sistema rígi-
+do vs. flexible) mantuvieron las denominaciones 
+dadas por Hofstede, en tanto que las dos restantes 
+fueron identificadas como responsabilidad social 
+vs. auto-interés (similar a la dimensión normativa 
+vs. pragmática de la escala original), y mercado 
+vs. interna (referida a la implementación o no 
+de prácticas orientadas hacia la competición y 
+conquista de clientes). Estudios realizados con su 
+nueva escala llevaron a Verbeke (2000) a concluir 
+que las prácticas son relativamente independientes 
+de los valores básicos de la organización, aunque 
+sean moldeadas por esos valores. En línea con tal 
+postura, en un estudio sobre las prácticas organi-
+zacionales de empresas tailandesas locales y de 
+empresas tailandesas afiliadas a empresas norte-
+americanas, Chow, Harrison, McKinnon y Wu 
+(2002) verificaron que estas últimas adoptaban 
+prácticas orientadas hacia los resultados y hacia 
+el mercado, en un grado significativamente mayor 
+que las primeras. Tales resultados fueron interpre-
+tados como una demostración de la influencia de la 
+cultura nacional en la cual la empresa se originaba 
+sobre las prácticas adoptadas. 
+En lo que hace específicamente a las relaciones 
+entre la cultura nacional y las prácticas organiza-
+cionales implementadas por las empresas, de la 
+revisión de la bibliografía surgen posturas contro-
+versiales. Por un lado, se señala que las empresas 
+desarrollan sus propias culturas y tienden a atraer 
+empleados con similares características, incluyen-
+do sus valores (Johns, 2006). De allí que muchas 
+investigaciones están focalizadas sobre la con-
+gruencia entre los valores de los individuos y los de 
+las organizaciones donde trabajan. Por otro lado, se 
+sostiene que las organizaciones sufren influencias 
+sistemáticas de su ambiente próximo y procuran 
+DGDSWDUVH)LQGOHU:LQG	0RU%DUDNSRU
+lo que serían afectadas por los valores de la cultura 
+nacional en la que se insertan y no presentarían 
+variaciones en cuanto a los valores que configuran 
+su cultura interna. Tal continuidad valorativa en-
+tre la cultura nacional y la cultura organizacional 
+ha sido defendida, entre otros, por Berson, Oreg y 
+Dvir (2005), para quienes los valores de la socie-
+dad se reflejan en la cultura interna del trabajo, y 
+por Garibaldi de Hilal (2006), quien remarcó que 
+los valores nacionales influyen sobre las prácticas 
+desarrolladas dentro de las organizaciones. 
+A raíz de tales divergencias, la investigación 
+orientada al esclarecimiento del interjuego entre 
+los valores nacionales y las prácticas organiza-
+cionales no ha alcanzado resultados animadores. 
+Circunstancia que amerita proseguir con esta línea 
+de estudios que todavía demanda mayor evidencia 
+empírica, sobre todo en países latinoamericanos, 
+ya que los pocos resultados disponibles reflejan la 
+situación de Estados Unidos o de algunos pocos 
+países europeos. Y, básicamente, porque, durante 
+la década de los años 1990, la mayoría de los países 
+latinoamericanos se vieron inmersos en procesos 
+de privatización de sus principales empresas es-
+tatales. Privatizaciones que, dejando de lado los 
+aspectos financieros y legales que implicaron, se 
+  2010  
+EL IMPACTO DE LA CULTURA NACIONAL SOBRE LA CULTURA ORGANIZACIONAL
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+    
+  83 
+ caracterizaron por la importación de gerentes des-
+de los países inversores, los que llegaron trayendo 
+sus valores, creencias y prácticas muchas veces dis-
+tintos a los mantenidos por los grupos nacionales. 
+En consecuencia, el objetivo del presente estu-
+dio se orientó a explorar las posibles vinculaciones 
+entre los valores y las prácticas que caracterizan la 
+cultura organizacional de empresas nacionales y 
+privatizadas argentinas. Con tal propósito se abor-
+dó la cultura nacional a través de los valores de 
+distancia del poder, individualismo, evitación de la 
+incertidumbre, paternalismo y fatalismo; en  tanto 
+que la cultura organizacional se evaluó a través de 
+las siguientes prácticas: procesos vs. resultados; 
+empleado vs. tarea; sistema abierto vs. cerrado; 
+sistema flexible vs. rígido, y mercado vs. interna. 
+Hipótesis
+En primer lugar, y partiendo de los hallazgos co-
+municados (Garibaldi de Hilal, 2006; House et al., 
+2004) se asumió que la cultura nacional de origen 
+de una empresa afectaría su cultura organizacio-
+nal, lo que se traduciría en la implementación de 
+prácticas diferenciales, según se tratara de una 
+empresa nacional o de una privada. Por lo tanto 
+se postuló que:
+Hipótesis 1: comparadas con las empresas privadas, 
+las empresas nacionales argentinas implementarán 
+con mayor frecuencia prácticas orientadas a los 
+empleados y a los sistemas rígidos. 
+Hipótesis 2: comparadas con las empresas nacio-
+nales argentinas, las empresas privadas implemen-
+tarán con mayor frecuencia prácticas orientadas a 
+los resultados, al mercado y a los sistemas abiertos. 
+A su vez, a partir de las definiciones operacio-
+nales de las prácticas (Verbeke, 2000) y de cierta 
+evidencia empírica disponible acerca de los valo-
+UHVQDFLRQDOHV$ODV	7XXOLN2PDU
+Omar et al., 2007), se plantearon algunas potencia-
+les relaciones entre ambos conjuntos de variables, 
+las que se explicitan a continuación. 
+Las prácticas orientadas hacia los empleados 
+denotan la inversión de la organización en sus 
+recursos humanos, especialmente en lo que tiene 
+que ver con su crecimiento y desarrollo profesional 
+y a los intentos por establecer un involucramiento 
+más personal entre gerentes y subordinados. En 
+este sentido, sería esperable que en las organiza-
+ciones más colectivistas predominaran las prácticas 
+orientadas hacia el empleado, por la importancia 
+que el colectivismo le concede a la armonía gru-
+pal, al bienestar y al desarrollo de los miembros del 
+JUXSR*LOEUHDWK	%HQVRQ5DPDPRRUWK\
+*XSWD6DUGHVVDL	)ORRG$VLPLVPRFRQ-
+siderando el énfasis que el paternalismo pone sobre 
+las relaciones de protección y cuidados entre jefes 
+y subordinados (Aycan, 2004), sería esperable que 
+en las organizaciones más paternalistas se adopta-
+ran prácticas orientadas hacia el empleado. Por lo 
+que se propuso que:
+Hipótesis 3: cuanto mayor sea el paternalismo y el 
+colectivismo, mayor será la adopción de prácticas 
+orientadas al empleado.
+Las prácticas que tipifican un sistema rígido 
+se refieren a la adopción de un control excesivo 
+ sobre los empleados, especialmente en lo referente 
+a la observancia de los horarios de trabajo y de las 
+pausas realizadas durante el mismo. Por lo tanto, 
+sería esperable que ellas presentaran una asocia-
+ción positiva con la distancia al poder, en el sentido 
+que tal control fuera utilizado como instrumento 
+para mantener las distancias entre líderes y subor-
+GLQDGRVTXHFDUDFWHUL]DDWDOGLPHQVLyQ$ODV	
+Tuulik, 2007). Estas prácticas también podrían 
+estar positivamente asociadas con la evitación de 
+la incertidumbre, si se considera que la adopción 
+de un control rígido constituiría una forma de 
+impedir el surgimiento de situaciones inciertas y 
+DPELJXDV*UDQW&KULVWLDQVRQ	3ULFH
+Basándose en tales consideraciones se propuso la 
+siguiente hipótesis:
+Hipótesis 4: cuanto mayor la distancia al poder y la 
+evitación de la incertidumbre, mayor será la adop-
+ción de prácticas rígidas.
+  2010  
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+84     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+Las prácticas orientadas hacia los resultados im-
+plican permanente competencia con miras al logro 
+de objetivos prefijados, lo que dificulta la colabora-
+ción y la ayuda mutua entre los empleados que ejer-
+cen diferentes funciones. Consecuentemente, sería 
+de esperar que este tipo de prácticas se  mostraran 
+negativamente asociadas al colectivismo, por la 
+importancia que éste le atribuye a la colabora-
+ción mutua y a la armonía intragrupal (Jackson, 
+&ROTXLWW:HVVRQ	=DSDWD3KHODQ$VX
+vez, deberían estar negativamente asociadas a la 
+evitación de la incertidumbre, en virtud del énfasis 
+que esta dimensión cultural pone sobre las situa-
+FLRQHVHVWUXFWXUDGDV\VLQDPELJHGDGHV$ODV	
+Tuulik, 2007). Por lo tanto se hipotetizó que:
+Hipótesis 5: cuanto menor el colectivismo y la evi-
+tación de la incertidumbre, mayor será la adopción 
+de prácticas orientadas a los resultados. 
+Las prácticas orientadas hacia sistemas abiertos 
+caracterizan organizaciones en las cuales gerentes 
+y empleados discuten abiertamente errores y críti-
+cas, en lugar de hacerlo a escondidas. Por lo tanto, 
+tales prácticas deberían presentar una correlación 
+negativa con la distancia al poder, en la medida en 
+que esta dimensión se define por la distancia que 
+separa a líderes y subordinados, lo que probable-
+mente dificulta una comunicación franca y abierta 
+entre ellos. Asimismo, si se considera que las crí-
+ticas pueden provocar conflictos en el interior de 
+ORVJUXSRV6FKLPPDFN2LVKL	'LHQHU
+el colectivismo podría estar negativamente aso-
+ciado a tales prácticas ya que los gestores podrían 
+adoptar prácticas orientadas hacia sistemas cerra-
+dos en un intento por evitar confrontaciones. En 
+esta misma línea argumental, sería esperable que 
+el paternalismo también presentara correlaciones 
+negativas con las prácticas dirigidas a los sistemas 
+abiertos, sobre todo por que los líderes paternalistas 
+no se mostrarían dispuestos a las críticas, ya que al 
+dispensar atención especial a los empleados, tales 
+como cuidado y protección, esperarían su lealtad 
+a cambio (Aycan, 2004). En consecuencia, se 
+ hipotetizó que:
+Hipótesis 6: cuanto menor el colectivismo, el pater-
+nalismo y la distancia al poder, mayor será la adop-
+ción de prácticas orientadas a los sistemas abiertos.
+Por último, las organizaciones que adoptan 
+prácticas orientadas hacia el mercado tienen co-
+mo meta prioritaria la atención de las necesidades 
+y satisfacción del consumidor, razón por la cual 
+se encuentran constantemente inmersas en un 
+proceso competitivo que caracteriza la conquista 
+de clientes. Por lo tanto, sería esperable que tales 
+prácticas mostraran una asociación negativa con el 
+colectivismo, ya que la valorización de los intereses 
+grupales no fomenta la competición como un me-
+dio para el alcance de tales metas (Ramamoorthy, 
+*XSWD6DUGHVVDL	)ORRG$VLPLVPRHVWDV
+prácticas deberían asociarse negativamente con la 
+evitación de la incertidumbre, en la medida en 
+que la competición supone el involucramiento con 
+situaciones nuevas y, a veces, desconocidas (Alas 
+	7XXOLN\FRQHOIDWDOLVPRKDELGDFXHQWD
+que el hecho de comprometerse con situaciones 
+competitivas conlleva la creencia de cierta dosis 
+de suerte, o sea, poco control sobre las situaciones 
+(Aycan et al., 2000). Por lo que se supuso que:
+Hipótesis 7: cuanto menor el colectivismo, la evita-
+ción de la incertidumbre y el fatalismo, mayor será la 
+adopción de prácticas orientadas hacia el mercado.
+Método
+Participantes y procedimientos 
+Se recolectaron datos en 16 empresas argentinas 
+-10 nacionales y 6 privadas-, ubicadas en la zona 
+centro y sur del país. La muestra definitiva quedó 
+integrada por 476 empleados, de los cuales el 53% 
+(N= 252) pertenecía a empresas nacionales. El 
+42% eran mujeres; el promedio de edad de la mues-
+tra total fue de 35 años y el promedio de antigüe-
+dad laboral de 3,4 años. La mayoría de los sujetos 
+tenían formación técnica o superior y el 9% de la 
+muestra ocupaba cargos gerenciales. En cuanto a 
+la actividad de las empresas, el 32% eran fábricas 
+  2010  
+EL IMPACTO DE LA CULTURA NACIONAL SOBRE LA CULTURA ORGANIZACIONAL
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+    
+  85 
+o industrias, 27% pertenecía al área de servicios 
+(bancos, seguros, provisión de electricidad), 23% 
+al comercio y 18% a educación.
+Instrumentos
+Escala de cultura nacional (Omar, 2005). Se trata 
+de una escala integrada por 20 ítems, con forma-
+to Lickert de 5 puntos, variando de “poco típico 
+en mi país” a “muy típico en mi país”. Explora las 
+dimensiones axiológicas de individualismo (p. ej.: 
+“la gente coopera con los demás miembros de la 
+comunidad”), distancia del poder (p. ej.: “los jefes 
+mantienen frecuentes contactos sociales con sus 
+subordinados”) y evitación de la incertidumbre 
+(p. ej.: “las empresas informan claramente a sus 
+empleados lo que esperan de ellos”), propuestas 
+por Hofstede (2001) y las más recientes, paterna-
+lismo (p. ej.: “los jefes tratan a sus subordinados 
+como si estuvieran tratando con sus propios hijos”) 
+y fatalismo (p. ej.: “la gente vive confiando en la 
+suerte”), propuestas por Aycan y sus colaboradores 
+(1999, 2000). En el presente estudio, los índices 
+de consistencia interna (_ de Cronbach) de cada 
+uno de estos factores variaron entre 0,823 y 0,955 
+(Tabla 1). 
+Escala de prácticas organizacionales (Omar, 
+2005). Se trata de una escala integrada por 25 
+ítems, con formato Lickert de 5 puntos, variando 
+de “nada frecuente” a “muy frecuentemente”. 
+Explora tres de las prácticas de gerenciamiento de 
+recursos humanos propuestas por Hofstede (1997), 
+referidas a procesos vs. resultados (p. ej.: “existen 
+mecanismos claros para medir los resultados ob-
+tenidos”), empleado vs. tarea (p. ej.: “los gerentes 
+se preocupan por los problemas personales de los 
+empleados), sistemas abiertos vs. cerrados (p. ej.: 
+“cuando los empleados no están de acuerdo con 
+alguna decisión, los gerentes escuchan sus opinio-
+nes”), y dos de las identificadas más recientemente 
+por Verbeke (2000), referidas a sistemas flexibles 
+vs. rígidos (p. ej.: “las tareas son desempeñadas 
+de acuerdo con procedimientos previamente de-
+finidos”) y mercado vs. empresa (p. ej.: “la em-
+presa busca nuevos mercados para sus productos 
+y servicios”). En el presente estudio, los índices 
+de consistencia interna (_ de Cronbach) de cada 
+uno de estos factores variaron entre 0,757 y 0,934 
+(Tabla 1). 
+TABLA 1
+Dimensiones exploradas, número de ítems y coefi-
+cientes de consistencia interna (_ de Cronbach)
+Dimensiones
+Nº ítems
+_
+Cultura 
+Nacional
+(20 ítems)
+individualismo-colec-
+tivismo
+4
+0,955
+distancia jerárquica al 
+poder
+4
+0,870
+evitación de la incerti-
+dumbre
+4
+0,823
+paternalismo
+4
+0,847
+fatalismo
+4
+0,920
+Prácticas 
+Organiza-
+cionales 
+(25 ítems)
+procesos vs. resultados 
+5
+0,800
+empleado vs. tarea 
+5
+0,854
+sistemas abiertos vs. 
+cerrados 
+5
+0,934
+sistemas rígidos vs. 
+flexibles 
+5
+0,833
+mercado vs. interior 
+empresa 
+5
+0,757
+Fuente: elaboración propia.
+Procedimiento para la recolección  
+de los datos
+La recolección de los datos se efectuó en el seno 
+de las organizaciones que dieron su aval para parti-
+cipar en la investigación, y con los empleados que 
+firmaron el protocolo de consentimiento informa-
+do. Los datos fueron reunidos en los lugares y hora-
+rios habituales de trabajo, de manera colectiva y/o 
+individual, según los casos. Los participantes fue-
+ron informados de los objetivos de la investigación 
+y se les garantizó el anonimato y la confidencialidad 
+frente a la información que brindaran. Así mismo, 
+recibieron las instrucciones sobre la mecánica de 
+respuesta de los cuestionarios y fueron estimulados 
+a ofrecer respuestas sinceras y a no dejar ninguna 
+  2010  
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+86     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+en blanco. Las eventuales dudas surgidas fueron 
+aclaradas individualmente y en forma personali-
+zada, durante la recolección de los datos. En todos 
+los casos, junto a la nota de solicitud de autoriza-
+ción a las empresas participantes, se dejó expresa 
+constancia del compromiso de devolución de los 
+resultados, la que una vez finalizado el estudio 
+adoptó la forma de una exposición pública en cada 
+uno de los ámbitos empresariales. 
+Análisis de los datos
+En primer lugar, se calcularon los índices descrip-
+tivos (medias y desviaciones típicas) correspon-
+dientes a las prácticas organizacionales, tanto 
+para la muestra total, como separadamente para 
+las empresas nacionales argentinas y las argenti-
+nas privatizadas. A partir de tales índices, y con el 
+propósito de poner a prueba las hipótesis 1 y 2, se 
+procedió al cálculo de las correspondientes pruebas 
+de diferencia de medias entre las prácticas caracte-
+rísticas de cada tipo de empresa. Frente a los casos de 
+diferencias significativas en la implementación 
+de algún tipo de prácticas, y con el propósito de 
+analizar las restantes hipótesis planteadas, seguida-
+mente se procedió al cálculo de los correspondien-
+tes análisis de regresión múltiple para el grupo de 
+empresas genuinamente nacionales o para el grupo 
+de empresas privatizadas, según correspondiera. 
+Para la ejecución de tales análisis de regresión, se 
+ingresaron los valores culturales (individualismo, 
+distancia al poder, evitación de la incertidumbre, 
+paternalismo y fatalismo) como variables indepen-
+dientes, y las prácticas organizacionales como 
+ variables dependientes.
+Resultados
+El cálculo de las medias y de los desvíos típicos co-
+rrespondientes a las prácticas implementadas por 
+las empresas en estudio, posibilitaron la ejecución 
+de las correspondientes pruebas t de Student de 
+diferencias de medias. Los resultados obtenidos 
+dieron total apoyo a las hipótesis 1 y 2 desde el 
+momento en que las empresas nacionales argenti-
+nas se diferenciaron significativamente de las pri-
+vatizadas por su mayor orientación a las prácticas 
+orientadas a los empleados (t= 6,54; p < 0.000) y a 
+los sistemas rígidos (t= 3,47; p < 0,004). En tanto 
+que las privatizadas mostraron un mayor empleo de 
+prácticas orientadas a los resultados (t= 2,67; p < 
+0,01); a los sistemas abiertos (t= 4,16; p < 0.002) 
+y al mercado (t= 3,50; p < 0.004). 
+Para poner a prueba las restantes hipótesis 
+planteadas, que presuponían vinculaciones entre 
+el tipo de práctica característico de una empresa y 
+los valores prevalecientes entre sus miembros, se 
+procedió al cómputo de un conjunto de análisis 
+de regresiones múltiples, en los que los valores 
+culturales básicos se ingresaron como predictores 
+y cada una de las prácticas fue ingresada como 
+variable dependiente (criterio). En el caso de las 
+prácticas orientadas al empleado (Tabla 2) y a los 
+sistemas rígidos (Tabla 3), sólo se trabajó con el 
+grupo de las empresas nacionales argentinas, ya 
+que ellas demostraron ser las que las adoptaban 
+con mayor frecuencia. En el caso de las prácticas 
+orientadas a los resultados (Tabla 4), a los sistemas 
+abiertos (Tabla 5) y al mercado (Tabla 6), sólo se 
+trabajó con el grupo de las empresas privatizadas, 
+ya que ellas demostraron adoptar tales prácticas 
+con mayor frecuencia. 
+TABLA 2
+Análisis de regresión múltiple. Variable dependiente: 
+prácticas orientadas a los empleados 
+Variables 
+predictoras
+Variable dependiente: 
+prácticas orientadas a los empleados
+`
+p
+Colectivismo
+0,332 0,001
+Distancia al 
+poder
+0,224 0,001
+R2
+6R2
+F (p)
+Evitación de 
+la incerti-
+dumbre
+0,090
+n.s.
+0,124 0,113
+3,64; p 
+> 0,004
+Paternalismo
+0,306 0,001
+Fatalismo
+0,071
+n.s.
+Fuente: elaboración propia.
+  2010  
+EL IMPACTO DE LA CULTURA NACIONAL SOBRE LA CULTURA ORGANIZACIONAL
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+    
+  87 
+La hipótesis 3 postulaba que tanto el paternalis-
+mo como el colectivismo presentarían  asociaciones 
+significativas con las prácticas orientadas a los em-
+pleados. Los resultados (Tabla 2) mostraron que, 
+efectivamente, el colectivismo (` = 0.332, p < 
+0.001) y el paternalismo (` = 0.306, p < 0.001) 
+se vinculan positivamente con esta práctica. Por 
+lo tanto, la hipótesis 3 fue totalmente confirmada. 
+Además, surgió una tercera dimensión (distancia 
+al poder) positivamente asociada con las prácticas 
+orientadas a los empleados (` = .224, p < 0.001), 
+no prevista en las postulaciones iniciales.
+TABLA 3
+Análisis de regresión múltiple. Variable dependiente: 
+prácticas orientadas a los sistemas rígidos 
+Variables 
+predictoras
+Variable dependiente: prácticas 
+orientadas a los sistemas rígidos
+`
+p
+Colectivismo
+0,094
+n.s.
+Distancia al 
+poder
+0,218 0,003
+R2
+6R2
+F (p)
+Evitación de 
+la incerti-
+dumbre
+0,256 0,001 0,234 0,203
+7,575; p 
+> 0,000
+Paternalismo
+0,240 0,001
+Fatalismo
+0,069
+n.s.
+Fuente: elaboración propia.
+La hipótesis 4 postulaba que las prácticas orien-
+tadas a los sistemas rígidos serían adoptadas por 
+organizaciones cuyos miembros estuvieran fuer-
+temente orientados a la distancia al poder y a la 
+evitación de la incertidumbre. Los resultados de la 
+Tabla 3 indican que tales prácticas presentaron aso-
+ciaciones en la dirección prevista con la distancia 
+al poder (` = 0.218, p < 0.003) y con la evitación 
+de la incertidumbre (` = 0.256, p < 0.001). Por lo 
+que la hipótesis 4 también fue confirmada, aunque 
+surgió una relación significativa, no prevista, con 
+el paternalismo (` = 0.240, p < 0.001). 
+TABLA 4
+Análisis de regresión múltiple. Variable dependiente: 
+prácticas orientadas a los resultados 
+Variables 
+predictoras
+Variable dependiente: prácticas 
+orientadas a los resultados
+`
+p
+Colectivismo -0,416 0,001
+Distancia al 
+poder
+0,274
+0,001
+R2
+6R2
+F (p)
+Evitación de 
+la incerti-
+dumbre
+0,038
+n.s.
+0,151 0,116
+4,40; p 
+> 0,001
+Paternalismo
+0,000
+n.s.
+Fatalismo
+0,070
+n.s.
+Fuente: elaboración propia.
+La hipótesis 5 predecía que la adopción de prác-
+ticas orientadas hacia los resultados se vincularía 
+negativamente con el colectivismo y la evitación de 
+la incertidumbre. Tal como lo muestra la Tabla 4, 
+estas prácticas se asociaron negativamente con el 
+colectivismo (` = -0,416, p < 0.001), sin embargo, 
+y contrariamente a lo hipotetizado, no presentaron 
+asociaciones significativas con la evitación de la in-
+certidumbre (` = 0.038, n.s.). A su vez, surgió una 
+asociación significativa, aunque no prevista, con la 
+distancia al poder (` = 0.274, p < 0.001). Por lo 
+tanto, la hipótesis 5 fue parcialmente confirmada. 
+TABLA 5
+Análisis de regresión múltiple. Variable dependiente: 
+prácticas orientadas a los sistemas abiertos 
+Variables 
+predictoras
+Variable dependiente:  prácticas 
+orientadas a los sistemas abiertos
+`
+p
+Colectivismo -0,184 0,003
+Distancia al 
+poder
+-0,301 0,001
+R2
+6R2
+F (p)
+Evitación de 
+la incerti-
+dumbre
+0,042
+n.s.
+0,187 0,155
+5,718; p 
+> 0,000
+Paternalismo
+0,098
+n.s.
+Fatalismo
+0,070
+n.s.
+Fuente: elaboración propia.
+  2010  
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+88     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+La hipótesis 6 sostenía que las prácticas orien-
+tadas a los sistemas abiertos serían características 
+de organizaciones con miembros escasamente 
+orientados al colectivismo, al paternalismo y a la 
+distancia al poder. Tal como lo muestra la Tabla 
+5, las prácticas orientadas a sistemas abiertos, se 
+relacionaron negativamente con el colectivismo 
+(` = -0.184, p < 0.003) y con distancia al poder 
+(` = -0.301, p < 0.001), pero, contrariamente a 
+lo previsto, no presentaron ninguna relación con 
+el paternalismo. Por lo tanto la hipótesis 6 fue par-
+cialmente confirmada. 
+TABLA 6
+Análisis de regresión múltiple. Variable dependiente: 
+prácticas orientadas al mercado 
+Variables 
+predictoras
+Variable dependiente: 
+prácticas orientadas al mercado
+`
+p
+Colectivismo -0,191 0,003
+Distancia al 
+poder
+0,078
+n.s.
+R2
+6R2
+F (p)
+Evitación de 
+la incerti-
+dumbre
+-0,343 0,000 0,184 0,153 5,674; p 
+> 0,000
+paternalismo 0,032
+n.s.
+fatalismo
+-0,436 0,000
+Fuente: elaboración propia.
+La hipótesis 7 postulaba que la adopción de 
+prácticas orientadas al mercado caracterizaría a 
+las organizaciones cuyos miembros presentaran 
+escasas tendencia al colectivismo, a la evitación 
+de la incertidumbre y al fatalismo. Los resultados de 
+la Tabla 6 indican que tal hipótesis fue totalmente 
+confirmada desde el momento en que las prácticas 
+orientadas al mercado presentaron asociaciones 
+negativas con el colectivismo (` = -0.191, p < 
+0.003), con la evitación de la incertidumbre (` = 
+-0.343, p < 0.000), y con el fatalismo (` = -0.436, 
+p <0 .000).
+Discusión 
+Los resultados obtenidos indican que la adopción 
+de determinadas prácticas organizacionales por 
+parte de las empresas radicadas en Argentina, se 
+vincula estrechamente con el origen de la organi-
+zación. En este sentido, las empresas nacionales 
+argentinas se caracterizan por la implementación 
+de prácticas orientadas al empleado y a los sistemas 
+rígidos de gerenciamiento de sus recursos huma-
+nos. En cambio, las empresas privatizadas (ma-
+yoritariamente empresas de servicios, tales como 
+aseguradoras, bancos, ferrocarriles, transportado-
+ras mayoristas de gas o electricidad; que durante 
+la década de los años de 1990 pasaron de la órbita 
+del Estado nacional a manos de inversionistas ex-
+tranjeros, que importaron sus gerentes y adminis-
+tradores), se caracterizan por la implementación de 
+prácticas orientadas al mercado, a los resultados y 
+a los sistemas abiertos. Tales hallazgos coinciden 
+con las observaciones iniciales de Earley y Erez 
+(1997) y las más recientes de House et al. (2004), 
+quienes argumentaron que los gerentes implemen-
+tan normas y prácticas dentro de las organizaciones 
+que, en término medio, reflejan las normas y prácti-
+cas típicas de las organizaciones donde se formaron.
+En sintonía con un importante cuerpo de es-
+WXGLRV%HUVRQ2UHJ	'YLU*DULEDOGLGH
+Hilal, 2006), los resultados obtenidos indican que 
+las prácticas implementadas por las empresas, 
+reflejan los valores de la cultura de origen de la 
+organización. En este sentido, se observó que las 
+empresas genuinamente argentinas se caracteri-
+zan por prácticas estrechamente vinculadas con 
+el colectivismo, distancia al poder y evitación de 
+la incertidumbre, valores asociados a la Argen-
+tina (y a muchos otros países latinoamericanos) 
+en el estudio transcultural realizado por Hofstede 
+en 1980. Mientras que las empresas privatizadas 
+se destacan por la implementación de prácticas 
+organizacionales asociadas a un perfil axiológico 
+caracterizado por el individualismo, baja distancia 
+al poder, baja evitación de la incertidumbre, bajo 
+paternalismo y bajo fatalismo, valores asociados a 
+Estados Unidos de Norteamérica y a muchos países 
+europeos, tanto por Hofstede (1980), como por 
+  2010  
+EL IMPACTO DE LA CULTURA NACIONAL SOBRE LA CULTURA ORGANIZACIONAL
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+    
+  89 
+Aycan et al. (2000). A continuación se efectúa 
+un análisis más pormenorizado de las asociaciones 
+observadas entre las prácticas organizacionales y 
+los valores culturales. 
+Comenzando por las prácticas orientadas ha-
+cia los empleados, típicas de las empresas nacio-
+nales argentinas, se observa que éstas aparecen 
+fuertemente vinculadas con el colectivismo y el 
+paternalismo. Tales vinculaciones no hacen más 
+que confirmar, por un lado, la primacía que el co-
+lectivismo le concede a la armonía intragrupal y 
+al bienestar y satisfacción del empleado (Hattrup, 
+0XHOOHU	-RHQV\SRURWURODGRHQIDWL]DQ
+sobre las relaciones de protección y cuidados entre 
+MHIHV\VXERUGLQDGRV*UDQW&KULVWLDQVRQ	3ULFH
+2007), propias del paternalismo. No obstante, en 
+el caso argentino, estas prácticas también apare-
+cen asociadas con distancia al poder, lo que podría 
+interpretarse como la aceptación, por parte de los 
+empleados, de una desigual distribución de poder 
+entre ellos y los jefes que deciden inversiones para 
+mejorar su desenvolvimiento profesional. Vale 
+decir que el perfil axiológico de los miembros de 
+organizaciones que adoptan prácticas orientadas 
+a los empleados, además de incluir rasgos del co-
+lectivismo y del paternalismo, incluirían rasgos 
+vinculados con la distancia al poder. 
+Las prácticas que tipifican un sistema rígido, 
+también características de las empresas nacionales 
+argentinas, aparecen asociadas con alta distancia 
+al poder y alta evitación de la incertidumbre. Vale 
+decir que estas prácticas, basadas en rígidos contro-
+les del personal, serían utilizadas como instrumento 
+de mantenimiento de la jerarquía entre líderes y 
+subordinados (distancia al poder), así como una 
+forma de impedir el surgimiento de situaciones 
+inciertas y ambiguas (evitación de la incertidum-
+bre). A su vez, y por la positiva correlación de 
+estas prácticas con el paternalismo, pareciera que 
+el mayor involucramiento emocional de los jefes 
+con los empleados más que volverlos tolerantes 
+frente a atrasos y otras infracciones de horario, los 
+transformaría en controladores inflexibles. 
+Las prácticas orientadas a los resultados, típi-
+cas de las empresas privatizadas, son prácticas que 
+demandan permanente competición para el logro 
+de objetivos vinculados con patrones de cantidad 
+o calidad. Del presente estudio, se observa que 
+estas prácticas se asocian negativamente con el 
+colectivismo (posiblemente porque el énfasis sobre 
+los resultados y la autorealización es más caracte-
+rístico del individualismo que del colectivismo), y 
+positivamente con la distancia al poder. Aunque 
+esta última relación no había sido hipotetizada, 
+a la luz de los resultados obtenidos pareciera que 
+el sostenimiento de tales prácticas requiere el 
+ reconocimiento de diferencias jerárquicas entre los 
+jefes que definen los estándares de productividad 
+y los empleados que deben alcanzarlos. Llamati-
+vamente, y a pesar de que se hipotetizó que entor-
+nos caracterizados por situaciones estructuradas 
+y sin ambigüedades no serían propiciatorios para 
+la adopción de estas prácticas, los resultados no 
+mostraron asociaciones significativas con la evi-
+tación de la incertidumbre. Este hallazgo estaría 
+indicando que, una vez implantadas, las prácticas 
+orientadas a los resultados pueden sostenerse con 
+independencia de las turbulencias organizacio-
+nales. 
+Las prácticas orientadas hacia sistemas abiertos, 
+características de organizaciones en las que geren-
+tes y empleados discuten abiertamente errores y 
+críticas, se asocian negativamente con la distancia 
+al poder (ya que esta dimensión probablemente 
+dificulta una comunicación franca y abierta entre 
+jefes y subordinados), y con el colectivismo (ya 
+que las críticas pueden provocar conflictos en el 
+interior de los grupos, por lo que en un intento por 
+evitarlos, los jefes podrían adoptar prácticas orien-
+tadas hacia sistemas cerrados). Aunque también 
+se esperaba que se asociaran negativamente con 
+HOSDWHUQDOLVPR²\DTXHHVWDGLPHQVLyQLPSOLFD
+autoridad (Aycan, 2004) y el paternalista, como 
+buen “dictador benevolente” (Northhouse, 1997) 
+QRHVWiGLVSXHVWRDTXHGLVFXWDQVXVGHFLVLRQHV²
+los datos reunidos no llegaron a mostrar ninguna 
+asociación en esta dirección. 
+Las organizaciones que adoptan prácticas orien-
+tadas al mercado, en este caso las empresas priva-
+tizadas, tienen como meta prioritaria la atención 
+de las necesidades y la satisfacción del consumidor, 
+razón por la cual se encuentran constantemente 
+  2010  
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+90     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+ inmersas en un proceso competitivo que caracteriza 
+la conquista de clientes. Estas prácticas  muestran 
+asociaciones negativas con el colectivismo, ya que 
+la competición privilegia los intereses individuales 
+por encima de los grupales; con evitación de la in-
+certidumbre, en la medida en que la competición 
+supone frecuentemente el involucramiento con si - 
+tuaciones nuevas y, a veces, desconocidas; y con 
+el fatalismo, en el sentido que el hecho de compro-
+meterse con situaciones competitivas en general 
+presupone la creencia de cierta dosis de suerte, o 
+sea, poco control sobre los eventos.
+Aportes y limitaciones
+Como toda investigación empírica, el presente es-
+tudio presenta algunas fortalezas y limitaciones que 
+merecen ser comentadas. Entre las limitaciones 
+hay que señalar que la recolección de los datos es-
+tuvo basada en instrumentos autodescriptivos, por 
+lo que los resultados podrían estar contaminados 
+por la varianza del método común. Con miras a la 
+superación de esta problemática, en futuras investi-
+gaciones se deberían incluir otras fuentes de explo-
+ración, tales como opiniones de los supervisores y 
+clientes, así como observaciones sistemáticas, espe-
+cialmente de las prácticas organizacionales; a pesar 
+de que en investigaciones previas (Peters, Tjdens 
+	:HW]HOVVHKDVHxDODGRTXHODHYDOXDFLyQ
+de las prácticas organizacionales a partir de obser-
+vaciones también podría verse afectada por algún 
+componente de error. Otra de las limitaciones está 
+relacionada con la exploración de los valores a 
+través de métodos directos, vale decir, a través de 
+mecanismos que sólo demandan evaluar la impor-
+tancia de los mismos sobre una escala (Mumford, 
+&RQQHOO\+HOWRQ9DQ'RRUQ	2VEXUQ
+Si bien desde la perspectiva de Hofstede (2001), 
+el enfoque directo es muy pertinente ya que su-
+pone que los sujetos no sólo son concientes de su 
+orientación axiológica, sino que se comportan en 
+función de los valores expresados, van Rekom, 
+van Riel y Wierenga (2006) argumentan que el 
+enfoque mixto puede proveer una mejor evalua-
+ción de los valores subyacentes al comportamiento 
+individual. Por esto, en futuras investigaciones, 
+debería considerarse la pertinencia de evaluar los 
+valores a través de una combinación de medidas 
+directas e indirectas. Una tercera limitación del 
+estudio está referida a la posible contaminación 
+de las respuestas por los efectos de la deseabilidad 
+social. Sobre todo en grupos orientados al colecti-
+vismo, ya que los colectivistas suelen responder de 
+PDQHUDVRFLDOPHQWHGHVHDEOH/L7ULDQGLV	<X
+2006), tratando de complacer al entrevistador, aún 
+cuando se les garantice el anonimato. 
+A pesar de las limitaciones expuestas, el pre-
+sente estudio también exhibe algunas fortalezas. 
+Los investigadores han enfatizado que una muestra 
+que incluya una amplia gama de empleados prove-
+nientes de una variedad de organizaciones podría 
+ incrementar la validez externa.  Consecuentemente, 
+y con el propósito de aumentar la generalización de 
+los resultados, se incluyó una amplia variedad 
+de empleados representativos de un buen número de 
+empresas y compañías. El uso de instrumentos 
+de naturaleza émica, como los empleados aquí, 
+desarrollados con base en las características idio-
+sincrásicas de la población objetivo, posiblemente 
+han permitido captar más apropiadamente el signi-
+ficado connotativo de los constructos investigados, 
+y la intensidad y dirección de sus interrelaciones. 
+Finalmente, y a pesar de la necesidad de refina-
+mientos, la investigación realizada contribuye a 
+conocer algo más acerca del impacto de la cultura 
+nacional sobre la manifestación más visible de la 
+cultura organizacional, como lo son las prácticas 
+de manejo de sus recursos humanos. 
+Referencias
+$ODV5	7XXOLN.&XOWXUDOSUDFWLFHVDQGYD-
+lues at the societal level in Estonia in comparison 
+with neighbouring countries. Journal of Bussines 
+and Management, 8, 39-44.
+Aycan, Z. (2004). Key success factors for women in 
+management in Turkey. Applied Psychology: An 
+International Review, 53(3), 453-477.
+Aycan, Z., Kanungo, R. N., Mendonca, M., Yu, K., 
+'HOOHU-6WDKO*	.XUVKLG$,PSDFW
+  2010  
+EL IMPACTO DE LA CULTURA NACIONAL SOBRE LA CULTURA ORGANIZACIONAL
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+    
+  91 
+of culture on human resource management practi-
+ces: A 10-country comparison. Applied Psychology: 
+An International Review, 49(1), 192-221.
+$\FDQ=.DQXQJR51	6LQKD-%2UJD-
+nizational culture and human resource manage-
+ment practices: The model of culture fit. Journal 
+of Cross-Cultural Psychology, 30, 501-526.
+%HUVRQ<2UHJ6	'YLU72UJDQL]DWLRQDO
+culture as a mediator of CEO values and organi-
+zational performance. Academy of Management. 
+Best Conference Paper BPS: FF1-6.
+&KRZ&:+DUULVRQ*0F.LQQRQ-/	:X
+A. (2002). The organizational culture of public 
+accounting firms: Evidence from Taiwanese local 
+and US affiliated firms. Accounting, Organizations 
+and Society, 27, 347-360.
+(DUOH\3&	(UH]0The transplanted exe-
+cutive: Why you need to understand how workers in 
+other countries see the world differently. New York: 
+Oxford University Press.
+)LQGOHU/:LQG/	0RU%DUDN07KH
+challenge of workforce management in a glo-
+bal society: Modeling the relationship between 
+diversity, inclusion, organizational culture, and 
+employee well-being, job satisfaction and orga-
+nizational commitment. Administration in Social 
+Work, 31(3), 63-94.
+)LVKHU&	/RYHOO$Business ethics and values. 
+Boston: Prentice Hall.
+Garibaldi de Hilal, A. V. (2006). Brazilian national cultu-
+re, organizational culture and cultural  agreement. 
+Findings from a multinational company. Internatio-
+nal Journal of Cross Cultural, 6, 139-167.
+*LOEUHDWK%	%HQVRQ3*7KHFRQWULEXWLRQ
+of supervisor behaviour to employee psychological 
+well-being. Work and Stress, 18(3), 255-266.
+*UDQW$&KULVWLDQVRQ0	3ULFH5+DSSL-
+ness, health, or relationships? Managerial practices 
+and employee well-being tradeoffs. Academy of 
+Management Perspectives, 32(3), 51-63.
++DWWUXS.0XHOOHU.	-RHQV-7KHHIIHFWV
+of nations and organizations on work value impor-
+tance: A cross-cultural investigation. Applied Psy-
+chology: An International Review, 56(3), 479-499.
+Hofstede, G. (1980/2001). Culture’s Consequences (1° 
+and 2° eds.). London: Sage Publications.
+Hofstede, G. (1997). Cultures and Organizations. Soft-
+ware of the Mind. London: McGraw-Hill.
++RIVWHGH*1HXLMHQ%2KD\Y''	6DQGHUV
+G. (1990). Measuring organizational cultures: A 
+qualitative and quantitative study across twenty 
+cases. Administrative Science Quartely, 35, 286-316.
++RXVH5-+DQJHV3--DYLGDQ0'RUIPDQ3:	
+Gupta, V. (2004). Culture, leadership, and organiza-
+tions. The Globe Study of 62 societies. London: Sage.
+-DFNVRQ&/&ROTXLWW-$:HVVRQ0-	=DSDWD
+Phelan, C. P. (2006). Psychological collectivism: 
+A measurement validation and linkage to group 
+member performance. Journal of Applied Psycho-
+logy, 91, 884-899.
+Johns, G. (2006). The essential impact of context on 
+organizational behavior. Academy of Management 
+Review, 31(2), 386-408. 
+/L67ULDQGLV+&	<X<&XOWXUDORULHQ-
+tation and corruption. Ethics and Behavior, 16, 
+199-215.
+Mumford, M. D., Connelly, M. S., Helton, W. B., Van 
+'RRUQ-5	2VEXUQ+.$OWHUQDWL-
+ve approaches for measuring values: Direct and 
+indirect assessments in performance prediction. 
+Journal of Vocational Behavior, 61, 348-373.
+Northouse, P. G. (1997). Leadership: Theory and research. 
+Tousand Oaks, CA: Sage.
+Omar, A. (2005). La cultura organizacional de las empresas 
+argentinas. Rosario: Conicet. 
+Omar, A. (2006). Justicia organizacional, individualis-
+mo-colectivismo y estrés laboral. Psicología y Salud, 
+16(2), 207-217. 
+Omar, A., Uribe, H., Ferreira, C., Assmar, E., Terrones, 
+$	*DOD]0&ROHFWLYLVPRMXVWLFLD\
+ciudadanía organizacional en empresas argenti-
+nas, mexicanas y brasileras. Revista Mexicana de 
+Psicología, 24(1), 101-116.
+2PDU$	8UWHDJD)9DORUHVSHUVRQDOHV\
+compromiso organizacional. Enseñanza e Investi-
+gación en Psicología, 13(2), 353-372.
+3HWHUV37LMGHQV.*	:HW]HOV&(PSOR-
+\HHV·RSSRUWXQLWLHVSUHIHUHQFHVDQGSUDFWLFHVLQ
+telecommuting adoption. Information Manage-
+ment, 41(4), 469-482.
+  2010  
+ALICIA OMAR, ALICIA FLORENCIA URTEAGA
+92     
+   UNIVERSITAS PSYCHOLOGICA      V. 9      NO. 1      ENERO-ABRIL   
+Pettigrew, A. M. (1979). On studying organizacional 
+cultures. Administrative Science Quartely, 24, 570-
+581.
+5DPDPRRUWK\1*XSWD$6DUGHVVDL5	)ORRG3
+(2005). Individualism/collectivism and attitudes 
+towards human resource systems: A compara-
+tive study of American, Irish and Indian MBA 
+students. International Journal of Human Resource 
+Management, 16, 852-869.
+Schein, E. H. (2004). Organizational culture and leader-
+ship (8° ed.). San Francisco: Jossey-Bass.
+6FKLPPDFN82LVKL6	'LHQHU(,QGL-
+vidualism: A valid and important dimension of 
+cultural differences between nations. Personality 
+and Social Psychology Review, 9, 17-31.
+Triandis, H. C. (2000). Cross-cultural I/O Psychology 
+at the end of the millennium. Applied Psychology: 
+An International Review, 49(1), 222-226.
+YDQ5HNRP-YDQ5LHO&%0	:LHUHQJD%
+(2006). A methodology for assessing organiza-
+tional core values. Journal of Management Studies, 
+43, 175-201.
+9HUEHNH:$UHYLVLRQRI+RIVWHGHHWDO·V
+(1990) Organizational Practices Scale. Journal of 
+Organizational Behavior, 21, 587-602.
+  2010  

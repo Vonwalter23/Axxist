@@ -1,0 +1,1266 @@
+ 
+ 
+ 
+“Engagement organizacional, análisis desde una perspectiva de la 
+Psicología Organizacional Positiva” 
+ 
+ 
+ 
+ 
+Autor: Zanenga Laura Agostina 
+ 
+ 
+Tutora: María Laura Lupano Perugini 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Índice 
+ 
+ 
+1. Introducción 
+3 
+2. Objetivos 
+4 
+2.1 Objetivo General 
+4 
+2.2 Objetivos Específicos 
+4 
+2.3 Hipótesis 
+4 
+3. Marco Teórico 
+5 
+3.1 Psicología Positiva 
+5 
+3.2 Psicología Organizacional Positiva 
+6 
+3.3 Compromiso Organizacional 
+10 
+3.4 Flow 
+11 
+3.5 Engagement 
+12 
+3.6 Estudios Previos 
+14 
+4. Método 
+19 
+5. Desarrollo 
+22 
+5.1 Análisis y Discusión de Resultados 
+24 
+5.2 Relación engagement - género 
+25 
+5.3 Relación engagement - edad 
+26 
+5.4 Relación engagement - antigüedad 
+26 
+6. Discusión 
+27 
+7. Referencias 
+32 
+8. Apéndice 
+36 
+ 
+ 
+ 
+3 
+ 
+1. Introducción 
+ 
+El estudio se llevó a cabo a 1.063 empleados de una empresa multinacional que 
+ofrece servicios de consultoría, outsourcing y tecnología. Es una organización que 
+trata de generar conciencia social, tiene política de “Green office” (oficina pro 
+ambiente), realiza maratones solidarias para recaudar fondos para Hospitales de 
+niños. Fomenta actividades fuera de la oficina para mejorar las relaciones 
+interpersonales de los equipos de trabajo, y tiene una política de beneficios muy 
+extensa para mejorar la calidad de vida de los empleados y generar mayor 
+compromiso organizacional. 
+Alguno de esos beneficios son: trabajo remoto o “home office”, beneficios especiales 
+para las mujeres con niños menores de un año como hora de lactancia, trabajo part 
+time, flexibilidad horaria, entre otros. Además ofrece para mejorar la calidad de vida, 
+gimnasio totalmente pago, clases de yoga y pilates in Company, médico en la 
+oficina, etc. 
+El estudio realizado surge de la Práctica y habilitación profesional de la carrera de 
+Psicología de la Universidad de Palermo, en la que se realizaron tareas en el área de 
+Recursos Humanos, específicamente se trabajó con las áreas de desarrollo de 
+carrera, beneficios y compensaciones y en el área de “diversidad” de la empresa que 
+tiene dos proyectos en funcionamiento actualmente: LGBT (se refiere al área que da 
+soporte a la comunidad de lesbianas, gays, bisexuales y transexuales) y “Sin 
+Barreras”, área específica que contrata y colabora en el desarrollo de inserción 
+laboral para personas con discapacidad. 
+La inquietud por establecer la relación existente entre el compromiso organizacional 
+de los empleados (de acuerdo a edad, género, jerarquía dentro de la organización y 
+antigüedad) en el marco de la psicología organizacional positiva surge a raíz de la 
+asistencia a los congresos de Psicología Positiva de la Universidad de Palermo y por 
+lo observado durante la práctica y habilitación profesional que permitió conocer y 
+analizar más a fondo el compromiso social y cultural de la organización. 
+ 
+ 
+ 
+4 
+ 
+2. Objetivos: 
+2.1 Objetivo General: 
+“Analizar la relación que existe entre el engagement percibido en los empleados 
+según género, edad, antigüedad en la empresa y nivel de carrera”. 
+ 
+2.2 Objetivos Específicos: 
+- 
+Analizar la relación que existe entre el engagement percibido y el género de 
+los empleados. 
+- 
+Analizar la relación que existe entre el engagement percibido y el rango etario 
+de los empleados. 
+- 
+Analizar la relación que existe entre el engagement percibido y el nivel de 
+carrera de los encuestados. 
+- 
+Analizar la relación que existe entre el engagement percibido y la antigüedad 
+en la empresa de los encuestados. 
+ 
+2.3 Los objetivos del trabajo, responden a las siguientes hipótesis: 
+a) Existen diferencias entre el engagement percibido de hombres y mujeres. 
+b) Existen diferencias en el engagement organizacional según la edad de los 
+empleados. 
+c) Existen diferencias en el engagement organizacional percibido según el 
+nivel de carrera de los empleados. 
+d) Existen diferencias en el engagement organizacional percibido según 
+antigüedad de los empleados. 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+3. Marco teórico: 
+3.1 Psicología Positiva 
+El siguiente trabajo se encuadra dentro del marco de la Psicología Positiva (PP), 
+disciplina que surgió a finales de la década de los ´90, de la mano del psicólogo 
+Martin Seligman.  
+Surge en el período de posguerra, como contrapunto del estudio de la patología 
+humana. Seligman, considera que además de buscar las causas y el tratamiento de 
+las patologías humanas, también debería estudiarse la experiencia óptima del ser 
+humano. Ésta rama de la psicología cuestiona los supuestos del modelo de 
+enfermedad y surge con el objetivo de investigar las fortalezas y virtudes humanas y 
+sus efectos en la vida de las personas (Cuadra & Florenzano, 2003) 
+La Psicología Positiva se define como la ciencia de la experiencia subjetiva positiva, 
+los rasgos individuales positivos, las instituciones y comunidades positivas 
+(Cosentino, 2009). 
+La PP puede ser entendida desde una perspectiva amplia, como el estudio del 
+funcionamiento psíquico óptimo de personas, grupos e instituciones. Así mismo, 
+intenta entender las condiciones, procesos y mecanismos que llevan a aquellos 
+estados subjetivos sociales y culturales que caracterizan a una vida plena (Castro 
+Solano, 2010). 
+Tres son los denominados pilares básicos de la PP: el estudio de las emociones 
+positivas, estudio de los rasgos positivos y de las instituciones positivas. A su vez, 
+según Seligman, existen tres vías de acceso para una vida plena. En primera 
+instancia, se refiere al estudio de la vida placentera, y consiste en incrementar la 
+cantidad de emociones positivas para obtener así la mayor cantidad de momentos 
+felices posibles a lo largo de la vida. La presencia de emociones positivas incide en la 
+salud física, emocional, mejora las relaciones interpersonales, tienen mejor 
+rendimiento en el trabajo y viven más. La segunda vía se relaciona con el 
+compromiso que a su vez abarca el estudio de las fortalezas y virtudes personales 
+ 
+ 
+ 
+6 
+ 
+como así también el estado de Flow, que se expondrá más adelante. Se trata de una 
+ecuación entre las habilidades personales y las características de la tarea. Cuando se 
+conocen dichas habilidades personales y las mismas son aplicadas a una tarea se 
+alcanza el compromiso.  Por último, la tercera vía, se relaciona con la búsqueda de 
+sentido de la vida. Se trata de la aplicación de las fortalezas personales para el 
+desarrollo de algo más importante que uno mismo, es ayudar a los demás a 
+desplegar sus potencialidades. Por lo general, esto sucede en las instituciones como 
+la familia, el trabajo, la escuela y la comunidad. Es en este marco en el que se 
+trabaja la siguiente investigación (Castro Solano, 2010; Lupano & Castro Solano, 
+2010; Seligman & Csikszentmihalyi 2000). 
+Seligman, afirma que la psicología debe tratarse del estudio del bienestar, constructo 
+que está conformado por 5 elementos: las emociones positivas, el compromiso, los 
+vínculos positivos, el significado y el logro (Mariñelarena, 2012). 
+ 
+3.2 Piscología Organizacional Positiva 
+Recientemente, se ha desplegado una rama dentro de esta teoría que estudia las 
+organizaciones, denominada Psicología Organizacional Positiva (POP), la misma es 
+definida por Nelson y Cooper (2007) como el “estudio y aplicación de las 
+capacidades psicológicas y las fortalezas que pueden ser medidas, desarrolladas y 
+gestionadas eficazmente para mejorar el rendimiento” (p.59). 
+La POP intenta incorporar a los estudios organizacionales los rasgos, procesos y 
+relaciones positivas. Intenta adoptar una perspectiva alternativa a la tradicional y 
+considerar los obstáculos como posibilidades de cambio, hacer foco en la 
+performance propiciando el crecimiento del personal que a su vez se refleja en el 
+crecimiento de la organización y analizando las virtudes humanas, especialmente en 
+aquellas virtudes de los miembros que ayudan a otros con la tarea (Lupano, 2014) 
+En este enfoque se trabaja sobre la potenciación de las virtudes organizacionales, el 
+objetivo es el incremento del bienestar laboral por sobre el dinero o la productividad 
+ 
+ 
+ 
+7 
+ 
+considerado como el capital psicológico de los miembros de la organización (Castro 
+Solano, 2010). 
+Esta corriente tiene sus inicios en la Universidad de Michigan (EEUU) en el año 2000, 
+mientras Jane Dutton, Kim Cameron y Robert Quinn intentaban darle un marco de 
+referencia global a los estudios organizacionales que se alejaban de las líneas 
+clásicas. Mientras los autores planificaban la intervención, ocurre el atentado a las 
+Torres Gemelas en NY, y como resultado, se genera en la Universidad de Michigan el 
+Centro para el estudio de la Psicología Organizacional Positiva. Su objetivo es 
+cambiar el foco del estudio de las variables clásicas como clima laboral y dirigirse 
+hacia el estudio de temas como el flow, las virtudes organizacionales, entre otros 
+(Lupano, 2014) 
+Las virtudes organizacionales son aquellas características de las organizaciones que 
+influyen en el accionar de las personas y contribuye a que experimenten una vida 
+más plena, como el propósito, la seguridad, justicia, humanidad y dignidad. 
+Cameron, et al. (2004) intentaron comprobar que realizar una serie de prácticas 
+positivas se relaciona con altos índices de performance y eficacia de las empresas. 
+Evidencias empíricas demuestran que las organizaciones reaccionan igual que las 
+personas ante la presencia de influencias positivas, por lo que organizaciones de 
+diversas industrias implementaron prácticas positivas al mismo tiempo que iban 
+incrementando su productividad, satisfacción del cliente y menos rotación de los 
+empleados (Cameron, 2012) 
+Luthans (2007) señala la necesidad de una aproximación proactiva: el 
+comportamiento organizacional positivo, hace referencia al estudio y aplicación de 
+recursos y competencias humanas, que puedan ser medidas, desarrolladas y 
+gestionadas con el objetivo de mejorar el desempeño en las organizaciones. 
+Los constructos psicológicos positivos que, hasta el momento, cumplen con los 
+criterios de inclusión en el área de la POP son: 
+- 
+Identificación con la empresa, 
+ 
+ 
+ 
+8 
+ 
+- 
+Justicia organizacional 
+- 
+Comportamiento de ciudadanía organizacional 
+- 
+Confianza en la empresa 
+- 
+Compromiso organizacional 
+- 
+Satisfacción laboral  
+- 
+Capital psicológico. 
+ 
+La identificación organizacional es una forma específica de identificación social, se 
+trata de un vínculo emocional con la institución que puede influir en la forma en que 
+el empleado toma las decisiones (Omar, 2010).  
+Cheney, describe tres componentes de la identificación organizacional: el sentido de 
+pertenencia, la lealtad y la similitud de valores y objetivos. Trabajos recientes 
+demuestran que la identificación incrementa la autoestima del empleado por sentirse 
+parte del éxito de la empresa (Omar, 2010). 
+La justicia organizacional se define como la percepción de equidad que tienen los 
+empleados dentro de la organización. 
+Comportamientos de ciudadanía organizacional, se definen como aquellos 
+comportamientos que benefician a la organización y que sobrepasan las expectativas 
+para un determinado rol. El creador del concepto, Organ (1988), considera que el 
+comportamiento de ciudadanía organizacional se encuentra integrado por cinco 
+dimensiones: altruismo, cumplimento general, virtud cívica (participación en los 
+eventos de la organización), cortesía y espíritu deportivo (Omar, 2010). 
+La confianza en la organización es un componente crítico para que las 
+organizaciones puedan lograr sus objetivos y atraer capital humano apreciable. 
+La satisfacción laboral es una actitud frente a las experiencias laborales. Numerosos 
+estudios demuestran que la productividad y el desempeño laboral están asociados a 
+este concepto; y que la satisfacción aparece cuando las expectativas laborales 
+personales del sujeto y las características del puesto son congruentes. 
+ 
+ 
+ 
+9 
+ 
+Éste es un constructo muy complejo para las organizaciones, ya que es un punto 
+crítico a donde suelen apuntar con los beneficios y compensaciones que ofrecen 
+diferentes compañías. Al mismo tiempo, puede variar según la motivación y 
+necesidad personal del empleado. Actualmente las empresas hacen hincapié en 
+ofrecer mejorar la calidad de vida del empleado con políticas como home office, 
+inclusión de diversidad, actividades de recreación al aire libre que fomente las 
+relaciones interpersonales entre los empleados, etc. 
+Por último, pero no menos importante, encontramos el constructo de capital 
+psicológico, incluido por Luthans y Youssef (2007) y se define como “estado 
+psicológico positivo caracterizado por: 1) Tener confianza para llevar a cabo una 
+tarea desafiante; 2) Hacer una atribución positiva sobre el éxito; 3) Perseverar en la 
+búsqueda de los objetivos y 4) Fortalecerse en la adversidad para alcanzar el éxito” 
+(Omar, 2010). 
+Por capital psicológico se entiende al conjunto de características positivas que 
+desplegamos en nuestra vida profesional que pueden marcar una diferencia en los 
+resultados conseguidos. Luthans y Youssef (2004) identifican estas características 
+como: autoeficacia (confianza en la propia capacidad para lograr un objetivo 
+específico en una situación específica), la esperanza (motivación orientada al 
+cumplimiento de un objetivo), optimismo realista (confianza en la resolución positiva 
+de acontecimientos futuros) y resiliencia (capacidad de afrontar sostenidamente 
+condiciones adversas). 
+La competencia percibida puede impulsar el engagement, una autopercepción de 
+eficacia profesional podría actuar como desencadenante del engagement. La 
+autoeficacia optimiza los niveles de engagement, como también disminuye los 
+niveles de burnout. La eficacia, además de ser un valioso recurso para afrontar las 
+demandas laborales, actúa como amortiguador de los estresores y es una fuente de 
+bienestar (García-Renedo; Llorens; Cifre & Salanova, 2006). 
+Salanova (2009) agrega el engagement como característica del capital psicológico y 
+destaca a éste junto con la autoeficacia como los dos términos claves del concepto. 
+ 
+ 
+ 
+10 
+ 
+Cameron (2012) propone estudiar la relación entre el engagement y la POP dado 
+que considera al primero como importante por la posibilidad que tiene este 
+constructo de conducir numerosos resultados positivos para aspectos como 
+desempeño, satisfacción del cliente, proactividad, adaptabilidad y creatividad de los 
+empleados de una organización positiva. 
+ 
+3.3 Compromiso Organizacional 
+Se define al Compromiso Organizacional (CO) al grado con que las personas se 
+identifican con sus organizaciones y están dispuestas a continuar trabajando en ellas 
+(Omar, 2010). 
+Meyer y Allen (1991) definieron este concepto como un estado psicológico que 
+caracteriza la relación que existe entre una persona y una organización, que puede 
+presentar consecuencias para la organización en la que se trabaja y si se permanece 
+en ella o no. Además diferenciaron tres componentes del compromiso: afectivo, de 
+continuación o calculativo y normativo (Chiang, Nuñez, Martin & Salazar, 2010). 
+El compromiso afectivo se refiere a los lazos emocionales que generan las personas 
+con la organización a efectos de sentir sus necesidades y expectativas satisfechas, 
+por lo que en consecuencia disfrutan de permanecer en la organización. El 
+compromiso de continuación se refiere a la toma de conciencia del individuo del 
+costo que implicaría dejar la organización a la que pertenece, por lo que debe 
+realizar un cálculo de costo-beneficio antes de tomar cualquier decisión, en caso de 
+que sea más costoso dejar la organización, se quedaría por un compromiso de tipo 
+calculativo. Por último, el compromiso de tipo normativo se refiere a al sentimiento 
+de deber y lealtad con la organización que deriva en el sentimiento de 
+correspondencia y permanencia en la organización (Chiang, et al. 2010). 
+Numerosos estudios señalan los beneficios que traen a las organizaciones el 
+sentimiento de compromiso organizacional de los empleados, ya que impacta 
+directamente en la eficiencia y en el rendimiento laboral de los mismos. Por lo que la 
+ 
+ 
+ 
+11 
+ 
+producción y ganancias de las organizaciones se ve favorecida (Dalal, Baysinger, 
+Brummel & LeBreton, 2012). 
+Directivos de empresas se han percatado de que para obtener ventajas competitivas 
+en el mercado deben contar con capital humano identificado con los valores de la 
+organización y que al mismo tiempo, el compromiso con la organización tiene la 
+capacidad de influir favorablemente en el bienestar de los empleados. Se ha 
+observado que el compromiso que un empleado tiene con su organización se vincula 
+con su comportamiento en el lugar de trabajo (Omar & Urteaga, 2008). 
+Entre el compromiso organizacional y el engagement se encuentra el concepto de 
+flow como puente, ya que éste concepto se diferencia del CO por el sentimiento de 
+disfrute y motivación por la tarea realizada más que por la obligación con la 
+organización a la que el sujeto pertenezca.  
+ 
+3.4 Flow 
+Csikszentmihalyi (1992) define flow como experiencia óptima extremadamente 
+disfrutada. La persona está en flow cuando se encuentra completamente absorbida 
+por una actividad durante la cual pierde la noción del tiempo y experimenta una 
+enorme satisfacción. 
+Algunos de los elementos que integran el flow son el disfrute de la tarea realizada, el 
+enfoque que le ponen a la tarea realizada que hace que el tiempo se distorsione y 
+pierden noción del mismo. El tercer elemento es la motivación interna que mueve a 
+la persona a realizar la tarea por el hecho de hacerlo, porque están fascinados por la 
+tarea y no por una recompensa externa (Demerouti, 2006). 
+Puede experimentarse este estado en el trabajo, la lectura de un libro o mientras se 
+toca un instrumento musical. El secreto para lograr este estado consta en que la 
+tarea no debe ser muy aburrida, ni muy estresante, se trata de una ecuación entre 
+las habilidades personales y las características de la tarea (Castro Solano, 2010) 
+ 
+ 
+ 
+12 
+ 
+Parte fundamental del presente trabajo es definir al concepto que se diferencia de 
+los mencionados anteriormente, aunque se relacionen muy íntimamente, no tienen 
+la misma relevancia para el estudio aquí desarrollado. 
+Se dijo que el compromiso organizacional se refiere al sentimiento de lealtad de un 
+empleado para con la compañía por otorgarle trabajo. Luego se hizo referencia al 
+flow como experiencia óptima y se refiere al disfrute de la tarea realizada. Por 
+último, cabe mencionar al engagement como indicador de motivación intrínseca, un 
+estado mental positivo y persistente en el individuo que se relaciona con el trabajo y 
+no específicamente con la organización en sí (Maslach, Schafeli & Leiter; 2001). 
+ 
+3.5 Engagement 
+Este concepto surge en investigaciones como el concepto opuesto al burnout y se 
+define como estado mental positivo relacionado con el trabajo y caracterizado por 
+vigor, dedicación y absorción. Más que un estado específico y momentáneo, el 
+engagement se refiere a un estado afectivo – cognitivo más persistente que no está 
+focalizado en un objeto, evento o situación particular (Schaufeli, Salanova, Gonzalez-
+Roma & Bakker, 2002). 
+Este concepto, tiene los siguientes componentes: vigor, que se refiere a altos niveles 
+de energía y activación mental en el trabajo, la voluntad y predisposición de invertir 
+esfuerzos y la persistencia, incluso ante las dificultades. La dedicación se asocia al 
+entusiasmo, estar orgulloso e inspirado en el trabajo. Se caracteriza por un 
+sentimiento de importancia y desafío. La absorción, es caracterizada por un estado 
+de concentración, de sentimiento de que el tiempo pasa rápidamente y uno tiene 
+dificultades para desligarse del trabajo. Se puede decir que este concepto y sus 
+componentes responden a la descripción de un constructo claramente motivacional 
+ya que posee componentes de activación, energía, esfuerzo y persistencia y está 
+dirigido a la consecución de objetivos (Schaufeli et. al, 2002). 
+ 
+ 
+ 
+13 
+ 
+El engagement se caracteriza porque el empleado se siente feliz en su ambiente de 
+trabajo, este estado mental se denomina absorción; y que resulta muy similar al 
+concepto de flow que hace referencia a un estado psicológico de experiencia óptima 
+(Csikzentmihalyi, 1992).  
+Csikzentmihalyi, describe que la experiencia óptima ocurre cuando una persona está: 
+motivada y capacitada para realizar una actividad, se siente desafiado por la tarea, 
+totalmente concentrado y emplea todas sus potencialidades en la tarea. Para el 
+autor, la satisfacción se encuentra en el proceso de la actividad y no en los 
+resultados obtenidos (Salanova, Martinez, Cifre & Schaufel, 2005). 
+Sin embargo, el engagement se relaciona con la motivación intrínseca por el trabajo, 
+por lo tanto es más persistente en el tiempo que el flow, que se refiere a una 
+experiencia temporal. 
+Algunos estudios afirman que las emociones positivas influyen sobre los recursos 
+positivos de las personas, donde se encuentra el engagement. Emociones como el 
+entusiasmo, poseen mayor efecto predictivo sobre el engagement; y emociones 
+como satisfacción y confort pueden considerarse consecuencias del engagement 
+(Castellano, Cifre, Sponton, Medrano & Maffei, 2013). 
+En la actualidad, el compromiso de las personas con la organización, es uno de los 
+mecanismos que tiene la dirección de Recursos Humanos para analizar la vinculación 
+de los empleados con su organización. Por esto resulta importante para las 
+instituciones conocer el tipo y el grado de compromiso de sus miembros. 
+La palabra engagement no tiene actualmente una traducción al castellano, y suele 
+confundirse con compromiso organizacional, sin embargo, Salanova y Llorens (2008) 
+proponen denominarlo vinculación psicológica con el trabajo. En base a este 
+concepto se ha diseñado el cuestionario Utrecht Work Engagement Scale (UWES) 
+para medir las tres dimensiones del constructo: vigor, dedicación y absorción. El 
+cuestionario está compuesto por 17 ítems distribuidos en tres factores: 1) vigor (6 
+ítems, ej., «En mi trabajo me siento lleno de energía»), 2) dedicación (6 ítems, ej., 
+ 
+ 
+ 
+14 
+ 
+«Mi trabajo tiene sentido») y 3) absorción (5 ítems, ej., «Cuando estoy trabajando 
+olvido todo lo que pasa a mi alrededor»). Se pretende que el lector reflexione sobre 
+su situación laboral personal, de forma que se reconozca como un trabajador 
+engaged, permitiéndole identificar ciertas necesidades formativas con las que 
+incremente la empleabilidad y motivación en su puesto de trabajo. 
+Cameron (2012) define el engagement como el nivel de concentración y enfoque 
+que tienen las personas en su rol; y considera un constructo clave para el éxito del 
+empleado y la compañía. 
+Para clarificar algunas inconsistencias que existen sobre el término engagement, el 
+autor, propone consolidar algunas definiciones y tomar el concepto como constructo 
+multidimensional. Retoma a Kahn (1990) quien define al engagement como el 
+aprovechamiento del rol de los miembros de una compañía. 
+En este capítulo se rescata de Kahn el concepto de presencia psicológica como 
+concepto relacionado al engagement, lo que significa estar presente o estar ahí. 
+Presencia psicológica se define como el grado en que una persona se encuentra 
+atenta, conectada o integrada en el desempeño de su tarea. Este concepto tiene dos 
+componentes críticos: atención y concentración. La primera es definida por el autor 
+como la habilidad cognitiva y el tiempo que se le dedica a una tarea. La 
+concentración o absorción se refiere a la intensidad con que una persona puede 
+enfocarse en una tarea (Cameron, 2012).  
+Las consecuencias del engagement son la actitud positiva hacia el trabajo y hacia la 
+organización (que se refleja en la satisfacción laboral, compromiso organizacional y 
+baja intención de abandonar el trabajo), alta motivación para aprender cosas nuevas 
+y asumir nuevos retos en el trabajo, actitud proactiva y buen desempeño, entre 
+otros (Salanova, Schaufeli, Llorens, Peiró & Grau, 2000). 
+Bakker (2010) plantea que el engagement ofrece altas ventajas competitivas a las 
+organizaciones. Los empleados “engaged” son artesanos del trabajo, buscadores 
+activos de posibilidades de optimizar su entorno de trabajo. En consecuencia, son 
+ 
+ 
+ 
+15 
+ 
+ellos mismos quienes sostienen su engagement; por lo que el autor afirma que la 
+participación conduce a la creatividad, el aprendizaje activo y optimiza el 
+rendimiento. 
+Algunas aplicaciones prácticas del engagement pueden ser: procesos de selección y 
+evaluación del personal; diseño y cambios de puestos de trabajo; el liderazgo como 
+optimizador potencial para dirigir personas; formación y desarrollo de creencias de 
+eficacia y la prevención de riesgos laborales (Carrasco Gonzalez; de la Corte & León 
+Rubio, 2010). 
+ 
+3.6 Estudios Previos 
+En un estudio realizado por Chiang, et al. (2010) donde analizaron el compromiso 
+del trabajador hacia su organización y la relación con el clima organizacional, se 
+pudo observar que no existen diferencias significativas en el compromiso 
+organizacional entre hombres y mujeres, pero si cabe destacar que el constructo 
+estudiado es superior en mujeres de más de 40 años que en hombres de la misma 
+edad.  
+Claure (2003) y Zavaleta (2005) investigaron el compromiso organizacional en 
+diferentes organizaciones de la ciudad de La Paz, donde el objetivo es establecer el 
+grado de compromiso organizacional en relación a variables sociodemográficas y 
+organizacionales. Se obtuvo la conclusión de que las mujeres tienen mayor 
+compromiso organizacional que los hombres. En base a estos resultados Blanco y 
+Castro (2011), se preguntaron sí las mujeres obtuvieron como resultado un mayor 
+compromiso organizacional a comparación de los hombres, ¿será que todas las 
+mujeres tienen el mismo nivel alto de compromiso organizacional si se introduce la 
+variable maternidad? Estudiaron una población de 62 participantes, empleadas de un 
+Banco en la ciudad de La Paz, utilizando como herramienta de medición el 
+cuestionario de compromiso creado por Meyer y Allen (1997). El resultado del 
+estudio arrojó los siguientes resultados: 
+ 
+ 
+ 
+16 
+ 
+- 
+No existe diferencia entre el compromiso organizacional entre las mujeres que 
+son madres y aquellas que no lo son,  
+- 
+El compromiso que caracteriza a las mujeres que tienen hijos es el del 
+compromiso normativo, ya que sienten un compromiso de obligación con el 
+trabajo por los beneficios recibidos. 
+ 
+El concepto de engagement ha tomado relevancia los últimos años en el ámbito 
+organizacional como factor importante para los líderes de las industrias. Estudios 
+relacionados demuestran que éste concepto es un constructo capaz de predecir el 
+desempeño de los empleados. Dalal, Brummel, Baysinger y LeBreton (2012), 
+relacionaron el concepto de engagement con las actitudes de los empleados como 
+predictor de buen desempeño. Las variables estudiadas fueron satisfacción con el 
+trabajo, compromiso organizacional, apoyo organizacional percibido, centralidad del 
+trabajo y el rasgo positivo y sentimiento negativo como tres predictores importantes 
+de la actuación global del empleado: ejecución de tareas, comportamiento de 
+ciudadanía organizacional y comportamiento en el trabajo. Los resultados indican 
+que los mejores predictores del desempeño de los empleados es el sentimiento 
+negativo sobre el engagement de los empleados y la satisfacción con el trabajo. 
+Según Demeruti (2006), las características motivantes del puesto predicen el flow y 
+éste a su vez es capaz de predecir el desempeño en empleados muy trabajadores y 
+orientados a la meta, a quienes denominó conscientes. La relación entre flow y 
+desempeño en el trabajo se examinó mediante la inclusión del papel de la 
+personalidad (conciencia) para capturar la complejidad del desempeño. El estudio se 
+centró en el flow como constructo multifacético basado en una noción amplia de 
+bienestar 
+ocupacional 
+que 
+incorpora 
+aspectos 
+emocionales, 
+afectivos 
+y 
+motivacionales. 
+Según Ram y Prabhakar (2011), el engagement de los empleados es uno de los 
+cinco desafíos más importantes para la gestión de los Recursos Humanos dentro de 
+una organización. Por este motivo, investigaron los antecedentes y consecuencias de 
+la contratación de empleados en la industria de Jordania. Se entrevistó a 310 
+ 
+ 
+ 
+17 
+ 
+empleados de la industria hotelera de dicho país y los resultados confirman que 
+existe una relación entre el engagement organizacional con el apoyo organizacional 
+percibido, como también con las características del puesto, las recompensas 
+intrínsecas y extrínsecas, percepción de justicia distributiva.  
+Sin embargo, con una muestra internacional de 25.000 empleados de 13 países 
+diferentes (Australia, Bélgica, Canadá, Finlandia, Francia, Alemania, Grecia, Holanda, 
+Noruega, Portugal, España, Sudáfrica y Suecia) se ha encontrado que el 
+engagement se correlaciona con la edad de forma positiva, lo que implica que los 
+trabajadores mayores se sienten más engaged con el trabajo que los trabajadores 
+más jóvenes (Schaufeli y Bakker, 2004). 
+Según Salanova y Schaufeli (2004), con respecto al género, los hombres puntúan 
+más alto en los niveles de engagement que las mujeres, pero las diferencias son 
+muy pequeñas, por lo que no se considera significativo. En cuanto al tipo de 
+ocupación, los directivos, ejecutivos y autónomos puntúan alto en engagement, 
+mientras que policías y personal de atención al público puntúan relativamente bajo. 
+En 2006, la consultora internacional Gallup observó a 23.910 unidades de negocio y 
+comparó aquellas que se encontraban en los cuartiles más alto y más bajo en su 
+grado de engagement. Encontraron que, en promedio, las que estaban en el cuartil 
+más bajo mostraban entre 31% y 51% más de rotación de personas y 62% más de 
+accidentes. Aquellos que puntuaron en engagement en el cuartil más alto 
+presentaban 18% de mayor productividad y 12% de mayor rentabilidad.  
+También en 2006, la consultora Tower Perrins realizó una encuesta global de 
+engagement aplicada a más de 664.000 personas en más de 50 compañías 
+alrededor del mundo, representativas de todas las industrias y tamaños. El estudio 
+comparó el desempeño financiero de las organizaciones durante un periodo de doce 
+meses, con altos y bajos niveles de engagement. Los resultados fueron claros: existe 
+una significativa diferencia en los beneficios económicos entre compañías con alto y 
+bajo nivel de engagement (Perrin, 2006). 
+ 
+ 
+ 
+18 
+ 
+En 2007, el banco Standard Chartered UK reportó que las sucursales con un 
+incremento estadístico significativo en sus niveles de engagement (0,2 o más en una 
+escala de 5) presentaban un crecimiento en el incremento del margen sobre ventas 
+de 16% al compararlas con las de un nivel decreciente de grado de engagement. 
+El caso de Prudential UK & Europe da cuenta de un enfoque radicalmente distinto 
+desde el punto de vista de la organización y las personas. La división de recursos 
+humanos de la empresa tiene como foco estratégico lograr el más alto desempeño, y 
+ser evaluado por sus personas como un buen lugar para trabajar. En 2010, 
+Prudential UK & Europe realizó una medición de engagement. Esta arrojó resultados 
+muy positivos al compararse con otros actores del mercado de servicios financieros a 
+nivel global y en UK. No obstante, esto presentó un nuevo desafío que va más allá 
+de la mera medición: en vez de quedar satisfechos con los resultados, se 
+embarcaron en una serie de iniciativas que apuntaban a crear una estrategia exitosa 
+de RR.HH. que incrementara aún más el nivel de engagement y la rentabilidad de la 
+empresa. Así, formaron un “equipo de engagement”, integrado por miembros del 
+staff senior de cada división. El objetivo era que se transformaran en expertos en lo 
+que la encuesta les estaba “diciendo”. El equipo eligió los temas importantes y se 
+posicionó como el constructor de la estrategia de personas: la estrategia fue 
+diseñada por el equipo de engagement y no por la gerencia de RR.HH.  
+Los resultados fueron muy buenos: en la medición siguiente (2011) la organización 
+mejoró en un 10% la comprensión de la estrategia entre las personas; la confianza 
+en el liderazgo aumentó en 15%; los niveles de reconocimientos subieron un 9% 
+(Feller, 2013). 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+4. Método 
+Tipo de Estudio: estudio correlacional con hipótesis de diferencias de grupos. 
+Diseño: no experimental, transaccional. 
+ 
+Participantes:  
+La muestra se compuso de 1.036 empleados activos de la empresa, de los cuales 
+546 (52%) son mujeres y 490 (48%) son hombres. El rango de edad es de 19 a 52 
+años y la media es de 28,25 años. 
+A su vez, la muestra se divide de la siguiente manera por nivel de carrera: El 48% 
+eran asistentes (n=502), el 37% tenían categoría de analistas (n=385), el 10% era 
+consultor (n=102), el 3,5% correspondía a gerentes (n=35), el 1% pertenece a la 
+categoría de gerente Senior (n=10) y el 0,5% restante era líderes de la empresa 
+(n=2). 
+Con respecto a la antigüedad de los encuestados, se pueden diferenciar en los 
+siguientes intervalos:  
+- 
+0 a 5 años: (n=952) 
+- 
+5 a 10 años: (n=77) 
+- 
+10 años en adelante: (n=7) 
+ 
+Instrumento: 
+Para el siguiente análisis se utilizó una encuesta auto administrada realizada por el 
+área de Recursos Humanos de la empresa, destinada a todo el personal activo de la 
+misma. 
+Consta de 52 afirmaciones que se dividen en 6 áreas: Oportunidades, personas, 
+nuestra compañía, premios y reconocimiento, trabajo y ambiente de trabajo. 
+ 
+ 
+ 
+20 
+ 
+El objetivo de la misma es evaluar el nivel de engagement organizacional de los 
+empleados encuestados. Una vez obtenidos los resultados, se analizan y comparan 
+en relación al año anterior para de esta forma, poder tomar las acciones necesarias 
+para mejorar la percepción del empleado. 
+Algunas de las afirmaciones son: 
+- 
+“Mi trabajo me da sensación de logro”. 
+- 
+“Me gusta el trabajo que hago”. 
+- 
+“Me siento apoyado por mi supervisor para aprovechar las oportunidades de 
+carrera fuera de mi equipo de trabajo”. 
+- 
+“Me siento orgulloso/a de trabajar en la empresa” 
+- 
+“Mi supervisor es ejemplo de los valores de la empresa” 
+- 
+“Siento que mi trabajo es reconocido” 
+- 
+“Estoy satisfecho con el esfuerzo de esta empresa a mantener un ambiente 
+de trabajo seguro y protegido”. 
+ 
+Hay cuatro opciones de respuesta posibles: 
+1. Totalmente de acuerdo 
+2. De acuerdo 
+3. En desacuerdo 
+4. Totalmente en desacuerdo 
+ 
+Para el análisis de los resultados obtenidos, se tomaron en cuenta las respuestas de 
+las áreas “trabajo” y “nuestra compañía”, dado que se relacionan con el concepto de 
+engagement propuesto, más específicamente con las áreas de dedicación y 
+absorción que componen a dicho concepto. 
+La absorción, se caracteriza por un estado de concentración donde el tiempo pasa 
+rápidamente y uno tiene dificultades para desligarse del trabajo. La dedicación se 
+ 
+ 
+ 
+21 
+ 
+asocia al entusiasmo, estar orgulloso e inspirado en el trabajo. Se caracteriza por un 
+sentimiento de importancia y desafío. 
+ 
+Procedimiento: 
+La encuesta se distribuyó de manera aleatoria a través de un comunicado del líder 
+de la organización, solicitando a los empleados (n=2.300) que respondan las 
+preguntas con total sinceridad para ayudar a la misma a mejorar la experiencia de 
+los empleados en la empresa. Se obtuvieron en total 1.036 respuestas. 
+La encuesta se envió por mail en formato de pulsador en el mes de junio 2014, los 
+resultados obtenidos se almacenan en un sharepoint específico que va calculando 
+porcentajes por respuesta recibida de forma automática. 
+Los participantes accedieron de forma voluntaria para la recolección de datos 
+solicitados por el área de Recursos Humanos de la organización. 
+Para el análisis de los datos se recurrió al uso de Microsoft Excel 2013. 
+ 
+Análisis de datos: 
+Los datos recopilados a través de la encuesta se analizaron calculando media y 
+desviación de los ítems relacionados al área Trabajo y Compañía. Como así también, 
+se recurrió a la prueba T de Student y Coeficiente de Correlación de Pearson para 
+testear las hipótesis planteadas por la tesista en el presente trabajo de investigación. 
+ 
+ 
+ 
+ 
+ 
+22 
+ 
+5. Desarrollo 
+5.1 Análisis y discusión de resultados 
+A continuación se presentan las medias y desvíos de los ítems correspondientes a las 
+áreas “Trabajo” y “Nuestra compañía” a fin de resaltar aquellos aspectos que los 
+empleados destacan como más preponderantes en la organización en la que 
+trabajan. 
+ 
+Tabla 1  
+ Media y Desviación de los ítems para el área Trabajo 
+Ítems área Trabajo 
+Media Desviación 
+estándar 
+Mi trabajo me hace sentir realizado 
+1.64 
+0.61 
+Las decisiones del día a día demuestran que la calidad y la 
+búsqueda de perfeccionamiento son las principales prioridades en 
+la Compañía. 
+2.25 
+0.72 
+En la Compañía, se anima a los empleados a participar en la toma 
+de decisiones que afectan a su trabajo 
+2.42 
+0.64 
+Me gusta el trabajo que hago 
+1.75 
+0.66 
+Tengo influencia y participación en las decisiones acerca de mis 
+roles / proyectos 
+2.28 
+0.80 
+Mi trabajo hace un buen uso de mis habilidades y capacidades 
+1.82 
+0.72 
+Mis funciones y responsabilidades actuales están claramente 
+definidas 
+1.00 
+0.00 
+Me alientan a llegar a nuevas y mejores formas de hacer las cosas 
+1.57 
+0.50 
+Mi trabajo me permite el tiempo que necesito para producir un 
+trabajo de calidad 
+1.50 
+0.50 
+Mi equipo discute maneras en que podemos satisfacer mejor las 
+necesidades de nuestros clientes 
+1.50 
+0.50 
+Tengo acceso a los recursos (por ejemplo , materiales , equipos, 
+tecnología , etc.) que necesito para hacer mi trabajo de manera 
+efectiva 
+1.00 
+0.00 
+Tengo la capacidad de hacer lo que sea necesario para servir 
+eficazmente a mis clientes 
+2.00 
+0.00 
+ 
+ 
+ 
+23 
+ 
+Observando los valores obtenidos, se puede destacar que el ítem que obtuvo la 
+media más alta se relaciona con el componente “dedicación” del engagement, factor 
+que genera un sentimiento de desafío hacia la tarea realizada. Cuando en una 
+organización se anima a los empleados a participar en las decisiones que lo afectan, 
+genera en los empleados un sentimiento de orgullo e importancia tal para la 
+organización que alienta al compromiso con el trabajo, que a su vez promueve el 
+entusiasmo por la tarea. 
+ 
+Tabla 2. 
+Media y desviación de los ítems para Nuestra compañía  
+Ítems área "Nuestra Compañía" 
+Media Desviación 
+estándar 
+Estoy orgulloso de trabajar para la Compañía. 
+1.82 
+0.58 
+Tengo un sentido de pertenencia con mi trabajo. 
+2.20 
+0.98 
+La dirección de la Compañía ha comunicado una visión del futuro que 
+me motiva 
+1.75 
+0.72 
+Confío en que la Compañía va en la dirección correcta para el éxito 
+futuro 
+1.54 
+0.50 
+Puedo ver una relación clara entre mi trabajo del día a día y los 
+objetivos estratégicos de la Compañía 
+2.17 
+0.90 
+La Compañía hace un buen trabajo facilitando que las cosas sucedan  
+2.42 
+0.76 
+En la Compañía hay una comunicación bidireccional. 
+1.82 
+0.57 
+Creo que en la Compañía tenemos una manera de colaborar con 
+nuestros clientes y las personas, dirigiendo el rendimiento y 
+construyendo para el futuro. 
+2.44 
+0.79 
+En la Compañía , hay un ambiente de colaboración y trabajo en equipo 
+en toda la empresa 
+1.82 
+0.58 
+Tengo una buena comprensión de la estrategia que persigue la 
+Compañía hoy. 
+2.09 
+0.70 
+Siento que mi liderazgo crea un ambiente de trabajo que da mucho 
+valor a la seguridad de la información y presentación de informes de 
+incidentes de seguridad de la información 
+1.75 
+0.72 
+Creo que los valores fundamentales son la base de la cultura de la 
+Compañía 
+1.40 
+0.49 
+Creo que podría reportar una violación del Código de Ética Empresarial 
+sin temor a ser víctima de represalias debido a mi informe 
+1.80 
+0.60 
+Creo que la Compañía se compromete a conducir sus negocios 
+éticamente 
+1.82 
+0.58 
+ 
+ 
+ 
+24 
+ 
+La Compañía ha creado un ambiente donde las personas con diversos 
+antecedentes pueden tener éxito. 
+1.01 
+0.10 
+Creo que la Compañía actúa como un ciudadano corporativo 
+responsable (promueve habilidades para tener éxito , trabajando con 
+nuestras comunidades locales , el apoyo a proyectos sociales y de 
+caridad , la reducción del impacto sobre el medio ambiente) 
+2.00 
+0.67 
+ 
+Observando los resultados obtenidos, se puede destacar que los ítems que 
+obtuvieron medias más altas se tratan de ítems que describen a una empresa 
+orientada hacia el futuro, que busca la innovación y que facilita el desarrollo de las 
+personas. Esto se puede relacionar con el estudio realizado por Dalal et al. (2012) 
+donde relacionan el concepto de engagement como predictor de buen desempeño. 
+Las variables que estudiaron, como satisfacción con el trabajo y el apoyo 
+organizacional percibido derivan en satisfacción con el trabajo, por ende mejor 
+desempeño. 
+ 
+5.2 Engagement percibido y género de los empleados: 
+Con el objetivo de verificar la relación que existe entre el engagement percibido y el 
+género de los empleados, se calculó prueba t de Student no obteniéndose diferencia 
+significativa (mujeres=1,81; varones=1,81; t=0,09; p> 0,05). 
+Este resultado es congruente con estudios previos donde se concluye que no existe 
+diferencia significativa en el engagement organizacional percibido entre hombres y 
+mujeres (Chiang, 2010). 
+Sin embargo, no coincide con el resultado obtenido por Salanova y Schaufeli (2004) 
+donde afirman que los hombres puntúan más alto en engagement que las mujeres, 
+sin embargo se trata de un valor poco significativo para arribar a conclusiones 
+determinantes.  
+Retomando a Shaufeli et al. (2002), el engagement es un estado afectivo – cognitivo 
+que no está focalizado en un objeto, evento o situación particular, se trata de una 
+motivación intrínseca. Esto nos indica que es independiente al género, edad u 
+ 
+ 
+ 
+25 
+ 
+ocupación de la persona “engaged”, sino que se asocia al entusiasmo por la tarea 
+desarrollada, por sentirse inspirado en la realización de una actividad y estar 
+orgulloso de eso. Importancia y desafío son también sentimientos asociados al 
+engagement, por lo que para la Dirección de Recursos Humanos, este concepto se 
+ha vuelto fundamental a lo largo del tiempo, y si se aprovechan los estudios previos, 
+se pueden obtener increíbles resultados en el desempeño de los empleados de una 
+organización. 
+ 
+5.2 Engagement percibido y rango etario de los empleados: 
+Con el objetivo de verificar la relación que existe entre el engagement percibido y la 
+edad de los empleados, se calculó el coeficiente de correlación de Pearson no 
+obteniéndose un resultado significativo (r= -0.01). 
+Este resultado implica que el engagement no se relaciona positivamente con la edad. 
+Retomando a Schaufeli (2002), el engagement es un estado afectivo-cognitivo 
+persistente en el tiempo y que se relaciona con una motivación intrínseca por el 
+trabajo. 
+Las consecuencias del engagement son la actitud positiva hacia el trabajo y hacia la 
+organización (que se refleja en la satisfacción laboral, compromiso organizacional y 
+baja intención de abandonar el trabajo), alta motivación para aprender cosas nuevas 
+y asumir nuevos retos en el trabajo, actitud proactiva y buen desempeño, entre 
+otros (Salanova, Schaufeli, Llorens, Peiró & Grau, 2000). 
+Los resultados obtenidos no coinciden con lo expuesto por Schaufeli y Bakker (en 
+prensa) donde indican que la correlación entre engagement y edad es positiva. Por 
+éste motivo y para determinar si existen diferencias, se procedió a contrastar los 
+resultados con una prueba t de diferencia de medias. Para ellos se dividió la muestra 
+en dos grupos: adultos jóvenes (de 19 a 35 años) n=952; y en adultos mayores (de 
+36 a 52 años) n=84. 
+ 
+ 
+ 
+26 
+ 
+Los resultados obtenidos fueron confirmatorios, ya que no se obtuvo diferencia 
+significativa 
+entre 
+los 
+rangos 
+observados 
+(adultos 
+jóvenes=1,81; 
+adultos 
+mayores=1,82; t=0,41; p> 0,05). 
+5.3 Engagement percibido y nivel de carrera de los encuestados. 
+Para comprobar la relación que existe entre el engagement y el nivel de carrera de 
+los empleados se realizó una prueba t de Student, para ello, se dividió la muestra en 
+dos grupos según categoría: junior (incluye asistentes y analistas, n=887) y senior 
+(incluye los niveles de consultor, gerente y gerente Sr y líderes de la organización; 
+n=149). No se obtuvo diferencia significativa en el constructo engagement según los 
+distintos niveles de carrera (Juniors=1,81; senior=1,82; t=0,5; p>0,05). 
+Estos resultados, se diferencian de lo expuesto por Salanova y Schaufeli (2004), 
+donde indica que directivos y ejecutivos puntúan más alto en este constructo que 
+aquellas personas que trabajan en tareas administrativas y atención al público. 
+Teniendo en cuenta estos resultados, se puede retomar la importancia que ha 
+adquirido el concepto de engagement en los últimos años en el ámbito 
+organizacional como factor importante para los líderes de las industrias. Dalal y cols. 
+(2012), relacionaron el concepto de engagement con las actitudes de los empleados 
+como predictor de buen desempeño. Los resultados indican que los mejores 
+predictores de desempeño de los empleados son el sentimiento negativo sobre el 
+engagement y la satisfacción con el trabajo. 
+ 
+5.4 Engagement percibido y antigüedad de los encuestados. 
+Con el objetivo de analizar la relación existente entre el engagement y la antigüedad 
+de los empleados de la empresa se calculó una prueba t de Student obteniéndose 
+resultado significativo (baja antigüedad=2,41; alta antigüedad=1,81; t=9,04; 
+p<0,05) a favor de los que poseen menor antigüedad en la empresa.  
+ 
+ 
+ 
+27 
+ 
+Los resultados obtenidos se relacionan con el concepto de absorción que compone al 
+constructo aquí analizado, el empleado se siente feliz en su ambiente de trabajo, el 
+sujeto se encuentra en un estado de concentración profunda que le impide 
+despegarse fácilmente de la tarea. A su vez éste concepto se relaciona con el 
+concepto de flow o experiencia óptima que ocurre cuando una persona está 
+motivada o capacitada para realizar una actividad y emplea todas sus 
+potencialidades en la tarea (Salanova y cols, 2005). Según los resultados obtenidos, 
+esto parecería darse con más intensidad en los primeros años empresa. 
+ 
+6. Discusión 
+El presente trabajo tenía como objetivo general analizar la relación existente entre el 
+engagement percibido de los empleados según género, edad, nivel de carrera y 
+antigüedad en una empresa multinacional con fuerte presencia en Argentina, lugar 
+donde la pasante realizó la Práctica y habilitación profesional. 
+En dicha instancia, se pudo observar el comportamiento de una organización 
+internacional y su cultura interna. Así también se tuvo contacto directo con los 
+empleados que permitieron un conocimiento más profundo de las prácticas que 
+implementa el área de Recursos Humanos y el impacto que generan en los mismos. 
+Esta experiencia sirvió como base para el desarrollo del plan de TFI y permitió a la 
+pasante acceder a información importante para la realización del presente trabajo. 
+Con lo expuesto en el desarrollo, se puede decir que las siguientes hipótesis no 
+pudieron ser confirmadas: 
+a) Existen diferencias entre el engagement percibido de hombres y mujeres, 
+b) Existen diferencias en el engagement organizacional según la edad de los 
+empleados, 
+c) Existen diferencias en el engagement organizacional percibido según el nivel 
+de carrera de los empleados.  
+ 
+ 
+ 
+28 
+ 
+Así también se observaron discrepancias en los resultados obtenidos y algunas 
+investigaciones previas citadas en el presente trabajo; es el caso de las 
+investigaciones de Claure (2003) y Zavaleta (2005) que indican que las mujeres 
+demuestran mayor engagement organizacional que los hombres. Los estudios 
+realizados en 13 países por Schaufeli y Bakker (2004) correlacionan el engagement 
+organizacional con la edad de forma positiva, favoreciendo a los trabajadores 
+mayores, sin embargo esto no pudo ser demostrado en este estudio. De todos 
+modos, se debe tener en cuenta que este estudio y su correspondiente análisis se 
+realizaron observando una única organización con una población en su mayoría de 
+jóvenes, el promedio de edad de los participantes es de 28 años. 
+Sin embargo, se observa una relación positiva entre engagement y antigüedad en la 
+organización, lo que sugiere que la hipótesis presuntiva de que existen diferencias 
+entre el engagement percibido según la antigüedad de los empleados podría 
+considerarse un punto de partida para ampliar el análisis de dicha relación.  
+La diferencia percibida fue a favor de los que poseen menor antigüedad en la 
+empresa analizada, por lo que se podría tener en cuenta el valor para que la 
+Dirección de los Recursos Humanos (DRH) de una organización implementen 
+estrategias para mantener este valor positivo obtenido a lo largo del tiempo, o en 
+caso contrario, trabajar en incrementar el sentimiento de engagement en aquellos 
+empleados que puntúan bajo o de mayor antigüedad. 
+Trabajar en una estrategia de Recursos Humanos para incrementar el sentimiento 
+de engagement de los empleados es un posible lineamiento a tener en cuenta en la 
+organización analizada; esto traería consecuencias positivas en la rentabilidad de la 
+misma. Los resultados obtenidos indican que los empleados con menor antigüedad 
+en la empresa se sienten motivados y entusiasmados por la tarea a desarrollar; pero 
+¿qué sucede en los colaboradores con más de 10 años de experiencia que este 
+sentimiento se encuentra disminuido con respecto a los más jóvenes? Siendo una 
+empresa a la vanguardia de las mejores prácticas de Recursos Humanos, habría que 
+ 
+ 
+ 
+29 
+ 
+analizar si dichas prácticas se realizan de la forma correcta, en tiempo y forma o si 
+las mismas han quedado obsoletas por los intereses de las nuevas generaciones. 
+Algunas prácticas que pueden desarrollar las organizaciones para incrementar y 
+mantener el sentimiento de engagement de sus empleados deben estar dirigidas 
+hacia el incremento de la motivación por la tarea a desarrollar, y para ello es 
+necesario que el empleado considere a la tarea desafiante. En consecuencia, se debe 
+otorgar a la persona el correspondiente feedback luego de ciertos períodos de 
+tiempo para mantenerlo enfocado en la meta que se quiere alcanzar. 
+Implementar el análisis de los perfiles que posee la compañía puede ser el primer 
+paso a realizar, ya que conocer en profundidad a los recursos que posee una 
+empresa es fundamental para poder designar a cada sujeto en un rol específico en 
+función de sus intereses y aptitudes. Luego, trabajar sobre políticas de acción para 
+que las tareas y roles que deben cumplir los empleados generen sentimientos de 
+autoeficacia y autonomía. 
+Si se tiene en cuenta el concepto de engagement como constructo motivacional y 
+predictor del desempeño (Schaufeli et. al 2002), se puede pensar en las ventajas 
+que traería a las organizaciones en general si invirtieran más tiempo en estudiar y 
+trabajar sobre el engagement de sus empleados.  
+Más allá de la calidad del clima laboral o el grado de compromiso organizacional, 
+tiene mayor impacto el nivel de engagement de los empleados. 
+Las personas “engaged” se sienten enérgicas y motivadas, las horas dedicadas al 
+trabajo no son contabilizadas según el contrato que tengan o el puesto al que 
+pertenezcan; se trata de personas que llegan a estar absorbidas por su trabajo, 
+felizmente absorbidas y especialmente satisfechas con sus labores. 
+ 
+En cuanto a las limitaciones, en la realización de la práctica y habilitación 
+profesional, la tesista se encontró con: 
+ 
+ 
+ 
+30 
+ 
+- 
+Dificultad del acceso a la información por políticas de confiabilidad de 
+la empresa, esto dificultó la recopilación de datos para la realización del 
+presente trabajo. 
+- 
+El protocolo utilizado se trata de una encuesta con formato de 
+pulsador, es el mismo para todos los países de la Compañía, por lo que podría 
+deducirse que no se tienen en cuenta aspectos idiosincráticos de la población 
+a estudiar. 
+- 
+Al tratarse de un tema actual y de incipiente investigación, la pasante 
+se encontró con la dificultad de acceso a información en español y escaso 
+desarrollo del tema.  
+- 
+Si bien el tamaño de la muestra es relevante para el análisis del caso, 
+predominan los participantes jóvenes, de poca antigüedad y de niveles de 
+carrera “junior”; esto puede representar un limitante a la hora de comparar 
+por grupos las respuestas obtenidas. 
+- 
+Podría existir un importante sesgo en las respuestas de la encuesta por 
+tratarse del lugar de trabajo de los participantes que comprometa su 
+sentimiento de compromiso normativo con la institución. 
+Siguiendo los lineamientos del presente trabajo, pensando en futuras líneas de 
+desarrollo, se propone profundizar y contrastar los resultados obtenidos con el 
+Utrecht Work Engagement Scale (UWES), especialmente para comprobar si el 
+resultado positivo obtenido entre antigüedad y engagement es significativo luego del 
+contraste con dicha escala (Schaufeli & Bakker, 2003). 
+Así también podría considerarse otras variables de estudio a relacionar con 
+engagement, ya que al tratarse de una organización positiva, aspectos como 
+beneficios, clima laboral y calidad de vida son pilares fundamentales a la hora de 
+desarrollar políticas organizacionales para optimizar la productividad y el bienestar 
+de sus empleados. 
+ 
+ 
+ 
+31 
+ 
+Si se toma al engagement como el complejo constructo que es, se pueden 
+desprender un abanico de estudios posibles que cambiarían la concepción de la 
+Psicología Organizacional, como por ejemplo: 
+- 
+Prevención de estrés laboral y burnout. 
+- 
+Profundizar sobre la política de beneficios y su influencia sobre el sentimiento 
+de engagement organizacional de los empleados. 
+- 
+Reconocimiento y desarrollo de carrera en relación al engagement percibido 
+de los empleados. 
+- 
+Engagement en empresas argentinas, desde un análisis de las políticas y 
+prácticas de las empresas con mayor reconocimiento en el país. 
+ 
+La información aquí aportada, puede tener importante aplicación en la práctica 
+organizacional de estos días, ya que la misma es de actualidad sobre la temática 
+desarrollada y conduce hacia una nueva mirada en relación a las políticas y prácticas 
+de los Recursos Humanos. 
+Así también, se puede ofrecer el trabajo al área de Recursos Humanos de la 
+organización estudiada para que pueda tomar acciones sobre el engagement 
+percibido de sus empleados y desarrollar técnicas de reconocimiento y motivación 
+que incremente el constructo. 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+Referencias: 
+Bakker, A.B. (2010). Engagement and “job crafting”: Engaged employees create 
+their own great place to work. In S.L. Albrecht (Ed.), Handbook of employee 
+engagement: Perspectives, issues, research and practice. Glos, UK: Edward 
+Elgar. 
+Blanco, M; Castro, P. (2011). Análisis comparativo del compromiso organizacional 
+manifestado por madres y mujeres sin hijos. Universidad Católica Boliviana “San 
+Pablo”, La Paz, Bolivia. 
+Cameron KS, Spreitzer GM. (2012). What is positive about Positive Organizational 
+Scholarship? In: Cameron KS, Spreitzer GM, editors. The Oxford Handbook of 
+Positive Organizational Scholarship. New York: Oxford University Press. 
+Carrasco González, A.M; De la Corte, C.M. & León Rubio, J.M. (2010). Engagement 
+un recurso para optimizar la salud psicosocial en las organizaciones y prevenir el 
+burnout y estrés laboral. Revista Digital de Prevención, (1). 
+Castro Solano, A. & Lupano Perugini, ML (2010). Psicología Positiva: Análisis de su 
+surgimiento. Ciencias Psicológicas, 4 (1). 
+Castro Solano, A. (2010). Fundamentos de Psicología Positiva. Buenos Aires: Paidós. 
+Castellano, E; Cifre, E; Sponton, C; Medrano, L. A & Maffei, L. (2013) Emociones 
+positivas y negativas en la predicción del burnout y engagement en el trabajo. 
+Revista Peruana de Psicología y Trabajo Social, 2, 75-88. 
+Chiang, M. V; Nuñez, A; Martín, M. & Salazar, M (2010). Compromiso del Trabajador 
+hacia su organización y la relación con el clima organizacional: un análisis de 
+género y edad. Panorama Socioeconómico, 40, 92-103. 
+Claure, M., (2003). Compromiso organizacional en el personal administrativo de una 
+empresa privada de la ciudad de La Paz. Tesis de grado. La Paz: Universidad 
+Católica Boliviana. 
+ 
+ 
+ 
+33 
+ 
+Cooper, C.L., & Nelson, D.L. (Eds.) (2006). Positive Organizational Behavior: 
+Accentuating the positive at work. Thousand Oaks, CA: Sage.  
+Cosentino, A.C. (2009). Evaluación de las virtudes y fortalezas humanas en 
+población de habla hispana. Psicodebate, 10, 53-71. 
+Cuadra, L. & Florenzano, R.U. (2003). El bienestar subjetivo: hacia una Psicología 
+Positiva. Revista de Psicología de la Universidad de Chile, 12, (1). 83-96. 
+Csikszentmihalyi, M. (1992). FLOW: The Psychology of Optimal Experience. 
+Inglaterra: Cambridge University Pres. 
+Dalal, R; Baysinger, M; Brummel, B.  & LeBreton, J. (2012). The Relative Importance 
+of Employee Engagement, Other Job Attitudes, and Trait Affect as Predictors of 
+Job Performance. Journal of Applied Social Psychology, 42. DOI: 10.1111/j.1559-
+1816.2012.01017.x 
+Demeruti, E. (2006). Job Characteristics, Flow, and Performance: The Moderating 
+Role of Conscientiousness. Journal of Occupational Health Psychology 11, 266 –
+280. 
+Feller, M. (2013). No es clima, no es compromiso organizacional…¡es engagement! 
+América Económica: Análisis & Opinión. Latinoamérica. 
+García-Renedo, M.; Llorens, S.; Cifre, E. y Salanova, M. (2006): “Antecedentes 
+afectivos de la auto-eficacia docente: un modelo de relaciones estructurales”, 
+Revista de Educación, 339, 387-400. 
+Lupano Perugini, M.L. (2014). Organizaciones Positivas: un marco de referencia para 
+su abordaje en Latinoamérica. Acta Psiquiátrica y Psicológica de América Latina, 
+60 (4) 277-284. 
+Luthans, F. & Youssef, C.M. (2004): Human, social and now positive psychological 
+capital 
+management: 
+investing 
+in 
+people 
+for 
+competitive 
+advantage. 
+Organizational Dinamics, 33, 143-160. 
+ 
+ 
+ 
+34 
+ 
+Luthans, F. & Youssef, C. M. (2007). Emerging positive organizational behavior. 
+Journal of Management, 3, 321-349. 
+Malasch, C; Schaufeli, W.B; & Leiter, M.P. (2001) Job Burnout. Annual review of 
+psychology 52, 397-422. 
+Mariñelarena Dondena, L. (2012). Surgimiento y desarrollo de la Psicología Positiva. 
+Análisis desde una historiografía crítica. Psicodebate 12, 9-22. 
+Meyer, J.P. y Allen, N.J. (1991): “A three component conceptualization of 
+organizational commitment”, Human Resource Management Review, 1, pp. 61-
+98. 
+Meyer, J.P. y Allen. N.J., (1997). En Calderón, A., (2009). Compromiso 
+Organizacional Basado en el Modelo de Meyer y Allen en una Empresa de 
+Telecomunicaciones. Tesis de grado. La Paz: Universidad Católica Boliviana. Pág. 
+25. 
+Nelson D. & Cooper, C.L. (Eds.) (2007). Positive Organizational behavior: 
+Accentuating the possitive at work. Thousand Oaks (CA): Sage. 
+Omar, A. & Urteaga, A.F. (2008). Valores personales y compromiso organizacional. 
+Enseñanza e Investigación en Psicología.13 (3), 353-372. 
+Omar, A. (2010). Las organizaciones positivas. En A. Castro Solano (Eds.), 
+Fundamentos de Psicología Positiva (pp. 216-255). Buenos Aires: Paidós. 
+Organ. D. W. (1988): Organizational citizenship behavior: The good soldier 
+syndrome. Lexington, MA: Lexington Books. 
+Towers Perrin - ISR. (2006). The ISR Employee Engagement Report. Londres: 
+Towers Perrin. 
+Ram, P & Prabhakar, G. V. (2011). The role of employee engagement in work-
+related outcomes. Interdisciplinary Journal of Research in Business. 1, 47-61. 
+ 
+ 
+ 
+35 
+ 
+Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An 
+introduction. American Psychologist, 55, 5-14. 
+Salanova, M & Schaufeli, W. (2004). El engagement de los empleados: un reto 
+emergente para la dirección de los recursos humanos. Estudios Financieros, 261, 
+109-134.  
+Salanova, M; Martinez, I. M; Cifre. E. & Schaufeli, W. B. (2005) ¿Se pueden vivir 
+experiencias óptimas en el trabajo? Analizando el flow en contextos laborales. 
+Revista de Psicología General y Aplicada, 58 (1), 89-100. 
+Salanova, M. & Llorens, S. (2008): Estado actual y retos futuros en el estudio de 
+Burnout, Papeles del Psicólogo, 29 (1), 59-67. 
+Salanova, M. (2009): “Organizaciones Saludables: Una aproximación desde la 
+Psicología Positiva”. En: C. Vázquez y G. Hervás (Eds.), Psicología Positiva: Bases 
+científicas del bienestar y la resiliencia, Madrid, Alianza Editorial. 
+Salanova, M., Schaufeli, W. B., Llorens, S., Peiró, J. M., y Grau, R. (2000): Desde el 
+Burnout al Engagement ¿una nueva perspectiva? Revista de Psicología del 
+Trabajo y las Organizaciones, 16 (2), 117-134. 
+Schaufeli, W; Salanova, M; Gonzalez-Roma & Bakker, A. (2002). The Measurement 
+of Engagement and Burnout: A two sample confirmatory factor analytic 
+approach. Journal of Happiness Studies, 3, 71-92. 
+Schaufeli, W & Bakker, A. (2003). Utrecht Work Engagement Scale. Occupational 
+Health Psychology Unit. Utrecht University, (1). 
+Schaufeli, W & Bakker, A. (2004). Job demands, job resources, and their relationship 
+with burnout and engagement: a multi-sample study. Journal of Organizational 
+Behavior, 25, 293 -315. 
+Zavaleta, P.B., (2005). Compromiso organizacional en el personal de una compañía 
+de seguros y reaseguros. Tesis de grado. La Paz Universidad Católica Boliviana. 
+ 
+ 
+ 
+36 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+ 
