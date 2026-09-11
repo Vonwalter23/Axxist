@@ -1,0 +1,1877 @@
+                                           Vicerrectorado de                        
+INVESTIGACION 
+ 
+ 
+Facultad de Psicología 
+ 
+VALIDACIÓN DE LA ESCALA DE COMPROMISO ORGANIZACIONAL DE 
+MEYER Y ALLEN EN TRABAJADORES DE UNA CADENA DE 
+RESTAURANTES 
+ 
+Tesis para optar el Título de Licenciada en Psicología 
+ 
+AUTORA: 
+Maylle Adriano, Cenina 
+ 
+ASESOR: 
+Hervias Guerra, Edmundo Magno 
+ 
+JURADO: 
+Díaz López, David 
+Vallejos Flores, Miguel 
+Figueroa Gonzales, Julio Lorenzo 
+ 
+Lima – Perú 
+2019 
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dedicatoria 
+Este trabajo va dedicado a mis padres y hermanos, quienes siempre me han brindado su 
+apoyo incondicional.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agradecimiento 
+Quisiera agradecer a mis padres por brindarme su apoyo en todo momento, a mis hermanos 
+quienes siempre me han brindado su apoyo incondicional, y también quisiera agradecer a 
+mi asesor quién me ha guiado y brindado su apoyo y paciencia para la realización y 
+culminación de este trabajo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+ 
+Validación de la Escala de compromiso organizacional de Meyer y 
+Allen en trabajadores de una cadena de restaurantes 
+Cenina Maylle Adriano 
+Facultad de Psicología de la Universidad Nacional Federico Villareal 
+RESUMEN 
+Con el objetivo de confirmar el modelo de tres dimensiones de la escala de 
+compromiso organizacional de Meyer y Allen incorporando los cambios 
+semánticos en los ítems 5 y 6 en la sub escala de compromiso normativo 
+propuesto por Arciniega y Gonzáles (2012), se empleó una muestra de 347 
+trabajadores de una cadena de restaurantes de Lima. Los resultados muestran que 
+los datos obtenidos no se ajustan al modelo de tres dimensiones. Así mismo en 
+la variante con dos dimensiones, los datos tampoco se ajustan al modelo. Por otro 
+lado, un análisis exploratorio posterior sugiere dos componentes que modela la 
+escala de compromiso organizacional.  
+Palabras clave: validación, compromiso organizacional, análisis factorial 
+confirmatorio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v 
+ 
+Validation of Meyer and Allens organizational commitment scale in 
+workers of a restaurant chain 
+Cenina Maylle Adriano 
+Facultad de Psicología de la Universidad Nacional Federico Villareal 
+Abstract 
+With the objective of confirming the three-dimensional model of the 
+organizational commitment scale of Meyer and Allen incorporating the semantic 
+changes in items 5 and 6 in the sub-scale of normative commitment proposed by 
+Arciniega and Gonzáles (2012), a sample was used of 347 workers from a 
+restaurant chain in Lima. The results show that the data obtained do not fit the 
+three-dimensional model. Also in the variant with two dimensions, the data does 
+not fit the model either. On the other hand, a subsequent exploratory analysis 
+suggests two components that model the scale of organizational commitment 
+Keywords: validate, organizational commitment, confirmatory factor analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi 
+ 
+Índice de contenido 
+Dedicatoria 
+ii 
+Agradecimiento 
+iii 
+Resumen 
+iv 
+Abstract 
+Índice de contenido 
+Lista de tablas 
+Lista de figuras 
+v 
+vi 
+vii 
+viii 
+I. 
+Introducción 
+9 
+1.1 Descripción y formulación del problema 
+9 
+1.2 Antecedentes 
+11 
+1.3 Objetivos 
+15 
+1.4 Justificación 
+16 
+II. 
+Marco teórico 
+17 
+Concepto 
+17 
+Teorías de compromiso organizacional 
+17 
+Teoría de Meyer y Allen 
+19 
+III. 
+Método 
+23 
+3.1 Tipo de investigación 
+23 
+3.2 Ámbito temporal y espacial 
+23 
+3.3 Variables 
+23 
+3.4 Población y muestra 
+23 
+3.5 Instrumentos 
+24 
+3.6 Procedimientos 
+27 
+3.7 Análisis de datos 
+27 
+IV. 
+Resultados 
+29 
+V. 
+Discusión de resultados 
+39 
+VI. 
+Conclusiones 
+41 
+VII. 
+Recomendaciones 
+42 
+VIII. Referencias 
+43 
+IX. 
+Anexos 
+45 
+ 
+ 
+vii 
+ 
+Lista de tablas 
+Tabla 
+ 
+Página 
+1 
+Ítems versión original y propuesta de la escala de compromiso 
+organizacional de Meyer y Allen 
+10 
+2 
+Escala de compromiso organizacional con cambios en los ítems 5 
+y 6 
+26 
+3 
+Análisis ítem – test de la Escala de compromiso organizacional de 
+Meyer y Allen 
+30 
+4 
+Prueba de Kaiser – Meyer – Olkin y Bartlett de la Escala de 
+compromiso organizacional de Meyer y Allen 
+31 
+5 
+Análisis confirmatorio de tres factores de la Escala de compromiso 
+organizacional de Meyer y Allen 
+32 
+6 
+Análisis confirmatorio para el modelo de dos factores de la Escala 
+de compromiso organizacional de Meyer y Allen 
+33 
+7 
+Rotación varimax de la Escala de compromiso organizacional de 
+Meyer y Allen 
+35 
+8 
+Rotación quartimax de la Escala de compromiso organizacional de 
+Meyer y Allen 
+36 
+9 
+Rotación oblimin de la Escala de compromiso organizacional de 
+Meyer y Allen 
+ 
+37 
+ 
+ 
+ 
+ 
+ 
+viii 
+ 
+Lista de figuras 
+Figura 
+ 
+Página 
+1 
+Sedimentación de la Escala de compromiso organizacional de  
+Meyer y Allen 
+38 
+ 
+9 
+ 
+ 
+I. 
+INTRODUCCION 
+ 
+ 
+1.1.Descripción y formulación del problema 
+El Compromiso organizacional es un tema que ha sido frecuentemente 
+estudiada por diversos investigadores en la psicología organizacional. Entre ellos 
+destacan los estudios realizados por Meyer y Allen (1997), quienes platearon el 
+compromiso organizacional como un constructo dividido en tres dimensiones: 
+compromiso afectivo, compromiso normativo y compromiso continuo.  
+Meyer y Allen (1997) propusieron una escala para medir el compromiso 
+organizacional, el cuál ha sido ampliamente usado por otros autores. Debido a este 
+amplio uso del instrumento, se han generado dudas respecto a la independencia 
+de las dimensiones que componen la escala de compromiso organizacional.  
+La versión en español de esta escala fue traducida y validada por Arciniega 
+y Gonzáles (2006).  
+Luis Arciniega y Luis Gonzáles en el año 2012, realizaron un estudio con 
+la finalidad de demostrar la estabilidad de los componentes de la escala de 
+compromiso organizacional (compromiso afectivo, compromiso normativo y 
+compromiso de continuidad) y la independencia de los ítems del componente 
+afectivo y normativo. Los resultados obtenidos en esta investigación indican que 
+existe una estrecha correlación entre la dimensión de compromiso afectivo y la 
+dimensión de compromiso normativo lo cual, sugieren los autores, se deben a la 
+semántica de las expresiones o a la estructura de la redacción de los ítems 5 y 6 
+de la dimensión normativa que son asociados más con la dimensión afectiva. En 
+base a los resultados obtenidos, Arciniega y Gonzáles sugirieron reformular el 
+ 
+10 
+ 
+ 
+contenido de los ítems 5 y 6 de la dimensión normativa para mejorar la estabilidad 
+factorial del compromiso normativo. Los cambios sugeridos serían de la siguiente 
+manera: ítem 5: “Esta empresa merece mi lealtad, por eso continúo trabajando con 
+ella”, y para el ítem 6: “Continúo trabajando en esta empresa porque me siento en 
+deuda con ella por todo lo que me ha dado”.  
+Tabla 1 
+Ítems versión original y propuesta de la Escala de compromiso organizacional 
+de Meyer y Allen 
+ VERSIÓN ORIGINAL 
+PROPUESTA 
+5. Esta empresa se merece mi lealtad. 
+5. Esta empresa merece mi lealtad, por 
+eso continúo trabajando con ella. 
+6. Creo que le debo mucho a esta 
+empresa. 
+6. Continúo trabajando en esta 
+empresa porque me siento en deuda 
+con ella por todo lo que me ha dado. 
+ 
+En 2014, se realizó en el Perú la validación de la escala de compromiso 
+organizacional de Meyer y Allen (1997), a partir de la versión española. Esta 
+validación fue realizada por Montoya en un contact center de Lima. En dicha 
+investigación se concluyó que, según la validez de constructo, el mejor modelo 
+que se ajusta a la teoría de Meyer y Allen es el de dos factores con 17 ítems 
+teniendo como dimensiones al compromiso afectivo-normativo y al compromiso 
+de continuidad. En concordancia a los resultados obtenidos el autor sugiere 
+reformular el contenido de los ítems para mejorar la estabilidad factorial de las 
+sub dimensiones. 
+ 
+11 
+ 
+ 
+De acuerdo a lo argumentado y en base a estudios realizados por otros 
+autores, se podría afirmar que siempre han surgido dudas respecto a la 
+independencia de las dimensiones en la escala de compromiso organizacional de 
+Meyer y Allen (1997), por esta razón esta investigación se realizará con el objetivo 
+de confirmar el modelo de tres dimensiones, así mismo determinar las propiedades 
+psicométricas de validez y confiabilidad de la Escala de compromiso 
+organizacional de Meyer y Allen (1997) en su versión en español incorporando 
+los cambios semánticos en los ítems 5 y 6 propuestos por Arciniega y Gonzáles 
+(2012), en trabajadores de una cadena de restaurantes con el fin de obtener una 
+escala de compromiso organizacional con dimensiones que demuestren 
+independencia que nos permita evaluar el compromiso organizacional en sus tres 
+dimensiones. 
+ 
+1.2.Antecedentes  
+Con respecto a la revisión de la literatura del compromiso organizacional 
+es importante resaltar que este es un tema que ha sido y sigue siendo estudiado 
+por diversos autores a nivel mundial debido a su gran importancia en el ámbito 
+laboral. 
+Una de las teorías más importantes y más estudiadas es la teoría 
+multidimensional y la escala de compromiso organizacional propuestos por 
+Meyer y Allen en 1991, el cual, además, es la que cuenta con mayor aceptación y 
+sobre la que mayores investigaciones se han realizado.  
+Esta escala multidimensional abarca tres dimensiones del compromiso 
+organizacional que son el compromiso afectivo, el compromiso continuo y el 
+compromiso normativo. 
+ 
+12 
+ 
+ 
+Debido a su gran aceptación, esta escala ha sido validada en varios países 
+como España y México por Luis Arciniega y Luis Gonzáles en el año 2006, 
+quienes tradujeron la escala de compromiso organizacional en la versión en 
+español, en esta versión la escala está compuesta por 18 ítems.   
+Otra validación fue realizada por Betanzos y Andrade, (2006) en México, 
+dónde se utilizó la versión de la escala de 18 ítems, este estudio se realizó con 233 
+trabajadores de una empresa pública (53%) y privada (47%). Para la validez de 
+constructo se aplicó un análisis factorial de componentes principales y rotación 
+varimax, en el cual se obtuvieron resultados significativos. Luego, se procedió a 
+realizar una prueba de consistencia donde los índices de consistencia según 
+Cronbach obtenidos fueron de ,81 para la dimensión de compromiso afectivo ,48 
+para la dimensión de compromiso de continuidad y ,82 para la dimensión de 
+compromiso normativo. 
+En Argentina se realizó otra investigación con una muestra integrada por 
+429 empleados argentinos (228 varones y 201 mujeres), de empresas radicadas en 
+las zonas centro y sur del país. Para esta investigación se utilizó la versión de la 
+escala de 18 ítems validada para su empleo con muestras argentinas por Omar 
+(2005). 
+Los índices de consistencia interna, alfa de Cronbach, de la versión 
+empleada en el presente estudio fueron de ,82 para el compromiso afectivo de ,73 
+para el de continuidad y de ,76 para el normativo (Omar y Florencia, 2008). 
+En Chile se realizó otra investigación, donde el compromiso 
+organizacional fue medido con la escala de 21 preguntas del cuestionario creado 
+por Meyer y Allen (1991), obteniendo un alfa de Cronbach de ,715 para el 
+ 
+13 
+ 
+ 
+compromiso afectivo ,797 para el compromiso de continuidad y ,854 para el 
+compromiso normativo (Chiang, Núñez, Martín y Salazar, 2010).  
+ En el 2012, Arciniega y Gonzáles realizaron un estudio con 100 muestras 
+que fueron extraídas aleatoriamente de una base de datos de 4.689 empleados que 
+laboraban en 53 empresas que operan en México. Esta investigación se realizó 
+para determinar la independencia de los componentes afectivo y normativo de la 
+escala de compromiso organizacional propuesto por Meyer y Allen en 1997.  Para 
+esta evaluación se utilizó la adaptación al español de las escalas de compromiso 
+afectivo, continuo y normativo de Meyer y Allen en su versión revisada.  
+Los resultados obtenidos en este estudio mostraron un alfa de Cronbach 
+de ,84 para la dimensión de compromiso afectivo, un alfa de Cronbach de ,76 para 
+la dimensión de compromiso de continuidad, un alfa de Cronbach de ,79 para la 
+dimensión de compromiso afectivo.  
+Por otro lado, se encontró que en el 78.1% de los casos emergieron en 
+forma exacta seis de los seis ítems asociados a la dimensión afectiva, mientras que 
+en el 15.6% de las muestras saturaron cinco de los seis ítems, y, tan sólo en el 
+5.2%, emergieron cuatro de los seis ítems, lo que sugiere estabilidad factorial y 
+robustez de la dimensión afectiva.  
+En lo que respecta a la dimensión de continuidad, se encontró que en el 
+99% de las muestras emergió un factor en el que se agrupaban al menos tres de 
+los cinco ítems (60%) que operacionalizan al compromiso continuo lo que nos 
+indica que existe una estabilidad factorial para esta dimensión.  
+En lo que respecta al compromiso normativo en el 22.9% de las muestras 
+no emergió el factor asociado a esta dimensión. Además, en el 15.6% de los casos, 
+ 
+14 
+ 
+ 
+los seis ítems que operacionalizan la dimensión normativa emergieron en su 
+totalidad en el factor asociado al compromiso afectivo.  
+Otro dato importante es que en el 99% de las muestras, dos de los seis 
+ítems (5 y 6) asociados a la dimensión normativa saturaron en el factor que 
+correspondía al compromiso afectivo.  
+De acuerdo a los resultados obtenidos, los autores sugirieron que por la 
+semántica de las expresiones, o por la estructura de su redacción, dichos ítems son 
+asociados más con la dimensión afectiva que con la dimensión normativa por los 
+sujetos. 
+Arciniega y Gonzáles (2012), para intentar comprender los procesos 
+semánticos que pueden explicar el comportamiento de los ítems de la escala 
+normativa, llevaron a cabo un análisis textual y un posterior análisis factorial de 
+correspondencias. Después de realizar este análisis los autores sugirieron que sería 
+necesario reformular el contenido de los ítems 5 y 6 de la escala normativa con la  
+finalidad de mejorar la estabilidad factorial de la escala de compromiso 
+normativo, para lo cual proponen que los ítems deberían ir formulados de la 
+siguiente manera: para el ítem 5: “Esta empresa merece mi lealtad, por eso 
+continuo trabajando con ella”, y para el ítem 6: “Continúo trabajando en esta 
+empresa porque me siento en deuda con ella por todo lo que me ha dado” 
+(Arciniega y Gonzáles, 2012, p. 283). 
+En el Perú fue realizada una investigación por Montoya en el año 2014, 
+dónde se validó la escala de compromiso organizacional de Meyer y Allen (1997), 
+usando la versión en español validado en México y España por Arciniega y 
+Gonzáles (2006).  
+ 
+15 
+ 
+ 
+Esta investigación se realizó en trabajadores de un contact center de Lima, 
+dónde se trabajó con una muestra de 642 colaboradores. 
+Los resultados demostraron según la validez de constructo, que el mejor 
+modelo que se ajusta a la teoría de Meyer y Allen es el de dos factores con 17 
+ítems, teniendo las dimensiones de compromiso afectivo-normativo y 
+compromiso de continuidad (Montoya, 2014).  
+De acuerdo a los resultados obtenidos en la investigación de Montoya se 
+puede concluir que no existe independencia de los componentes afectivo y 
+normativo. Por esta razón, Montoya define esta dimensión como compromiso 
+afectivo – normativo; como la parte emocional tanto de implicación de un 
+trabajador, en la cual existe un sentimiento de obligación al seguir laborando en 
+una empresa, además sugiere reformular el contenido de los ítems para mejorar la 
+estabilidad factorial de las sub escalas, en la cual se incluiría una asociación entre 
+sentimientos de obligación y el comportamiento de un trabajador (Montoya, 
+2014). 
+En cuanto a la confiabilidad, en las sub escalas de compromiso afectivo, 
+compromiso de continuidad y en el compromiso normativo se obtuvo una alta 
+fiabilidad. 
+  
+1.3.Objetivos 
+1.3.1 Objetivo General 
+Confirmar el modelo de tres dimensiones propuesto por Meyer y Allen 
+para la Escala de compromiso organizacional, incorporando los cambios 
+semánticos en los ítems 5 y 6 de la dimensión normativa propuestos por Arciniega 
+ 
+16 
+ 
+ 
+y Gonzáles en trabajadores de una cadena de restaurantes, para determinar la 
+validez de constructo del instrumento. 
+1.3.2. Objetivos específicos 
+- Realizar un análisis factorial exploratorio de no confirmarse la estructura 
+de tres factores. 
+- Determinar la confiabilidad de la escala de compromiso organizacional 
+mediante el alfa de Cronbach. 
+ 
+1.4. Justificación 
+Con esta investigación se busca determinar las propiedades psicométricas 
+de validez y confiabilidad de la Escala de compromiso organizacional de Meyer 
+y Allen en su versión en español con el fin de obtener una escala de compromiso 
+organizacional validada a nuestra realidad. 
+Así mismo, esta investigación nos va ayudar a comprobar si los cambios 
+realizados a nivel léxico en los ítems 5 y 6 por Luis Arciniega y Luis Gonzales en 
+el año 2012 en la dimensión normativa de la Escala de compromiso organizacional 
+de Meyer y Allen ayudan a distinguir mejor la dimensión normativa de la 
+dimensión afectiva.  
+En conclusión, lo que se busca con esta investigación es obtener una escala 
+de compromiso organizacional que se ajuste a nuestra realidad y comprobar si los 
+cambios propuestos por Arciniega y Gonzales (2012), ayudan a mejorar el 
+instrumento propuesto por Meyer y Allen en 1997. 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+II. 
+MARCO TEÓRICO 
+ 
+ 
+2.1.Bases teóricas sobre el tema de investigación 
+El compromiso organizacional es un tema que ha sido ampliamente 
+estudiado desde hace muchos años atrás por diferentes autores. Para ser un poco 
+exactos, las investigaciones sobre el compromiso organizacional se inician a partir 
+de 1960 y se incrementan en la siguiente década, cuando se empiezan a plantear 
+modelos para entender este concepto de gran interés principalmente para los 
+psicólogos y de gran relevancia para las organizaciones debido a la ventaja 
+competitiva que el compromiso organizacional genera. 
+Desde la Teoría del intercambio social, se sugiere que el compromiso 
+organizacional es el resultado de una transacción entre contribuciones del 
+empleado por beneficios e incentivos que reciben de su empresa. 
+El compromiso organizacional es el vínculo que establece el individuo con 
+su organización, fruto de pequeñas inversiones (side-bets) realizadas a lo largo del 
+tiempo. Así mismo, afirma que el compromiso organizacional se establece cuando 
+una persona se compromete por una decisión individual, lo que lo lleva a realizar 
+inversiones como aportar su esfuerzo, para obtener beneficios que le brinda su 
+empresa como una pensión o jubilación y dejarlo le significaría una pérdida 
+Becker (citado en Gallardo, 2008). 
+De esta forma, si el empleado se compromete con la empresa debido a sus 
+acciones, o si lleva a cabo comportamientos extraordinarios en favor de la 
+organización aparece el compromiso.  
+ 
+18 
+ 
+ 
+Esta teoría aborda un solo enfoque del compromiso organizacional, 
+centrándose únicamente en los beneficios materiales que puede recibir un 
+empleado de su organización. 
+Otro autor que estudió el compromiso organizacional fue Porter, quién 
+junto a sus colegas (Porter, Steers, Mowday y Boulian, 1974) definió el 
+compromiso organizacional como la fuerza relativa a la identificación de un 
+individuo con una determinada organización, con esta definición estos autores 
+quisieron enfatizar tres ideas clave: en primer lugar, en el compromiso hacia la 
+organización, definiendo organización como el lugar de empleo, en segundo lugar 
+en el compromiso hacia la organización pero como una actitud de los empleados, 
+y en tercer lugar se tomó el punto de vista de que la naturaleza intrínseca del 
+compromiso tenía que significar algo más profundo e intenso que una simple 
+lealtad pasiva (Gallardo, 2008).  
+Pese a que se veía y trataba como un constructo unidimensional centrado 
+únicamente en la dimensión afectiva, cierto es que se había afirmado que el 
+compromiso estaba caracterizado por al menos tres factores: una fuerte creencia 
+y aceptación de las metas y valores organizativos, el deseo de ejercer un esfuerzo 
+considerable en representación de la organización, y un fuerte deseo por mantener 
+su pertenencia a la organización (Gallardo, 2008).  
+Con la finalidad de medir el compromiso organizacional Porter y sus 
+colegas desarrollaron un instrumento de medición llamado OQC (Organizacional 
+Commitment Questionnaire) conocido también como el cuestionario de Porter.  
+En su primera versión el OQC estaba formado por 15 ítems que confluían 
+en un único factor. Según los propios autores al diseñarlo quisieron que fuera una 
+ 
+19 
+ 
+ 
+herramienta fácil de administrar y que se pudiera utilizar en diferentes 
+organizaciones entre una gran variedad de empleados.  
+Con el paso de los años el estudio del compromiso organizacional como 
+un constructo multidimensional ha ido tomando mayor fuerza, esto debido a que 
+bajo este concepto se abarca el estudio del compromiso organizacional tomando 
+en cuenta diversos aspectos como son el afectivo, los costos y las normas. Así 
+tenemos el modelo propuesto por O´Reilly y Chatman (1986), quienes 
+argumentaban que el compromiso organizacional refleja un vínculo psicológico 
+que ata al individuo con la organización pero que la naturaleza de ese vínculo 
+podía diferir. Según los autores este vínculo entre el empleado y la organización 
+podía tomar tres formas: la conformidad, que surge cuando se adoptan actitudes y 
+conductas para conseguir recompensas específicas; la identificación, que surge 
+cuando los empleados se sienten orgullosos de ser parte de un grupo respetando 
+sus valores y logros, pero sin adoptarlos como si fueran propios. Y por último la 
+interiorización, que se presenta cuando los valores del individuo y de la 
+organización coinciden (Gallardo, 2008).  
+Este enfoque ha tenido muy poco impacto debido a la dificultad para 
+distinguir entre identificación e interiorización.  
+Otra teoría importante es la propuesta por Meyer y Allen (1996) quienes 
+definen el compromiso organizacional como el grado en que las personas se 
+identifican, están unidas con sus organizaciones y dispuestas a continuar 
+trabajando en ellas. 
+Afirman además que el compromiso organizacional es el estado 
+psicológico que caracteriza la relación entre el empleado y la organización y que 
+influye en la decisión de continuar o no en la organización. 
+ 
+20 
+ 
+ 
+Estos autores señalan que el compromiso organizacional es un constructo 
+de concepto multidimensional que comprende tres tipos de compromiso 
+organizacional: el afectivo, de continuidad y el normativo, esto debido a que cada 
+una de ellas tiene diferentes implicaciones para el comportamiento del individuo. 
+Este modelo de tres componentes fue desarrollado a mediados de los años 
+ochenta a partir de una revisión exhaustiva de la literatura que analizaba y trataba 
+de explicar las distintas formas de vinculación psicológica que un empleado podía 
+desarrollar hacia su organización. 
+Así por ejemplo el compromiso afectivo que fue definido como los lazos 
+emocionales que unen al individuo con la organización. Meyer y Allen (1996) 
+señalaron que en el proceso de formación de tales lazos interviene la valoración 
+que hace el empleado del apoyo y los beneficios recibidos por parte de la empresa, 
+específicamente existe un componente con estos elementos: 1) identificación con 
+los objetivos y valores de la organización, 2) contribuir para que la organización 
+alcance sus metas y objetivos, y 3) el deseo de ser parte de la organización. Si sus 
+evaluaciones son positivas, comenzará a percibir los objetivos de la empresa como 
+si fueran sus propios objetivos y deseará seguir perteneciendo a la misma porque 
+la considera parte de su vida. 
+Por otro lado, el compromiso de continuidad fue considerado como la toma 
+de conciencia por parte del empleado acerca de los costos elevados que generaría 
+el hecho de dejar la organización. El proceso de formación de este tipo de 
+compromiso se basa en un análisis de costo-beneficio, antes de tomar una 
+decisión, el empleado evaluará los sacrificios realizados hasta ese momento, los 
+perjuicios que traería para su familia si dejara el empleo y las posibilidades 
+ 
+21 
+ 
+ 
+concretas de encontrar un nuevo empleo frente a las alternativas laborales 
+disponibles en el mercado.  
+Por último, tenemos al compromiso normativo, en este tipo de 
+compromiso el empleado asume que tiene una obligación de ser leal, lo que 
+sugiere un sentimiento de obligación moral por parte del trabajador para continuar 
+en la organización. En la formación de este tipo de compromiso tiene un peso 
+preponderante el proceso de socialización que tuvo el sujeto, es decir, el respeto 
+por las normas, la valoración de los grupos de pertenencia, la lealtad al empleador 
+y el reconocimiento de las inversiones que ha realizado la empresa en el desarrollo 
+de la persona (por ejemplo, gastos en capacitación y entrenamiento, asistencia 
+para la educación de sus hijos, etc.).  
+Este compromiso implica que el empleado buscará cumplir con su 
+organización no sólo porque está contratado, sino porque cree que esto es lo 
+correcto. Esta presión normativa genera en el empleado sentimientos de 
+retribución que se traducen en la obligación (o el deber) de seguir perteneciendo 
+a la empresa como una forma de reconocimiento. Su vínculo con ella no es el 
+resultado del deseo ni la conveniencia, sino que refleja un sentimiento de deber u 
+obligación.  
+El empleado con alto compromiso normativo se enfocará en cumplir con 
+las metas de la organización, pero también creerá tener cierta responsabilidad 
+hacia los demás, que lo llevará a cubrir los requerimientos que se le marcan para 
+evitar la desaprobación social. Finalmente, se puede inferir que en el compromiso 
+normativo hay una obligación a ser leal, a diferencia del compromiso afectivo que 
+expresa un deseo de serlo.  
+ 
+22 
+ 
+ 
+Después de identificar y definir cada una de las dimensiones del 
+compromiso organizacional, los autores señalaron que las dimensiones pueden ser 
+vivenciadas al mismo tiempo en diferentes grados, aunque por lo general siempre 
+prevalece un tipo de compromiso organizacional que vincula al empleado con su 
+empresa. Haciendo hincapié que el compromiso afectivo será el que tenga 
+consecuencias más positivas para el desarrollo de la organización. 
+Para poder medir el compromiso organizacional Meyer y Allen 
+desarrollaron una escala de compromiso organizacional, el cual además ha ido 
+evolucionando conforme los autores han ido investigado y probado su modelo 
+acerca de este constructo. Es así que la primera versión de esta escala estaba 
+formada por 24 reactivos los cuales contemplaban tres dimensiones: normativa, 
+afectiva y de continuidad. En la revisión Meyer (1993) la escala cambia a 18 
+reactivos, la siguiente modificación aparece en Meyer (1997) donde se mantienen 
+sin alteraciones las escalas de compromiso afectivo y normativo. 
+De acuerdo a lo planteado por los autores Meyer y Allen (1996), en mi 
+posición la teoría multidimensional es la que aborda mejor el estudio del 
+compromiso organizacional, esto debido a que incorpora los componentes 
+afectivo, normativo y de continuidad al estudio del compromiso organizacional, 
+y que gracias a ello será posible obtener un conocimiento más específico acerca 
+del porque un empleado está en realidad comprometido con su organización y 
+conocer qué motiva al trabajador continuar en una organización y a través de este 
+conocimiento generar una ventaja competitiva para la organización ya que está 
+asociado con el desempeño, satisfacción laboral, absentismo y rotación de 
+personal. 
+ 
+ 
+ 
+23 
+ 
+ 
+III. 
+MÉTODO 
+ 
+ 
+3.1.Tipo de investigación 
+El diseño de esta investigación es de tipo psicométrico, ya que pretende 
+determinar las propiedades psicométricas de validez y confiabilidad de un 
+instrumento de medición psicológica. 
+3.2.Ámbito temporal y espacial 
+Esta investigación se realizó en el mes de noviembre del año 2018. Así 
+mismo, esta investigación se realizó en Lima Metropolitana abarcando los 
+distritos de San Miguel, Jesús María, San Juan de Lurigancho, Villa María del 
+Triunfo y San Juan de Miraflores. 
+3.3.Variables 
+La variable que se utilizó en esta investigación es el compromiso 
+organizacional. 
+3.4. Población y muestra  
+Para esta investigación se utilizó el método de muestreo no probabilístico 
+tipo censo.  
+.  
+El total de nuestra muestra está formada por el 6% de personal 
+administrativo y el 94 % de personal operativo. El promedio de edad en la muestra 
+es de 29 años, siendo la edad mínima 18 años y la edad máxima 65 años. Así 
+mismo, se puede observar que en esta muestra la mayor parte de la población está 
+conformada por personal masculino representando un total del 65% de la muestra 
+y el personal femenino representa el 35 %. En cuanto al estado civil, el 82% de la 
+muestra es soltero, el 17% de la muestra es casada y el 1% de la muestra es 
+ 
+24 
+ 
+ 
+divorciada. Con respecto al tipo de contrato el 85 % tiene contrato a plazo fijo, el 
+10% de la muestra tiene contrato indeterminado y el 5% tiene un contrato a tiempo 
+parcial. Con respecto al salario, el 69% de la población cuenta con el salario 
+básico. 
+En cuanto al tiempo de servicio el 46 % de la muestra tiene menos de un 
+año de servicio en la empresa, mientras que el 14 % de la muestra tiene 1 año de 
+servicio en la empresa, el 7 % de la muestra tiene 2 años de servicio en la empresa, 
+el 4% de la muestra tiene 3 años de servicio en la empresa y el 12 % tiene más de 
+4 años de servicio en la empresa. En cuanto al número de hijos, el 43 % de la 
+muestra tiene hijos menores de 25 años.  
+3.5.Instrumento 
+El instrumento que se utilizó en esta investigación fue la Escala de 
+compromiso organizacional, propuesta por Meyer y Allen en 1997, en su versión 
+en español, el cuál fue adaptado y validado en México y España por Arciniega y 
+Gonzáles (2006). Esta escala mide el nivel de compromiso organizacional. 
+La Escala de compromiso organizacional consta de 18 ítems, los cuales 
+están divididos en tres sub escalas, sub escala de compromiso afectivo, sub escala 
+de compromiso de continuidad y la sub escala de compromiso normativo.  
+Los ítems del cuestionario responden a una escala tipo Likert, con 7 
+opciones donde: (1) En fuerte desacuerdo, (2) En moderado desacuerdo, (3) En 
+ligero desacuerdo, (4) Indiferente, (5) En ligero acuerdo, (6) En moderado 
+acuerdo, (7) En fuerte acuerdo. A mayor puntuación, mayor percepción de ese 
+factor. 
+Así mismo, para esta investigación se utilizaron los cambios sugeridos por 
+Arciniega y Gonzales (2012) en su investigación, Explorando los flancos de la 
+ 
+25 
+ 
+ 
+lealtad: análisis de la estructura y significado de la dimensión normativa del 
+compromiso organizacional, en los ítems 5 y 6 de la sub escala de compromiso 
+normativo. A continuación, se muestran los ítems escala de compromiso 
+organizacional incluyendo los cambios en los ítems 5 y 6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
+ 
+Tabla 2 
+Escala de compromiso organizacional de Meyer y Allen con cambios en los ítems 5 y 6 
+Dimensión 
+N° ítem 
+Texto del ítem 
+Compromiso 
+afectivo 
+1 
+Actualmente trabajo en esta empresa más por gusto que por 
+necesidad 
+3 
+Tengo una fuerte sensación de pertenecer a mi empresa 
+7 
+Esta empresa tiene un gran significado personal para mí 
+10 
+Me siento como parte de una familia en esta empresa 
+11 
+Realmente siento como si los problemas de esta empresa fueran 
+mis propios problemas 
+12 
+Disfruto hablando de mi empresa con gente que no pertenece a 
+ella 
+15 
+Sería muy feliz pasando el resto de mi vida laborando en esta 
+empresa 
+Compromiso 
+normativo 
+2 
+Una de las principales razones por las que continúo trabajando 
+en esta compañía, es porque siento la obligación moral de 
+permanecer en ella 
+5 
+Aunque tuviese ventajas con ello, no creo que fuese correcto 
+dejar ahora a mi empresa 
+6 
+Me sentiría culpable si dejase ahora mi empresa, considerando 
+todo lo que me ha dado 
+9 
+Ahora mismo no abandonaría mi empresa, porque me siento 
+obligado con toda su gente 
+14 
+Esta empresa merece mi lealtad, por eso continúo trabajando 
+con ella 
+18 
+Continúo trabajando en esta empresa porque me siento en deuda 
+con ella por todo lo que me ha dado 
+Compromiso 
+continuidad 
+4 
+Una de las razones principales para seguir trabajando en esta 
+compañía, es porque otra empresa no podría igualar el sueldo y 
+prestaciones que tengo aquí 
+8 
+Creo que tengo muy pocas opciones de conseguir otro trabajo 
+igual, como para considerar la posibilidad de dejar esta empresa 
+13 
+Uno de los motivos principales por los que sigo trabajando en 
+mi empresa, es porque afuera, me resultaría difícil conseguir un 
+trabajo como el que tengo aquí 
+16 
+Ahora mismo sería muy duro para mí dejar mi empresa, incluso 
+si quisiera hacerlo 
+17 
+Demasiadas cosas en mi vida se verían interrumpidas si 
+decidiera dejar ahora mi empresa 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+ 
+3.6. Procedimientos 
+Para esta investigación se utilizó una muestra de 347 trabajadores de una 
+cadena de restaurantes, esta cadena cuenta con cinco tiendas en diferentes distritos 
+de Lima Metropolitana. La evaluación de los participantes, por cada tienda, se 
+realizó en grupos de 10, los domingos en horarios de 8 a.m. a 11 a.m., para los 
+trabajadores del primer turno y de 6 p.m. a 9 p.m. para los trabajadores del 
+segundo turno.  
+Antes de realizar la evaluación se brindó una breve explicación acerca de 
+la evaluación y se les hizo entrega de una hoja de consentimiento informado, para 
+que los trabajadores firmen y participen de manera voluntaria en la investigación.  
+Con el consentimiento firmado se procedió a evaluar a los trabajadores, 
+esta es la indicación que se brindó antes de empezar la evaluación: “A 
+continuación se les va hacer entrega de una escala de compromiso 
+organizacional. Esta escala consta de 18 enunciados, indique su grado de 
+acuerdo o desacuerdo de acuerdo en base a la escala que se encuentra en la parte 
+superior de la hoja. No hay respuestas buenas ni malas, empiecen por favor”. La 
+evaluación tuvo una duración aproximada de 15 minutos. 
+Después de terminar la valuación se procedió a corregir y llenar nuestra 
+base de datos en los paquetes estadísticos de licencia libre llamado JAMOVI 
+versión 2018 y en el SPSS versión 2003 para posteriormente realizar los cálculos 
+pertinentes. 
+3.7.Análisis de datos 
+Para el análisis de datos de esta investigación se utilizó el paquete de datos 
+estadísticos SPSS versión 2003 y el paquete estadístico de licencia libre JAMOVI 
+versión 2018. Así mismo se utilizaron las siguientes pruebas estadísticas: alfa de 
+ 
+28 
+ 
+ 
+Cronbach para analizar la confiabilidad del instrumento, la correlación de Pearson 
+para determinar la correlación, la prueba de Kaiser-Meyer-Olkin (KMO) y la 
+esfericidad de Bartlett para determinar si es factible realizar los análisis 
+factoriales, el análisis factorial confirmatorio y el análisis factorial exploratorio. 
+ 
+ 
+ 
+29 
+ 
+ 
+IV. 
+RESULTADOS 
+ 
+ 
+A continuación, se procederá a explicar los análisis estadísticos realizados 
+para confirmar el modelo de tres dimensiones propuesto por Meyer y Allen para 
+la Escala de compromiso organizacional incorporando los cambios semánticos en 
+los ítems 5 y 6 de la sub escala normativa. 
+Primero se realizó el análisis de confiabilidad donde se obtuvo un alfa de 
+Cronbach de ,88 que nos indica que la escala presenta una alta confiabilidad. 
+Después se realizó el análisis de constructo para determinar la correlación entre 
+cada ítem y el puntaje total obtenido. Para este análisis se utilizó la correlación de 
+Pearson. 
+Como se muestra en la tabla 3 el índice de correlación que presenta cada 
+ítem de la escala con respecto al puntaje total obtenido es moderada a excepción 
+de los ítems 16,17 y 18 cuyo índice de correlación es mayor a ,650 presentando 
+una alta correlación con respecto al puntaje total.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+ 
+ 
+Tabla 3 
+Análisis ítem-test de la Escala de compromiso organizacional de Meyer y Allen 
+ 
+Ítem 
+r 
+p 
+1_CA 
+0.449 
+< .001 
+2_CN 
+0.475 
+< .001 
+3_CA 
+0.603 
+< .001 
+4_CC 
+0.526 
+< .001 
+5_CN 
+0.497 
+< .001 
+6_CN 
+0.64 
+< .001 
+7_CA 
+0.589 
+< .001 
+8_CC 
+0.544 
+< .001 
+9_CN 
+0.636 
+< .001 
+10_CA 
+0.542 
+< .001 
+11_CA 
+0.583 
+< .001 
+12_CA 
+0.623 
+< .001 
+13_CC 
+0.548 
+< .001 
+14_CN 
+0.645 
+< .001 
+15_CA 
+0.593 
+< .001 
+16_CC 
+0.672 
+< .001 
+17_CC 
+0.674 
+< .001 
+18_CN 
+0.686 
+< .001 
+ 
+Continuando con el análisis estadístico se procedió a realizar el análisis 
+factorial confirmatorio. Este análisis nos va permitir confirmar el modelo 
+propuesto por los autores, quienes plantearon una escala que mide el compromiso 
+organizacional en tres dimensiones, compromiso afectivo, compromiso normativo 
+y compromiso de continuidad. 
+Antes de realizar el análisis factorial confirmatorio se realizaron las 
+pruebas de KMO y la prueba de esfericidad de Bartlett para determinar si los datos 
+son adecuados para realizar el análisis factorial.  
+Como se aprecia en la tabla 4 los resultados obtenidos nos indican que los 
+datos son adecuados para realizar el análisis factorial. 
+ 
+31 
+ 
+ 
+Tabla 4 
+Prueba de Kaiser-Meyer-Olkin y Bartlett de la Escala de compromiso organizacional de 
+Meyer y Allen 
+Prueba de KMO y Bartlett 
+Medida Kaiser-Meyer-Olkin de adecuación de 
+muestreo 
+,907 
+Prueba de esfericidad de 
+Bartlett 
+Aprox. Chi-cuadrado 
+2073,155 
+Gl 
+153 
+Sig. 
+,000 
+ 
+Como se aprecia en la tabla 5, según el análisis de ajuste global o absoluto, el chi-
+cuadrado (X2) obtenido nos indica que los datos no se ajustan al modelo. 
+Otros índices de ajuste (RMSEA, CFI, TLI) mostrados en la tabla 5, también 
+indican que los datos no se ajustan al modelo. Así tenemos al índice de la raíz cuadrada 
+del error medio cuadrático (RMSEA) obtenido de ,0805 que es superior a ,080 que nos 
+indica que no existe un buen ajuste con el modelo. 
+En cuanto a los índices de ajuste incremental o comparativo, el índice de ajuste 
+comparativo (CFI), tabla 5, obtenido nos indica que no existe un buen ajuste del modelo 
+debido a que el puntaje obtenido es menor a ,95. Así mismo el puntaje obtenido en el 
+índice de Tucker-Lewis (TLI), tabla 5, nos indica ausencia de relación entre las variables, 
+debido a que el puntaje obtenido es inferior a ,95.  
+De acuerdo al análisis realizado se puede concluir que no existe un ajuste entre 
+los datos obtenidos en la muestra con el modelo planteado por los autores, es decir no se 
+logró determinar la validez de constructo del instrumento. 
+ 
+ 
+32 
+ 
+ 
+Tabla 5 
+Análisis confirmatorio de tres factores de la Escala de compromiso organizacional de 
+Meyer y Allen 
+Test for Exact Fit 
+χ² 
+df 
+p 
+427 
+132 
+< .001 
+ 
+Fit Measures 
+  
+RMSEA 90% CI 
+CFI 
+TLI 
+RMSEA 
+Lower 
+Upper 
+0.85 
+0.826 
+0.0805 
+0.072 
+0.0891 
+ 
+Debido a que el análisis confirmatorio de tres factores no se ajusta al modelo 
+propuesto en la teoría se procedió a realizar el análisis factorial confirmatorio para dos 
+factores, compromiso afectivo – normativo y compromiso continuidad. 
+Como se aprecia en la tabla 6, los resultados obtenidos en el análisis factorial 
+confirmatorio para dos factores se obtuvieron resultados similares al del análisis factorial 
+confirmatorio para tres factores. Los puntajes obtenidos fueron un X2 de ,416 que nos 
+indica que los datos obtenidos en la muestra no se ajustan al modelo. Así mismo los 
+puntajes obtenidos en los índices de ajuste (RMSEA de ,856, CFI de ,833 y TLI de ,807) 
+nos indican que no existe un ajuste entre los datos obtenidos en nuestra muestra y el 
+modelo propuesto por el autor.  
+ 
+ 
+ 
+33 
+ 
+ 
+Tabla 6 
+Análisis confirmatorio para el modelo de dos factores de la Escala de compromiso 
+organizacional de Meyer y Allen 
+Test for Exact Fit 
+χ² 
+df 
+P 
+416 
+118 
+< .001 
+ 
+Fit Measures 
+  
+RMSEA 90% CI 
+CFI 
+TLI 
+RMSEA 
+Lower 
+Upper 
+0.833 
+0.807 
+0.0856 
+0.0768 
+0.0946 
+ 
+Debido a los resultados obtenidos en los análisis factoriales confirmatorios para 
+tres y dos factores se procedió a realizar un análisis factorial exploratorio, con la finalidad 
+de que los resultados que se obtengan de este análisis nos proporcionen información y en 
+base a ello proponer un nuevo modelo. 
+Como se mostró en la tabla 4 los datos obtenidos en las pruebas de KMO y la 
+esfericidad de Bartlett son adecuados para realizar el análisis factorial exploratorio.  
+El análisis factorial exploratorio se realizó a través del método de componentes 
+principales con la finalidad conocer la correlación entre cada ítem y los componentes 
+principales (cargas factoriales). Así mismo para este análisis se utilizaron las rotaciones 
+ortogonales, en este tipo de rotación se mantiene la condición de que los componentes 
+principales no están relacionadas. Las rotaciones utilizadas fueron la rotación varimax y 
+la rotación quartimax.  
+Posteriormente se utilizó la rotación oblicua, en este tipo de rotación se mantiene 
+la condición de que los componentes principales están relacionadas. En este caso se 
+realizó la rotación oblimin. 
+ 
+34 
+ 
+ 
+Ambos análisis se realizaron con la finalidad de encontrar un modelo que mejor 
+se ajuste a nuestra investigación.  
+Primero se realizó el análisis factorial exploratorio con la rotación varimax, con 
+la finalidad de minimizar el número de ítems con saturaciones altas en cada factor.  
+Como se aprecia en la tabla 7 el análisis factorial exploratorio con rotación 
+varimax nos arroja dos factores principales, los cuales estarían compuestos por los ítems 
+que aportan más a cada factor. En este caso, el primer factor estaría compuesto por ítems 
+como, Actualmente trabajo en esta empresa más por gusto que por necesidad, que 
+pertenece al compromiso afectivo, otro ítem sería Me sentiría culpable si dejase ahora 
+mi empresa, considerando todo lo que me ha dado que pertenece al compromiso 
+normativo, así mismo tenemos al ítem Esta empresa merece mi lealtad, por eso continúo 
+trabajando con ella, que pertenece al compromiso normativo. 
+En el caso del segundo factor los ítems que más aportan a este factor son: Una de 
+las razones principales para seguir trabajando en esta compañía, es porque otra empresa 
+no podría igualar el sueldo y  prestaciones que tengo aquí, que pertenece al compromiso 
+continuo; Creo que tengo muy pocas opciones de conseguir otro trabajo igual, como para 
+considerar la posibilidad de dejar esta empresa, que también pertenece al compromiso 
+de continuidad, así mismo tenemos al ítem Continúo trabajando en esta empresa porque 
+me siento en deuda con ella por todo lo que me ha dado, que pertenece al compromiso 
+normativo. 
+ 
+ 
+ 
+35 
+ 
+ 
+Tabla 7 
+Rotación varimax de la Escala de compromiso organizacional de Meyer y Allen 
+ 
+Ítems  
+Componentes 
+Unicidad 
+1 
+2 
+1. Actualmente trabajo en esta empresa más por gusto que por necesidad (CA) 
+0.444 
+ 
+0.785 
+2. Una de las principales razones por las que continúo trabajando en esta compañía, es porque siento 
+la obligación moral de permanecer en ella (CN) 
+0.355 
+ 
+0.798 
+3. Tengo una fuerte sensación de pertenecer a mi empresa (CA) 
+0.622 
+ 
+0.565 
+5. Aunque tuviese ventajas con ello, no creo que fuese correcto dejar ahora a mi empresa (CN) 
+0.486 
+ 
+0.733 
+6. Me sentiría culpable si dejase ahora mi empresa, considerando todo lo que me ha dado (CN) 
+0.629 
+ 
+0.545 
+7. Esta empresa tiene un gran significado personal para mí (CA) 
+0.709 
+ 
+0.491 
+10. Me siento como parte de una familia en esta empresa (CA) 
+0.668 
+ 
+0.551 
+11. Realmente siento como si los problemas de esta empresa fueran mis propios problemas (CA) 
+0.693 
+ 
+0.513 
+12. Disfruto hablando de mi empresa con gente que no pertenece a ella (CA) 
+0.655 
+ 
+0.529 
+14. Esta empresa merece mi lealtad, por eso continúo trabajando con ella (CN) 
+0.629 
+ 
+0.529 
+4. Una de las razones principales para seguir trabajando en esta compañía, es porque otra empresa 
+no podría igualar el sueldo y prestaciones que tengo aquí (CC) 
+ 
+0.613 
+0.598 
+8. Creo que tengo muy pocas opciones de conseguir otro trabajo igual, como para considerar la 
+posibilidad de dejar esta empresa (CC) 
+ 
+0.795 
+0.367 
+13. Uno de los motivos principales por los que sigo trabajando en mi empresa, es porque afuera, me 
+resultaría difícil conseguir un trabajo como el que tengo aquí (CC) 
+ 
+0.826 
+0.317 
+9. Ahora mismo no abandonaría mi empresa, porque me siento obligado con toda su gente (CN) 
+0.409 
+0.497 
+0.586 
+15. Sería muy feliz pasando el resto de mi vida laborando en esta empresa (CA) 
+0.371 
+0.496 
+0.617 
+16. Ahora mismo sería muy duro para mí dejar mi empresa, incluso si quisiera hacerlo (CC) 
+0.562 
+0.391 
+0.531 
+17. Demasiadas cosas en mi vida se verían interrumpidas si decidiera dejar ahora mi empresa (CC) 
+0.444 
+0.541 
+0.51 
+18. Continúo trabajando en esta empresa porque me siento en deuda con ella por todo lo que me ha 
+dado (CN) 
+0.494 
+0.495 
+0.511 
+Nota.  Se utilizó rotación 'varimax' 
+ 
+ 
+Después de realizar el análisis factorial exploratorio con la rotación varimax se 
+procedió a realizar el análisis factorial con la rotación quartimax con la finalidad de 
+obtener una mejor distribución de las cargas factoriales. 
+Como se muestra en la tabla 8 el método de rotación quartimax al igual que en la 
+rotación varimax nos arrojan dos factores principales, pero a diferencia de la rotación 
+varimax, en está rotación los ítems que aportan al segundo factor son tres, mientras que 
+en el análisis de rotación varimax los ítems que aportan al segundo factor son siete. 
+ 
+36 
+ 
+ 
+Por otro lado, los ítems 14 y 18 de acuerdo a este análisis si pertenecen al mismo 
+factor. Hay que tomar en cuenta que los ítems que figuran en la posición 14 y 18 de la 
+escala son los ítems 5 y 6 de la sub escala compromiso normativo. 
+Tabla 8 
+Rotación quartimax de la Escala de compromiso organizacional de Meyer y Allen 
+ 
+Ítems  
+Componentes 
+Unicidad 
+1 
+2 
+1. Actualmente trabajo en esta empresa más por gusto que por necesidad (CA) 
+0.46 
+ 
+0.785 
+2. Una de las principales razones por las que continúo trabajando en esta compañía, es porque 
+siento la obligación moral de permanecer en ella (CN) 
+0.4 
+ 
+0.798 
+3. Tengo una fuerte sensación de pertenecer a mi empresa (CA) 
+0.65 
+ 
+0.565 
+5. Aunque tuviese ventajas con ello, no creo que fuese correcto dejar ahora a mi empresa (CN) 
+0.51 
+ 
+0.733 
+6. Me sentiría culpable si dejase ahora mi empresa, considerando todo lo que me ha dado (CN) 
+0.67 
+ 
+0.545 
+7. Esta empresa tiene un gran significado personal para mí (CA) 
+0.71 
+ 
+0.491 
+10. Me siento como parte de una familia en esta empresa (CA) 
+0.66 
+ 
+0.551 
+11. Realmente siento como si los problemas de esta empresa fueran mis propios problemas (CA) 
+0.7 
+ 
+0.513 
+12. Disfruto hablando de mi empresa con gente que no pertenece a ella (CA) 
+0.68 
+ 
+0.529 
+14. Esta empresa merece mi lealtad, por eso continúo trabajando con ella (CN) 
+0.67 
+ 
+0.529 
+16. Ahora mismo sería muy duro para mí dejar mi empresa, incluso si quisiera hacerlo (CC) 
+0.63 
+ 
+0.531 
+4. Una de las razones principales para seguir trabajando en esta compañía, es porque otra empresa 
+no podría igualar el sueldo y prestaciones que tengo aquí (CC) 
+ 
+0.57 
+0.598 
+8. Creo que tengo muy pocas opciones de conseguir otro trabajo igual, como para considerar la 
+posibilidad de dejar esta empresa (CC) 
+ 
+0.77 
+0.367 
+13. Uno de los motivos principales por los que sigo trabajando en mi empresa, es porque afuera, 
+me resultaría difícil conseguir un trabajo como el que tengo aquí (CC) 
+ 
+0.8 
+0.317 
+15. Sería muy feliz pasando el resto de mi vida laborando en esta empresa (CA) 
+0.46 
+0.41 
+0.617 
+9. Ahora mismo no abandonaría mi empresa, porque me siento obligado con toda su gente (CN) 
+0.5 
+0.4 
+0.586 
+17. Demasiadas cosas en mi vida se verían interrumpidas si decidiera dejar ahora mi empresa (CC) 
+0.55 
+0.44 
+0.51 
+18. Continúo trabajando en esta empresa porque me siento en deuda con ella por todo lo que me ha 
+dado (CN) 
+0.59 
+0.38 
+0.511 
+Nota. Se utilizó rotación 'quartimax' 
+ 
+Continuando con nuestro análisis, finalmente se procedió a realizar el análisis 
+factorial exploratorio con la rotación oblicua (oblimin).  
+En la tabla 9 los resultados obtenidos en el análisis factorial exploratorio con la 
+rotación oblimin también nos arroja dos factores donde el primer factor estaría compuesto 
+por once ítems que en su mayoría pertenecen al compromiso afectivo y al compromiso 
+normativo. 
+ 
+37 
+ 
+ 
+En el caso del segundo factor los ítems que aportan más a este factor son las que 
+pertenecen al compromiso continuo, así por ejemplo tenemos a la variable Una de las 
+razones principales para seguir trabajando en esta compañía, es porque otra empresa 
+no podría igualar el sueldo y prestaciones que tengo aquí. 
+Por otro lado, de acuerdo a este análisis los ítems 14 y 18 pertenecen al primer 
+factor que está asociado al compromiso afectivo. 
+Tabla 9 
+Rotación oblimin de la Escala de compromiso organizacional de Meyer y Allen 
+ 
+ Ítems 
+Componente Unicidad 
+1 
+2 
+1. Actualmente trabajo en esta empresa más por gusto que por necesidad (CA) 
+0.46 
+ 
+0.785 
+2. Una de las principales razones por las que continúo trabajando en esta compañía, es porque siento 
+la obligación moral de permanecer en ella (CN) 
+0.35 
+ 
+0.798 
+3. Tengo una fuerte sensación de pertenecer a mi empresa (CA) 
+0.64 
+ 
+0.565 
+5. Aunque tuviese ventajas con ello, no creo que fuese correcto dejar ahora a mi empresa (CN) 
+0.5 
+ 
+0.733 
+6. Me sentiría culpable si dejase ahora mi empresa, considerando todo lo que me ha dado (CN) 
+0.65 
+ 
+0.545 
+7. Esta empresa tiene un gran significado personal para mí (CA) 
+0.75 
+ 
+0.491 
+10. Me siento como parte de una familia en esta empresa (CA) 
+0.71 
+ 
+0.551 
+11. Realmente siento como si los problemas de esta empresa fueran mis propios problemas (CA) 
+0.73 
+ 
+0.513 
+12. Disfruto hablando de mi empresa con gente que no pertenece a ella (CA) 
+0.68 
+ 
+0.529 
+14. Esta empresa merece mi lealtad, por eso continúo trabajando con ella (CN) 
+0.64 
+ 
+0.529 
+16. Ahora mismo sería muy duro para mí dejar mi empresa, incluso si quisiera hacerlo (CC) 
+0.56 
+ 
+0.531 
+4. Una de las razones principales para seguir trabajando en esta compañía, es porque otra empresa no 
+podría igualar el sueldo y prestaciones que tengo aquí (CC) 
+ 
+0.59 
+0.598 
+8. Creo que tengo muy pocas opciones de conseguir otro trabajo igual, como para considerar la 
+posibilidad de dejar esta empresa (CC) 
+ 
+0.81 
+0.367 
+13. Uno de los motivos principales por los que sigo trabajando en mi empresa, es porque afuera, me 
+resultaría difícil conseguir un trabajo como el que tengo aquí (CC) 
+ 
+0.85 
+0.317 
+15. Sería muy feliz pasando el resto de mi vida laborando en esta empresa (CA) 
+0.34 
+0.4 
+0.617 
+9. Ahora mismo no abandonaría mi empresa, porque me siento obligado con toda su gente (CN) 
+0.38 
+0.39 
+0.586 
+17. Demasiadas cosas en mi vida se verían interrumpidas si decidiera dejar ahora mi empresa (CC) 
+0.42 
+0.43 
+0.51 
+18. Continúo trabajando en esta empresa porque me siento en deuda con ella por todo lo que me ha 
+dado (CN) 
+0.47 
+0.37 
+0.511 
+Nota. Se utilizó rotación 'oblimin' 
+ 
+ 
+38 
+ 
+ 
+Para concluir, según el gráfico de sedimentación está escala también estaría 
+compuesto por dos factores principales. 
+Figura 1 
+Sedimentación de la Escala de compromiso organizacional de Meyer y Allen 
+ 
+ 
+ 
+ 
+ 
+39 
+ 
+ 
+V. 
+DISCUSIÓN DE RESULTADOS 
+ 
+ 
+El objetivo de esta investigación fue confirmar el modelo de tres 
+dimensiones propuesto por Meyer y Allen para la escala de compromiso 
+organizacional incorporando los cambios semánticos sugeridos por Arciniega y 
+Gonzales (2012), en los ítems 5 y 6 de la sub escala de compromiso normativo 
+para de esta manera determinar la validez de constructo del instrumento.  
+De acuerdo a los resultados obtenidos en nuestra muestra, los datos que se 
+obtuvieron no se ajustan al modelo de tres dimensiones propuesto por Meyer y 
+Allen (1997). Resultados similares fueron obtenidos por Montoya (2014), en su 
+investigación Validación de la escala de compromiso organizacional de Meyer y 
+Allen en trabajadores de un contact center, dónde según la validez de constructo 
+obtenido el modelo que mejor se ajusta es el de dos factores con 17 ítems. 
+Continuando con esta línea de investigación se realizó el análisis 
+confirmatorio para dos factores, dónde se incluyeron la dimensión afectiva y la 
+dimensión normativa en un solo factor, esto debido a que anteriormente han 
+surgido dudas respecto a la independencia de estas dimensiones, según una 
+investigación realizada por Arciniega y Gonzáles (2012), y en el segundo factor a 
+la dimensión de continuidad, los resultados que se obtuvieron de la variante del 
+instrumento con dos factores tampoco se ajustaron con los datos obtenidos en 
+nuestra muestra. 
+Debido a los resultados obtenidos en los análisis confirmatorios se realizó 
+el análisis factorial exploratorio usando el método de factores principales, los 
+ 
+40 
+ 
+ 
+resultados obtenidos en este análisis sugieren dos componentes o factores para los 
+cuales es necesario realizar un análisis de constructo subyacente.   
+De acuerdo a lo mencionado se puede concluir que esta investigación es 
+importante porque nos ayudó a determinar que a partir de los datos obtenidos de 
+nuestra muestra de estudio no se logró confirmar el modelo de tres dimensiones 
+para la Escala de compromiso organizacional, así mismo tampoco se logró 
+distinguir la dimensión normativa de la dimensión afectiva como se buscaba en 
+un inicio realizando los cambios semánticos en los ítems 5 y 6 de la sub escala de 
+compromiso normativo propuesto por Arciniega y Gonzales (2012). Este 
+resultado se vio reflejado en la rotación quartimax dónde ambos ítems aportaban 
+más hacia el primer factor que está asociado al compromiso afectivo, resultados 
+similares se obtuvieron en la rotación oblimin dónde ambos ítems también 
+aportaban más al primer factor. Por otro lado, en la rotación varimax, los ítems 5 
+y 6 se ubicaron en diferentes factores, aunque en el caso del ítem 6 la diferencia 
+en la carga factorial era mínima (,494 – ,495). 
+Otra conclusión importante que se desprende de los datos obtenidos es que 
+para nuestra población el mejor modelo que se ajusta a nuestra realidad estaría 
+formado por dos factores que serían el compromiso afectivo, debido a que las 
+variables que aportan más a este factor en su mayoría pertenecen al componente 
+afectivo y normativo (según los datos obtenidos en nuestra muestra se asocia al 
+compromiso afectivo) y el compromiso de continuidad debido a que en este factor 
+las variables que aportan más son las que pertenecen a la dimensión de 
+continuidad. 
+ 
+ 
+ 
+41 
+ 
+ 
+VI. 
+CONCLUSIONES 
+ 
+ 
+1) No se logró confirmar el modelo de tres dimensiones propuesto por Meyer y 
+Allen para la Escala de compromiso organizacional (validez de constructo) 
+con los cambios semánticos en los ítems 5 y 6 de la dimensión normativa 
+propuesto por Arciniega y Gonzales.  
+2) El análisis factorial exploratorio sugiere que la escala debería estar formada 
+por dos factores. 
+3) La escala de compromiso organizacional de Meyer y Allen presenta una alta 
+confiabilidad 
+ 
+ 
+ 
+42 
+ 
+ 
+VII. 
+RECOMENDACIONES 
+ 
+ 
+1) Se sugiere realizar otras investigaciones en diferentes ámbitos laborales y 
+diferentes giros de negocio para determinar si la escala de compromiso 
+organizacional de tres dimensiones propuesta por Meyer y Allen se ajusta a 
+nuestra realidad.  
+2) Se recomienda realizar otras investigaciones incorporando los cambios 
+semánticos sugeridos por Luis Arciniega y Luis Gonzales en muestras más 
+grandes.  
+3) Se sugiere realizar investigaciones correlacionando el compromiso 
+organizacional con la comunicación.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43 
+ 
+ 
+VIII. 
+REFERENCIAS 
+ 
+ 
+Arciniega, L. & Gonzales L. (2012). Explorando los flancos de la lealtad: análisis de la 
+estructura y significado de la dimensión normativa del compromiso 
+organizacional. Revista de Psicología Social 27 (3). 
+Betanzos, N., Andrade, P., & Paz, F., (2006). Compromiso organizacional en una muestra 
+de trabajadores mexicanos. Revista de Psicología del Trabajo y de las 
+Organizaciones 
+22 
+(1). 
+Recuperado 
+de 
+http://www.redalyc.org/articulo.oa?id=231317045002 
+Chiang, M., Núñez, P., Martin, M. & Salazar, M. (2010). Compromiso del trabajador 
+hacia su organización y la relación con el clima organizacional: un análisis de 
+género y edad. Panorama Socioeconómico 28 (40). Recuperado de 
+http://www.redalyc.org/articulo.oa?id=39915685007 
+Gallardo, E. (2000). Evolución en el estudio y medida del compromiso organizativo 
+problemáticas y soluciones (Tesis doctoral, Universidad de Barcelona).  
+Meyer, J. & Allen, N. (1997). Commitment in the Workplace: Theory, Research, and 
+Application. Recuperado de https://books.google.com.pe/books?isbn=0761901051 
+Montoya, E. (2014). Validación de la escala de compromiso organizacional de meyer y 
+allen en trabajadores de un contact center (Tesis, Universidad Peruana de 
+Ciencias Aplicadas). Recuperado de http://creativecommons.org/licenses/by-nc-
+nd/4.0/ 
+Omar, A., & Florencia, A. (2008). Valores personales y compromiso organizacional. 
+Enseñanza 
+e 
+Investigación 
+en 
+Psicología 
+13 
+(2). 
+Recuperado 
+de 
+http://www.redalyc.org/articulo.oa?id=29213210 
+ 
+44 
+ 
+ 
+Shumacker, R. & Lomax, R. (2004). A Beginners Guide to Structural Education 
+Modeling. New Jersey: Lawrence Erlbaum Associates, Inc.,Publishers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+ 
+ 
+IX. 
+ANEXOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+ 
+ 
+CONSENTIMIENTO INFORMADO 
+ 
+Estimado participante 
+Como parte de un programa de estudios se llevará a cabo una 
+investigación. La misma trata sobre la validación de la prueba de compromiso 
+organizacional de Mayer y Allen (1997). El objetivo del estudio es validar la 
+escala de compromiso organizacional. 
+Usted ha sido seleccionado para participar en esta investigación la cual 
+consiste en contestar un cuestionario que le tomará aproximadamente 15 
+minutos. 
+La información obtenida a través de este estudio será mantenida bajo 
+estricta confidencialidad. Si tiene alguna pregunta sobre esta investigación se 
+puede comunicar conmigo. 
+He leído el procedimiento descrito arriba. El (a) investigador (a) me ha 
+explicado el estudio. Voluntariamente doy mi consentimiento para participar 
+en el estudio de validación de la prueba de compromiso organizacional de 
+Mayer y Allen (1997). 
+ 
+ 
+ 
+FIRMA DEL PARTICIPANTE                                     FECHA: 
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+ 
+ 
+ESCALA DE COMPROMISO ORGANIZACIONAL 
+Autor: Meyer y Allen (1997) 
+Adaptación: Arciniega y Gonzales (2006) 
+Instrucciones: A continuación, se presentan una serie de afirmaciones 
+relacionadas con su EMPRESA. Siguiendo sus propios sentimientos acerca de 
+la compañía para la que trabaja, exprese por favor su grado de acuerdo o 
+desacuerdo con cada una de las frases. 
+Indique su grado de acuerdo o desacuerdo utilizando la siguiente 
+escala. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+EN FUERTE 
+DESACUERDO 
+EN MODERADO 
+DESACUERDO 
+EN LIGERO 
+DESACUERDO 
+INDIFERENTE 
+EN LIGERO 
+ACUERDO 
+EN 
+MODERADO 
+ACUERDO 
+EN 
+FUERTE 
+ACUERDO 
+ 
+ 
+N° 
+ENUNCIADOS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+1 
+Actualmente trabajo en esta empresa más por gusto que por necesidad. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Una de las principales razones por las que continuó trabajando en esta compañía es porque siento la 
+obligación moral de permanecer en ella. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Tengo una fuerte sensación de pertenecer a mi empresa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Una de las razones principales para seguir trabajando en esta compañía, es porque otra empresa no podría 
+igualar el sueldo y prestaciones que tengo aquí. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Aunque tuviese ventajas con ello, no creo que fuese correcto dejar ahora a mi empresa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Me sentiría culpable si dejase ahora mi empresa, considerando todo lo que me ha dado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+Esta empresa tiene un gran significado personal para mí. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+Creo que tengo muy pocas opciones de conseguir otro trabajo igual, como para considerar la posibilidad 
+de dejar esta empresa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+Ahora mismo no abandonaría mi empresa, porque me siento obligado con toda su gente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+Me siento como parte de una familia en esta empresa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+Realmente siento como si los problemas de esta empresa fueran mis propios problemas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+Disfruto hablando de mi empresa con gente que no pertenece a ella. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Uno de los motivos principales por los que sigo trabajando en mi empresa, es porque afuera, me 
+resultaría difícil conseguir un trabajo como el tengo aquí. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+Esta empresa merece mi lealtad, por eso continúo trabajando con ella. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+Sería muy feliz pasando el resto de mi vida laboral en esta empresa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+Ahora mismo sería muy duro para mi dejar mi empresa, incluso si quisiera hacerlo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+Demasiadas cosas en mi vida se verían interrumpidas si decidiera dejar ahora mi empresa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+Continúo trabajando en esta empresa porque me siento en deuda con ella por todo lo que me ha dado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

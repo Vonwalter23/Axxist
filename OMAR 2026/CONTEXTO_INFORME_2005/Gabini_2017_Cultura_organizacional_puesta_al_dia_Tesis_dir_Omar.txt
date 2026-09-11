@@ -1,0 +1,1214 @@
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+Cultura organizacional: Una puesta al día1 
+ 
+ 
+Sebastián Gabini, Licenciado en Psicología. Becario Doctoral del CONICET; Profesor 
+Adjunto de la Facultad de Psicología y Relaciones Humanas y de la Facultad de Medicina y 
+Ciencias de la Salud, Universidad Abierta Interamericana, Argentina.  
+Correo eletrónico: sebastian_gabini@live.com.ar  
+ 
+ 
+ 
+Referencia recomendada: Gabini, S. (2017). 
+Cultura organizacional: Una puesta al día. 
+Revista de Psicología GEPU, 8 (2), 155- 178. 
+ 
+Resumen: La cultura organizacional es el 
+resultado de la asimilación de valores y patrones 
+de comportamiento por parte de los miembros de 
+una organización. El objetivo del presente 
+trabajo es proporcionar una puesta al día sobre la 
+teoría e investigación en cultura organizacional 
+con miras a reflejar el estado actual de los 
+estudios sobre el tema. Para tal fin se realizó una 
+búsqueda bibliográfica correspondiente a los 
+últimos 10 años en diversas bases de datos y 
+repositorios 
+institucionales, 
+utilizando 
+los 
+descriptores 
+cultura 
+organizacional 
+(organizational 
+culture), 
+antecedentes 
+(antecedents), consecuencias (consequences) e 
+instrumentos de medición (assessment scales). 
+De la revisión realizada surge que la cultura 
+organizacional 
+ha 
+sido 
+relacionada 
+con 
+resultados organizacionales relevantes tales 
+como el compromiso con la empresa, los deseos 
+de seguir perteneciendo a ella, la satisfacción 
+laboral y el bienestar del empleado. Asimismo, 
+se observa que hasta la fecha no se ha podido 
+establecer con claridad si la cultura de la 
+organización constituye una variable explicativa 
+del rendimiento laboral de los trabajadores. 
+ 
+Palabras 
+clave: 
+cultura 
+organizacional, 
+modelos, 
+clasificación, 
+instrumentos 
+de 
+medición. 
+ 
+Abstract: Organizational culture is result of 
+organizational 
+members’ 
+assimilation 
+of 
+behaviors patrons and values. The objective of 
+this study was to make an update of theory and 
+investigation over organizational culture, in 
+order to show his actual state of the art. To do 
+this a bibliographic research of the pasts 10 years 
+in different data bases and institutional 
+repositories was made using the descriptors 
+organizational 
+culture, 
+antecedents, 
+consequences and assessment scales. The 
+revision shows that organizational culture is 
+associated with relevant organizational results as 
+employee 
+commitment, 
+job 
+satisfaction, 
+employee wellbeing and his desire to continue in 
+the organization. Moreover, until now it cannot 
+be stablished clearly if organizational culture is 
+an explicative variable of employee job 
+performance. 
+ 
+Key words: organizational culture, models, 
+classification, assessment scales 
+ 
+ 
+Recibido 13 de Octubre de 2016 
+Aprobado: 2 de Mayo de 2017 
+ 
+ 
+ 
+ 
+ 
+                                                          
+1 El presente trabajo ha sido realizado en el marco de la beca doctoral otorgada al autor por el CONICET 
+(Consejo Nacional de Investigaciones Científicas y Técnicas), y dirigida por la Dra. Alicia Omar (CONICET; 
+Universidad Nacional de Rosario, Argentina) 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+156 
+ 
+ 
+ 
+Introducción 
+ 
+Existe consenso generalizado en considerar que las organizaciones laborales transitan hacia un 
+cambio de paradigma. La actual economía globalizada, que ha conllevado la apertura de los 
+mercados, tuvo como resultado procesos de fusión, adquisición y expansión de empresas a lo largo 
+de todo el mundo (Serrate-Alfonso, Portuondo-Velez, Sanchez-Puigbert, & Suarez-Ojeda, 2014). 
+En función de ello se han generado movimientos que, a menudo, introducen cambios en el seno de 
+las organizaciones, y que demandan adaptaciones por parte de los empleados a prácticas 
+organizacionales diferentes a las propias y, en muchas ocasiones, provenientes de otros contextos 
+culturales (Omar, 2006). Ante esta realidad, las organizaciones laborales enfrentan el desafío de 
+evaluar los elementos culturales que condicionan su dinámica social con la finalidad de orientar y 
+fortalecer su potencial humano hacia la obtención de resultados a nivel individual, grupal y 
+organizacional (Serrate-Alfonso et al., 2014). 
+ 
+La expresión cultura organizacional fue introducida en la literatura especializada por Pettigrew 
+(1979) quien la definió como “un sistema de significados pública y colectivamente aceptado por 
+un grupo dado, en un cierto período de tiempo” (p. 574). Paralelamente, Hofstede (1980) 
+conceptualizó a la cultura organizacional como un conjunto de programas mentales que controlan 
+las respuestas de un individuo en un momento dado. La cultura, entonces, era considerada como el 
+resultado de la asimilación de valores y patrones de comportamiento por parte de los miembros de 
+una organización que tienen efecto en el contexto del trabajo.  
+ 
+Posteriormente, Schein (1988) se apartó de tales conceptualizaciones y planteó la delimitación del 
+constructo desde una perspectiva psicológica. Así, para Schein la cultura organizacional se 
+encontraba vinculada al patrón de supuestos básicos que un determinado grupo ha desarrollado en 
+el proceso de aprender a resolver sus problemas de adaptación externa y de integración interna. 
+Estos supuestos han funcionado suficientemente bien para ser considerados como válidos y son 
+plausibles de ser enseñados a nuevos miembros del grupo como la manera correcta de percibir, 
+pensar y sentir en relación con estos problemas. Desde la óptica de Van Muijen (2013), existen al 
+menos tres aspectos de esta definición a tener en cuenta: (a) la cultura concierne a los supuestos 
+que determinan cómo los miembros de un grupo dado van a percibir, pensar, actuar; (b) la cultura 
+pertenece a un grupo; y (c) la cultura es aprendida.  
+ 
+Actualmente, la definición de cultura organizacional no difiere demasiado de las 
+conceptualizaciones mencionadas precedentemente. Un gran número de investigaciones más 
+actuales (Bellou, 2010; Mushtaq, Ahmad Fayyaz, & Tanveer, 2013; Naranjo-Valencia, Jiménez-
+Jiménez, & Sanz-Valle, 2011; Tsai, 2011; Tura Solvas & Martínez Costa, 2012) han entendido a 
+la cultura organizacional como los valores, creencias y supuestos que los miembros de una 
+organización tienen en común. La cultura, concebida de esta manera, cumple cuatro funciones 
+importantes en las organizaciones: (1) transmite un sentido de identidad a los miembros de la 
+organización, (2) facilita la generación de un compromiso hacia algo más importante que uno 
+mismo, (3) eleva la estabilidad del sistema social, y (4) sirve como un sistema de creación de 
+sentido que guía y moldea los comportamientos de los miembros (Hu, Dinev, Hart, & Cooke, 
+2012).  
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+ 
+ 
+A pesar que esta definición es la más difundida y aceptada en los estudios recientes sobre cultura 
+organizacional (Cújar Vertel, Ramos Paternina, Hernández Riaño, & López Pereira, 2013), aun no 
+existe consenso en cuanto a la delimitación de este constructo (Bellou, 2010). Sin embargo, algunos 
+referentes de la temática (Berson, Oreg & Dvir, 2008; Hofstede et al., 1990; Omar & Urteaga, 
+2010) han señalado que el núcleo de la cultura son las prácticas organizacionales, ya que 
+constituyen el lado visible de la misma.  
+ 
+Teniendo en cuenta la importancia del constructo, el objetivo del presente trabajo fue proporcionar 
+una puesta al día sobre la teoría e investigación en cultura organizacional, con miras a reflejar el 
+estado actual de los estudios sobre el tema. En este sentido, este trabajo constituye una revisión de 
+los principales modelos y modos de clasificación de la cultura organizacional en la bibliografía 
+específica, así como sus variables antecedentes y consecuentes, y los principales instrumentos 
+desarrollados para su medición. Con tal propósito, se realizó una búsqueda bibliográfica 
+correspondiente a los últimos 10 años utilizando los descriptores: cultura organizacional 
+(organizational culture), antecedentes (antecedents), consecuencias (consequences), e instrumentos 
+de medición (assessment scales). Se recuperaron 132 artículos a textos completos y cuatro capítulos 
+de libro. De los artículos, 73 fueron descartados por no estar directamente relacionados con el 
+objetivo y la temática del trabajo y nueve por encontrarse repetidos. En definitiva, se trabajó con 
+un total de 53 artículos pertenecientes a diversas bases de datos y repositorios institucionales: 
+EBSCO (12), Scielo (8), Elsevier (8), Dialnet (7), Emerald Insight (4), Taylor & Francis (4), 
+EconPapers (3), Repositorios institucionales (3), Wiley Online Library (3); y cuatro capítulos de 
+libros recuperados de Google Books (3) y Dialnet (1). 
+ 
+Modelos de Cultura Organizacional 
+ 
+Hasta el momento no se dispone de un modelo explicativo, aceptado unánimemente por los 
+especialistas, de los componentes de la cultura organizacional (Hernández Sampieri, Méndez 
+Valencia, & Contreras Soto, 2014). En la Tabla 1 se presenta una síntesis de los modelos propuestos 
+hasta la fecha y, seguidamente, se ofrece una breve descripción de cada uno de ellos.  
+ 
+El modelo de Valores en Competencia (Quinn, 1988) fue desarrollado a partir de una investigación 
+realizada para describir los principales indicadores de las organizaciones efectivas. 
+Particularmente, este modelo considera dos dimensiones bipolares: (a) flexibilidad, discreción y 
+dinamismo versus estabilidad, orden y control; y (b) orientación interna, integración y unidad 
+versus orientación externa, diferenciación y rivalidad. De la combinación cruzada de estas dos 
+dimensiones surgen cuatro subdominios culturales o tipos de culturas (clan, adhocrática, jerárquica 
+y orientada al mercado) que pueden definirse a partir de seis factores o rasgos organizativos: (a) 
+las características dominantes de la organización, (b) el liderazgo organizacional, (c) la gestión de 
+personal o recursos humanos, (d) el vínculo organizacional (también conocido como cohesión), (e) 
+el énfasis estratégico o áreas que orientan la estrategia de la organización, y (f) el criterio de éxito 
+o recompensa (Naranjo-Valencia, Jiménez-Jiménez, & Sanz-Valle, 2012). Este modelo recibió su 
+nombre debido a que en muchas ocasiones los cuatro subdominios parecen llevar mensajes 
+contradictorios. Los directivos, por ejemplo, en ocasiones desean organizaciones adaptables y 
+flexibles pero, a su vez, que sean estables y controladas. Los subdominios o cuadrantes del modelo, 
+representan los valores subyacentes que se encuentran por encima de los empleados, programas, 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+158 
+ 
+políticas y organizaciones. Por lo tanto, la concepción de Cameron y Quinn (2011) implica clases 
+de organizaciones ligadas a sus respectivas culturas.  
+ 
+En función de ello, la mayoría de las empresas e instituciones posee elementos de todas las clases 
+de culturas, pero desarrollan un estilo dominante (Hernández Sampieri et al., 2014). 
+ 
+ 
+ 
+ 
+ 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+ 
+ 
+El modelo de Schein (1985) distingue tres niveles de cultura organizacional. Así, la capa exterior 
+contiene el nivel cultural más visible, es decir, los artefactos, la tecnología, y los patrones de 
+comportamiento. Aquí se pueden encontrar los sistemas de jerarquía, logos, resultados materiales, 
+el lenguaje, entre otros. De esta manera, los patrones públicos de comportamiento y los artefactos 
+son simples de observar, pero difíciles de descifrar. Por lo tanto, para entender a la cultura, un 
+análisis cultural debe ir más allá de los comportamientos públicos del grupo (Van Muijen, 2013). 
+En palabras del autor “sólo luego de que hayamos descubierto las capas más profunda de la cultura 
+podremos especificar cuáles son los artefactos que reflejan, y cuáles los que no reflejan la cultura” 
+(Schein, 1985, p.14). El siguiente nivel comprime los valores del grupo, los cuales funcionan como 
+una normativa y un ancla moral que guía los comportamientos de los miembros del grupo en 
+determinadas situaciones. Los valores reflejan los supuestos acerca de lo que es correcto o 
+incorrecto. Sin embargo, Schein también realiza una distinción entre los valores basados en 
+aprendizajes culturales previos y aquellos valores que no se basan en lo aprendido previamente, 
+que son los valores adoptados (Van Muijen, 2013). La tercera capa consiste en los llamados 
+supuestos básicos, es decir, aquellos supuestos inconscientes dados por sentados y difíciles de 
+cambiar. 
+ 
+Estos supuestos implícitos guían los comportamientos y dirigen a los miembros del grupo a 
+percibir, interpretar y restaurar eventos. De esta manera, los supuestos pasan a ser las bases del 
+entrenamiento perceptual (Van Muijen, 2013). Este modelo, distingue dos funciones principales de 
+la cultura organizacional: la adaptación externa y la integración interna. La primera de ellas, refiere 
+al proceso de alcanzar las metas y lidiar con los agentes externos. Mientras que la segunda se 
+vincula con la creación de una identidad colectiva y las formas de enlazar métodos para trabajar y 
+vivir juntos. Esto ayuda a los miembros de la organización a filtrar los estímulos ambientales, 
+interpretar estos estímulos, y actuar en base a esta interpretación (Schein, 1988). Evidencias 
+empíricas recientes (Hogan & Coote, 2014) indican que el modelo de Schein ofrece una explicación 
+clara de los procesos culturales que dan lugar a la innovación organizacional, especialmente en las 
+empresas de servicios.  
+ 
+Otro de los modelos de la cultura organizacional es el elaborado por Payne (2001). El autor ha 
+criticado el supuesto según el cual los miembros de las unidades de trabajo comparten sus 
+percepciones, valores y creencias (González-Romá, 2011). Por lo tanto, propone que la cultura 
+general de una organización debería ser analizada a partir de tres grandes dimensiones: (a) 
+penetración, (b) intensidad psicológica y (c) fortaleza de consenso. Con respecto a este último 
+punto, un estudio realizado con 56 empresas mostró que el grado de consenso intra-organizacional 
+variaba notablemente a través de las instituciones, lo cual pone de manifiesto que el grado de 
+acuerdo entre los miembros de una unidad de trabajo es un elemento importante para describir y 
+entender la cultura organizacional (González-Romá, 2011).  
+ 
+El modelo de Denison describe cuatro rasgos fundamentales de la cultura organizacional, cada uno 
+con sus subdimensiones (Denison et al., 2003), a saber: (a) involucramiento, definido como el 
+empoderamiento, la construcción de la persona alrededor de los equipos y el desarrollo de la 
+capacidad humana. Esta dimensión considera el compromiso de los trabajadores y su influencia en 
+los ámbitos organizacionales. Este rasgo es susceptible de ser observado en sus tres 
+subdimensiones: empoderamiento, orientación al equipo y desarrollo de capacidades; (b) 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+160 
+ 
+consistencia, considera que el comportamiento de los individuos se fundamenta en el conjunto de 
+valores centrales para la organización. Las organizaciones que poseen esta característica tienen una 
+cultura distintiva y fuerte que influye significativamente en el comportamiento de las personas. 
+Este rasgo puede ser observado en valores centrales, acuerdo, coordinación e integración; (c) 
+adaptabilidad, permite que la organización responda a aquellos cambios en el entorno y de 
+respuesta a las nuevas exigencias de los clientes. Puede considerarse que las organizaciones bien 
+integradas son las más difíciles de cambiar. En contraposición, las organizaciones adaptables 
+asumen riesgos, aprenden de sus errores y tienen experiencia en la creación del cambio. Este rasgo 
+puede ser observado en la creación del cambio, el enfoque en el cliente y el aprendizaje 
+organizacional; y (d) misión, hace referencia al sentido de propósito que define las metas 
+organizacionales y los objetivos estratégicos. Puede ser expresado en la visión de lo que la 
+organización quiere ser en un futuro.  
+ 
+Este rasgo puede ser observado a partir de la dirección e intención estratégica de la empresa, sus 
+metas y objetivos, y su visión (Martínez Avella, 2010). Los cuatro rasgos propuestos por Denison, 
+están establecidos sobre un plano cartesiano definido por dos dimensiones ortogonales (los ejes): 
+una comprendida entre el enfoque interno y el enfoque externo; y la otra entre la orientación a la 
+estabilidad y a la flexibilidad. Estas dos dimensiones y los rasgos que se derivan caracterizan el 
+conjunto de tensiones que pueden presentarse en una organización. Por una parte, están las 
+tensiones entre estabilidad-flexibilidad y los intercambios entre el enfoque interno-externo y, por 
+la otra, las tensiones diagonales entre la consistencia interna y la adaptación externa, y entre el 
+despliegue de la misión de arriba hacia abajo y el involucramiento de abajo hacia arriba (Martínez 
+Avella, 2010). Según Denison (2000) “las organizaciones efectivas encuentran una forma de 
+resolver estas contradicciones dinámicas sin caer en el simple intercambio” (p. 357). 
+ 
+El modelo desarrollado por O’Reilly, Caldwell y Chadman (1991) no delimita tipologías culturales 
+sino valores culturales. Este modelo, entonces, pone el foco en las normas entendidas como los 
+estándares socialmente creados que emergen de los valores de una organización. Estas normas 
+culturales ayudan a los miembros del grupo a interpretar y evaluar los eventos y las expectativas 
+acerca de los comportamientos apropiados (Chatman, Caldwell, O'Reilly & Doerr, 2014). Los 
+valores culturales se conjugan en ocho factores: (a) innovar y tomar riesgos, (b) atención al detalle, 
+(c) orientación a resultados, (d) agresividad y competitividad, (e) apoyo, (f) énfasis en el 
+crecimiento y en las recompensas, (g) colaboración y orientación al equipo, y (h) decisiones. Estos 
+ocho factores ortogonales son definidos sin ambigüedad y se aproximan a muchas de las 
+dimensiones que la literatura previa ha ofrecido. Para estos autores, la cultura organizativa cumple 
+una serie de funciones dentro de las organizaciones. De esta manera, define los límites, ayudando 
+a distinguir una organización de otra; permite a los integrantes desarrollar una sensación de 
+identidad; facilita la aceptación de un compromiso con algo que supera los intereses personales; 
+mejora la estabilidad del sistema; y crea sentido y permite el control, así como orienta y moldea las 
+actitudes individuales.  
+ 
+El modelo de Hofstede entiende que la cultura, como programación colectiva de la mente, se 
+manifiesta de diferentes formas. De esta manera, hay cuatro términos que describen las 
+manifestaciones de la cultura y cubren todo su concepto: símbolos, héroes, rituales y valores. Los 
+símbolos representan la capa más superficial de la cultura y los valores la más profunda, quedando 
+los héroes y los rituales en medio de las dos. Los símbolos son palabras, gestos, imágenes u objetos 
+que tienen un significado concreto, únicamente reconocible por aquellos que comparten la misma 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+cultura. Los héroes son personas, vivas o muertas, reales o imaginarias, que presentan 
+características muy valoradas en una cultura determinada, por lo que actúan como modelos de 
+comportamiento. A menudo, los fundadores de empresas se convierten en héroes culturales. Los 
+rituales son actividades colectivas, técnicamente superfluas para alcanzar los fines deseados, pero 
+consideradas socialmente esenciales dentro de una cultura, es decir, que tienen sentido por sí 
+mismas. Las distintas formas de saludo, formal o informal, así como las ceremonias sociales y 
+religiosas, constituyen ejemplos de rituales. Los símbolos, los héroes y los rituales considerados 
+en su conjunto constituyen las “prácticas organizacionales”. Éstas resultan visibles para un 
+observador externo, sin embargo, su significado cultural no es necesariamente notorio y reside en 
+el modo en el que los participantes de la cultura en cuestión interpretan dichas prácticas (Hofstede, 
+2011). 
+ 
+En un primer momento, Hofstede (1980) identificó cuatro valores básicos para evaluar la culturas 
+nacionales: (a) distancia al poder, definida como el grado en que los miembros menos poderosos 
+de la sociedad esperan que el poder se distribuya de manera desigual; (b) evitación de la 
+incertidumbre, el grado en que los miembros de una cultura perciben y reaccionan frente a 
+situaciones o amenazas desconocidas; (c) individualismo-colectivismo, refiere a la naturaleza de 
+las relaciones que un individuo mantiene con su grupo; y (d) masculinidad-femineidad, hace 
+referencia a la valoración diferencial de los papeles femeninos y masculinos. Posteriormente, el 
+mismo Hofstede añadió una quinta dimensión, que había sido propuesta por Bond y sus 
+colaboradores, conocida como orientación a largo plazo o dinamismo (Hofstede & Bond, 1988). 
+La misma hace referencia a una cultura orientada al futuro, positiva, dinámica y ligada a cuatro 
+valores positivos: perseverancia, ordenan (de las relaciones por estatus y observancia de ese orden), 
+economía, y sentido de vergüenza. El lado positivo de esta orientación refleja una mentalidad 
+orientada al futuro, mientras que los valores del lado negativo reflejan una mentalidad tradicional 
+y estática. Sin embargo, posteriormente Hofstede y su equipo (Hofstede et al., 1990) reconocieron 
+que las dimensiones acerca de las culturas nacionales no son relevantes a la hora de comparar 
+organizaciones de un mismo país. De esta manera, concluyeron que las prácticas diarias 
+constituyen la esencia de la cultura organizacional y, por lo tanto, la misma debe ser explorada a 
+través de las prácticas que la tipifican, reservándose los valores para la caracterización de la cultura 
+nacional. De este modo, el modelo de Hofstede identifica las culturas organizacionales en función 
+a la orientación de sus prácticas: (a) proceso frente a resultados, (b) trabajo frente a empleado, (c) 
+profesionalidad frente a cultura parroquial, (d) sistemas abiertos frente a sistemas cerrados, (e) 
+control flexible frente a control estricto, y (f) normativo frente a pragmático. 
+ 
+ 
+De éstos, el que cuenta con mayor evidencia empírica, especialmente en América Latina, y posee 
+mayor sencillez y claridad conceptual es el primero (Hernández Sampieri et al., 2014). Sin 
+embargo, el modelo de Hofstede que ha tenido un gran desarrollo en otras partes del mundo ha 
+comenzado a incorporarse en estudios llevados a cabo en Latinoamérica (especialmente en el 
+ámbito de los negocios internacionales) para analizar aspectos tales como la sensibilidad de las 
+organizaciones en términos de equidad en el trato, el avance profesional de las mujeres en las 
+organizaciones, en relación con la adopción de prácticas organizacionales saludables, su poder 
+predictivo respecto del bienestar de los trabajadores, entre otros (Grueso Hinestroza, González-
+Rodríguez, & Rey-Sarmiento, 2014).  
+ 
+ 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+162 
+ 
+ 
+ 
+Clasificación de las Culturas Organizacionales 
+ 
+Así como se han descrito diversos modelos para delimitar el constructo cultura organizacional, la 
+bibliografía consultada también da cuenta de la existencia de diferentes modos de clasificar los 
+tipos de cultura propuestos. Por un lado, se encuentran las tipologías que se desprenden de algunos 
+de los modelos presentados en el apartado anterior; y por otro, una serie de clasificaciones 
+cualitativas binomiales que no son fruto de los modelos teóricos clásicos. 
+  
+Una de las tipificaciones de la cultura organizacional más difundida es la que surge del Modelo de 
+Valores en Competencia. Al respecto, es conveniente tener en cuenta que la mayoría de las 
+organizaciones posee elementos de todas las clases de culturas, sin embargo desarrolla un estilo 
+dominante. Por lo que más que un modelo tipológico, se trata de un modelo topológico (Hernández 
+Sampieri et al., 2014). Entonces, los tipos de cultura organizacional que se desprenden de este 
+modelo son: (a) cultura de clan, que recibe su nombre por ser similar a un tipo de estructura 
+familiar. Este tipo de empresas se caracterizan por la existencia de metas y valores compartidos, 
+cohesión, participación, individualismo colectivo y un sentido de nosotros. Al interior de las 
+mismas, sus miembros se perciben más como una familia extensa que como entidades aisladas. De 
+esta manera, en lugar de orientarse a las reglas o mercados, se encuentran orientados hacia el 
+involucramiento de los empleados y hacia el compromiso de los mismos. Asimismo, la cultura clan 
+genera un clima amigable de trabajo donde los trabajadores comparten mucho de ellos mismos 
+(Cameron & Quinn, 2011); (b) cultura jerárquica, se fundamenta en los atributos clásicos de la 
+burocracia como reglas, especialización, meritocracia, jerarquía, responsabilidad, etc. (Hernández 
+Sampieri et al., 2014). Tales características fueron adoptadas por empresas que quisieron generar 
+eficiencia, confiabilidad y resultados predecibles. Desde este punto de vista, eran imprescindibles 
+las líneas claras en la toma de decisiones, la autoridad, las reglas estandarizadas y los 
+procedimientos, así como el control y los mecanismos de responsabilidad (Zafer Acar & Acar, 
+2014).  
+ 
+La cultura organizacional compatible con esta forma de organización se caracteriza por conservar 
+un lugar de trabajo estructurado y formalizado, con múltiples niveles jerárquicos (Cameron & 
+Quinn, 2011); (c) cultura adhocrática, este tipo de organización y la cultura asociada surgieron 
+como consecuencia de la transición de la era industrial a la era de la información. Una meta esencial 
+de este tipo de organizaciones es crear adaptabilidad, flexibilidad y creatividad. Por lo que se 
+caracteriza por un lugar de trabajo creativo, dinámico y emprendedor, donde los empleados asumen 
+riesgos y el liderazgo está orientado a los desafíos (Cameron & Quinn, 2011); y (d) cultura 
+orientada al mercado, la cual se encuentra perfilada hacia el ambiente externo en lugar de centrarse 
+en los asuntos internos y se enfoca a las vinculaciones con las entidades del entorno como clientes 
+y consumidores, proveedores, sindicatos, organismos reguladores y competidores. Este tipo de 
+organización opera a través de mecanismos económicos y se basa en valores tales como la 
+competitividad y la productividad, que se alcanzan mediante el posicionamiento externo y el 
+control (Zafer Acar & Acar, 2014). 
+ 
+La clasificación de las culturas organizacionales que se desprenden del modelo de Hofstede 
+diferencia aquellas empresas orientadas a los procesos frente a aquellas que se orientan a los 
+resultados. Las primeras están dominadas por rutinas de carácter técnico y burocrático, mientras 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+que las segundas se caracterizan por una preocupación común por la obtención de resultados. 
+Asimismo, se oponen aquellas organizaciones orientadas al trabajo frente a otras orientadas al 
+empleado.  
+ 
+En el primer caso únicamente se tiene en cuenta el desempeño laboral de los empleados, por el 
+contrario, en las culturas orientadas al empleado se asume una responsabilidad más amplia en 
+relación con el bienestar de sus miembros. Por otra parte, se distinguen las culturas profesionales, 
+donde los miembros, normalmente con un alto nivel de formación, se identifican con su profesión, 
+mientras que en culturas parroquiales los miembros encuentran su identidad en la organización 
+para la que trabajan. Similarmente, los estilos de comunicación interna y externa, así como a la 
+facilidad de admisión de trabajadores externos o de nuevas incorporaciones, permite la distinción 
+entre sistemas abiertos y sistemas cerrados. Paralelamente, el control hace referencia al grado de 
+formalidad y puntualidad que existe en la organización, lo que posibilita la discriminación entre 
+aquellas culturas que poseen un control estricto frente a otras donde el grado de control es más bien 
+flexible. Finalmente, la dimensión normativo frente a pragmático describe el modo predominante 
+(rígido o flexible, respectivamente) en la relación con el entorno, en particular con los clientes. Las 
+unidades que se dedican a la venta de servicios, por ejemplo, suelen encontrarse en la zona 
+pragmática, mientras que las unidades relacionadas con la aplicación de leyes y normas tienden a 
+situarse en la zona normativa (Hofstede, 2011). 
+ 
+Por otra parte, existen caracterizaciones cualitativas de la cultura organizacional (Toca Torres & 
+Carrillo Rodríguez, 2009) que, por lo general, ofrecen una distinción binaria entre una cultura 
+fuerte que proporciona un claro sentido de identidad con el personal, donde todos los miembros 
+conocen las metan organizacionales y trabajan en pos de alcanzarlas; y una cultura débil, carente 
+de valores, con prácticas poco definidas y que posee poca influencia sobre las conductas de los 
+empleados. Dentro de esta perspectiva, investigaciones recientes (Jacobs et al., 2013; Mushtaq et 
+al., 2013) han indicado que las culturas fuertes están relacionadas con un alto desempeño al facilitar 
+la consistencia interna. Otra distinción de la cultura se realiza en función de los criterios de 
+efectividad de la organización. De esta manera algunas investigaciones han propuesto: (a) culturas 
+mecánicas y orgánicas, (b) adaptativas y desadaptativas, (c) éticas y no éticas, (d) participativas y 
+no participativas (Armenakis, Brown, & Mehta, 2011). Recientemente, O’Reilly ha categorizado 
+a las culturas adaptativas como aquellas que asumen riesgos, tienen deseos de experimentar, de 
+innovar, son movilizadas por la iniciativa personal, toman decisiones, ejecutan rápidamente y 
+tienen la habilidad de aprovechar las oportunidades (Holton, 2014). 
+ 
+En síntesis las caracterizaciones cualitativas hacen difícil determinar la magnitud de una condición 
+específica, más allá del hecho que ofrecen una visión positiva (rica, coherente, cohesiva, 
+significativa, vibrante, central, integrada, balanceada, adaptativa, etc.) o negativa (fragmentada, 
+pobre, poco entendida, depredadora, congelada, caótica, confusa, fría, difusa, desadaptativa, etc.) 
+sobre la cultura organizacional. Por lo tanto, cualquiera de estas clasificaciones pueden resultar 
+ambiguas y poco confiables (Toca Torres & Carrillo Rodríguez, 2009). 
+ 
+ 
+ 
+ 
+ 
+ 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+164 
+ 
+ 
+ 
+Antecedentes de la Cultura Organizacional 
+ 
+El estudio de los antecedentes de la cultura organizacional no ha sido tan fructífero como en otras 
+áreas de estudio. Sin embargo, se ha podido identificar que algunas de las variables que determinan 
+la aparición de ciertos tipos de culturas organizacionales, son la cultura nacional y el tipo de 
+liderazgo llevado a cabo en las instituciones. 
+ 
+ Con respecto a la primera de ellas, algunos investigadores (Übius & Alas, 2009) han sostenido que 
+determinados tipos de culturas organizacionales dominan en empresas de diferentes países, lo que 
+indica que la cultura de una organización se encuentra influenciada por la cultura nacional. De allí 
+que se ha remarcado que los valores nacionales influyen sobre las prácticas desarrolladas dentro de 
+las organizaciones (Garibaldi de Hilal, 2006). A este respecto, se ha indicado (Findler, Wind & 
+Mor Barak, 2009) que las organizaciones que se insertan en otros horizontes sufren influencias 
+sistemáticas de su ambiente próximo y procuran adaptarse a él, por lo que serían afectadas por los 
+valores de la nueva cultura nacional. En nuestro país, resultados similares (Omar & Urteaga, 2010) 
+han demostrado que la cultura nacional de origen influye sobre la cultura organizacional, lo que 
+revela que la adopción de determinadas prácticas organizacionales se vincula estrechamente con el 
+origen de la organización. Al respecto, las empresas nacionales argentinas se caracterizan por la 
+implementación de prácticas orientadas al empleado y a los sistemas rígidos de gerenciamiento de 
+sus recursos humanos. En cambio, las empresas privatizadas (que importaron sus gerentes y 
+administradores) se caracterizan por la instauración de prácticas orientadas al mercado, a los 
+resultados y a los sistemas abiertos (Omar & Urteaga, 2010). Tales hallazgos coinciden con 
+observaciones previas (Earley & Erez, 1997; House, Javidan, Hanges, & Dorfman, 2002) que 
+sostenían que los gerentes implementan normas y prácticas dentro de las organizaciones que, en 
+término medio, reflejan las normas y prácticas típicas de las organizaciones donde se formaron. 
+ 
+La relación entre liderazgo y cultura organizacional muestra cierto consenso entre los especialistas 
+que sostienen que el núcleo de valores de una organización comienza con su liderazgo y luego se 
+transforma en un estilo de liderazgo (Salazar Estrada, Guerrero Pupo, Machado Rodríguez, & 
+Cañedo Andalia, 2009; Tsai, 2011). No obstante, así como el líder incide directamente en la cultura, 
+la cultura de una organización también es responsable de definir el perfil del líder, es decir que al 
+tiempo que moldea es moldeado (Toca Torres & Carrillo Rodríguez, 2009). Los líderes de una 
+organización, entonces, desempeñan un papel activo en la formación y reforzamiento tanto del 
+clima como de la cultura organizacional. De esta manera, los líderes determinan qué se debe 
+atender, medir y controlar; participan en los incidentes críticos y las crisis empresariales; planifican 
+la enseñanza, el entrenamiento y establecen los criterios para el reclutamiento, selección, 
+promoción, jubilación y segregación de los empleados (Salazar Estrada et al., 2009). 
+ 
+ En función de ello, los empleados son dirigidos por los valores y comportamientos de los líderes 
+para que los comportamientos de las dos partes se aliñen. Cuando los comportamientos están 
+fuertemente unificados, una cultura organizacional cohesionada emerge ya que los valores y 
+creencias han sido desarrollados. Esto asegura comportamientos consistentes entre los miembros 
+de una organización, reduce los conflictos y crea un ambiente laboral sano para los empleados 
+(Tsai, 2011).  
+ 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+Otras variables vinculadas al liderazgo que complementan el proceso de creación y reforzamiento 
+de la cultura en una organización son: los diseños de estructuras, la organización, las declaraciones 
+formales sobre lo que es importante para la empresa, y similares. Estos mecanismos conforman 
+actitudes y modos de hacer que, en la medida en que prueben su efectividad, pasarán a formar parte 
+de la cultura (Salazar Estrada et al., 2009).  
+ 
+Consecuencias de la Cultura Organizacional 
+ 
+La bibliografía especializada ha señalado que la cultura organizacional tiene un efecto significativo 
+sobre las actitudes de los empleados. Los resultados de estudios vinculados a la temática sugieren 
+que los efectos de la cultura organizacional sobre los comportamientos individuales se encuentran 
+totalmente mediados por los procesos cognitivos internos de los individuos, teniendo en cuenta 
+tareas y contextos específicos (Hu et al., 2012). Desde esta perspectiva, se ha sugerido que el ajuste 
+entre los valores de los trabajadores y la cultura de la organización es un predictor significativo del 
+compromiso normativo, la satisfacción laboral, el rendimiento laboral y de las intenciones de 
+renunciar, independientemente de la edad, la antigüedad laboral y el sexo del empleado (O’Reilly 
+et al., 1991).  
+ 
+Con respecto a este último punto, evidencias empíricas sugieren que existen diferencias basadas en 
+el sexo del trabajador. En este sentido, se ha señalado (García-Bernal, Gargallo-Castel, Marzo-
+Navarro, & Rivera-Torres, 2005) que el grado en que las dimensiones culturales impactan sobre la 
+satisfacción laboral de los empleados difiere en función de su sexo. Concretamente, se ha 
+encontrado (Tura Solvas & Martínez Costa, 2012) que las culturas adhocráticas y orientadas al 
+grupo mantienen una correlación positiva significativa con la sensibilidad de igualdades de 
+oportunidades entre los sexos. En cambio, culturas jerárquicas y racionales dificultan la percepción 
+de igualdades de género. Asimismo, se ha verificado (Tura Solvas & Martínez Costa, 2012) que la 
+existencia de desigualdades de género en las organizaciones, o de su percepción, tiene 
+consecuencias negativas tanto para los trabajadores como para la propia organización.  
+ 
+Otras investigaciones han indicado (Belias & Koustelios, 2014; Zavyalova & Kucherov, 2010) que 
+en las empresas con diferentes tipos de cultura organizacional difieren los niveles de satisfacción 
+laboral de los empleados. De esta manera, se ha sugerido (Shurbagi & Zahari, 2012) una relación 
+positiva entre las culturas de clan y adhocrática, y la satisfacción laboral; así como una correlación 
+negativa entre la satisfacción y las culturas jerárquicas y orientadas al mercado (Lund, 2003). Un 
+estudio más reciente (ElKordy, 2013) ha indicado que casi el 50% de la varianza de la satisfacción 
+laboral es explicada por la cultura organizacional y el liderazgo transformacional, siendo la cultura 
+el constructo con mayor impacto. 
+ 
+En cuanto al vínculo entre compromiso y cultura organizacional, se ha señalado (Richard, 
+McMillan-Capehart, Bhuian, & Taylor, 2009) que el contrato psicológico media la relación entre 
+estas dos variables. Sumado a ello, se ha sugerido (ElKordy, 2013) que el compromiso 
+organizacional es explicado por la satisfacción laboral, la cultura organizacional, y el liderazgo 
+transformacional. Asimismo, se ha comunicado (Zafer Acar, 2012) que la cultura organizacional y 
+el tipo de liderazgo predicen el compromiso organizacional. Al respecto, un estudio transversal 
+centrado en enfermeros de hospitales de Taiwan (Tsai, 2011) mostró que las culturas orientadas a 
+la flexibilidad impactan sobre la satisfacción laboral de los empleados a través del liderazgo 
+autentico. Estos hallazgos indican que los efectos de ciertos tipos de cultura son expresados a través 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+166 
+ 
+del liderazgo que, a su vez, sostiene los valores culturales (Azanza, Moriano, & Molero, 2013; 
+O’Reilly, Caldwell, Chatman, & Doerr, 2014). 
+ 
+Evidencias empíricas recientes (Mendoza Llanos, 2015) muestran que el ausentismo también se 
+encuentra influenciado por la cultura organizacional. Además, se ha encontrado (Übius & Alas, 
+2009) que las culturas de clan, jerárquica y adhocrática predicen la responsabilidad social 
+corporativa. Asimismo, se ha indicado una correlación positiva de la cultura organizacional con la 
+salud mental y el bienestar del empleado (Marchand, Haines, & Dextras-Gauthier, 2013), así como 
+con su salud, entusiasmo y flexibilidad (Toca Torres & Carrillo Rodríguez, 2009). 
+ 
+Por otra parte, la bibliografía especializada (Tsai, 2011; Zafer Acar, 2012) ha señalado la 
+importancia de la relación entre la cultura y la gerencia. En este sentido, se ha sugerido (Ovidiu-
+Iliuta, 2014) que las dimensiones de la cultura organizacional (adaptabilidad, misión, 
+involucramiento y consistencia) tienen un impacto significativo sobre las prácticas de 
+gerenciamiento. De ellos, el rasgo consistencia ha demostrado una mayor influencia sobre las 
+prácticas de gerenciamiento, lo que significa que las organizaciones efectivas están altamente 
+coordinadas y propiamente integradas (Ovidiu-Iliuta, 2014).  
+ 
+Paralelamente, algunos referentes en la temática (O’Reilly et al., 2014) han sostenido que la cultura 
+organizacional impacta tanto sobre los resultados directos y la eficiencia de la misma al establecer 
+los valores, creencias y normas dentro de la organización, quien en retorno le ayuda a moldear los 
+modos en que los miembros de la organización interactúan y se comprometen entre ellos. Estos  
+valores culturales específicos pueden conducir a (Jacobs et al., 2013): (a) toma de decisión más 
+efectiva; (b) reportar, responder y aprender de los errores; (c) trabajo basado en el equipo; y (d) 
+sinergía inter-departamental y creatividad. Posteriormente, la cultura puede influenciar los 
+objetivos sociales y económicos generales que una organización persigue así como alentar a la 
+cooperación y a la construcción de relaciones entre los empleados dentro y fuera de las 
+organizaciones (Jacobs et al., 2013).  
+ 
+Sumado a ello, se ha señalado (Denison, 2000; Schein, 1988) que la cultura organizativa constituye 
+uno de los principales predictores del rendimiento laboral. En este sentido, un mayor rendimiento 
+es esperable en la medida que los valores culturales sean fuertemente sostenidos o amplia y 
+comúnmente compartidos (Denison, 1990). Asimismo, se ha considerado (Jung & Takeuchi, 2010) 
+que se puede alcanzar un mejor rendimiento laboral en tanto los líderes gerenciales sean apoyados 
+por la cultura. Sumado a ello, Schein (1988) explica que el liderazgo y la cultura están entrelazados, 
+especialmente basándose en el concepto del ciclo de vida organizacional. De acuerdo a este 
+concepto, los líderes o ejecutivos de una organización tendrán sus valores y creencias incrustados 
+en la organización desde una etapa temprana de la formación de la misma, mientras que la cultura 
+influenciará las acciones y el estilo de los líderes en etapas más tardías. De esta manera, la cultura 
+proveería la base para entender las diferencias entre las empresas exitosas donde los empleados 
+exhiben un buen rendimiento, de aquellas que no lo tienen (Schein, 1988). Sin embargo, no todas 
+las investigaciones han dado cuenta de esta relación. Algunas han sostenido (Ogbonna & Harris, 
+1998) que el vínculo entre ambos constructos es claramente anecdótico o han postulado (Toca 
+Torres & Carrillo Rodríguez, 2009) que en el mundo empresarial la cultura es fácilmente ignorada 
+desconociendo así su impacto sobre la efectividad organizacional. 
+ 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+Investigaciones más recientes han informado que organizaciones con cultura predominante tipo 
+clan (Revilla-Macías, Santana-Mondragón, & Rentería-López, 2015; Richard et al., 2009) y 
+orientadas a la innovación (Gálvez Albarracín & Pérez de Lema, 2011) tienen un impacto positivo 
+sobre el rendimiento de las empresas, mientras que culturas jerárquicas se vinculan de manera 
+negativa con el rendimiento. Estos resultados, refuerzan la teoría de que la cultura organizacional 
+es determinante para el logro de la competitividad de las empresas (Shahzad, Luqman, Khan, & 
+Shabbir, 2012). En definitiva, organizaciones orientadas a la innovación generan importantes 
+mejoras en el rendimiento en términos de la calidad de los productos y servicios, en la eficiencia 
+de los procesos internos, en las relaciones humanas internas y en la relación de la empresa con su 
+entorno inmediato. 
+ 
+ Mientras que las estructuras organizacionales demasiado rígidas, signadas por el exceso de 
+formalismo y de procedimientos, influyen negativamente sobre el rendimiento, especialmente en 
+aspectos como la escasa adaptación a las necesidades del mercado y la poca satisfacción de los 
+clientes (Gálvez Albarracín & Pérez de Lema, 2011). Por otra parte, también se ha indicado 
+(Gelfand, Keller, Leslie, & de Dreu, 2012) que las culturas conflictivas tienen implicancias directas 
+sobre las variables resultados, como el rendimiento individual. Adicionalmente, en la actualidad 
+una gran serie de estudios han dado cuenta de una relación positiva entre ambas variables en 
+distintos ámbitos tales como el hospitalario (Jacobs et al., 2013; Revilla-Macías, Santana-
+Mondragón, & Rentería-López, 2015), educativo (Abdussamad, Akib, & Paramata, 2015), estudios 
+legales (Hogan & Coote, 2014), empresas de software (Shahzad, 2014) y empresas constructoras 
+(Martínez Méndez, Vera Muñoz, & Vera Muñoz, 2014), entre otros. No obstante, todavía no se ha 
+podido establecer con claridad si la cultura de la organización (empresa o institución) en la que una 
+persona trabaja constituye una variable explicativa de su rendimiento laboral. Aunque, a la luz de 
+los antecedentes disponibles se podría presuponer que los trabajadores de empresas orientadas 
+hacia los sistemas flexibles, a los empleados y a la responsabilidad social, lograrán mayores niveles 
+de RL que las orientadas a los resultados, a los procesos y a los sistemas rígidos. 
+ 
+Medición de la cultura organizacional 
+ 
+ 
+Pese a que el estudio de la cultura organizacional se ha constituido en un tópico de interés en el 
+ámbito académico y empresarial hacia fines de la década del 70, no existe un acuerdo en relación 
+a la manera adecuada de medir el constructo. Sobre este particular Schein (1985) planteó que la 
+cultura, al ser una construcción social de la realidad, presenta inconvenientes para ser medida a 
+través de cuestionarios y, por lo tanto, sugirió que la mejor forma de abordarla es mediante el 
+desarrollo de estudios etnográficos. En función de ello, la bibliografía específica hace referencia a 
+estudios que utilizaron instrumentos ligados a vertientes cualitativas. Sin embargo, otros autores 
+consideran que la cultura sí es susceptible de ser evaluada a través de escalas numéricas (Grueso 
+Hinestroza, 2009). Los instrumentos de medición (Tabla 2) desarrollados desde esta perspectiva 
+pueden ser clasificados en función del modelo de cultura organizacional al cual hacen referencia y 
+pretende medir, ya que la variación del concepto ha conllevado modificaciones en la forma de 
+medirlo (Cújar Vertel et al., 2013).  
+ 
+La bibliografía específica indica que los primeros intentos por operacionalizar la cultura 
+organizacional pueden rastrearse hacia principios de los años ochenta. Wilkins y Ouchi (1983), por 
+ejemplo, midieron la cultura a partir de observaciones de distintas clases de comunidades, 
+detallando sus características y clasificándolas de acuerdo con rangos establecidos.  
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+168 
+ 
+ 
+En la mismaépoca, se presentaron otros estudios que contemplaron otras maneras de evaluar la 
+cultura organizacional, como el Organizational Beliefs Questionnaire de Peters y Waterman 
+(1982), quienes a través de un cuestionario midieron variables como: diversión, innovación, calidad 
+superior, atención a detalles, toma de riesgos, competitividad, informalidad e importancia de la 
+gente. También se puede señalar al Organizational Culture Inventory, de Cooke y Lafferty (1983), 
+cuya perspectiva considera elementos importantes para el autodesarrollo, el manejo del poder, la 
+competitividad, la propia realización, el perfeccionismo, la eliminación, el alcance de logros, y en 
+general, el alcance humanístico. mediados de la década de los 80 Hofstede y colaboradores 
+estudiaron las compañías pertenecientes al grupo IBM y publicaron su artículo final en 1990. A 
+partir de su estudio, se concluyó que las prácticas diarias constituyen la esencia de la cultura 
+organizacional y que, por lo tanto, la cultura de las empresas debe ser explorada a través de las 
+prácticas que la tipifican. Para ello, desarrollaron una metodología en la cual la primera fase de la 
+investigación, de carácter cualitativo, siguió un enfoque antropológico clásico. La segunda fase del 
+proyecto, de naturaleza cuantitativa, consistió en una encuesta por escrito con preguntas 
+precodificadas. Estas preguntas incluían las que se emplearon en el estudio intercultural de IBM y, 
+además, se incluyeron muchas percepciones de las prácticas diarias que no se habían cubierto en 
+los estudios interculturales (Hofstede, 2011). El cuestionario, validado inicialmente con una 
+muestra de 1295 sujetos de 10 organizaciones de Dinamarca y Países Bajos, recoge información 
+relacionada con la percepción y valoración de los símbolos, héroes, rituales y valores de la 
+compañía. Los aspectos relacionados con los tres primeros conceptos fueron agrupados (Hofstede 
+et al., 1990) en una gran categoría de 54 ítems denominada “Prácticas”; los “Valores”, por su parte, 
+fueron descritos mediante 50 preguntas, 22 orientadas a valorar los objetivos del trabajo y 28 a 
+valorar las creencias generales en el trabajo. 
+ 
+Posteriormente, Verbeke (2000) realizó una adaptación de la escala de prácticas organizacionales 
+(Hofstede et al., 1990). El creciente interés sobre las posibilidades de las prácticas para influir sobre 
+el comportamiento organizacional, motivó la incorporación de nuevos ítems y una nueva 
+validación. Tales procedimientos dieron por resultado un instrumento compuesto por seis 
+subescalas, de las cuales cuatro (procesos vs. resultados; empleado vs. tarea; sistema abierto vs. 
+cerrado; sistema rígido vs. flexible) mantuvieron las denominaciones dadas por Hofstede, en tanto 
+que las dos restantes fueron identificadas como responsabilidad social vs. auto-interés (similar a la 
+dimensión normativa vs. pragmática de la escala original) y mercado vs. empresa (referida a la 
+implementación o no de prácticas orientadas hacia la competición y conquista de clientes).  
+ 
+Dentro de la misma línea, el cuestionario Global Research Program (GLOBE’S) fue inspirado en 
+los postulados teóricos de Hofstede (House et al., 2002). Este instrumento está compuesto por 
+nueve dimensiones: (a) distancia al poder, (b) evitación de la incertidumbre, (c) orientación 
+humana, (d) asertividad, (e) equidad de género, (f) orientación hacia el futuro, (g) orientación hacia 
+el desempeño, (h) individualismo-colectivismo, e (i) colectivismo organizacional. El mismo se 
+caracteriza por facilitar la medición de los valores tanto a nivel social, como a nivel organizacional, 
+con propiedades psicométricas satisfactorias.  
+ 
+ 
+ 
+ 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+Otro instrumento que tomó como marco el modelo de Hofstede fue la escala desarrollada por 
+Grueso Hinestroza (2010). La misma contiene 35 reactivos para evaluar las cinco dimensiones del 
+modelo referido, en una escala tipo Likert de 5 puntos (variando desde 1=“nada frecuente” a 
+5=“muy frecuentemente”). En Argentina, particularmente, la Escala de prácticas organizacionales 
+(Omar, 2005), explora tres de las prácticas de gerenciamiento de recursos humanos propuestas por 
+Hofstede (1997) (procesos vs. resultados, empleado vs. tarea, sistemas abiertos vs. cerrados) y dos 
+de las identificadas por Verbeke (2000) (sistemas flexibles vs. rígidos y mercado vs. empresa). Esta 
+escala está integrada por 25 ítems, con formato Likert de 5 puntos (variando desde 1=“nada 
+frecuente” a 5=“muy frecuentemente”).  
+ 
+Paralelamente, se han desarrollado instrumentos que responden a los otros modelos tradicionales 
+de la cultura organizacional. De esta manera, surgieron las escalas basadas en el modelo de Valores 
+en Competencia. El principal instrumento basado en este modelo es el Organizational Culture 
+Assessment Instrument (OCAI) (Quinn & Spreitzer, 1991), que ha tenido una amplia difusión en 
+el mundo y, además, ha sido adaptado para su uso con otras poblaciones, tanto en inglés (Heritage, 
+Pollock, & Roberts, 2014) como en español (Calderón Hernández & Serna Gómez, 2009; Naranjo-
+Valencia, Sanz-Valle, & Jiménez-Jiménez, 2008; Revilla-Macías et al., 2015). Dentro de este 
+grupo, también se puede considerar al First Organizational Culture Unified Search (FOCUS) 
+diseñado por Van Muijen et al. (1999). El FOCUS es una escala de carácter descriptivo-evaluativo 
+que se compone de 75 afirmaciones, de las cuales 40 describen el clima organizacional y 35 evalúan 
+la cultura. Esta escala mide el grado en que los individuos consideran que determinadas 
+características están presentes en sus organizaciones y fundamentalmente permite identificar los 
+cuatro tipos de cultura identificadas por el modelo. Ha sido validada en 12 países europeos y ha 
+mostrado tener propiedades psicométricas satisfactorias (Grueso Hinestroza, 2009). 
+ 
+Particularmente, O'Reilly et al. (1991) diseñaron un instrumento llamado Organizational Culture 
+Profile (OCP) integrado por 54 proposiciones referentes a valores individuales (31 ítems) y 
+organizacionales (23 ítems), a ser evaluadas mediante nueve categorías desde lo más a lo menos 
+deseable. Este estudio fue llevado a cabo en cuatro etapas: en la primera, se describieron los 
+elementos que estarían contenidos en la lista, que describieran cualquier organización, que no 
+fueran característicos de todas las personas en las organizaciones y que fuesen fáciles de entender. 
+La segunda etapa consistió en la evaluación de las características de la empresa, invitando a grupos 
+de las mismas organizaciones para que las clasificaran de acuerdo con su grado de importancia. En 
+una tercera fase, se evaluó el grado de importancia que los empleados asignaron a cada uno de los 
+elementos para formar parte de la organización a la cual pertenecían. En la última fase, se calculó 
+una puntuación de ajuste persona-organización de cada individuo al correlacionar el perfil de 
+preferencias individuales con el de la empresa para la cual la persona trabajó. Recientemente, una 
+validación de la versión abreviada (26 ítems) de este instrumento (Marchand et al., 2013) indicó 
+que el mismo, además, puede ser conceptualizado en función de las cuatro dimensiones del modelo 
+de Valores en Competencia. 
+ 
+Otro de los modelos tradicionales en función del cual se ha desarrollado un instrumento 
+ampliamente difundido es el de Denison. El mismo es conocido como Denison Organizational 
+Culture Survey (DOCS; Denison & Neale, 1996) y está compuesto por 60 ítems agrupados en 12 
+subescalas referidas a las cuatro dimensiones culturales (involucramiento, consistencia, 
+adaptabilidad y misión) planteadas en el modelo. Las respuestas son valoradas en una escala tipo 
+Likert de 5 puntos (variando desde 1=”completamente en desacuerdo” a 5= “completamente de 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+170 
+ 
+acuerdo”), más una opción de “no aplicable”. En este caso, los cuestionarios individuales son 
+tabulados en un perfil gráfico que compara la cultura organizacional con una base de datos 
+normativa global de más de 700 organizaciones con bajos y altos desempeños. Recientemente, este 
+instrumento ha sido traducido al español y validado (Bonavia, Prado, & Barberá, 2009). Análisis 
+factoriales confirmatorios, señalan que esta adaptación posee propiedades psicométricas 
+adecuadas, siendo una réplica casi total de la estructura planteada en la versión original. 
+ 
+Finalmente, la bibliografía específica destaca una gran cantidad de estudios cualitativos, cuyo fin 
+primordial ha sido mostrar la manera en que los actores significan los acontecimientos y las 
+acciones del mundo organizacional. En algunos países como Brasil y Venezuela, los estudiosos de 
+la cultura han optado por crear instrumentos cualitativos ajustados a su propio contexto (Toca 
+Torres & Rodríguez Carrillo, 2009). Pirela y Sánchez (2009), por ejemplo, llevaron a cabo su 
+investigación sobre la cultura y el aprendizaje organizacional desde esta perspectiva, basada en el 
+paradigma pospositivista y el método hermenéutico. La misma concluyó que en las organizaciones 
+estudiadas (instituciones públicas de educación básica del municipio Maracaibo) prevalecen 
+principios establecidos tácitamente, como la misión. A su vez, indicaron que los valores 
+considerados importantes para este grupo son: responsabilidad, honestidad, solidaridad, dedicación 
+y compromiso con la enseñanza y los alumnos. En esta línea de trabajo, Ribeiro Souto y Coutinho 
+García (2009) realizaron entrevistas semiestructuradas en el sector hotelero y encontraron que las 
+principales características de la cultura que guían las acciones de los hoteles están ancladas en los 
+valores que emanan de la empresa: respeto, confianza, innovación, espíritu de superación y 
+rendimiento. Asimismo, verificaron una fuerte influencia de la cultura de la organización tanto en 
+las prácticas de gestión de recursos como en las actividades de los empleados y gerentes. 
+Investigaciones de este tipo, permiten una mayor profundización en el estudio de la cultura de las 
+organizaciones, en tanto brindan percepciones estructuradas de los propios sujetos y sobre la forma 
+en que éstos se adaptan a los cambios internos. De esta manera, se privilegió el conocimiento de 
+intereses, vivencias y motivaciones, así como de elementos encubiertos e invisibles (Toca Torres 
+& Rodríguez Carrillo, 2009). 
+ 
+En función de esta división, entre perspectivas cuantitativas y cualitativas, Denison (1990) sugiere 
+continuar manteniendo la diferencia metodológica. Habida cuenta que si bien las percepciones son 
+fácilmente mesurables a través de cuestionarios, se requieren los enfoques cualitativos para 
+describir los supuestos básicos y los valores. 
+ 
+Conclusiones 
+ 
+La cultura organizacional es uno de constructos más controvertidos dentro del ámbito de la 
+psicología organizacional. Reflejo de ello es la proliferación de diferentes modelos, tipificaciones 
+y modos de evaluarla. De esta falta de acuerdo se desprende la inexistencia de una definición 
+unívoca de la cultura organizacional (Bellou, 2010). Sin embargo, los especialistas han coincidido 
+en señalar que el núcleo de la misma son los las prácticas organizacionales (Berson, et al., 2008; 
+Hofstede et al., 1990; Omar & Urteaga, 2010). 
+ 
+ 
+ 
+ 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+Paralelamente, aspectos tales como el liderazgo y la cultura nacional han sido indicados como 
+variables predictoras de la cultura organizacional. En relación a este punto, se ha destacado (Omar 
+& Urteaga, 2010) que la adopción de determinadas prácticas organizacionales se vincula 
+estrechamente con el origen de la organización. Sin embargo, aún no se ha logrado esclarecer si es 
+el líder quien incide sobre la cultura organizacional de una empresa o bien es la cultura de una 
+organización la responsable de definir el perfil del líder. Por lo tanto, se ha planteado que el estilo 
+de liderazgo es, a su vez, antecedente y consecuencia de la cultura de una organización (Toca 
+Torres & Carrillo Rodríguez, 2009). 
+ 
+Investigaciones actuales sobre el tema han informado asociaciones entre la cultura organizacional 
+y algunos resultados organizacionales relevantes tales como compromiso con la empresa, los 
+deseos de seguir perteneciendo a ella (Omar & Urteaga, 2010), la satisfacción laboral (Belias & 
+Koustelios, 2014), la salud mental y el bienestar del empleado (Marchand et al., 2013), entre otros. 
+También se han registrado algunas vinculaciones específicas entre la cultura organizacional y el 
+rendimiento laboral (Azanza et al., 2013; Cújar Vertel et al., 2013; Mushtaq et al., 2013; Zafer Acar 
+& Acar, 2014). No obstante, todavía no se ha podido establecer con claridad si la cultura de la 
+organización (empresa o institución) en la que una persona trabaja constituye una variable 
+explicativa de su rendimiento laboral.  
+ 
+Adicionalmente, muchas de estas conclusiones parten de distintas concepciones de cultura 
+organizacional, lo que impide una clara sistematización de los resultados obtenidos en torno al 
+constructo y la generalización de los mismos. Consecuentemente, a la hora de evaluar la cultura 
+organizacional de una empresa, desde la perspectiva de cualquiera de los modelos anteriormente 
+citados, se dispone de distintos instrumentos para medirla y diferentes modos de clasificarlas. 
+Sumado a ello, ninguno de los modelos desarrollados hasta el momento es completamente 
+incluyente ni totalmente correcto (Hernández Sampieri et al., 2014). 
+ 
+En este sentido, si bien el modelo de los Valores en Competencia (Cameron & Quinn, 2011) cuenta 
+con mayor evidencia empírica en América Latina, posee mayor sencillez y claridad conceptual 
+(Hernández Sampieri et al., 2014) no ha logrado la aceptación de toda la comunidad científica. 
+Coincidentemente, el modelo de Hofstede (1997), que tuvo un gran desarrollo en otras partes del 
+mundo y hoy en día ha comenzado a incorporarse en estudios llevados a cabo en Latinoamérica 
+(Grueso Hinestroza, 2009), tampoco ha alcanzado una plena aceptación de los estudiosos. Por su 
+parte, el modelo de Schein (1988) ha demostrado algunas dificultades a la hora de aplicarse en las 
+organizaciones ya que los supuestos básicos (inconscientes) resultan difíciles de identificar y, más 
+aun, de cambiar.  
+ 
+Frente a este panorama, la agenda para las futuras investigaciones sobre cultura organizacional 
+debería incluir, al menos, los siguientes aspectos: (a) esclarecer las variables que determinan la 
+cultura organizacional; (b) analizar la relación de la cultura organizacional con otros constructos 
+organizacionalmente relevantes diferentes de los tradicionalmente evaluados; (c) determinar los 
+modos en que la cultura organizacional se relaciona con otras variables de importancia como la 
+cultura nacional, el liderazgo y el rendimiento laboral; (d) incorporar terceras variables al estudio 
+de la relación entre ellas; (e) desarrollar un modelo explicativo de la cultura organizacional que sea 
+totalmente incluyente y abarcativo; y (f) generar una herramienta eficaz que caracterice dicho 
+constructo y mida su preeminencia en todo sistema. 
+ 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+172 
+ 
+Finalmente, la presente revisión presenta algunas limitaciones entre las que se encuentran aquellas 
+derivadas del posible sesgo de selección introducido por los criterios de inclusión definidos, vale 
+decir, la inclusión mayoritaria de estudios en inglés y el hecho de acceder exclusivamente a 
+artículos a texto completo de acceso abierto. A pesar de tales limitaciones, la misma constituye una 
+puesta al día sobre los estudios de la cultura organizacional que puede ser de utilidad práctica para 
+los profesionales de la administración, del gerenciamiento de los recursos humanos, de la 
+psicología organizacional, y similares áreas de interés.      
+ 
+Referencias 
+ 
+Abdussamad, J., Akib, H., & Paramata, J. (2015). Effect of transformational leadership and 
+organizational culture on employee performance toward the department of education, youth and 
+sports Gorontalo province, Indonesia. International Journal of Academic Research, 7(1), 386-390.  
+ 
+Armenakis, A., Brown, S., & Mehta, A. (2011). Organizational culture: Assessment and 
+transformation. Journal of Change Management, 11(3), 305-328.  
+ 
+Aycan, Z., Kanungo, R. N., & Sinha, J. B. (1999). Organizational culture and human resource 
+management practices the model of culture fit. Journal of Cross-Cultural Psychology, 30(4), 501-
+526. 
+ 
+Azanza, G., Moriano, J. A., & Molero, F. (2013). Authentic leadership and organizational culture 
+as drivers of employees job satisfaction. Revista de Psicología del Trabajo y de las Organizaciones, 
+29(2), 45-50.  
+ 
+Belias, D., & Koustelios, A. (2014). Organizational culture and job satisfaction: A review. 
+International Review of Management and Marketing, 4(2), 132-149.  
+ 
+Bellou, V. (2010). Organizational culture as a predictor of job satisfaction: The role of gender and 
+age. Career Development International, 15(1), 4-19.  
+ 
+Berson, Y., Oreg, S., & Dvir, T. (2008). CEO values, organizational culture and firm outcomes. 
+Journal of Organizational Behavior, 29(5), 615-633. 
+ 
+Bonavia, T., Prado, V., & Barberá, D. (2009). Adaptación al castellano y estructura factorial del 
+Denison Organizational Culture Survey. Psicothema, 21(4), 633-638.  
+ 
+Calderón Hernández, G., & Serna Gómez, H. M. (2009). Relaciones entre recursos humanos y 
+cultura organizacional: Un estudio empírico. Acta Colombiana de Psicología, 12(2), 97-114.  
+ 
+Cameron, K. S., & Quinn, R. E. (2011). The Competing Values Framework. In Diagnosing and 
+changing organizational culture: Based on the competing values framework (Rev. ed., pp. 31-62). 
+Reading, MA: Jossey Bass.  
+ 
+Chatman, J. A., Caldwell, D. F., O'Reilly, C. A., & Doerr, B. (2014). Parsing organizational culture: 
+How the norm for adaptability influences the relationship between culture consensus and financial 
+performance in high‐ technology firms. Journal of Organizational Behavior, 35(6), 785-808.  
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+ 
+Cooke, R. A., & Lafferty, J. C. (1983). Level V: Organizational culture inventory. Plymouth, MI: 
+Human Synergistics. 
+ 
+Cújar Vertel, A., Ramos Paternina, C. D., Hernández Riaño, H. E., & López Pereira, J. M. (2013). 
+Cultura organizacional: evolución en la medición. Estudios Gerenciales, 29(128), 350-355. 
+ 
+Denison, D. R. (1990). Corporate culture and organizational effectiveness. John Wiley & Sons. 
+ 
+Denison, D. R. (2000). Organizational culture: Can it be a key lever for driving organizational 
+change? In N. M. Ashkanasy, C. P. Wilderom & M. F. Peterson (Eds.). Handbook of organizational 
+culture and climate (pp. 347-372). Thousand Oaks, CA: Sage Publications.  
+ 
+Denison, D. R., & Neale, W. S. (1996). Denison organizational culture survey. Ann Arbor, MI: 
+Aviat. 
+ 
+Denison, D. R., Haaland, S., & Goelzer, P. (2003). Corporate culture and organizational 
+effectiveness: Is there a similar pattern around the world? Advances in Global Leadership, 3, 205–
+227. 
+ 
+Earley, P. C., & Erez, M. (1997). The transplanted executive: Why you need to understand how 
+workers in other countries see the world differently. New York, NY: Oxford University Press. 
+ 
+ElKordy, M. (2013). Transformational leadership and organizational culture as predictors of 
+employees attitudinal outcomes. Business Management Dynamics, 3(5), 15-26.  
+ 
+Findler, L., Wind, L., & Mor Barak, M. (2007). The challenge of workforce management in a 
+global society: Modeling the relationship between diversity, inclusion, organizational culture, and 
+employee well-being, job satisfaction and organizational commitment. Administration in Social 
+Work, 31(3), 63-94.  
+ 
+Gálvez Albarracín, E. J., & Pérez de Lema, D. G. (2011). Cultura organizacional y rendimiento de 
+las Mipymes de mediana y alta tecnología: Un estudio empírico en Cali, Colombia. Cuadernos de 
+Administración, 24(42), 125-145. 
+ 
+García-Bernal, J., Gargallo-Castel, A., Marzo-Navarro, M., & Rivera-Torres, P. (2005). Job 
+satisfaction: empirical evidence of gender differences. Women in Management Review, 20(4), 279-
+288.  
+ 
+Garibaldi de Hilal, A. V. (2006). Brazilian national culture, organizational culture and cultural 
+agreement. Findings from a multinational company. International Journal of Cross Cultural, 6, 
+139-167.  
+ 
+Gelfand, M. J., Leslie, L. M., Keller, K., & de Dreu, C. (2012). Conflict cultures in organizations: 
+How leaders shape conflict cultures and their organizational-level consequences. Journal of 
+Applied Psychology, 97(6), 1131- 1147.  
+ 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+174 
+ 
+Gonzales-Romá, V. (2011). El clima de los equipos de trabajo: Una propiedad configuracional. 
+Papeles del Psicólogo, 32(1), 48-58. 
+ 
+Grueso Hinestroza, M. P. (2009). Escalas de medida de la cultura social y organizacional. Visión 
+Gerencial, 8(2), 269-278.  
+ 
+Grueso Hinestroza, M. P. (2010). Implementación de buenas prácticas de promoción de personal 
+y su relación con valores de la cultura y el compromiso con la organización. Revista Innovar, 
+20(36), 79-90. 
+ 
+Grueso Hinestroza, M. P., González-Rodríguez, J., & Rey-Sarmiento, C. (2014). Valores de la 
+cultura organizacional y su relación con el engagement de los empleados: Estudio exploratorio en 
+una organización de salud. Investigación y Pensamiento Crítico, 2(3), 77-91.  
+ 
+Heritage, B., Pollock, C., & Roberts, L. (2014). Validation of the organizational culture assessment 
+instrument. PloS One, 9(3), 1-10. 
+ 
+Hernández Sampieri, R., Méndez Valencia, S., & Contreras Soto, R. (2014). Construcción de un 
+instrumento para medir el clima organizacional en función del modelo de los valores en 
+competencia. Contaduría y Administración, 59(1), 229-257.  
+ 
+Hofstede, G. (1980). Culture’s consequences: International differences in work-related values. 
+Beverly Hills, CA: Sage Publications. 
+ 
+Hofstede, G. (1997). Cultures and organizations: Software of the mind. Ontario, CA: The 
+University of Western Ontario. 
+ 
+Hofstede, G. (2011). Culturas nacionales, culturas organizacionales y el papel de la gestión 
+empresarial. In BBVA (Eds.). Values and ethics for de 21th century (pp. 413-432). Barcelona: 
+BBVA.  
+ 
+Hofstede, G., & Bond, M. (1988). The Confucius connection: From cultural roots to economic 
+growth. Organizational Dynamics, 16, 5-21. 
+ 
+Hofstede, G., Neuijin, B., Ohayv, D. D., & Sanders, G. (1990). Measuring organizational cultures: 
+A qualitative and quantitative studies across twenty cases. Administrative Science Quarterly, 35, 
+286-316. 
+ 
+Hogan, S. J., & Coote, L. V. (2014). Organizational culture, innovation, and performance: A test 
+of Schein's model. Journal of Business Research, 67(8), 1609-1621.  
+ 
+Holton, L. (2014, Octuber 23). Charles O’Reilly: Finding a corporate culture that drives growth. 
+Retrieved from: http://linkis.com/0Z5o8 
+ 
+House, R., Javidan, M., Hanges, P., & Dorfman, P. (2002). Understanding cultures and implicit 
+leadership theories across the globe: An introduction to project GLOBE. Journal of World 
+Business, 37(1), 3-10. 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+ 
+Hu, Q., Dinev, T., Hart, P., & Cooke, D. (2012). Managing employee compliance with information 
+security policies: The critical role of top management and organizational culture. Decision 
+Sciences, 43(4), 615-660.  
+ 
+Jacobs, R., Mannion, R., Davies, H. T., Harrison, S., Konteh, F., & Walshe, K. (2013). The 
+relationship between organizational culture and performance in acute hospitals. Social Science & 
+Medicine, 76, 115-125. 
+ 
+Jung, Y., & Takeuchi, N. (2010). Performance implications for the relationships among top 
+management leadership, organizational culture, and appraisal practice: Testing two theory-based 
+models of organizational learning theory in Japan. International Journal of Human Resource 
+Management, 21(11), 1931–1950.  
+ 
+Lund, D. (2003). Organizational culture and job satisfaction. Journal Business & Industrial 
+Marketing, 18(3), 219-236. 
+ 
+Marchand, A., Haines, V. Y., & Dextras-Gauthier, J. (2013). Quantitative analysis of 
+organizational culture in occupational health research: A theory-based validation in 30 workplaces 
+of the organizational culture profile instrument. BMC Public Health, 13(1), 443-454. 
+ 
+Martínez Avella, E. M. (2010). Relaciones entre cultura y desempeño organizacional en una 
+muestra de empresas colombianas: Reflexiones sobre la utilización del modelo de Denison. 
+Cuadernos de Administración, 23(40), 163-190. 
+ 
+Martínez Méndez, R., Vera Muñoz, M. A., & Vera Muñoz, J. G. (2014). Cultura organizacional y 
+efectividad en las pequeñas empresas constructoras de Puebla, México. Revista Internacional 
+Administración & Finanzas, 7(4), 79-92.  
+ 
+Mendoza Llanos, R. (2015). Insatisfacción laboral como predictor del ausentismo en un hospital 
+público. Revista Médica de Chile, 143(8), 1028-1033.  
+ 
+Mushtaq, A. L., Ahmad Fayyaz, S., & Tanveer, A. (2013). Organizational culture in hotel industry: 
+Perceptions and preferences among staff. Advances in Management, 6(5), 55-60.  
+ 
+Naranjo-Valencia, J. C., Jiménez-Jiménez, D., & Sanz-Valle, R. (2011). Innovation or imitation? 
+The role of organizational culture. Management Decision, 49(1), 55-72.  
+ 
+Naranjo-Valencia, J. C., Jiménez, D. J., & Sanz-Valle, R. (2012). ¿Es la cultura organizativa un 
+determinante de la innovación en la empresa? Cuadernos de Economía y Dirección de la Empresa, 
+15(2), 63-72. 
+ 
+Naranjo-Valencia, J. C., Sanz-Valle, R., & Jiménez-Jiménez, D. (2008). Cultura organizacional e 
+innovación. Un estudio empírico. En J. Pindado García, & G. Payne (Eds.). Estableciendo puentes 
+en una economía global (pp. 5-23). Salamanca: Escuela Superior de Gestión Comercial y 
+Marketing.  
+ 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+176 
+ 
+Ogbonna, E., & Harris, L. C. (1998). Managing organizational culture: Compliance or genuine 
+change? British Journal of Management, 9(4), 273-288. 
+ 
+Omar, A. (2006). La cultura organizacional de empresas e instituciones argentinas a través de las 
+prácticas, actitudes y comportamientos de sus miembros. Rosario: CONICET. 
+ 
+Omar, A., & Urteaga, A. F. (2010). El impacto de la cultura nacional sobre la cultura 
+organizacional. Universitas Psychologica, 9(1), 79-92.  
+ 
+O'Reilly, C. A., Chatman, J., & Caldwell, D. F. (1991). People and organizational culture: A profile 
+comparison approach to assessing person-organization fit. Academy of Management Journal, 
+34(3), 487-516. 
+ 
+O’Reilly, C. A., Caldwell, D. F., Chatman, J. A., & Doerr, B. (2014). The promise and problems 
+of organizational culture CEO personality, culture, and firm performance. Group & Organization 
+Management, 39(6), 595-625. 
+ 
+Ovidiu-Iliuta, D. (2014). The link between organizational culture and performance management 
+practices: A case of it companies from Romania. The Annals of the University of Oradea, 23(1), 
+49-56.  
+ 
+Payne, R. L. (2001). A three dimensional framework for analyzing and assessing culture/climate 
+and its relevance to cultural change. In G. L. Cooper, S. Cartwright, & P. C. Earley (eds.). The 
+international handbook of organizational culture and climate (pp. 107-121). Chichester: John 
+Wiley & Sons. 
+ 
+Peters, T. J., & Waterman, R. H. (1982). In search of excellence: Lessons from America's best-run 
+companies. Yönetim, 7(24), 53-56 
+ 
+Pettigrew, A. M. (1979). On studying organizational cultures. Administrative Science Quarterly, 
+24(9), 570-581. 
+ 
+Pirela, L., & Sánchez, M. (2009). Cultura y aprendizaje organizacional en instituciones de 
+Educación Básica. Revista de Ciencias Sociales, 15, 175-188. 
+ 
+Quinn, R. E. (1988). Beyond rational management: Mastering the paradoxes and competing 
+demands of high performance. San Francisco, CA: Jossey-Bass. 
+ 
+Quinn R. E., & Spreitzer G. M. (1991). The psychometrics of the competing values culture 
+instrument and an analysis of the impact of organizational culture on quality of life. In R. W. 
+Woodman. Research in organizational change and development (pp. 115-142). Greenwich, CT: 
+JAI Press. 
+ 
+Revilla-Macías, D. A., Santana-Mondragón, R., & Rentería-López, M. (2015). La influencia de la 
+cultura organizacional en el desempeño hospitalario. Revista de Sanidad Militar, 69(5), 429-439.  
+ 
+www.revistadepsicologiagepu.es.tl 
+ 
+ 
+Ribeiro Souto, S. R., & Coutinho Garcia, F. C. (2009). A influência da cultura organizacional nos 
+processos de recrutamento, seleção e socialização: Um estudo de caso de uma empresa do setor de 
+hotelaria de Minas Gerais. Turismo-Visão e Ação, 11(1), 41-62.  
+ 
+Richard, O. C., McMillan-Capehart, A., Bhuian, S. N., & Taylor, E. C. (2009). Antecedents and 
+consequences of psychological contracts: Does organizational culture really matter? Journal of 
+Business Research, 62(8), 818-825.  
+ 
+Salazar Estrada, J. G., Guerrero Pupo, J. C., Machado Rodríguez, Y. B., & Cañedo Andalia, R. 
+(2009). Clima y cultura organizacional: Dos componentes esenciales en la productividad laboral. 
+Acimed, 20(4), 67-75.  
+ 
+Schein, E. H. (1985). Organizational culture and leadership: A dynamic view. San Francisco, CA: 
+Jossey-Bass. 
+Schein, E. H. (1988). Organizational culture. American Psychological Association, 45(2), 109-159. 
+ 
+Serrate-Alfonso, A., Portuondo-Velez, A. L., Sanchez-Puigbert, N., & Suarez-Ojeda, R. (2014). 
+Evaluación de la cultura organizacional y su incidencia en la efectividad grupal. Ingeniería 
+Industrial, 35(1), 2-12. 
+ 
+Shahzad, F., Luqman, R. A., Khan, A. R., & Shabbir, L. (2012). Impact of organizational culture 
+on organizational performance: An overview. Interdisciplinary Journal of Contemporary Research 
+in Business, 3(9), 975-985. 
+ 
+Shahzad, F. (2014). Impact of organizational culture on employees’ job performance: An empirical 
+study of software houses in Pakistan. International Journal of Commerce and Management, 24(3), 
+219-227.  
+ 
+Shurbagi, A. M., & Zahari, I. (2012). The relationship between organizational culture and job 
+satisfaction in national oil corporation of Libya. International Journal of Humanities and Applied 
+Sciences, 1(3), 88-93.  
+ 
+Toca Torres, C. E., & Carrillo Rodríguez, J. (2009). Theoretical and methodological matters of 
+organizational culture. Revista Civilizar - Ciencias Sociales y Humanas, 9(17), 117-136.  
+ 
+Tsai, Y. (2011). Relationship between organizational culture, leadership behavior and job 
+satisfaction. BMC Health Services Research, 11(1), 98-117.  
+ 
+Tura Solvas, M., & Martínez Costa, C. (2012, July). Organizational Culture and the perception of 
+equal gender. Paper presented at the Sixth International Conference on Industrial Engineering and 
+Industrial Management, Vigo.  
+ 
+Übius, Ü., & Alas, R. (2009). Connections between corporate social responsibility and innovation 
+climate. Journal of Management and Change, 26, 58-71.  
+ 
+Revista de Psicología GEPU, ISSN 2145-6569, Vol. 8 No. (2)  Julio-Diciembre de 2017 
+178 
+ 
+Van  Muijen,  J. J.,  Koopman,  P.,  De-Witte,  K.,  De-Cock,  G.,  Susanj,  Z,  Lemoine,  C.,… 
+Turnipseed, D. (1999). The focus questionnaire. European Journal of Work and Organizational 
+Psychology, 8(4), 551-568. 
+ 
+Van Muijen, J. J. (2013). Organizational culture. In P. Drenth, H. Thierry, & C. de Wolff (Eds.). 
+Handbook of Work and Organizational Psychology (pp. 113-131). East Sussex, UK: Psychology 
+Press.  
+ 
+Verbeke, W. (2000). A revision of Hofstede et al.'s (1990). Organizational Practices Scale. Journal 
+of Organizational Behavior, 21, 587-602. 
+ 
+Wilkins, A. L., & Ouchi, W. G. (1983). Efficient cultures: Exploring the relationship between 
+culture and organizational performance. Administrative Science Quarterly, 28, 468-481. 
+ 
+Zafer Acar, A. (2012). Organizational culture, leadership styles and organizational commitment in 
+Turkish logistics industry. Procedia-Social and Behavioral Sciences, 58, 217-226.  
+ 
+Zafer Acar, A., & Acar, P. (2014). Organizational culture types and their effects on organizational 
+performance in Turkish hospitals. Emerging Markets Journal, 3(3), 18-31.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

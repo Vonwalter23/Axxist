@@ -1,0 +1,867 @@
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+Ciencias Psicológicas
+ISSN: 1688-4094
+ISSN: 1688-4221
+cienciaspsi@ucu.edu.uy
+Universidad Católica del Uruguay Dámaso Antonio
+Larrañaga
+Uruguay
+Validación de una Escala sobre Work
+Engagement. Perfiles asociados a alta
+Performance y Satisfacción Laboral
+Lupano Perugini, María Laura; de la Iglesia, Guadalupe; Castro Solano, Alejandro; Fernández Liporace,
+Mercedes
+Validación de una Escala sobre Work Engagement. Perfiles asociados a alta Performance y Satisfacción Laboral
+Ciencias Psicológicas, vol. 11, núm. 2, 2017
+Universidad Católica del Uruguay Dámaso Antonio Larrañaga, Uruguay
+Disponible en: https://www.redalyc.org/articulo.oa?id=459553539002
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+127
+Ciencias Psicológicas, vol. 11, núm. 2,
+2017
+Universidad Católica del Uruguay
+Dámaso Antonio Larrañaga, Uruguay
+Redalyc: https://www.redalyc.org/
+articulo.oa?id=459553539002
+Artículos Originales
+Validación de una Escala sobre Work
+Engagement. Perﬁles asociados a alta
+Performance y Satisfacción Laboral
+Validation of a Work Engagement Scale. Proﬁles associated
+with high Performance and Job Satisfaction
+María Laura Lupano Perugini mllupano@hotmail.com
+Facultad de Psicología, Universidad de Buenos Aries. Argentina.
+Facultad de Ciencias Sociales, Universidad de Palermo. Argentina.
+Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas. Argentina,
+Argentina
+Guadalupe de la Iglesia gdelaiglesia@gmail.com
+Facultad de Psicología, Universidad de Buenos Aries. Argentina.
+Facultad de Ciencias Sociales, Universidad de Palermo. Argentina.
+Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas. Argentina,
+Argentina
+Alejandro Castro Solano alejandro.castrosolano@gmail.com
+Facultad de Psicología, Universidad de Buenos Aries. Argentina.
+Facultad de Ciencias Sociales, Universidad de Palermo. Argentina.
+Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas. Argentina,
+Argentina
+Mercedes Fernández Liporace mliporac@psi.uba.ar
+Facultad de Psicología, Universidad de Buenos Aries. Argentina. Consejo
+Nacional de Investigaciones Cientíﬁcas y Técnicas. Argentina, Argentina
+Resumen: El objetivo principal de este estudio consistía en la validación de una escala
+para la evaluación del work engagement –compromiso con el trabajo-, considerado
+como una presencia psicológica en el rol que incluye atención, absorción y energía
+dirigida a tareas laborales. Mediante análisis factorial conﬁrmatorio, estimación de la
+consistencia interna y evidencias de validez convergente y discriminante, se conﬁrma que
+la Escala Argentina de Compromiso con el Trabajo es una prueba válida y conﬁable para
+su uso en población argentina. Además, se buscó analizar si existen diferencias en los
+niveles de work engagement de acuerdo con variables individuales y organizacionales. Se
+observaron mayores niveles de atención y absorción en sujetos de menor edad y menores
+niveles de atención en empleados con personal a cargo. Por último, se identiﬁcaron
+perﬁles de engagement asociados a alta performance y satisfacción laboral.
+Palabras clave: engagement, satisfacción laboral, performance, psicología laboral,
+psicología organizacional.
+Abstract: e aim of this paper was to validate a scale to assess work engagement: a
+measure of a psychological aspect of the role that includes the attention, absorption and
+energy that the individual invests in his/her work tasks. Conﬁrmatory factor analysis,
+internal consistency estimation, and evidences of convergent and discriminant validity
+indicated that the Argentine Work Engagement Scale is a valid and reliable measure
+to be used in Argentinean population. Additionally, diﬀerences in work engagement
+levels were studied regarding individual and organizational variables. Higher levels of
+work engagement were found in younger individuals and in those who were in charge
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+128
+of personal. Lastly, some engagement proﬁles were found to be associated to higher
+performance and job satisfaction.
+Keywords: engagement, work satisfaction, performance, work psychology,
+organizational psychology.
+El objetivo principal de este estudio reside en la validación de una
+escala destinada a la evaluación del work engagement -compromiso con
+el trabajo-. En los últimos años ha crecido el interés por estudiar este
+tema puesto que se ha veriﬁcado su papel central en la obtención de
+buenos resultados tanto para el empleado como para la organización en
+su conjunto (Rothbard & Patil, 2012).
+Desde la Psicología Organizacional Positiva (POP) -iniciada por
+Dutton, Cameron y Quinn (Cameron & Spreitzer, 2012)- se propone
+el análisis de fenómenos como el engagement, la satisfacción laboral o el
+compromiso de los miembros con las organizaciones, temáticas que antes
+no habían sido abordadas debidamente por el énfasis puesto en el estudio
+de los aspectos negativos y sus consecuencias para las organizaciones
+(Lupano Perugini, 2014).
+La deﬁnición de work engagement ha sido muy discutida en el campo
+de la POP (Bakker, Schaufeli, & Leiter, 2008). Gran cantidad de autores
+coinciden en señalar inconsistencias tanto en las diferentes deﬁniciones
+del concepto como en los instrumentos desarrollados para su medición
+(e.g. Christian, Garza, & Slaughter, 2011; Hirschfeld & omas, 2008;
+Jeung, 2011; Macey & Schneider, 2008; Masson, Royal, Agnew, & Fine,
+2008; Nienaber & Martins, 2014; Robertson & Cooper, 2010; Rothbard
+& Patil, 2012; Schaufeli & Salanova, 2011; Viljevac, Cooper-omas,
+& Saks, 2012). Tal variedad de deﬁniciones redunda en estudios cuyos
+resultados no son pasibles de comparación y generalización (Nienaber &
+Martins, 2014; Vilijevak et al., 2012).
+La mayor parte de los investigadores citados consideran que el work
+engagement es un constructo multidimensional que puede confundirse
+con otros constructos relacionados (e.g. compromiso organizacional,
+satisfacción laboral, identiﬁcación con el trabajo) pero la falta de consenso
+aparece a la hora de deﬁnir las dimensiones que lo conforman. El presente
+estudio adopta la conceptualización propuesta por Rothbard y Patil
+(2012), que reúne los antecedentes más signiﬁcativos sobre el término.
+Estos autores sostienen que se trata de una variable de nivel individual
+(no organizacional) y la deﬁnen como “una presencia psicológica en el
+rol -´estar ahí´-. Incluye la atención, absorción y energía de la persona
+dirigida hacia las tareas laborales” (p. 59). Por lo tanto, tienen en
+cuenta dimensiones tales como la atención -que reﬁere a los recursos
+motivacionales que una persona puede aplicar a una tarea determinada-,
+la absorción –que reﬁere a la capacidad de aplicar esos recursos con
+intensidad- y la energía- que consiste en un componente físico que
+puede ser dirigido a la tarea-. Atención y absorción representan los
+subcomponentes cognitivos del constructo y energía, el subcomponente
+físico (Rothbard, 2001).
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+129
+En relación con los antecedentes más relevantes del término, las
+investigaciones de Kahn (1990, 1992) sirvieron de base para su
+caracterización como un estado que denota por la presencia psicológica
+del individuo en su rol laboral. Posteriormente, diversos estudios han
+analizado la composición del constructo. Por ejemplo, Rothbard (2001)
+fue el primero en sugerir las dimensiones atención y absorción. Otros
+antecedentes signiﬁcativos se encuentran en los trabajos de Maslach,
+Schaufeli y Leiter (2001), que deﬁnieron el work engagement como
+un constructo opuesto al burnout, ambos situados en un continuum
+que va desde el polo negativo del cansancio, el desgaste, el cinismo y
+la despersonalización en el trabajo, hacia la energía, el compromiso, el
+involucramiento y el sentido de pertenencia. Posteriormente, Schaufeli
+y Bakker (2004) efectuaron una revisión de este enfoque ya que, desde
+su punto de vista, el opuesto de burnout no necesariamente implicaba
+la noción de engagement. De este modo propusieron tres dimensiones
+que formarían parte del constructo: vigor –que reﬁere a altos niveles de
+energía mental y resiliencia-, dedicación – que remite a ser desaﬁado e
+inspirado por el trabajo - y absorción – que consiste en concentrarse
+totalmente en el propio trabajo. Muchos trabajos han utilizado este
+abordaje, pero otros han criticado su dependencia teórica respecto del
+burnout, indicando que algunas de las dimensiones propuestas por
+Schaufeli y Bakker se solapan con otros constructos -e.g. afecto positivo-
+(Zhang, Rich, & LePine, 2009). Rich y otros colegas retomaron la
+conceptualización original de Kahn (1990, 1992) y las dimensiones
+propuestas por Rothbard (2001), proponiendo una deﬁnición que cuenta
+con tres componentes, uno físico –que alude a la energía física puesta en
+el trabajo-, uno emocional –que involucra una sensación placentera y la
+activación de afecto positivo- y uno cognitivo –que implica la absorción y
+la atención– (Rich, LePine, & Crawford, 2010). Esta deﬁnición también
+presenta algunas diﬁcultades, como el solapamiento del componente
+emocional con el constructo afecto positivo, o el hecho de reunir
+absorción y atención en una única dimensión, en tanto que la evidencia
+sugiere que se trata de dimensiones separadas (Rothbard, 2001).
+En virtud de las diﬁcultades expuestas en los antecedentes citados, se
+escoge para el presente trabajo la deﬁnición propuesta en párrafos previos
+de Rothbard y Patil (2012) que considera dos dimensiones cognitivas
+(atención y absorción) y una física (energía).
+Nienaber y Martins (2014) señalan que, a pesar de las diferencias
+señaladas en cuanto a su deﬁnición, se han diseñado varios instrumentos
+para medir work engagement, ya sea en el campo académico o aplicado.
+El más empleado internacionalmente suele ser la Utrecht Work
+Engagement Scale (UWES), basada en la propuesta de Schaufeli y Bakker
+(2004). Tiene en cuenta las dimensiones vigor, dedicación y absorción.
+Sin embargo, muchos han sido los señalamientos en cuanto al constructo
+en que se basa la escala, así como en relación con sus índices de ﬁabilidad
+que, en muchos casos fueron inferiores a lo esperado (e.g. Rothman
+& Rothman, 2010). Además los resultados de los estudios factoriales
+realizados no han logrado replicar las dimensiones del modelo teórico,
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+130
+particularmente en Latinoamérica (Rodríguez-Montalbán; Martínez-
+Lugo, & Sánchez-Cardona, 2014). Con base en lo anterior se decide
+para este trabajo diseñar una nueva prueba a partir de una serie de
+ítems propuestos por diferentes autores (Rothbard, 2001; Rothbard &
+Patil, 2012), que contemplan la deﬁnición utilizada en esta investigación.
+Adicionalmente, las pruebas destinadas a la medición de engagement
+suelen ser muy breves (la versión actual de la UWES presenta solo 9
+ítems), lo que diﬁculta los procesos de adaptación.
+El engagement cobra especial relevancia en el ámbito laboral dada
+su asociación con variables de resultado, por lo que numerosas
+investigaciones lo relacionan tanto con altos índices de satisfacción como
+de performance laboral. Por ejemplo, muchos estudios han encontrado
+que está fuertemente asociado a la satisfacción laboral dando cuenta de
+que el estado psicológico de presencia en un rol facilita la sensación de
+bienestar en el trabajo (e.g. Alarcon & Edwards, 2011; Høigaard, Giske,
+& Sundsli, 2012; Mache, Vitzthum, Klapp, & Danzer, 2013; Karatepe
+& Karadas, 2015). La satisfacción laboral es una actitud que las personas
+tienen hacia su trabajo y que engloba diferentes facetas (e.g. satisfacción
+con el supervisor, con los compañeros de trabajo, con la remuneración,
+con las posibilidades de ascender, así como con el trabajo en general)
+(Cameron & Spreitzer, 2012; Spector, 1997). Por otro lado, múltiples
+estudios han encontrado asociación entre el work engagement y la
+performance laboral que alude a cuán bien se desenvuelve un individuo en
+las tareas necesarias para un rol laboral y a cómo contribuye positivamente
+al contexto social y psicológico de una organización (Christian, Garza, &
+Stalker, 2011). De acuerdo con Christian et al. (2011), un empleado con
+alto engagement estaría motivado para llevar las tareas de su rol con más
+persistencia, intensidad y concentración. En relación con lo antedicho,
+Albrecht, Bakker, Gruman, Macey y Saks (2015) argumentan que la
+política de Recursos Humanos debe fomentar los niveles de engagement
+ya que esto repercute en los resultados de la organización, sobre todo si se
+trabaja en los aspectos vinculados a la energía (Owens, Baker, Sumpter,
+& Cameron, 2016). Lin et al. (2016) desarrollaron un estudio en el que
+veriﬁcaron que es crucial intervenir sobre el liderazgo de los supervisores
+para lograr tales efectos.
+Por último, en relación con variables individuales y organizacionales,
+en algunas investigaciones se ha hallado que los niveles de engagement
+presentan diferencias según sexo, mostrando las mujeres índices
+levemente más bajos que los hombres (e.g. Liu, Cho, & Putra, 2017;
+Mastenbroek et al., 2015). En cuanto a la edad, los resultados suelen ser
+contradictorios ya que algunos muestran un incremento (e.g. Goštautaitė
+& Bučiūnienė, 2015; Schaufeli & Bakker, 2004) y otros una tendencia
+a la disminución de los niveles de engagement según edad (e.g. Avery,
+McKay, & Wilson, 2007). Además, se ha veriﬁcado que el tipo de tarea al
+que se dedica el empleado puede inﬂuir en sus niveles de engagement. Por
+ejemplo, quienes realizan tareas docentes suelen reportar menores niveles
+de vigor y energía (Innstrand, 2016). En este sentido, un trabajo reciente
+realizado en empresas argentinas informó que en las organizaciones
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+131
+públicas y de tamaño grande se observan menores niveles de satisfacción
+y de prácticas positivas (e.g. respeto, apoyo, etc.) (Lupano Perugini &
+Castro Solano, 2017).
+Objetivos
+- Validar una escala para la evaluación del work engagement (compromiso
+con el trabajo) en sus tres dimensiones (atención, absorción, energía).
+- Analizar diferencias individuales en el nivel de engagement
+según variables individuales (e.g. sexo, edad, personal a cargo) y
+organizacionales(e.g. tamaño, tipo de empresa).
+- Identiﬁcar perﬁles de engagement asociados a alta performance y
+satisfacción laboral.
+Método
+Participantes
+Se empleó una muestra voluntaria de 569 empleados (288 hombres,
+50.6%; 281 mujeres, 49.4%) con una edad promedio de 36.85 años (DE =
+11,7). La mayoría residía en Ciudad de Buenos Aires –CABA- y provincia
+de Buenos Aires (96.8%, n = 545), el 3.9% (n = 22) en provincias del
+interior de Argentina y solamente el 0.4% (n = 2) vivía transitoriamente
+en el exterior.
+En relación con variables organizacionales, el 81.9% (n = 466) de los
+empleados pertenecía a empresas privadas mientras que el 18.1% (n =
+103) se desempeñaba en empresas públicas. En cuanto al tamaño de la
+empresa, el 42.4% (n = 241) pertenecía a grandes empresas, el 33.9%
+(n = 193) a medianas y el 23.7% a pequeñas (n = 135). Del total de
+participantes solo el 33.9% (n = 193) tenía personal a cargo, en tanto que
+el resto ocupaba una posición de subordinado (66.1%, n = 376).
+Materiales
+- Escala Argentina de Compromiso con el Trabajo -EACT- (Lupano
+Perugini, de la Iglesia, Castro Solano, & Fernández Liporace, 2017):
+Se trata de una prueba especialmente diseñada para la evaluación del
+work engagement (compromiso con el trabajo) con base en la propuesta
+teórica de Rothbard y Patil (2012), que se reﬁere a un constructo
+multidimensional vinculado a la dedicación de un empleado a su rol y
+tareas laborales; está compuesto por dos dimensiones cognitivas (atención
+y absorción) y una física (energía). Como resultado del proceso de
+validación se obtuvo una versión ﬁnal de 11 ítems (e.g. “Cuando estoy
+trabajando, a menudo pierdo la noción del tiempo”) con respuesta de
+formato Likert de cinco puntos, con recorrido de 1 (completamente
+en desacuerdo) a 5 (totalmente de acuerdo). Mediante análisis factorial
+conﬁrmatorio se pudo veriﬁcar tal estructura de tres factores. Además,
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+132
+la consistencia interna estimada mediante alfa de Cronbach arrojó
+valores adecuados (Ver apartado Resultados para conocer propiedades
+psicométricas de la versión adaptada).
+- Escala de compromiso organizacional (Allen & Meyer, 1990; Omar,
+2005): Esta prueba está integrada por 18 ítems con formato Likert de
+cinco posiciones, con recorrido de 1 (totalmente en desacuerdo) a 5
+(totalmente de acuerdo). Evalúa cada uno de los tres tipos de compromiso
+organizacional (CO) a través de seis ítems cada uno. El compromiso
+afectivo (i. e., “Estaría feliz si pasara el resto de mi carrera en la empresa
+donde trabajo), el compromiso normativo (i. e., “Esta organización
+merece mi lealtad”) y el compromiso calculativo (i.e., “Siento que tengo
+pocas opciones de trabajo como para dejar mi organización”). Los índices
+de consistencia interna (alfa de Cronbach) de la versión daptada a la
+Argentina (Omar, 2005) fueron de .82 para el compromiso afectivo, .73
+para el normativo y .76 para el calculativo.
+- Cuestionario de estrés laboral (OIT/OMS; en Llaneza Álvarez,
+2009): Se trata de una prueba elaborada en conjunto por la Organización
+Internacional del Trabajo (OIT) y la Organización Mundial de la
+Salud (OMS) con el ﬁn de evaluar el nivel de estrés percibido por
+los trabajadores. La evaluación se realiza en virtud de siete ejes que
+reﬂejan posibles estresores laborales (Clima Organizacional, Estructura
+Organizacional, Territorio Organizacional, Tecnología, Inﬂuencia del
+Líder, Falta de Cohesión, Respaldo del Grupo). Está integrada por 25
+ítems con respuesta de formato Likert de siete puntos con un recorrido
+de 1 (indica que la condición descripta NUNCA es fuente de estrés)
+a 7 (indica que la condición descripta SIEMPRE es fuente de estrés),
+que marca con qué frecuencia la condición descripta es considerada una
+fuente actual de estrés (i.e. “La forma de rendir informes entre superior
+y subordinado me hace sentir presionado”). Según los autores, puntajes
+mayores a 153 indican un alto nivel de estrés. A los ﬁnes de este estudio se
+calculó alfa de Cronbach para la escala total obteniéndose un valor de .94
+- Escala de satisfacción con la vida –SWLS- (Diener, Emmons, Larsen,
+& Griﬃn, 1985): Es una escala de cinco ítems que se responden en un
+formato Likert de 7 categorías que examinan el grado de satisfacción
+global con la vida (i.e. “En la mayoría de los sentidos, mi vida está cerca
+de mis ideales”). Se utiliza internacionalmente para evaluar el bienestar
+en tanto componente cognitivo de la satisfacción. Diferentes estudios
+empíricos han informado buenos índices de validez y ﬁabilidad (Diener
+et al., 1985). Se trabaja con una puntuación promedio que indica el
+grado de satisfacción percibida por el evaluado. En este caso se utilizó una
+versión adaptada al idioma español para su uso en población argentina
+(Castro Solano, 2000). La ﬁabilidad evaluada mediante el coeﬁciente alfa
+de Cronbach para la muestra de los participantes de este estudio fue de .85
+Además, se diseñó una serie de protocolos para la evaluación de algunas
+de las variables consideradas en el estudio. Dichos protocolos fueron
+testeados previamente en un estudio piloto realizado con un grupo
+reducido de empleados (n = 15). Se modiﬁcaron algunas expresiones
+lingüísticas sugeridas por los participantes del estudio piloto dando lugar
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+133
+a las versiones deﬁnitivas utilizadas. A continuación, se describen los
+protocolos diseñados:
+- Encuesta Sociodemográﬁca: Recaba datos personales de los
+participantes (sexo, edad, lugar de residencia, estado civil, nivel
+socioeconómico, nivel de estudios, ocupación, nivel socio - económico).
+- Encuesta Organizacional: Consulta a los participantes sobre datos
+de la organización en la que trabajan y el puesto que ocupan (tamaño,
+tipo, rubro, área en la que trabaja, puesto y personal a cargo). Además,
+incluye dos ítems en los que se solicita que quienes responden listen
+tres características positivas y tres negativas que asocian a la organización
+(i.e. “Enumere tres características que Ud. considere positivas de la
+organización en la que trabaja”). Dichas características se analizaron en un
+estudio previo en el que se analizaron perﬁles de organizaciones positivas
+(Lupano Perugini & Castro Solano, 2016).
+- Encuesta de Satisfacción Laboral: Se diseñaron seis ítems con opción
+Likert de respuesta que va de 1 (totalmente insatisfecho) a 7 (totalmente
+satisfecho) que intentan evaluar cuán satisfecha se autopercibe la persona
+en cuanto a su trabajo en general y diferentes aspectos del mismo (i.e.,
+sueldo, jefes, compañeros, lugar, carrera). Un ejemplo de ítem es “¿Cuán
+satisfecho estoy con el sueldo que recibo?”. Para la elección de las áreas
+a evaluar (e.g. sueldo, jefes, compañeros) se tomaron en cuenta aspectos
+analizados en otros instrumentos previos (e.g., Balzer et al., 1997). Se
+calculó alfa de Cronbach para la escala total obteniéndose un valor
+aceptable de .76
+- Encuesta sobre Desempeño-performance Organizacional e
+Individual: Frente a la imposibilidad de obtener indicadores objetivos
+sobre el rendimiento organizacional se decidió inferirlo a partir de
+la percepción de los empleados. Se tomaron como indicadores de
+desempeño organizacional algunos utilizados por Cameron, Brigth, y
+Caza (2004) en sus investigaciones sobre virtudes y performance. Los
+mismos aluden a niveles de eﬁciencia, innovación, crecimiento, calidad,
+retención de empleados y clientes, satisfacción, adaptación. Por ejemplo,
+para el diseño de la primera sección de la encuesta –orientada a la
+evaluación del desempeño organizacional- se construyeron diez ítems
+con opción Likert de respuesta -1 (Poco) a 6 (Mucho)-, considerando
+los indicadores de eﬁciencia propuestos por Cameron et al. (2004) (e.g.
+cumplimento de objetivos, atención a las demandas del cliente, utilización
+óptima de recursos, etc). Un ejemplo de ítem es “¿En qué medida cree
+que la organización cumplió eﬁcientemente -haciendo un buen uso de
+los recursos- con los objetivos propuestos?”. El alfa obtenido para este
+apartado fue de .89. Siguiendo el mismo criterio, se diseñó otra sección
+que solicitaba al participante que caliﬁcara su desempeño como empleado.
+Se diseñaron seis ítems con la misma opción de respuesta que el apartado
+anterior (1 = Poco y 6 = Mucho). Un ejemplo de ítem es: “¿En qué medida
+cree que los resultados obtenidos fueron de calidad?”. El alfa obtenido
+para esta sección fue de .84.
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+134
+Procedimiento
+Los datos fueron recolectados por alumnos que se encontraban realizando
+una práctica de investigación en una universidad privada de la ciudad
+de Buenos Aires. Los participantes fueron voluntarios y no recibieron
+retribución alguna por su colaboración. Además, el cuadernillo que
+contenía las encuestas presentaba en su portada una introducción en
+la que se solicitaba el consentimiento del participante, se aseguraba
+el anonimato de los datos y su uso exclusivo para investigación. La
+recolección y carga de datos fue supervisada por un docente investigador.
+Para la carga y análisis de los datos se utilizaron los programas SPPS
+18.0 y EQS 6.2.
+Resultados
+En primer lugar se llevó a cabo la validación de la escala EACT. A ﬁn
+de poner a prueba la estructura factorial de dicha escala se calculó un
+análisis factorial conﬁrmatorio en el que se ponía a prueba el modelo de
+tres factores - atención, absorción, energía-. Aunque las características de
+la distribución no parecían diferir demasiado de la distribución normal
+–ver tabla1-, se usó una matriz de correlaciones policóricas ya que
+resulta más apropiada cuando las opciones de respuesta se encuentran
+formuladas en formato Likert (Freiberg Hoﬀmann, Stover, de la Iglesia,
+& Ferna#ndez Liporace, 2013; Muthe#n & Kaplan, 1985). Para estudiar
+el ajuste del modelo de tres factores se evaluaron distintos índices: CFI
+(Comparative Fit Index), NFI (Normed Fit Index), IFI (Incremental Fit
+Index) y RMSEA (Root Mean Square Error of Approximation). Además,
+se valoraron los pesos de regresión de cada ítem en su correspondiente
+variable latente.
+Los resultados indicaron que el ítem 4 no mostraba un peso de
+regresión apropiado (<.40) y por ello fue eliminado. El análisis se realizó
+otra vez sin el ítem 4 obteniéndose índices que mostraban un excelente
+ajuste del modelo: CFI = .986, NFI = .979, IFI = .986, RMSEA = .059
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+135
+(IC 90% = .046 - .071). En la ﬁgura 1 puede observarse que todos los
+pesos de regresión de los ítems resultaron apropiados (Byrne, 2006; Kline,
+2000).
+En virtud de las altas correlaciones halladas entre los factores se
+puso a prueba un modelo unidimensional. Para estudiarlo se realizó el
+mismo procedimiento que con el modelo de tres factores, hallándose
+índices de ajuste adecuados pero inferiores: CFI = .972, NFI = .964, IFI
+= .972, RMSEA = .078 (IC 90% = .067 - .089). Además, los pesos de
+las regresiones fueron peores que en el modelo anterior (ver ﬁgura 2),
+conﬁrmando que el modelo de tres factores resulta más adecuado.
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+136
+Con el ﬁn de obtener evidencias de validez convergente y discriminante
+se correlacionaron las subescalas atención, absorción y energía con
+distintas medidas que se emplearon como criterios: (a) una medida
+de Satisfacción con la Vida; (b) tres medidas de Compromiso
+Organizacional –Afectivo, Calculativo y Normativo; y, (c) una medida
+de Estrés. En la tabla 2 se aprecia que en el caso de la medida de
+Satisfacción, las tres escalas correlacionaron de manera estadísticamente
+signiﬁcativa, positiva y débil. Esto evidencia cierta convergencia entre los
+constructos evaluados y descarta la hipótesis de que se trate de constructos
+solapados. En cuanto a las medidas de Compromiso, las correlaciones
+indicaron similares resultados a excepción del Compromiso Afectivo, que
+correlacionó de forma moderada con Atención y Energía. Finalmente, se
+obtuvieron correlaciones estadísticamente signiﬁcativas, negativas y muy
+débiles para las escalas Atención y Absorción con la medida de Estrés. La
+correlación entre Estrés y Energía no fue estadísticamente signiﬁcativa (p
+> .05).
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+137
+Por último, para estimar la consistencia interna se calculó el coeﬁciente
+alfa de Cronbach para las tres escalas obteniéndose valores aceptables
+(Kline, 2000; Nunnally & Berstein, 1995): Atención = .70; Absorción
+= .74; Energía = .76
+Una vez validada la escala EACT, se pretendió estudiar si se
+veriﬁcaban diferencias en el nivel de engagement de acuerdo con variables
+individuales como sexo, edad y personal a cargo. En cuanto al sexo de los
+participantes, no se hallaron diferencias estadísticamente signiﬁcativas (p
+> .05).
+Para estudiar diferencias de acuerdo con la edad se dividió la muestra
+en menores de 40 años (n = 380) y sujetos con 40 años o más (n = 186).
+Una prueba t de Student indicó que quienes tenían menos de 40 años
+presentaban mayor Atención (t = -4.427; 564 gl; p < .001) y absorción (t
+= -2.679; 564 gl; p = .008). No se hallaron diferencias en la Energía según
+grupo de edad (p > .05). Por otro lado, se encontró que quienes tenían
+personal a cargo mostraban menor nivel de Atención en comparación con
+quienes no tenían personal a cargo (t = -5.095; 566 gl; p < .001). No se
+encontraron diferencias estadísticamente signiﬁcativas en los niveles de
+Absorción y Energía entre quienes tenían personal a cargo y quienes no
+lo tenían (p > .05).
+También resultaba de interés analizar si los niveles de engagement
+variaban de acuerdo con variables organizacionales. Una prueba ANOVA
+one-way no veriﬁcó diferencias en los tres tipos de engagement según el
+tamaño de la empresa (p > .05). Finalmente, tampoco se encontraron
+diferencias en el tipo de engagement entre quienes pertenecían a una
+empresa tipo pública y quienes trabajaban en una privada (p > .05).
+Por último, resultó de interés identiﬁcar distintos perﬁles de
+engagement, obtenidos a partir de la escala validada en el presente
+estudio, asociados a alta performance y satisfacción laboral. Para ello se
+calculó un análisis de conglomerados jerárquico utilizando el método
+Ward y la distancia euclídea al cuadrado. Esto se hizo con el ﬁn de
+determinar el número adecuado de clusters que maximizaba la diferencia
+entre los grupos y minimizaba las diferencias intragrupales. El historial
+del coeﬁciente de conglomeración y el dendograma indicaron que una
+solución de tres conglomerados era la más adecuada.
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+138
+Se solicitaron tres clusters en el análisis de clusters de k medias.
+Los ANOVAs validaron la solución de tres clusters ya que indicaban
+diferencias estadísticamente signiﬁcativas en los tres tipos de engagement
+de acuerdo con la pertenencia al cluster (p < .01). En la tabla 3 se
+consignan las medias para cada tipo de engagement según el cluster
+de pertenencia. Puede observarse que el cluster 1 podría denominarse
+“engagement bajo”, el cluster 2 “engagement moderado” y el cluster 3
+“engagement alto”.
+Se analizaron posibles diferencias en la Satisfacción Laboral y
+la Performance Organizacional y del empleado según el cluster de
+pertenencia. Los ANOVAs indicaron que diferencias estadísticamente
+signiﬁcativas tanto para Satisfacción Laboral (F = 22.632; 2 gl; p < .001),
+como para Performance Organizacional (F = 39.359; 2 gl; p < .001) y
+Performance del Empleado (F = 10.927; 2 gl; p < .001). Las pruebas
+post-hoc Bonferroni indicaron que en todos los casos había diferencias
+estadísticamente signiﬁcativas entre los tres clusters. Quienes pertenecían
+al cluster del “engagement alto” referían mayor Satisfacción Laboral,
+Performance Organizacional y del empleado en comparación con los
+otros dos clusters. Y quienes pertenecían al cluster de “engagement
+moderado” tenían mayor presencia de las tres variables en comparación
+con los de “engagement bajo” (ver tabla 4).
+Discusión
+El objetivo principal de este estudio consistió en la validación de una escala
+para la evaluación del work engagement basada en la propuesta teórica
+de Rothbard y Patil (2012). Según el análisis factorial conﬁrmatorio
+efectuado, se ha veriﬁcado la estructura de tres factores tal como propone
+el modelo teórico señalado. Tal estructura de tres factores ha presentado,
+incluso, un mejor ajuste que una estructura unidimensional, puesto a
+prueba en virtud de las altas correlaciones halladas entre los factores.
+Además, se veriﬁcó una buena consistencia interna y se obtuvieron
+evidencias de validez convergente y discriminante. Las correlaciones
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+139
+débiles y moderadas halladas entre las dimensiones de work engagement
+y Satisfacción Laboral, por un lado, y Compromiso Organizacional,
+por otro, dan cuenta de que las variables analizadas se encuentran
+relacionadas y descartan, además, la hipótesis de que pueda tratarse
+de constructos solapados tal como ha sido cuestionado por algunos
+autores (e.g. Macey & Schneider, 2008). En relación con lo antedicho,
+Saks (2006) argumenta que el work engagement diﬁere de dichos
+constructos en tanto la Satisfacción y el Compromiso Organizacional son
+consideradas actitudes hacia la organización y el trabajo mientras que el
+engagement se entiende como una presencia en un rol, y no como una
+actitud. Además, el engagement suele ser resultado de la presencia de
+dichas actitudes. Es decir, las personas darían lo mejor de sí cuando se
+sienten comprometidas y satisfechas con su lugar de trabajo y tareas. Por
+otro lado, las correlaciones halladas con medidas de estrés darían cuenta
+de que el engagement se asocia negativamente con la presencia del mismo.
+Sin embargo, en virtud de que dichas correlaciones fueron débiles también
+descartaría la teoría de Maslach, Schaufeli y Leiter (2001) que entienden
+el work engagement como el polo opuesto al burnout. Estos resultados
+justiﬁcarían, entonces, la elección de la propuesta teórica escogida.
+En la presente investigación también se buscó analizar posibles
+diferencias en los niveles de work engagement de acuerdo con algunas
+variables individuales y organizacionales. En general, los antecedentes
+que estudiaron la relación con variables como la edad y el sexo suelen
+ser bastante contradictorios (Goštautaitė & Bučiūnienė, 2017). En la
+muestra analizada no se hallaron diferencias en cuanto al sexo aunque
+estudios previos reportaron leves diferencias a favor de los hombres (e.g.
+Liu, Cho, & Putra, 2017; Mastenbroek et al., 2015). Por otro lado,
+se observaron mayores niveles de Atención y Absorción en sujetos de
+menor edad. Estos resultados estarían en sintonía con los estudios que
+mostrarían un incremento del engagement hasta cierto nivel de edad (e.g.
+James, McKechnie, & Swanberg, 2011). No se encontraron diferencias en
+cuanto al tamaño y tipo de empresa abonando la hipótesis de Innstrand
+(2016), que sostiene que el tipo de tarea tendría más inﬂuencia con el
+compromiso que se establece con ella que con variables individuales o
+asociadas al tipo de organización. Según estos resultados sería interesante
+analizar en futuros estudios los niveles de engagement según el tipo de
+tarea (e.g. atención al público, docente, etc.).
+El último objetivo de este trabajo apuntaba a identiﬁcar perﬁles de
+engagement asociados a alta Performance y Satisfacción Laboral. Los
+análisis efectuados mostraron que los empleados que pertenecían al
+cluster del “engagement alto” manifestaban mayor Satisfacción Laboral,
+Performance Organizacional y del Empleado. Estos resultados conﬁrman
+que el engagement se encuentra asociado a altos niveles de Satisfacción
+y Performance tal como sostienen los antecedentes consultados (e.g.
+Alarcon & Edwards, 2011; Christian et al., 2011; Høigaard et al., 2012;
+Mache et al., 2013; Karatepe & Karadas, 2015). Un empleado con alto
+engagement estaría más motivado para llevar adelante las tareas de su rol
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+140
+con mayores persistencia, intensidad y concentración y eso, en general,
+deriva en mejores resultados y satisfacción.
+Conclusiones
+Los resultados expuestos conﬁrman que la EACT es una prueba con
+adecuadas evidencias de validez interna y externa, a la vez que conﬁable
+para le medición del work engagement en población argentina. Por otra
+parte, el interés de los resultados obtenidos para el área aplicada se aprecia
+de modo inmediato. Las áreas de Personal o Recursos Humanos de las
+organizaciones podrían beneﬁciarse, entonces, reforzando los niveles de
+engagement de los empleados ya que aquí se ha veriﬁcado su inﬂuencia
+sobre el rendimiento.
+Algunas limitaciones del estudio realizado se relacionan con el
+empleo de medidas subjetivas para estimar el desempeño individual y
+organizacional. Ellas podrían complementarse con nuevos desarrollos
+de medidas complementarias. Asimismo, la muestra analizada debiera
+balancearse en cuanto al porcentaje de representación de empresas
+públicas y privadas según sus porcentuales en la población organizacional
+local.
+Finalmente, futuros estudios deberían propiciar el análisis de modelos
+multivariados que reúnan tanto variables de nivel individual -como puede
+ser el work engagement, capital psicológico, compromiso organizacional,
+entre otras-, como variables de nivel organizacional. Por ejemplo,
+estudios previos han mostrado que la percepción de virtudes en el nivel
+organizacional (e.g. apoyo y respeto, perdón, inspiración) tiene inﬂuencia
+sobre variables de resultado en los niveles individual y organizacional
+(e.g. Cameron, Mora, Leutscher, & Calarco, 2011; Lupano Perugini &
+Castro Solano, 2017). El diseño de modelos multivariados permitirá,
+así, identiﬁcar los mejores predictores - personales y organizacionales -de
+rendimiento y satisfacción laboral.
+Referencias
+Alarcon, G. & Edwards, J. (2011). e Relationship of Engagement, Job
+Satisfaction and Turnover Intentions. Stress and Health Volume, 27(3),
+294-298. https://doi.org/10.1002/smi.1365
+Albrecht, S.L., Bakker, A.B., Gruman, J.A., Macey, W.H. & Saks, A.M.
+(2015) Employee engagement, human resource management practices
+and competitive advantage: An integrated approach. Journal of
+Organizational Eﬀectiveness: People and Performance, 2(1), 7-35.
+https://doi.org/10.1108/joepp-08-2014-0042
+Allen, N. J. & Meyer, J. P. (1990). e Measurement and Antecedents
+of Aﬀective, Continuance and Normative Commitment to the
+Organization. Journal of Occupational Psychology, 63, 1-18. https://
+doi.org/10.1111/j.2044-8325.1990.tb00506.x
+Avery, D. R., McKay, P. F., & Wilson, D. C. (2007). Engaging
+the aging workforce: e relationship between perceived age
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+141
+similarity, satisfaction with coworkers, and employee engagement.
+Journal 
+of 
+Applied 
+Psychology, 
+92(6), 
+1542-1556. 
+https://
+doi.org/10.1037/0021-9010.92.6.1542
+Bakker, A. B., Schaufeli, W. B. & Leiter, M. P. (2008). Work engagement:
+An emerging concept in occupational health psychology. Work & Stress,
+22(3), 187-200. https://doi.org/10.1080/02678370802393649
+Balzer, W. K., Kihm, J. A., Smith, P. C., Irwin, J. L., Bachiochi, P. D., Robie, C.,
+Sinar, E. F., & Parra, L. F. (1997). User’s manual for the Job Descriptive
+Index (JDI; 1997 Revision) and the Job in General (JIG) Scales. Bowling
+Green, OH: Bowling Green State University.
+Byrne, B.M. (2006). Structural Equation Modeling With EQS: Basic Concepts,
+Applications, and Programming, Second Edition. New York: Psychology
+Press. https://doi.org/10.1207/s15328007sem1302_7
+Cameron, K. S. & Spreitzer, G. M. (2012). e Oxford Handbook of Positive
+Organizational Scholarship. New York: Oxford University Press.
+Cameron, 
+K.S., 
+Brigth, 
+D. 
+& 
+Caza, 
+A. 
+(2004). 
+Exploring
+the 
+relationship 
+between 
+organizational 
+virtuosness 
+and
+performance. American Behavioral Scientist, 47(6), 1-24. https://
+doi.org/10.1177/0002764203260209
+Cameron, K.S., Mora, C., Leutscher, T. & Calarco, M. (2011).
+Eﬀects of positive practices on organizational eﬀectiveness. e
+Journal of applied Behavioral Science, 47, 266-308. https://
+doi.org/10.1177/0021886310395514
+Christian, M. S., Garza, A. S. & Slaughter, J. E. (2011). Work Engagement:
+A Quantitative Review and Test of its Relations with Task and
+Contextual Performance. Personnel Psychology, 64, 89-136. https://
+doi.org/10.1111/j.1744-6570.2010.01203.x
+Diener, E., Emmons, R. A., Larsen, R. J., & Griﬃn, S. (1985). e satisfaction
+with life scale. Journal of Personality Assessment, 49, 71–75. https://
+doi.org/10.1207/s15327752jpa4901_13
+Freiberg-Hoﬀmann, A., Stover, J. B., de la Iglesia, G., & Fernández-Liporace,
+M. (2013). Correlaciones policóricas y tetracóricas en estudios factoriales
+exploratorios y conﬁrmatorios. Ciencias Psicológicas, 7(2), 151-164.
+https://doi.org/10.22235/cp.v7i1
+Goštautaitė, B. & Bučiūnienė, I. (2015). Work engagement during lifespan:
+the role of interaction outside the organization and task signiﬁcance.
+Journal of Vocational Behavior, 89, 1 9-119. https://doi.org/10.1016/
+j.jvb.2015.05.001
+Hirschfeld, R.R. & omas, C.H. (2008). Representations of trait
+engagement: Integration, additions, and mechanisms. Industrial
+and Organizational Psychology, 1, 63–66. https://doi.org/10.1111/
+j.1754-9434.2007.00011.x
+Høigaard, 
+R., 
+Giske, 
+R. 
+& 
+Sundsli, 
+K. 
+(2012). 
+European
+Journal 
+of 
+Teacher 
+Education, 
+35 
+(3), 
+347-357. 
+https://
+doi.org/10.1080/02619768.2011.633993
+Innstrand, S.T. (2016). Occupational Diﬀerences in Work Engagement:
+A Longitudinal Study Among Eight Occupational Groups in
+Norway. Scandinavian Journal of Psychology, 57(4), 338-349. https://
+doi.org/10.1111/sjop.12298
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+142
+James, J. B., McKechnie, S., & Swanberg, J. (2011). Predicting
+Employee Engagement in an AgeDiverse Retail Workforce. Journal
+of Organizational Behavior, 32(2), 173-196. https://doi.org/10.1002/
+job.681
+Jeung, C.W. (2011). e Concept of Employee Engagement: A Comprehensive
+Review from a Positive Organizational Behavior Perspective. Performance
+Improvement Quarterly, 24, 2, 49-69. DOI: 10.1002/piq.
+Kahn, W. A. (1990). ‘Psychological conditions of personal engagement and
+disengagement at work’. Academy of Management Journal, 33, 692–724.
+https://doi.org/10.2307/256287
+Kahn, 
+W. 
+A. 
+(1992). 
+‘To 
+be 
+fully 
+there: 
+psychological
+presence at work’. Human Relations, 45(4), 321–349. https://
+doi.org/10.1177/001872679204500402
+Karatepe, O.M. & Karadas, G. (2015). Do psychological capital and
+work engagement foster frontline employees’ satisfaction?: A study
+in the hotel industry. International Journal of Contemporary
+Hospitality Management, 27 (6),1254-1278. https://doi.org/10.1108/
+IJCHM-01-2014-0028
+Kline, P. (2000). Handbook of psychological testing. London: Routledge.
+Liu, J., Cho, S. & Putra, E. D. (2017). e moderating eﬀect of self-eﬃcacy and
+gender on work engagement for restaurant employees in the United States.
+International Journal of Contemporary Hospitality Management, 29(1),
+624-642. https://doi.org/10.1108/IJCHM-10-2015-0539
+Llaneza Álvarez, F. J. (2009). Ergonomía y Psicosociología Aplicada. Manual
+para la formación del especialista, 12ed. Valladolid: Lex Nova
+Lupano Perugini, M.L. & Castro Solano, A. (2016). Perﬁles de
+organizaciones positivas. Análisis de características percibidas según
+variables individuales, organizacionales y de resultado. Escritos de
+Psicología, 9(2), 1-11. https://doi.org/10.5231/psy.writ.2016.1103
+Lupano Perugini, M.L. & Castro Solano, A. (2017). Inﬂuencia de las
+Virtudes Organizacionales sobre la performance laboral. Un estudio en
+organizaciones argentinas. Interdisciplinaria, en prensa.
+Lupano Perugini, M.L. (2014). Organizaciones Positivas: un marco de
+referencia para su abordaje en Latinoamérica. Acta Psiquiátr. Psicol. Am.
+Lat., 60(4), 277-284.
+Macey, W.H. & Schneider, B. (2008). e meaning of engagement. Industrial
+and Organizational Psychology, 1, 3–30. https://doi.org/10.1111/
+j.1754-9434.2007.0002.x
+Mache S., Vitzthum K., Klapp B.F., & Danzer, G. (2014) Surgeons’ work
+engagement: inﬂuencing factors and relations to job and life satisfaction.
+Surgeon, 12(4), 181–190. doi: 10.1016/j. surge.2013.11.015
+Maslach, C., Schaufeli, W. B. & Leiter, M. P. (2001). ‘Job burnout’.
+Annual Review of Psychology, 52, 397–422. https://doi.org/10.1146/
+annurev.psych.52.1.397
+Masson, 
+R.C., 
+Royal, 
+M.A., 
+Agnew, 
+T.G. 
+& 
+Fine, 
+S. 
+(2008).
+Leveraging employee engagement: e practical implications. Industrial
+and Organizational Psychology, 1, 56–59. https://doi.org/10.1111/
+j.1754-9434.2007.00009.x
+María Laura Lupano Perugini, et al. Validación de una Escala sobre Work Engagement. Perﬁles asociados a alta Performance y Satisfacción Lab...
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+143
+Mastenbroek, N. J. J. M., Jaarsma, A. D. C., Demerouti, E., Muijtjens, A.
+M. M., Scherpbier, A. J. J. A. & van Beukelen, P. (2014). Burnout
+and engagement, and its predictors in young veterinary professionals:
+the inﬂuence of gender. Veterinary Record, 174(6), 144-152. https://
+doi.org/10.1136/vr.101762
+Muthén, B., & Kaplan D. (1985). A comparison of some methodologies
+for the factor analysis of non-normal Likert variables. British Journal
+of Mathematical and Statistical Psychology, 38, 171-189. https://
+doi.org/10.1111/j.2044-8317.1985.tb00832.x
+Nienaber, H. & Martins, N. (2014). An Employee Engagement Instrument
+and Framework Building on Existing Research. Mediterranean
+Journal of Social Sciences, 5(20), 485-496. https://doi.org/10.5901/
+mjss.2014.v5n20p485
+Nunnally, J., & Berstein, I. (1995). Psychometric theory. New York: Mcgraw-
+Hill.
+Omar, A. (2005). La cultura organizacional de las empresas argentinas [e
+organizational culture of Argentine companies]. Rosario: Conicet.
+Owens, B.P., Baker, W.E., Sumpter, D.M., & Cameron, K.S. (2016). Relational
+Energy at Work: Implications for Job Engagement and Job Performance.
+Journal of Applied Psychology, 101(1), 35–49. https://doi.org/10.1037/
+apl0000032
+Rich, B. L., LePine, J. A. & Crawford, E. R. (2010). 7. Job Engagement:
+Antecedents and Eﬀects On Job Performance. Academy of Management
+Journal, 53 (3), 617-635. https://doi.org/10.5465/AMJ.2010.51468988
+Robertson, I.T. & Cooper, C.L. (2010). Full engagement: e
+integration of employee engagement and psychological well-being.
+Leadership and Organizational Development, 31(4), 324–336. https://
+doi.org/10.1108/01437731011043348
+Rodríguez-Montalbán, R., Martínez-Lugo, M., Sánchez-Cardona, I. (2014).
+Análisis de las propiedades psicométricas de la Utrecht Work
+Engagement Scale en una muestra de trabajadores en Puerto Rico.
+Universitas Psychologica, 13(4), 1255-1266. https://doi.org/10.11144/
+Javeriana.UPSY13-4.appu
+Rothbard, N. P. (2001). ‘Enriching or depleting? e dynamics of engagement
+in work and family roles’. Administrative Science Quarterly, 46, 655–84.
+https://doi.org/10.2307/3094827
+Rothbard, N. P., & Patil, S. V. (2012). Being ere: Work Engagement and
+Positive Organizational Psychology. En K. S. Cameron & G. M. Spreitzer
+(Eds.), e Oxford Handbook of Positive Organizational Scholarship
+(231-243). New York: Oxford University Press.
+Rothmann, S. & Rothmann, S. (2010). Factors associated with employee
+engagement in South Africa. South African Journal of Industrial
+Psychology, 36(2), 925-937. https://doi.org/10.4102/sajip.v36i2.925
+Saks, 
+A.M. 
+(2006). 
+Antecedents 
+and 
+consequences 
+of 
+employee
+engagement. Journal of Managerial Psychology, 21(6), 600-619. https://
+doi.org/10.1108/02683940610690169
+Schaufeli, W. B., & Bakker, A. B. (2004). Job demands, job resources, and their
+relationship with burnout and engagement: A multi-sample study. Journal
+of Organizational Behavior, 25, 293–315. https://doi.org/10.1002/
+job.248
+Ciencias Psicológicas, 2017, vol. 11, núm. 2, June-November, ISSN: 1688-4094 / 1688-4221
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+144
+Schaufeli, W.B., Salanova, M., González-Romá, V. & Bakker, A. B. (2002).
+e measurement of engagement and burnout and: A conﬁrmative
+analytic approach. Journal of Happiness Studies, 3, 71–92. https://
+doi.org/10.1023/A:1015630930326
+Spector, P.E. (1997). Job satisfaction: Application, assessment, causes and
+consequences. ousand Oaks, CA: Sage.
+Viljevac, A., Cooper-omas, H.D. & Saks, A. (2012). An investigation into
+the validity of two measures of work engagement. e International
+Journal of Human Resource Management, 23, 17, 3692–3709. https://
+doi.org/10.1080/09585192.2011.639542
+Zhang, Y., Rich, B. L. & LePine, J.A. (2009). Transformational leadership and
+job performance: e mediating role of job engagement. Presented in
+an interactive paper session at the annual meeting of the Academy of
+Management. Chicago, August 8-11.
+Información adicional
+Correspondencia: Maria Laura Lupano Perugini, Av. Dorrego 1279 (CP:
+C1414CKT). CABA, Argentina.
+Recibido: 24/07/2017
+Revisado: 10/08/2017
+Aceptado: 04/10/2017
+Financiamiento: El presente estudio se ha realizado con subsidio de
+los siguientes proyectos: PIP CONICET 11220150100381CO “Hacia
+una aproximación émica de la psicología positiva. Los rasgos positivos
+como predictores del funcionamiento óptimo” y Proyecto UBACyT,
+20020150100037BA “La evaluación de los rasgos de personalidad
+positivos. Su relación con los rasgos de personalidad patológicos (DSM5)
+y el bienestar psicológico”. (Director: Alejandro Castro Solano)
+Cómo citar este artículo: Lupano Perugini, M. L., de la Iglesia, G.,
+Castro Solano, A., & Fernández Liporace, M. (2017). Validación de una
+Escala sobre Work Engagement. Perﬁles asociados a alta Performance y
+Satisfacción Laboral. Ciencias Psicológicas, 11(2), 127-137. doi: https://
+doi.org/10.22235/cp.v11i2.1482

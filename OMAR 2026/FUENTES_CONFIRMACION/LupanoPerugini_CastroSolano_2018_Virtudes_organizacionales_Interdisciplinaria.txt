@@ -1,0 +1,1440 @@
+Resumen
+El trabajo que se informa se basa en las pro-
+puestas de la Psicología Organizacional Positiva
+(POP) que intenta integrar a la mirada clásica de
+estudios organizacionales (que ponen el foco en
+analizar condiciones negativas), una perspec-
+tiva positiva que visualice variables que contri-
+buyan a resultados óptimos y no solo las que lo
+impiden (Cameron & Spreitzer, 2012). Se pro-
+puso analizar la influencia directa e indirecta
+de las virtudes organizacionales sobre los nive-
+les de satisfacción laboral, compromiso organi-
+zacional y performance individual y organiza-
+cional. Para ello, se validó un instrumento para
+la medición de dichas virtudes, el Inventario de
+Virtudes Organizacionales (IVO), que consta de
+tres dimensiones: Apoyo y respeto, Significado
+e inspiración y Perdón. Luego, se puso a prueba
+un modelo de predicción mediante ecuaciones
+estructurales. Se trabajó con una muestra de 569
+empleados argentinos  con una edad promedio
+de 36.7 años, pertenecientes a empresas públicas
+y privadas. Para la recolección de datos se ad-
+ministraron las siguientes pruebas: el Inventario
+de Virtudes Organizacionales (IVO), la Escala
+de Compromiso Organizacional, el Cuestionario
+de Estrés Laboral, la Escala de Satisfacción con
+la Vida (SWLS), la Escala de Bienestar Laboral
+(BIEN T) y algunas encuestas diseñadas ad-hoc
+tales como encuestas sociodemográfica, organi-
+zacional, de satisfacción laboral, de desempeño
+organizacional e individual. Los resultados mos-
+traron un efecto directo de las virtudes sobre los
+niveles de satisfacción laboral y de ésta, sobre el
+compromiso organizacional. También se verificó
+la influencia directa de las virtudes sobre la per-
+formance. Sin embargo, no se verificó una in-
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+171
+Influencia de virtudes organizacionales sobre satisfacción, compromiso
+y performance laboral en organizaciones argentinas*
+Influence of organizational virtues on satisfaction, commitment and job
+performance in Argentinean organizations
+María Laura Lupano Perugini** y Alejandro Castro Solano***
+*Estudio realizado con subsidios del Proyecto (PIP CONICET, 11220150100381CO) Hacia una
+aproximación émica de la psicología positiva. Los rasgos positivos como predictores del funcionamiento
+óptimo y del Proyecto (UBACyT, 20020150100037BA)  La evaluación de los rasgos de personalidad
+positivos. Su relación con los rasgos de personalidad patológicos (DSM5) y el bienestar psicológico.
+Director del Proyecto: Dr. Alejandro Castro Solano.
+**Doctora en Psicología. Miembro de la Carrera del Investigador Científico del Consejo Nacional de
+Investigaciones Científicas y Técnicas (CONICET). Jefa de Trabajos Prácticos Regular de la
+Universidad de Buenos Aires (UBA) y Docente-Investigadora de la Universidad de Palermo (UP). 
+E-Mail: mllupano@hotmail.com 
+***Doctor en Psicología. Miembro de la Carrera del Investigador Científico del Consejo Nacional de
+Investigaciones Científicas y Técnicas (CONICET). Profesor Regular de la Universidad de Buenos Aires
+(UBA) y Director del Doctorado de la Universidad de Palermo (UP). 
+E-Mail: alejandro.castrosolano@gmail.com 
+Consejo Nacional de Investigaciones Científicas y Técnicas y Universidad de Palermo.
+Buenos Aires, Argentina.
+fluencia indirecta sobre la performance, te-
+niendo a la satisfacción y el compromiso como
+variables mediadoras.
+palabras clave: Virtudes organizacionales; Com-
+promiso organizacional; Satisfacción laboral;
+performance. 
+Abstract 
+This study is based on Positive Organizational
+Scholarship (POS). This perspective tries to
+integrate classical organizational studies (which
+analyze the negative conditions) with a positive
+perspective that analyzes variables that contribute
+to optimal results and not just those which impede
+them (Cameron & Spreitzer, 2012). This research
+aimed to analyze influence of organizational
+virtues on job satisfaction, organizational commit-
+ment and individual and organizational perform-
+ance levels. For this purpose, an instrument for
+measuring these virtues was adapted Positive
+Practices Survey (Cameron, Mora, Leutscher &
+Calarco, 2011). The original instrument has 29
+items and six dimensions: Dignity and respect,
+Support, Caring, Meaning, Inspiration and Forgive-
+ness. The adapted version Organizational Virtues
+Inventory (IVO) has 13 items and three dimen-
+sions: Support and respect, Meaning and
+Inspiration, Forgiveness. This instrument utilizes a
+5-point Likert scaling format ranging from 1:
+completely disagree to 5: completely agree. A
+convenience sample of 569 Argentinean employees
+was studied.  The mean age was 36.3 years old. The
+majority of the participants lived in Buenos Aires.
+The participants belong to public companies (n =
+79) and private companies (n = 379). For data
+collection was used: Organizational Virtues In-
+ventory (IVO), Organizational Commitment Scale,
+Job Stress Questionnaire, Life Satisfaction Scale
+(SWLS), Workplace Well-Being Scale (BIEN-T),
+and surveys designed ad-hoc: sociodemographic,
+organizational, job satisfaction, organizational and
+individual performance surveys. Data analysis was
+conducted using SPPS 18.0, AMOS 16.0, and EQS
+6.2. Regarding data analysis, first, the original
+instrument was translated. The method used for
+translation 
+was 
+forward 
+translation. 
+Two
+researchers were involved in the translation
+process. Both have a PhD in Psychology and a
+good command of the English language. Then, an
+exploratory factor analysis was performed; as a
+result of this process 13 items, that had high factor
+loading in more than one factor, were eliminated.
+The resulting structure was three factors that
+explain 64% of the total variance. This structure
+was also confirmed using confirmatory analysis. In
+this process another three items were eliminated,
+so the final version of the Organizational Virtues
+Inventory (IVO), has 13 items. Furthermore, IVO
+has shown excellent internal consistency (Support
+and respect: .89; Meaning and Inspiration: .87;
+Forgiveness: .75). On the other hand, it was
+obtained evidence of criterion validity because the
+results positively correlated with measures of
+employee well-being, and were negatively
+associated with measures of job stress. As a whole,
+the current findings confirm that IVO is a valid and
+reliable instrument for research purpose based on
+POS. The most important objective of this study
+was to analyze direct and indirect influence of
+organizational virtues on job satisfaction, organ-
+izational commitment and individual and organ-
+izational performance levels. For this purpose, it
+was developed a model of structural equations
+(SEM) with EQS. It was hypothesized a direct
+effect of organizational virtues on levels of job
+satisfaction and of organizational / individual
+performance. Also, a direct effect of job satisfaction
+on organizational commitment was hypothesized.
+Finally, it was hypothesized an indirect effect of
+organizational virtues on levels of performance
+(organizational and individual) having satisfaction
+and commitment as mediating variables. The
+results showed an effect direct of virtues on
+performance and job satisfaction levels (which in
+turn influence the organizational commitment). No
+indirect influence on performance, taking satis-
+faction and commitment as mediating variables,
+was verified. These findings demonstrate, as has
+been proposed in previous research (e.g., Cameron
+et al., 2011; Lyubomirsky et al., 2005), that the
+lupano perugini y castro solano
+172
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+perception of virtuous practices of the organization
+in which people work collaborates to feel satisfied
+with their work, wishing to stay in it and have
+better performance levels.
+Key words: Organizational virtues; Organiza-
+tional commitment; Job satisfaction; Perform-
+ance.
+Introducción
+El estudio realizado se basa en las pro-
+puestas de la Psicología Organizacional Po-
+sitiva (POP), cuyos precursores son Dut-
+ton, Cameron y Quinn de la Universidad de
+Michigan, Estados Unidos (Cameron &
+Spreitzer, 2012). Esta perspectiva no repre-
+senta una única teoría, sino que intenta uni-
+ficar una serie de estudios que incorporan la
+noción de positivo. Pretende diferenciarse
+de los estudios organizacionales clásicos ya
+que éstos han puesto el foco solo en el aná-
+lisis de las condiciones negativas y sus con-
+secuencias. Cameron y Spreitzer (2012)
+concluyen que el surgimiento de esta pers-
+pectiva se debió a la intención de desviar la
+atención puesta sobre los aspectos negativos
+(como el estrés, la alienación o la injusti-
+cia), o el estudio de variables clásicas como
+la satisfacción o el clima laboral, hacia la in-
+clusión de temas como el flow, el perdón o
+las virtudes organizacionales, que no ha-
+bían sido abordados hasta el momento.
+Si bien el término positivo ha estado aso-
+ciado a una connotación valórica (Fineman,
+2006), también se lo ha empezado a vincu-
+lar con factores que contribuyen a lograr un
+mejor rendimiento y satisfacción en los em-
+pleados (Dutton & Glynn, 2007; Quinn,
+2015; Siedel, 2016).
+Algunas investigaciones realizadas se
+han centrado en el estudio de virtudes a ni-
+vel organizacional, ya que se ha compro-
+bado una relación directa entre la percep-
+ción de éstas y la obtención de óptimos
+resultados, tanto organizacionales como in-
+dividuales. Estas virtudes son descriptas
+como características o prácticas morales a
+nivel global y no como la suma de las vir-
+tudes individuales de sus miembros; serían
+características de las organizaciones que in-
+fluyen en el accionar de las personas y con-
+tribuyen a que experimenten una vida más
+plena, tal como lo hacen las fortalezas a ni-
+vel individual (Castro Solano & Cosentino,
+2016; Park & Peterson, 2003; Peterson,
+2006). Según Peterson, algunas de las vir-
+tudes que pueden ser promovidas a nivel or-
+ganizacional serían: propósito, seguridad,
+justicia, humanidad y dignidad.  Cameron y
+Winn (2012) argumentan que debería ha-
+blarse de virtuosidad (virtuousness), en lu-
+gar de virtudes, ya que destacan –al igual
+que Peterson- que éstas últimas refieren a
+un nivel individual y la expresión virtuosi-
+dad intenta aludir a una expresión colectiva.
+La aparente relación entre virtuosidad y la
+obtención de resultados positivos se expli-
+caría a partir de dos cualidades inherentes a
+la primera: la amplificación y la amorti-
+guación (Bright, Cameron & Caza, 2006).
+La primera se relaciona con que la exposi-
+ción a prácticas positivas incrementa los
+niveles de emociones positivas, capital so-
+cial y conductas prosociales, lo cual retro-
+alimenta a las prácticas y favorece a la con-
+secuente obtención de mejores resultados
+organizacionales. Por otro lado, la cualidad
+amortiguadora se relaciona con ayudar a
+prevenir efectos negativos, producto de si-
+tuaciones estresantes, promoviendo en los
+integrantes un sentido de resiliencia, soli-
+daridad y eficacia.
+Cameron, Mora, Leutscher y Calarco
+(2011) advierten la necesidad de realizar
+estudios que confirmen la relación entre de-
+terminadas prácticas positivas virtuosas
+(e.g., respeto, integridad) y la obtención de
+resultados positivos organizacionales, ya
+que investigaciones previas han demostrado
+la relación de variables personales (e.g.,
+emociones positivas, conducta prosocial,
+capital psicológico, etc.) (Luthans, Youssef
+& Avolio, 2007) con resultados satisfacto-
+rios a nivel individual, pero no a nivel de las
+organizaciones (e.g., Cameron et al., 2011;
+Chun, 2005; Wright & Goodstein, 2007).
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+173
+Específicamente, existe evidencia de que
+las prácticas positivas producen emociones
+positivas en los empleados (i.e., satisfac-
+ción, bienestar) que generan conductas in-
+dividuales positivas (i.e., permanencia,
+compromiso) y que, a su vez, contribuyen a
+obtener buenos resultados a nivel organiza-
+cional (i.e., rentabilidad, productividad) (ver
+Lyubomirsky, King, & Diener, 2005). Lo
+expuesto implica que el hecho de que las
+personas perciban prácticas virtuosas (e.g.
+apoyo, respeto) en la organización que tra-
+bajan, colabora para que sientan satisfac-
+ción con su trabajo (entendida como la per-
+cepción de cuán conforme se siente una
+persona con la labor que realiza, Mu-
+chinsky, 2003) y esto, a su vez, favorecería
+el desarrollo de comportamientos positivos
+que los lleven a desear permanecer en la or-
+ganización. Este último aspecto común-
+mente se analiza a través del compromiso
+organizacional, que se lo entiende como un
+estado psicológico que caracteriza la rela-
+ción entre el empleado y la organización.
+Meyer, Allen y Smith (1993) sostienen que
+dicho compromiso está constituido por tres
+factores separados, asociados a la vincula-
+ción afectiva con la organización, a la per-
+cepción de los costos asociados a dejar el
+empleo y a la obligación de permanecer en
+ella. Tales factores fueron designados, res-
+pectivamente, como compromiso afectivo,
+compromiso calculativo y compromiso nor-
+mativo. Investigaciones previas han de-
+mostrado la importancia de este compro-
+miso para la obtención de resultados
+eficaces (e.g., Felfe, Yan & Six, 2008).
+Por otro lado, se han realizado algunas
+investigaciones que han intentado probar
+una relación más directa entre las virtudes
+organizacionales y resultados satisfactorios.
+Por ejemplo, Cameron y colaboradores
+(2011) describen dos estudios en los que se
+comprobó el efecto de prácticas virtuosas a
+nivel organizacional sobre los niveles de
+performance obtenidos. El primer estudio se
+realizó en organizaciones que no son típi-
+camente asociadas a factores relacionados
+con prácticas positivas y humanitarias. Se
+trabajó con una muestra de  2.386 emplea-
+dos pertenecientes a 40 unidades de nego-
+cios (i.e., atención al cliente, marketing,
+servicios de inversión). Las variables ana-
+lizadas fueron: prácticas positivas (virtuo-
+sidad), nivel de rotación de empleados,
+clima organizacional, rendimiento finan-
+ciero (medida objetiva) y valoración de ex-
+perto (medida subjetiva) efectividad y com-
+promiso. Si bien los resultados mostraron
+correlaciones más altas y significativas con
+algunas de las variables (e.g., más alto para
+valoración experto que para rendimiento fi-
+nanciero), en todos los casos se obtuvieron
+correlaciones significativas, dando cuenta
+que las prácticas positivas pueden ser un
+buen predictor de todos estos factores, in-
+cluso en este tipo de organizaciones. No se
+analizó el efecto de cada práctica positiva
+en forma independiente. Este aspecto fue
+analizado en una segunda investigación re-
+alizada con una muestra de 3.200 emplea-
+dos pertenecientes a 29 unidades de enfer-
+mería. Se trató de un estudio longitudinal en
+el que se realizó una exposición de los em-
+pleados (aproximadamente 3 años) a con-
+ceptos relacionados con la POP. Al término,
+se verificó que en las unidades expuestas a
+POP hubo incremento en todas las medidas
+de performance excepto en satisfacción ge-
+neral. Se registró un mayor efecto tomando
+las prácticas en conjunto más que por sepa-
+rado, la que mayor efecto presentó es la re-
+lacionada con prácticas de cuidado del otro
+(interés y preocupación), ampliamente re-
+lacionada con el rubro de las unidades es-
+tudiadas. 
+Por otro lado, en un trabajo reciente re-
+alizado en Argentina (Lupano Perugini &
+Castro Solano, 2016) en el que se explora-
+ron características positivas que son perci-
+bidas por empleados de diferentes organi-
+zaciones, se halló que las características
+que se asocian a los mayores niveles de
+performance y satisfacción laboral son las
+relacionadas con valores, buen clima inter-
+personal, prácticas de respeto, compromiso
+y confianza.
+En este estudio se intentó poner a prueba
+un modelo teórico de predicción, tomando
+en consideración lo expuesto anteriormente
+lupano perugini y castro solano
+174
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+(ver Lyubomirsky et al., 2005), acerca de
+que se ha comprobado un efecto directo de
+la percepción de prácticas virtuosas sobre
+los niveles de satisfacción y de ésta sobre el
+compromiso organizacional, así como una
+influencia directa de las virtudes sobre los
+niveles de performance (individual y orga-
+nizacional). Además, se analiza un efecto
+indirecto de las virtudes sobre la perfor-
+mance considerando como variables me-
+diadoras, medidas de afecto positivo (nive-
+les de satisfacción), y medidas de compor-
+tamiento positivo (compromiso organiza-
+cional). 
+A partir de lo expuesto, se formularon los
+siguientes objetivos:
+- Validar un instrumento destinado a la
+evaluación de virtudes organizacionales en
+población argentina.
+- Analizar, mediante un modelo de ecua-
+ciones estructurales, si existe influencia di-
+recta de las virtudes organizacionales sobre
+los niveles de satisfacción laboral y de ésta
+sobre los niveles de compromiso organiza-
+cional. Además, analizar la influencia di-
+recta de las virtudes sobre los niveles de
+performance individual y organizacional, e
+indirecta considerando como variables me-
+diadoras la satisfacción laboral y el com-
+promiso organizacional. 
+En virtud de los antecedentes teóricos y
+empíricos analizados, se formulan las si-
+guientes hipótesis:
+Se hipotetiza un efecto directo de las vir-
+tudes sobre la satisfacción laboral y de ésta
+sobre el compromiso organizacional como
+así también un efecto directo de las virtudes
+organizacionales sobre los niveles de per-
+formance (organizacional e individual) e
+indirecto teniendo como variables media-
+doras la satisfacción y el compromiso.  
+Método
+Participantes
+El tipo de muestra empleada fue no pro-
+babilística de sujetos voluntarios (Hernán-
+dez Sampieri, Fernández Collado & Bap-
+tista Lucio, 2010). Los participantes fue-
+ron contactados por pasantes de una uni-
+versidad para participar de forma anónima
+en la investigación y no recibieron retribu-
+ción alguna por su colaboración. En total
+participaron 569 empleados argentinos
+(50.6% hombres; 49.4% mujeres); con una
+edad promedio de 36.7 años (de = 11.9). La
+mayoría residía en la Ciudad de Buenos Ai-
+res (CABA) y en la provincia de Buenos Ai-
+res (n = 545; 95.8%), 22 (3.9%) en provin-
+cias del interior de Argentina y solo 2 (.4%)
+vivían transitoriamente en el exterior. En
+cuanto al estado civil, 227 (39.9%) estaban
+casados o en convivencia, 189 (33.2%) eran
+solteros/as, 102 (17.9%) estaban en pareja,
+49 (8.6%) estaban separados y solo 2 per-
+sonas (.4%) no  aportaron datos. En relación
+a la clase social percibida, la mayoría se au-
+todescribió como de clase media-media-alta
+y media-baja (n = 560; 98.4%), en tanto
+que 5 lo hicieron en la clase baja (.9%) y 4
+en la clase alta (.7%). Del total de partici-
+pantes sólo 193 (33.9%) tenían personal a
+cargo, en tanto que el resto ocupaba una
+posición de subordinado (n = 375; 65.9%),
+una persona no aportó datos (.2%). En
+cuanto a variables organizacionales, 102
+empleados (17.9%) pertenecían al sector
+público, en tanto que 466 (81.9%) al pri-
+vado. En relación al tamaño de la empresa,
+241 participantes (42.4%) pertenecían a
+grandes empresas, 193 (33.9%) a medianas
+y 135 a pe- queñas (23.7%). 
+Instrumentos
+Se administraron los siguientes instru-
+mentos:
+1.- Inventario de Virtudes Organizacio-
+nales (positive practices survey - Came-
+ron et al., 2011): La versión original consta
+de 29 ítems con opción Likert de respuesta
+de cinco puntos. Fue diseñada para evaluar
+prácticas virtuosas a nivel organizacional ya
+que, de acuerdo con los autores, no se dis-
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+175
+pone de instrumentos para este nivel de aná-
+lisis ya que la mayoría lo hacen a nivel in-
+dividual (e.g., Peterson & Seligman, 2004).
+El listado de prácticas o virtudes no fue ob-
+tenido a partir de desarrollos teóricos sino
+que es un derivado de investigaciones ante-
+riores. La escala original consta de seis su-
+bescalas, y son las siguientes: Dignidad y
+respeto (las personas se tratan con respeto,
+se expresan aprecio y existe confianza mu-
+tua. Cada uno mantiene su integridad); Apo-
+yo (las personas se apoyan mutuamente, in-
+clusive son bondadosas y compasivas cuan-
+do otro tiene un problema), Interés (las per-
+sonas se preocupan y están interesadas por
+los otros como si fueran amigos), Signifi-
+cado (se enfatiza el valor y significado del
+trabajo, las personas se sienten  reconforta-
+das y renovadas por el trabajo que reali-
+zan), Inspiración (las personas se inspiran
+mutuamente en sus trabajos), Perdón (se
+evita culpar y se perdonan errores).
+Como resultado del proceso de valida-
+ción para población argentina se obtuvo una
+versión final de 13 ítems con formato de
+respuesta Likert de cinco puntos, con reco-
+rrido de 1 (completamente en desacuerdo) a
+5 (totalmente de acuerdo). Las dimensiones
+obtenidas son: Apoyo y respeto, Signifi-
+cado e inspiración, y Perdón (ver apartado
+Resultados).
+2.- Escala de Compromiso Organizacio-
+nal (Allen & Meyer, 1990; Omar, 2005):
+Esta prueba está integrada por 18 ítems con
+formato Likert de cinco puntos, con reco-
+rrido de 1 (totalmente en desacuerdo) a 5
+(totalmente de acuerdo). Evalúa cada uno de
+los tres tipos de compromiso organizacional
+(CO) a través de seis ítems cada uno. El
+compromiso afectivo (i.e., “Estaría feliz si
+pasara el resto de mi carrera en la empresa
+donde trabajo”), el compromiso normativo
+(i.e., “Esta organización merece mi leal-
+tad”) y el compromiso calculativo (i.e.,
+“Siento que tengo pocas opciones de trabajo
+como para dejar mi organización”). Los ín-
+dices de consistencia interna (Alpha de
+Cronbach) de la versión adaptada a la Ar-
+gentina (Omar, 2005) fueron .82 para el
+compromiso afectivo,  .73 para el normativo
+y .76 para el calculativo. 
+3.- Cuestionario de Estrés Laboral (OIT
+/ OMS, Llaneza Álvarez, 2009): Se trata de
+una prueba elaborada en conjunto por la
+Organización Internacional del Trabajo
+(OIT) y la Organización Mundial de la Sa-
+lud (OMS) con el fin de evaluar el nivel de
+estrés percibido por los trabajadores. La
+evaluación se realiza en virtud de siete ejes
+que reflejan posibles estresores laborales
+(Clima organizacional, Estructura organi-
+zacional, Territorio organizacional, Tecno-
+logía, Influencia del líder, Falta de cohesión,
+Respaldo del grupo). Está integrada por 25
+ítems con formato Likert de siete puntos
+con un recorrido de 1 (indica que la condi-
+ción descripta nunca es fuente de estrés) a
+7 (indica que la condición descripta siempre
+es fuente de estrés), que marca con qué fre-
+cuencia la condición descripta es conside-
+rada una fuente actual de estrés (i.e., “La
+forma de rendir informes entre superior y
+subordinado me hace sentir presionado”).
+Según los autores, puntajes mayores a 153
+indican un alto nivel de estrés. A los fines de
+este estudio se calculó Alpha de Cronbach
+para la escala total, obteniéndose un valor
+de .94.
+4.- Escala de Satisfacción con la Vida
+(SWLS - Diener, Emmons, Larsen & Grif-
+fin, 1985): Es una escala de cinco ítems
+con formato de respuesta Likert en 7 cate-
+gorías que examinan el grado de satisfac-
+ción global con la vida (i.e., “En la mayoría
+de los sentidos, mi vida está cerca de mis
+ideales”). Es utilizada internacionalmente
+para la evaluación del bienestar en tanto
+componente cognitivo de la satisfacción.
+Diferentes estudios empíricos han demos-
+trado su validez y fiabilidad (Diener, et al.,
+1985). Se obtiene una puntuación promedio
+que indica el grado de satisfacción percibida
+por el evaluado. Se utilizó una versión adap-
+tada al idioma español para uso con pobla-
+ción argentina (Castro Solano, 2000). La
+fiabilidad evaluada mediante el coeficiente
+Alpha de Cronbach para la muestra de los
+participantes de este estudio fue igual a .85.
+lupano perugini y castro solano
+176
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+5.- Escala de Bienestar Laboral (BIEN-
+T - Warr, 1990): Es una escala de 12 ítems
+con formato de respuesta Likert en 6 cate-
+gorías con un recorrido de 1 (Nada) a 6
+(Mucho). Los ítems son adjetivos (i.e., In-
+cómodo, calmado, satisfecho). Mide el
+bienestar laboral de acuerdo a la propuesta
+de Warr (1990, 2003) que supone que debe
+ser evaluado en virtud de diferentes ejes
+que van desde un polo negativo a otro po-
+sitivo. La escala consta de dos dimensiones:
+Eje Ansiedad-satisfacción y Eje Depresión-
+entusiasmo. Se calculó el coeficiente Al-
+pha de Cronbach para ambas dimensiones
+obteniéndose un valor igual a .79 para An-
+siedad-satisfacción y .85 para Depresión-
+entusiasmo.
+Además, sobre la base de la bibliografía
+consultada (e.g., Cameron, Brigth & Caza,
+2004; Cameron et al., 2011), se diseñaron
+una serie de protocolos para la evaluación
+de las variables involucradas. Dichos pro-
+tocolos fueron testeados previamente en un
+estudio piloto realizado con un grupo redu-
+cido de empleados (n = 15). Se modificaron
+algunas expresiones lingüísticas sugeridas
+por los participantes del estudio piloto,
+dando lugar a las versiones definitivas uti-
+lizadas. A continuación se describen los
+protocolos diseñados: 
+6.- Encuesta sociodemográfica: recaba
+datos personales de los participantes (sexo,
+edad, lugar de residencia, estado civil, nivel
+socioeconómico, nivel de estudios, ocupa-
+ción).
+7.- Encuesta organizacional: consulta a
+los participantes sobre datos de la organi-
+zación en la que trabajan y el puesto que
+ocupan (tamaño, tipo, tipología, área en la
+que trabaja, puesto y personal a cargo). Ade-
+más, incluye dos ítems en los cuales se so-
+licita que listen tres características positivas
+y tres negativas que asocian a la organiza-
+ción (i.e. “Enumere tres características que
+Ud. considere positivas de la organización
+en la que trabaja”). Dichas características
+fueron analizadas en un estudio previo (Lu-
+pano Perugini & Castro Solano, 2016).
+8.- Encuesta de Satisfacción Laboral: se
+diseñaron seis ítems con opción Likert de
+respuesta que va de 1 (totalmente insatisfe-
+cho) a 7 (totalmente satisfecho) que inten-
+tan evaluar cuán satisfecho se autopercibe la
+persona en cuanto a su trabajo en general y
+diferentes aspectos del mismo (i.e., sueldo,
+jefes, compañeros, lugar, carrera). Un ejem-
+plo de ítem es “¿Cuán satisfecho estoy con
+el sueldo que recibo?”. A fin de evaluar los
+temas deseados en el presente estudio, se
+decidió diseñar una nueva encuesta en lugar
+de escoger alguna ya validada en idioma
+español. De todos modos, para la elección
+de las áreas a evaluar, se tomaron en cuenta
+aspectos analizados en otros instrumentos
+previos (e.g., Balzer et al., 1997). Se calculó
+Alpha de Cronbach para la escala total ob-
+teniéndose un valor aceptable igual a .76
+9.- Encuesta sobre desempeño organiza-
+cional e individual: Frente a la imposibili-
+dad de obtener indicadores objetivos sobre
+el rendimiento organizacional se decidió in-
+ferirlo a partir de la percepción de los em-
+pleados. Se tomaron como indicadores de
+desempeño organizacional algunos sugeri-
+dos por Cameron y colaboradores (2004) re-
+lacionados con el cumplimiento en cuanto a
+niveles de eficiencia, innovación, creci-
+miento, calidad, retención de empleados y
+clientes, satisfacción y adaptación. Esta pri-
+mera sección consta de 10 ítems con opción
+Likert de respuesta que va de 1 (Poco) a 6
+(Mucho). Un ejemplo de ítem es “¿En qué
+medida cree que la organización logró sa-
+tisfacer las demandas de sus clientes”. El
+Alpha obtenido para este apartado fue igual
+a .89. Siguiendo el mismo criterio, se diseñó
+otra sección en la que se pide al sujeto que
+califique su desempeño como empleado. Se
+diseñaron seis ítems con la misma opción de
+respuesta que el apartado anterior (1: Poco
+y 6: Mucho). Un ejemplo de ítem es: “¿En
+qué medida cree que ha cumplido con los
+objetivos propuestos?”. El Alpha obtenido
+para esta sección fue igual a .84.
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+177
+Procedimiento
+Alumnos que se encontraban realizando
+una práctica de investigación en una uni-
+versidad privada de la ciudad de Buenos
+Aires (Argentina) realizaron la administra-
+ción de las pruebas. Los participantes fue-
+ron voluntarios y no recibieron retribución
+alguna por su colaboración. Además, el cua-
+dernillo que contenía los instrumentos pre-
+sentaba en su portada una introducción en la
+que se solicitaba el consentimiento del par-
+ticipante, se aseguraba la confidencialidad
+de los datos y su uso exclusivo para inves-
+tigación. 
+La recolección y carga de datos fue su-
+pervisada por un docente investigador. Los
+programas empleados para la carga y análi-
+sis de los datos fueron SPSS 18.0, AMOS
+16.0 y EQS 6.1.
+Análisis de datos
+En primer lugar, se procedió a la traduc-
+ción del instrumento original de 29 ítems
+del idioma inglés al español. El método em-
+pleado fue el de traducción directa. Partici-
+paron en el proceso dos investigadores. Am-
+bos tenían un PhD en Psicología y un buen
+dominio del idioma Inglés. Tradujeron la
+versión original de forma independiente y
+sin ningún tipo de intercambio. Luego se
+compararon las versiones y según el criterio
+de los traductores, no diferían notablemente.
+Por último, se realizaron ajustes para ga-
+rantizar la comprensión, equivalencia con-
+ceptual y exactitud en la traducción del in-
+glés al español. La versión traducida fue
+testeada con una prueba piloto de 15 em-
+pleados.
+Luego de recolectados los datos, se ini-
+ció el proceso de validación. En primer lu-
+gar se realizó un análisis factorial explora-
+torio a fin de determinar si los ítems daban
+cuenta de la estructura de cinco factores
+propuesta en la versión original. Como re-
+sultado de este proceso se eliminaron 13
+ítems que presentaban cargas altas en más
+de un factor. La estructura resultante fue de
+tres factores. A continuación, se procedió a
+probar dicha estructura mediante análisis
+factorial confirmatorio. De acuerdo a los
+resultados obtenidos, el modelo original no
+ajustaba a los datos obtenidos, por lo cual se
+probó un modelo reespecificado de 13 ítems
+que presentó un ajuste adecuado. Además,
+se obtuvieron adecuadas evidencias de va-
+lidez convergente y divergente, como así
+también una buena consistencia interna de
+las escalas mediante el coeficiente Alpha de
+Cronbach. 
+Por último, mediante un modelo de ecua-
+ciones estructurales, se intentó probar la in-
+fluencia por parte de las virtudes organiza-
+cionales sobre los niveles de satisfacción
+laboral, compromiso organizacional y per-
+formance individual / organizacional. Se
+analizaron los efectos directos e indirectos. 
+Resultados
+Estadísticos descriptivos
+Se calcularon estadísticos descriptivos uni-
+variados para cada ítem (ver Tabla 1). La ma-
+yoría de los ítems presentaron medias en
+torno a 3.5. Además, los valores de Asimetría
+y Curtosis indican una distribución normal
+univariada para los ítems. 
+Evidencias de validez factorial: Análisis
+factorial exploratorio
+A fin de estimar la validez de la prueba, se
+efectuaron análisis factoriales exploratorios
+de primer grado. Previamente se corroboró
+que la cantidad de casos por variables fuera la
+deseada (≥ 5). El siguiente paso fue verificar
+que los datos fueran adecuados para este tipo
+de análisis (Test de Esfericidad de Barlett:
+4949.41, p < .001; Índice Kaiser Meyer Ol-
+kin: .93). Para obtener la solución factorial
+inicial se extrajeron los factores mediante el
+método de componentes principales que per-
+mite formar combinaciones lineales no co-
+rrelacionadas de las variables observadas.  La
+solución se rotó mediante el método Vari-
+max que se trata de una rotación ortogonal
+(factores no correlacionados) que minimiza el
+lupano perugini y castro solano
+178
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+número de variables que tienen saturaciones
+altas en cada factor, simplificando la inter-
+pretación de los mismos (Tabachnik & Fidell,
+2007). Este procedimiento se llevó a cabo de
+forma iterativa y dio lugar a una solución de
+tres factores. Se eliminaron aquellos ítems
+que tenían peso mayor a .40 en más de un fac-
+tor. 
+De este proceso resultaron eliminados 13
+ítems de la versión original. En la Tabla 2 se
+presentan los datos de la solución obtenida
+que presenta 16 ítems que explican el 64% de
+la variancia.
+Análisis factorial confirmatorio
+Posteriormente, se verificó la estructura
+factorial obtenida por medio del análisis fac-
+torial confirmatorio. Los parámetros del mo-
+delo original propuesto fueron estimados si-
+guiendo el criterio de Máxima Verosimilitud.
+Como entrada para el análisis se utilizó la ma-
+triz de correlaciones entre los ítems de la es-
+cala.
+Se recogió la información proporcionada
+por seis de los índices de ajuste más utiliza-
+dos (García-Cueto, Gallo & Miranda, 1998;
+Hu & Bentler, 1995, Kline, 2013; Ruiz, Pardo
+& San Martin, 2010): chi cuadrado y chi cua-
+drado / grados de libertad, GFI (Índice de
+bondad de ajuste), AGFI (Índice ajustado de
+bondad de ajuste), NFI (Índice de ajuste nor-
+mado), CFI (Índice de ajuste comparado) y
+RMSEA (Error de aproximación cuadrático
+medio). 
+Los valores utilizados para la bondad de
+ajuste del modelo son los siguientes: la razón
+de chi cuadrado sobre los grados de libertad
+con valores inferiores a 3 (Kline, 2000), para
+los índices CFI y GFI valores entre .90 y .95
+o superiores son considerados como ajuste
+aceptable a excelentes para el modelo. Con
+respecto de los índices AGFI y NFI deberían
+obtenerse valores superiores a .90 (Rial Bou-
+beta, Varela Mallou, Abalo Piñeiro & Lévi-
+Manguin, 2006). Finalmente, para el caso del
+RMSEA se esperan valores entre .05 y .08
+(Hu & Bentler, 1995). Tal como puede ob-
+servarse en la Tabla 3, el modelo original no
+se ajusta a los datos obtenidos. En conse-
+cuencia, se revisaron en detalle los resultados
+del modelo estructural a fin de examinar los
+índices de modificación con el propósito de
+reducir la multicolinealidad (saturaciones cru-
+zadas entre los indicadores) y eliminar aque-
+llos indicadores que presentaran relaciones
+significativas no especificadas en el modelo
+original (Rial Boubeta et al., 2006). En base
+a lo observado, se eliminaron tres ítems
+(ítems 2, 6 y 28). En conjunto, el ajuste del
+modelo reespecificado de trece ítems es ade-
+cuado. Si bien el modelo produjo un chi cua-
+drado significativo (174.065, p < .001), rara-
+mente es tomada como prueba concluyente de
+bondad del ajuste de un modelo ya que, en
+muchos casos, la distribución de los datos
+no se ajusta a una distribución chi cuadrado
+o su valor está influenciado por el tamaño de
+la muestra (the structural equation Mode-
+ling discussion network [SEMNET], 2010).
+Por dicho motivo, algunos autores (e.g., Ar-
+buckle, 2009) recomiendan examinar no solo
+la significación sino también la magnitud del
+chi cuadrado a través del índice chi cuadrado
+y chi cuadrado / grados de libertad, donde los
+grados de libertad se utilizan como un están-
+dar para juzgar si ese valor de chi cuadrado es
+grande o pequeño. Se consideran excelentes
+los valores entre 1 y 2, buenos los menores a
+3 (Tabachnik & Fidell, 2001), aceptables a los
+comprendidos entre 3 y 5, sobre todo si el
+análisis se realiza sobre muestras grandes y
+rechazables, si son mayores que 5 (Bentler &
+Bonnet, 1980). De acuerdo a estos criterios,
+este índice reflejó valores buenos (2.80). El
+resto de los índices de ajuste contemplados
+obtuvieron valores acordes a los parámetros
+especificados líneas arriba (ver Tabla 3 y Fi-
+gura 1).
+Evidencias de validez convergente y di-
+vergente
+Para estimar la validez convergente y di-
+vergente de la prueba se estimaron las corre-
+laciones entre las tres dimensiones finales
+del instrumento y las dimensiones de la Es-
+cala de Bienestar Laboral (BIEN-T - Ansie-
+dad-satisfacción y Depresión-entusiasmo) así
+como con el total del cuestionario de estrés la-
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+179
+boral. En tanto se considera a las virtudes or-
+ganizacionales como características de las
+organizaciones que influyen en el accionar de
+las personas y contribuyen a que experimen-
+ten una vida más plena (Peterson, 2006), se
+hipotetizó que se obtendrían correlaciones
+positivas significativas entre las dimensio-
+nes del IVO y las del BIEN-T, así como co-
+rrelaciones negativas con los resultados del
+cuestionario de estrés laboral.
+De acuerdo a los resultados obtenidos, to-
+das las correlaciones (excepto una) presentan
+tamaño del efecto moderado (r ≥ .30) a am-
+plio (r ≥ .50) (Cohen, 1992). Las más altas se
+obtuvieron entre el eje Depresión-entusiasmo
+del BIEN-T y la dimensión Significado e ins-
+piración indicando que las personas que en-
+cuentran que su trabajo tiene sentido tienden
+a sentirse más entusiasmadas y presentar me-
+nos emociones negativas (ver Tabla 4).
+Consistencia interna
+En la Tabla 5 se muestran los estadísticos
+descriptivos y correlaciones obtenidas en
+cada subescala del instrumento. Se obtuvie-
+ron medias similares para las tres dimensio-
+nes siendo la más alta la correspondiente a la
+Subescala Apoyo y respeto. A su vez, la aso-
+ciación más elevada se obtuvo entre las di-
+mensiones Apoyo y respeto y Perdón.
+Para estimar la consistencia interna se cal-
+culó el coeficiente Alpha de Cronbach para
+las tres escalas, obteniéndose valores satis-
+factorios (Apoyo y respeto = .89; Signifi-
+cado e inspiración = .87; Perdón = .75). De
+acuerdo con la literatura, valores superiores a
+.70 se consideran aceptables y si sobrepasan
+.80 se consideran elevados (Kline, 2000;
+Nunnally & Berstein, 1995).
+Modelo estructural: Influencia de las vir-
+tudes organizacionales sobre los niveles
+de satisfacción laboral, compromiso or-
+ganizacional y performance individual /
+organizacional
+Se desarrolló un modelo estructural to-
+mando los antecedentes consultados que
+muestran que, en estudios previos, se pudo
+constatar que las virtudes o prácticas organi-
+zacionales positivas (e.g., respeto) producen
+afectos positivos en los empleados (e.g., sa-
+tisfacción, bienestar), lo cual genera com-
+portamientos positivos (e.g., compromiso,
+permanencia) que, a su vez, permiten obtener
+resultados efectivos a nivel organizacional
+(e.g., productividad) (ver Lyubomirsky et al.,
+2005). Se consideró además, lo propuesto
+por Cameron y colaboradores (2011) con res-
+pecto a que hay poca evidencia empírica del
+efecto directo de las virtudes sobre los nive-
+les de performance organizacional. Teniendo
+en cuenta lo antedicho, se puso a prueba un
+modelo en el que se hipotetizó un efecto di-
+recto de las virtudes sobre la satisfacción la-
+boral y de ésta sobre el compromiso organi-
+zacional. Además, se hipotetizó un efecto
+directo de las virtudes organizacionales sobre
+los niveles de performance (organizacional e
+individual) e indirecto teniendo como varia-
+bles mediadoras la satisfacción y el compro-
+miso.  
+Las virtudes organizacionales constituyen
+una variable exógena latente (indicadores:
+apoyo y respeto, significado e inspiración,
+perdón), la satisfacción laboral es una varia-
+ble endógena observada, el compromiso or-
+ganizacional es una variable endógena la-
+tente (indicadores: compromiso afectivo,
+calculativo, normativo), en tanto que la per-
+formance es otra variable endógena latente,
+cuyos indicadores son la performance indi-
+vidual y organizacional. 
+El modelo teórico expuesto y su ajuste a
+los datos empíricos se puso a prueba me-
+diante ecuaciones estructurales. Se estimó el
+grado de ajuste del modelo teórico a los da-
+tos de la muestra a través de la aplicación del
+programa aMOs Graphics 16.0. La evalua-
+ción del ajuste tiene por objeto determinar si
+las relaciones entre las variables del modelo
+estimado reflejan adecuadamente las relacio-
+nes observadas en los datos (Weston & Gore,
+2006). Los parámetros del modelo original
+fueron estimados siguiendo el criterio de Má-
+xima Verosimilitud. Se recogió la informa-
+ción proporcionada por los seis índices de
+ajuste más utilizados: chi cuadrado; chi cua-
+drado y chi cuadrado / grados de libertad;
+lupano perugini y castro solano
+180
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+GFI; AGFI; NFI; CFI y RMSEA. Para este
+análisis los valores utilizados para la bondad
+de ajuste del modelo son los mismos que los
+utilizados para el análisis factorial confirma-
+torio del instrumento IVO, informado ante-
+riormente: la razón de chi cuadrado sobre los
+grados de libertad con valores inferiores a 3;
+para los índices CFI y GFI valores entre .90
+y .95 o superiores son considerados como
+ajuste aceptable a excelentes para el modelo,
+y finalmente para el caso del RMSEA se es-
+peran valores entre .05 y .08 (Hu & Bentler,
+1995; Kline, 2013).
+Los indicadores comentados mostraron
+que los datos se ajustan óptimamente al mo-
+delo (χ2 = 51.693, p < .01; χ2/gl = 2.58; GFI
+= .98; AGFI = .96; NFI = .98; CFI = .99;
+RMSEA = .05). En la Figura 2 se presentan
+los coeficientes path estandarizados.
+El modelo permite apreciar que las virtu-
+des influyen directamente sobre los niveles de
+satisfacción laboral (β = .69, p < .01) expli-
+cando un 48% de la variancia de esta última
+que, a su vez, influye sobre el nivel de com-
+promiso organizacional (β = .19, p < .01) que
+explica el 50% de la variancia de esta última
+variable. Por lo tanto, puede considerarse un
+efecto indirecto de las virtudes organizacio-
+nales sobre los niveles de compromiso (.69 x
+.19 = .13). Sin embargo, no se observa un
+efecto directo del compromiso sobre la per-
+formance (β = .07, ns), ni tampoco un efecto
+indirecto de las virtudes organizacionales so-
+bre los niveles de performance teniendo a la
+satisfacción laboral y el compromiso organi-
+zacional como variables mediadoras (.69 x
+.19 x .07 = .009). Sin embargo, el modelo per-
+mite verificar que las virtudes organizacio-
+nales tienen un efecto directo sobre los nive-
+les de performance (β = .78, p < .01)
+explicando un 53% de la variancia.
+Discusión 
+La investigación realizada perseguía
+como primer objetivo, validar un instrumento
+destinado a la evaluación de virtudes a nivel
+organizacional. Los análisis exploratorios y
+confirmatorios realizados sobre la prueba ori-
+ginal diseñada por Cameron y colaboradores
+(2011) dieron lugar al Inventario de Virtudes
+Organizacionales (IVO) que resulta adecuado
+para su uso en investigación en población ar-
+gentina. El mismo ha presentado adecuadas
+propiedades psicométricas de validez y con-
+fiabilidad. Como resultado del proceso de
+validación, el instrumento ha quedado redu-
+cido en la cantidad de ítems y dimensiones. El
+instrumento final de 13 ítems contempla tres
+dimensiones que resultan ser una combina-
+ción de las presentes en la prueba original. La
+primera (Apoyo y respeto) alude a la presen-
+cia comportamientos orientados al cuidado
+del otro, el establecimiento de confianza y de-
+mostración de aprecio. La segunda (Signifi-
+cado e inspiración) da cuenta de la percepción
+de parte de los empleados de una organiza-
+ción de que el trabajo que realizan es impor-
+tante y los hace sentirse realizados. La última
+(Perdón) refiere al hecho de que son admisi-
+bles las fallas y se intenta no responsabilizar
+a otros cuando se las comete. 
+Por otro lado, en este estudio se puso a
+prueba un modelo de predicción mediante el
+cual se intentaba probar la influencia de las
+virtudes organizacionales sobre los niveles
+de satisfacción laboral, compromiso organi-
+zacional y performance individual / organi-
+zacional. A partir de los resultados obtenidos,
+se confirma la hipótesis que postulaba un
+efecto directo de las virtudes sobre la satis-
+facción laboral y de ésta sobre el compromiso
+organizacional. Esto demuestra, como ha sido
+propuesto en investigaciones previas (ver Ca-
+meron et al., 2011; Lyubomirsky et al., 2005),
+que la percepción de prácticas virtuosas de la
+organización en la que se trabaja colabora
+para que los empleados se sientan satisfe-
+chos con su trabajo y deseen permanecer en
+ella. También se ha confirmado la hipótesis
+que proponía un efecto directo de las virtudes
+organizacionales sobre los niveles de perfor-
+mance. Sin embargo, no se pudo comprobar
+un efecto indirecto de las virtudes organiza-
+cionales sobre los niveles de performance
+(organizacional e individual) teniendo como
+variables mediadoras la satisfacción y el com-
+promiso (última hipótesis). Este resultado
+puede deberse a que, de acuerdo al modelo de
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+181
+ecuaciones estructurales realizado, no se ob-
+serva influencia del compromiso organiza-
+cional sobre los niveles de performance. En
+futuros trabajos se pueden contemplar otras
+variables relacionadas como puede ser el en-
+gagement o vinculación psicológica con el
+trabajo ya que se trata de un constructo mo-
+tivacional que posee elementos de activa-
+ción, energía, esfuerzo y persistencia dirigi-
+dos a la consecución de objetivos y que se
+relaciona con niveles de bienestar y eficacia
+en el trabajo (Macey & Schneider, 2008; Ma-
+son, Royal Agnew & Fine, 2008).
+Cabe aclarar, tal como se puede apreciar
+en la Figura 2, que el modelo presenta algu-
+nos errores ligados. Se los ha ligado a partir
+de la información provista por los índices de
+modificación en pos de mejorar el ajuste es-
+tadístico el modelo. Si bien esto puede afec-
+tar el valor teórico del mismo (Pérez, Me-
+drano & Sánchez Rosas, 2013) si se encuen-
+tra justificado de modo teórico y / o empírico
+de forma consistente es admisible (Byrne,
+2006; Jöreskog, 1993). Por un lado, es espe-
+rable un solapamiento de contenido entre las
+dimensiones del instrumento de compromiso
+organizacional (calculativo y normativo)  in-
+cluido  en el modelo (correspondiente a los
+errores E6, E7). También se ha hallado que
+los errores de satisfacción laboral y perfor-
+mance se encuentran relacionados (E11,
+E12). Esto puede explicarse por el hecho de
+que, según ha sido informado por gran canti-
+dad de trabajos, la satisfacción laboral se en-
+cuentra ampliamente relacionada con la per-
+formance (Edmans, 2012), en el sentido de
+que los empleados que autoperciben, tanto a
+nivel cognitivo como emocional, que se en-
+cuentran conformes con el trabajo que reali-
+zan, trabajan mejor (happy productive wor-
+ker) (ver Zelenski, Murphy & Jenkins, 2008).
+De todos modos, como se sostiene en el pre-
+sente trabajo, no es el único ni mejor predic-
+tor de rendimiento laboral. Algunos meta-
+análisis como el realizado por Judge,
+Thoresen, Bono y Patton (2001) muestran
+que en los trabajos analizados la correlación
+entre ambas variables era inferior a .20. 
+Además de la limitación mencionada,
+otras presentes en la investigación que se in-
+forma se relacionan con el empleo de medi-
+das subjetivas para estimar la performance in-
+dividual y organizacional. La modalidad
+escogida enfatiza aspectos perceptuales sin
+correlatos verificables. Además, la muestra
+empleada presenta desbalance en cuanto al
+porcentaje de empresas pertenecientes al sec-
+tor público y privado. Ambas limitaciones
+afectan la generalización de los resultados,
+principalmente en cuanto a organizaciones
+de carácter público.
+Por último, futuros estudios deberían con-
+tinuar el análisis de modelos multicausados
+que reúnan variables a nivel organizacional
+(como la percepción de virtudes organiza-
+cionales) con variables de nivel individual
+(como puede ser el engagement, capital psi-
+cológico, emociones positivas, conducta pro-
+social, etc.) no incluidas en la presente in-
+vestigación y que pueden estar relacionadas
+con la obtención de resultados positivos tanto
+a nivel individual como organizacional. Ade-
+más, sería conveniente poder efectuar estu-
+dios en los que se empleen medidas objetivas
+de rendimiento a fin de poder dar mayor cré-
+dito a la relación hallada entre variables psi-
+cológicas, como las analizadas en esta inves-
+tigación, con indicadores de eficacia.
+lupano perugini y castro solano
+182
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+183
+ 
+M (DE) 
+Asimetría 
+Curtosis 
+Ítem 1 
+3.86 (.98) 
+-.85 
+.33 
+Ítem 5 
+3.40 (1.05) 
+-.42 
+-.40 
+Ítem 7 
+2.98 (1.09) 
+-.00 
+-.73 
+Ítem 12 
+3.37 (1.09) 
+-.34 
+-.57 
+Ítem 14 
+3.74 (.85) 
+-.87 
+1.01 
+Ítem 17 
+3.50 (.86) 
+-.52 
+.32 
+Ítem 19 
+2.99 (1.06) 
+-.04 
+.68 
+Ítem 20 
+3.25 (.98) 
+.26 
+-.25 
+Ítem 21 
+3.05 (1.00) 
+-.08 
+-.33 
+Ítem 23 
+3.47 (.89) 
+-.50 
+-.05 
+Ítem 24 
+3.06 (1.00) 
+-.16 
+.29 
+Ítem 25 
+3.50 (.90) 
+-.56 
+.17 
+Ítem 27 
+3.39 (.88) 
+-.35 
+-.02 
+Tabla 1
+estadísticos descriptivos univariados de los ítems del Inventario de Virtudes Organizaciona-
+les –IVO-
+Ítem original 
+En la organización en la que trabajo…
+ 
+Factor 1 
+Factor 2 
+Factor 3 
+…se de muestra interés hacia los otros (ítem 17) 
+.77 
+ 
+ 
+…se dem uestra amabilidad hacia los otros (ítem 14) 
+.73 
+ 
+ 
+…se ay uda a las personas que enfrentan dificultades (ítem 2) 
+.72 
+ 
+ 
+…se trat a a los demás con respeto (ítem 1) 
+.71 
+ 
+ 
+…se proporciona apo yo emocional hacia los demás (ítem 20) 
+.70 
+ 
+ 
+…se muestra sensibilidad hacia los otros (ítem 27) 
+.70 
+ 
+ 
+…se de muestra confianza hacia los demás (ítem 23)  
+.64 
+ 
+ 
+…nos sentimos renovados por lo que hacemos (ítem 21) 
+ 
+.80 
+ 
+…se 
+considera que el trabajo tiene un profundo significado 
+(ítem 12) 
+ 
+.80 
+ 
+…nos senti mos elevados por nuestro trabajo (ítem 24) 
+ 
+.78 
+ 
+…el trabajo es motivador (ítem 5) 
+ 
+.77 
+ 
+…se considera que el trabajo 
+tiene un propósito importante 
+(ítem 28) 
+ 
+.73 
+ 
+…se co mparte el entusiasmo con otros (ítem 6) 
+ 
+.53 
+ 
+…no se culpa al otro cuando se co meten errores (ítem 19)  
+ 
+ 
+.79 
+…se corrigen los errores sin culpar a nadie (ítem 7) 
+ 
+ 
+.77 
+…se perdonan errores (ítem 25) 
+ 
+ 
+.69 
+Tabla 2 
+estructura factorial del IVO
+lupano perugini y castro solano
+184
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+Tabla 3
+estadísticos de bondad de ajuste del modelo original y reespecificado para las dimensiones del
+IVO
+Tabla  4
+correlaciones bivariadas entre dimensiones del IVO  y medidas criterio
+ 
+Apoyo y 
+respeto 
+Significado e 
+inspiración 
+Perdón 
+Eje Ansiedad-satisfacción BIEN-T 
+.31** 
+.28** 
+.30** 
+Eje Depresión-entusiasmo BIEN-T 
+.44** 
+.50** 
+.30** 
+Total Estrés laboral 
+.-41** 
+.-34** 
+.-34** 
+Tabla  5
+estadísticos descriptivos y correlaciones de las escalas del IVO
+Correlaciones 
+           
+Escalas 
+ 
+M (DE) 
+    1             2              3 
+1. Apoyo y respeto 
+3.65 (.94) 
+  1 
+ 
+ 
+2. Significado e inspiración 
+3.51 (.94) 
+.57** 
+  1 
+ 
+3. Perdón 
+2.17 (1.08) 
+.62** 
+.40** 
+1 
+  **p < .01 
+** p < .01
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+185
+Figura 1. Análisis factorial confirmatorio del IVO
+lupano perugini y castro solano
+186
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+Figura 2. Modelo de predicción de las virtudes organizacionales sobre satisfacción, compromiso y perfor-
+mance
+Virtudes organizacionales y performance laboral
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+187
+Referencias bibliográficas
+Byrne, B.M. (2006). structural equation modeling
+with eQs: Basic concepts, applications, and
+programming. Second edition. New York: Psy-
+chology Press.
+Cameron, K.S. & Spreitzer, G.M. (2012). What is
+positive about positive organizational scholars-
+hip? En K.S. Cameron & G.M. Spreitzer (Eds.),
+the Oxford handbook of positive organizatio-
+nal scholarship (pp. 1-14). New York: Oxford
+University Press.
+Cameron, K.S. & Winn, B. (2012). Virtuousness in
+Organizations. En K.S. Cameron & G.M.
+Spreitzer (Eds.), the Oxford handbook of posi-
+tive organizational scholarship (pp. 231-243).
+New York: Oxford University Press.
+Castro Solano, A.  & Cosentino, A. (2016). The re-
+lationships between character strengths and life
+fulfillment in the view of lay-people in
+Argentina. Interdisciplinaria, 33(1), 65-80.
+https://doi.org/10.16888/interd.2016.33.1.4 
+Castro Solano, A.  (2000). estilos de personalidad,
+objetivos de vida y satisfacción vital. Un estu-
+dio comparativo con adolescentes argentinos
+[Personality styles, life goals and life satisfac-
+tion. A comparative study with Argentinean
+adolescents]. Tesis doctoral no publicada.
+Facultad de Psicología, Universidad Complu-
+tense de Madrid.
+Felfe, J., Yan, W. & Six, B. (2008). The impact of
+individual collectivism on commitment and its
+Influence on OCB, turnover, and strain in three
+countries. International Journal of cross
+cultural Management, 8, 211-237.
+Hernández Sampieri, R., Fernández Collado, C. &
+Baptista Lucio, P. (2010). Metodología de la in-
+vestigación [Researh methodology] (5ª ed.).
+México: Mc Graw Hill.
+Kline, R.B (2013). Exploratory and confirmatory
+factor analysis. En Y. Petscher & C.
+Schatsschneider (Eds.), applied quantitative
+analysis in the social sciences (pp. 171-207).
+New York: Routledge.
+Llaneza Álvarez, F.J. (2009). ergonomía y psico-
+sociología aplicada. Manual para la formación
+del especialista [Ergonomics and Applied
+Psychosociology. Manual for specialist train-
+ing]. (12 ed.). Valladolid: Lex Nova.
+Lupano Perugini, M.L. & Castro Solano, A.
+(2016).  Perfiles de organizaciones positivas.
+Análisis de características percibidas según va-
+riables individuales, organizacionales y de re-
+sultado [Positive organizations. Differential
+profiles according to individual, organizational
+and outcome variables]. escritos de psico-
+logía, 9(2), 1-11. http://dx.doi.org/10.5231/
+psy.writ.2016.1103
+Macey, W.H. & Schneider, B. (2008). The meaning
+of employee engagement. Industrial and
+Organizational psychology, 1, 3–30. http:
+//dx.doi.org/10.1111/j.1754-9434.2007.0002.x
+Masson, R.C., Royal, M.A., Agnew, T.G. & Fine,
+S. (2008). Leveraging employee engagement:
+The practical implications. Industrial and
+Organizational psychology, 1,56–59. http://dx.
+doi.org/10.1111/j.1754-9434.2007.00009.x
+Meyer, J.P., Allen, N.J. & Smith, C. (1993).
+Commitment to organizations and occupations:
+Extension and Test of a Three-component
+Conceptualization. Journal of applied psy-
+chology, 78, 538-551. http://dx.doi.org/10.
+1037/0021-9010.78.4.538
+Pérez, E., Medrano, L.A. & Sánchez Rosas, J.
+(2013). El Path Analysis: Conceptos básicos y
+ejemplos de aplicación [The Path Analysis:
+Basic concepts and application examples].
+revista argentina de ciencias del comporta-
+miento, 5(1), 52-66.
+Peterson, C. (2006). Enabling institutions. En C.
+Peterson (Ed.), a primer in positive psychology
+(pp. 275-304). New York: Oxford University
+Press.
+Peterson, C., & Seligman, M. (2004). character
+strengths and virtues: a handbook and classi-
+fication. New York: Oxford University Press.
+Quinn, R. (2015). the positive organization: bre-
+aking free from conventional cultures, cons-
+traints, and beliefs. Oakland: CA: Berrett-
+Koehler.
+lupano perugini y castro solano
+188
+InterdIscIplInarIa, 2018, 35, 1, 171-188
+Rial Boubeta, A., Varela Mallou, J., Abalo Piñeiro,
+J. & Lévy Mangin, J.P. (2006). El análisis fac-
+torial confirmatorio [The confirmatory factor
+analysis]. En J.P. Lévy Mangin & J. Varela
+(Eds.), Modelización con estructuras de cova-
+rianzas en ciencias sociales [Modelling cova-
+riance structures in social sciences]  (pp.
+119-143). Coruña: Netbiblo.
+Warr, P.B. (1990). Decision latitude, job demands,
+and employee well-being. Work and stress,
+4(4), 285-294. http://dx.doi.org/10.1080/0267
+8379008256991
+Warr, P.B. (2003). Well-being and the workplace.
+En D. Kahneman, E. Diener & N. Schwarz
+(Eds.), Well-being: the foundations of hedonic
+psychology (pp. 392-412). Nueva York: Russell
+Sage Foundation.
+Weston, R., & Gore, P. A. (2006). A brief guide to
+structural equation modeling. counseling
+psychologist, 34(5), 719-751. http://dx.doi.org/
+10.1177/0011000006286345. 
+Zelenski, J.M., Murphy, S.A. & Jenkins, D.A.
+(2008). The Happy-Productive Worker Thesis
+revisited.Journal of Happiness studies, 9,
+521–537. http://dx.doi.org/10.1007/s10902-008
+-9087-4
+Fecha de recepción: 20 de septiembre de 2016
+Fecha de aceptación: 13 de noviembre de 2017
