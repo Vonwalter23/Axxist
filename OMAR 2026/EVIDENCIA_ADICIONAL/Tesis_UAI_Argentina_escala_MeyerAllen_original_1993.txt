@@ -1,0 +1,5140 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tesis de grado 
+ 
+Compromiso organizacional y estrés laboral en un banco 
+público. Estudio comparativo entre generación X e Y 
+ 
+Facultad de Psicología y Relaciones Humanas 
+Tesista: Jesica Mariana Narcisi 
+Director: Dr. Pablo Domingo Depaula 
+ 
+ 
+Legajo: 12346 
+Campus: Lomas noche. 
+Título a obtener: Licenciatura en Psicología. 
+Fecha de entrega: 07/04/2020 
+ 
+ 
+ 
+ 
+Índice General 
+Agradecimientos .......................................................................................................................4 
+Resumen .....................................................................................................................................5 
+Compromiso Organizacional y Estrés Laboral en empleados de un banco 
+público. Estudio comparativo entre generación X e Y. ..................................................7 
+1 - Introducción..........................................................................................................................7 
+2 . Estado del arte .................................................................................................................. 12 
+3 - Marco Teórico ................................................................................................................... 17 
+3.1 Compromiso organizacional .................................................................................... 17 
+3.1.1 Definición de compromiso ................................................................................ 17 
+3.1.2 Definición de compromiso organizacional ................................................... 17 
+3.1.3 Factores que lo promueven .............................................................................. 18 
+3.1.4 Modelo de Meyer & Allen. .................................................................................. 19 
+3.1.5 Otros modelos ...................................................................................................... 22 
+3.1.6 Consecuencias del compromiso organizacional ........................................ 24 
+3.2 Estrés laboral ............................................................................................................... 25 
+3.2.1 Definición de estrés ............................................................................................. 25 
+3.2.1.1 Modelo transaccional ...................................................................................... 26 
+3.2.2 Definición de estrés laboral .............................................................................. 26 
+3.2.3 Fuentes de estrés laboral .................................................................................. 28 
+3.2.4 Efectos del estrés laboral .................................................................................. 30 
+3.2.5 Modelos teóricos .................................................................................................. 32 
+3.3 Generación X e Y ......................................................................................................... 33 
+3.3.1  Definición de generación .................................................................................. 33 
+3.3.2 Generación X ......................................................................................................... 34 
+3.3.3 Generación Y ......................................................................................................... 35 
+4. Objetivos, Hipótesis, Justificación y relevancia ....................................................... 36 
+4.1 Objetivo General .......................................................................................................... 36 
+4.2 Objetivos específicos ................................................................................................. 36 
+4.3 Hipótesis ........................................................................................................................ 37 
+4.4 Justificación y Relevancia ........................................................................................ 37 
+4.4.1 Teórica .................................................................................................................... 37 
+4.4.2 Practica ................................................................................................................... 37 
+5. Propuesta metodológica.................................................................................................. 38 
+5.1 Tipo de estudio o diseño ........................................................................................... 38 
+5.2 Muestra y Muestreo .................................................................................................... 38 
+ 
+2 
+ 
+5.3 Instrumentos................................................................................................................. 40 
+5.4 Procedimiento y análisis ........................................................................................... 41 
+6 - Resultados ......................................................................................................................... 41 
+6.1. Prueba de Normalidad y Alfa de Cronbach ......................................................... 41 
+6.2 Caracterización de la muestra ................................................................................. 42 
+Tabla I – Generación ..................................................................................................... 42 
+Tabla II – Sexo ................................................................................................................. 42 
+Tabla III – Estado civil ................................................................................................... 42 
+Tabla IV – Tiene hijos .................................................................................................... 42 
+Tabla V - Estudios alcanzados ................................................................................... 42 
+Tabla VI – Zona de residencia ..................................................................................... 43 
+Tabla VII - Antigüedad ................................................................................................... 43 
+Tabla VIII – Familiares en la organización ............................................................... 43 
+Tabla IX – Tiene gente a cargo ................................................................................... 43 
+Tabla X – Permanencia en el puesto ......................................................................... 44 
+Tabla XI – Se encuentra conforme con su puesto ................................................ 44 
+Tabla XII – Nivel de ingresos ....................................................................................... 44 
+6.3.  Descripción de las variables .................................................................................. 44 
+Escala de Compromiso organizacional ................................................................... 44 
+Inventario de estrés ocupacional OSI .......................................................................... 47 
+Tabla XVII – Resumen estadísticos de los ítems del cuestionario Estrés 
+ocupacional ..................................................................................................................... 47 
+Tabla XVIII – Resumen estadísticos de los ítems del cuestionario tensión 
+psicológica ....................................................................................................................... 50 
+Tabla XIX – Resumen estadísticos de los ítems del cuestionario Recursos de 
+afrontamiento .................................................................................................................. 52 
+6.4. Análisis de la relación entre las variables ........................................................... 55 
+Tabla XX – Correlación entre las variables Compromiso organizacional y Estrés laboral 55 
+Tabla XXI – Correlación entre las variables Compromiso organizacional y 
+Estrés laboral según Generación X .......................................................................... 57 
+Tabla XXII – Correlación entre las variables Compromiso organizacional y 
+Estrés laboral según Generación Y .......................................................................... 57 
+6.5 Análisis de las diferencias de grupos según variables .................................... 59 
+Tabla XXIII – Diferencias grupales según Generación en la variable 
+Compromiso organizacional ....................................................................................... 59 
+Tabla XXIV – Diferencias grupales según Generación en la variable Estrés 
+laboral ............................................................................................................................... 59 
+7 – Discusión ........................................................................................................................... 60 
+8 - Anexo .................................................................................................................................. 67 
+ 
+3 
+ 
+8.1 La organización ........................................................................................................... 67 
+8.2 Consentimiento informado ....................................................................................... 69 
+8.3 Cuestionario Compromiso organizacional ........................................................... 70 
+8.3 Cuestionario Estrés Laboral ..................................................................................... 72 
+8.4 Cuestionario sociodemográfico .............................................................................. 78 
+Referencias bibliográficas ................................................................................................... 80 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+Agradecimientos 
+ 
+A mi familia, los que están y los que ya no, por acompañarme en este camino. 
+A mi novio por su amor, compañía y ayuda. 
+A mis amigas por estar siempre en los buenos y malos momentos. 
+A las amigas que me dejo esta carrera por ayudarme a perseverar, por la 
+compañía y las enseñanzas. 
+A mis compañeros de trabajo quienes participaron en este proyecto. 
+A mi psicólogo por ayudarme a seguir con mi elección de carrera en aquellos 
+momentos que el cansancio me hacía dudar. 
+A mi director de tesis por ayudarme con su conocimiento y guía en este 
+momento tan importante de mi vida.  
+A dios y a mis ángeles por guiarme siempre. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+Resumen 
+ 
+Se define el compromiso organizacional como un estado psicológico en 
+relación con el vínculo que un individuo puede desarrollar en la organización en 
+la que trabaja y el cual influye en la permanencia y comportamiento del sujeto 
+(Meyer & Allen, 1996). Para medirlo se utilizó la Escala de Compromiso 
+Organizacional (Allen & Meyer, 1993), dichos autores postulan tres tipos de 
+compromisos distintos: afectivo, de continuidad o normativo. En el presente 
+estudio se evaluó la relación entre esta variable y estrés laboral. El estrés 
+laboral es definido según Pérez, Frenis y Toca (2009) como las respuestas 
+nocivas y emocionales que se dan cuando las exigencias laborales no se 
+equiparan con las capacidades o recursos que posee el individuo. La muestra 
+estuvo compuesta por 88 empleados de ambos sexos de una entidad pública 
+cuyas edades los incluía en las generaciones X e Y (36.4 % y 63.6 % 
+respectivamente) con el fin de realizar un estudio comparativo. Los resultados 
+permiten inferir que existe una relación significativa entre ambas variables, ante 
+la presencia de compromiso organizacional, el estrés laboral tendería a 
+disminuir. Al realizar una comparación generacional no se verifico diferencias 
+entre ambos grupos.  
+Palabras clave: compromiso organizacional, estrés laboral, generación X, 
+generación Y.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+Abstract 
+The organizational commitment is defined as a psychological state in relation to 
+the bond that and individual can develop in the organization in which he works 
+and which influences the permanence and behavior of the subject (Meyer & 
+Allen, 1996). To measure it, the Organizational Commitment Scale was used 
+(Allen & Meyer, 1993), who postulate three different types of commitments: 
+affective, continuity or normative. In the present study the relationship between 
+this variable and work stress was evaluated. Occupational stress is defined 
+according to Pérez, Frenis and Toca (2009) as the harmful and emotional 
+responses that occur when labor demands are not equated with the abilities or 
+resources that the individual possesses. The sample consisted of 88 employees 
+of both sexes of a public entity whose ages included them in the X and Y 
+generations (36.4% and 63.6% respectively) in order to carry out a comparative 
+study. The results allow us to infer that there is a significant relationship 
+between both variables, in the presence of organizational commitment, work 
+stress would tend to decrease. When making a generational comparison, no 
+differences between the two groups were verified. 
+Keywords: organizational commitment, work stress, generation X, generation Y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+Compromiso Organizacional y Estrés Laboral en empleados de 
+un banco público. Estudio comparativo entre generación X e Y. 
+ 
+1 - Introducción 
+ 
+El estudio del compromiso organizacional, tanto en el ámbito laboral como en la 
+gestión de recursos humanos, es necesario para lograr el buen funcionamiento 
+de la organización (Harter, Schmidt & Hayes, 2002). Un empleado que se 
+siente parte activa de su organización y se encuentra vinculado con esta de 
+manera positiva realizará esfuerzos extras para que la misma sea competitiva y 
+pueda alcanzar altos niveles de eficiencia. Por ello, es importante en las 
+empresas tener empleados que se encuentren identificados con los objetivos 
+organizacionales (Sánchez Hernández, 2013).  
+Diversos estudios dan cuenta de que la presencia del compromiso 
+organizacional puede favorecer a los trabajadores a que se sientan 
+competentes para realizar su trabajo y seguros de sí mismos, a pesar de los 
+estresores que puedan presentarse en su ambiente. Esta variable reduciría 
+entonces los efectos negativos del estrés (Begley & Czajka, 1993). Siguiendo 
+esta línea de investigación y relacionado específicamente a empleados de una 
+entidad 
+financiera, 
+en 
+España 
+un 
+estudio 
+confirmo 
+dicha 
+relación, 
+especialmente en las dimensiones de compromiso afectivo y normativo. En 
+dichos empleados a mayor nivel de compromiso, menor nivel de estrés, es 
+decir si los individuos se encuentran comprometidos con la entidad a nivel 
+afectivo y normativo, sienten un grado menor de estrés que aquellos que no lo 
+están (Sánchez Hernández, 2013). 
+Para el estudio de esta relación se seleccionó una organización que por sus 
+características podría poseer políticas y una gestión de recursos humanos que 
+promueven esta identificación positiva con la empresa, entendiendo que estas 
+darían como resultado la presencia de compromiso en cualquiera de sus 
+dimensiones 
+y 
+que 
+dicha 
+presencia, 
+ante 
+una 
+situación 
+que 
+sea 
+ 
+8 
+ 
+desencadenante de estrés, implicaría una vivencia distinta, dando como 
+resultado la disminución del mismo. 
+Es relevante conocer los resultados de esta relación ya que denota beneficios 
+para sus empleados y para la organización. Desde el lado del empleado, no se 
+vería afectada su salud como consecuencia de los efectos negativos del estrés 
+(Begley & Czajka, 1993). Desde el lado del empleador, una gestión correcta de 
+recursos humanos que promueva el compromiso resultaría necesaria para 
+lograr ventajas competitivas en una economía global (Omar, Paris & 
+Vaamonde, 2009).  
+En la actualidad conviven en las organizaciones distintas generaciones, las 
+cuales poseen un concepto y visión del mundo en función de las edades del 
+colectivo al cual pertenecen. Es decir, tienen creencias, valores e intereses 
+distintos y por lo cual su concepto del trabajo también es diferente (Lancaster & 
+Stillman, 2002; Martin & Tulgan 2001). Resulta interesante evaluar, ante esta 
+diversidad de concepciones, si las variables estudiadas y su relación se ve 
+influida por la pertenencia a la generación X o Y.  
+El compromiso organizacional es definido desde varias perspectivas. Se 
+tomará como base del presente trabajo la definición y modelo propuesto por 
+Meyer y Allen (1996) quienes postulan que se trata de un estado psicológico en 
+relación con el vínculo que un individuo puede desarrollar en la organización en 
+la que trabaja y el cual influye en la permanencia y comportamiento del sujeto. 
+Los mismos autores plantean el concepto en tres dimensiones: Emocional o 
+Afectivo, el cual refiere a la identificación con la organización (satisfacción de 
+necesidades y expectativas individuales); de Continuidad o Pertenencia, 
+relacionado con la necesidad de seguir vinculado con la empresa (costo que 
+podría causar dejar la organización) y Normativo, referido al sentimiento de 
+obligación por parte de los empleados de permanecer en la institución (reglas 
+reciprocas institucionales) (Mañas, Salvador, Boada, González & Agullo, 2007). 
+Para el desarrollo de la primera dimensión, es decir la afectiva, se pone énfasis 
+en el valor que le da el empleado al sostén y beneficios que considera que la 
+empresa le brinda. Si esa valoración es positiva el individuo comenzará a 
+percibir como propios los objetivos y metas organizacionales. La permanencia 
+ 
+9 
+ 
+será dada por el deseo de seguir siendo parte de ella ya que la considera una 
+pieza fundamental de su vida.  
+La segunda dimensión, llamada también de continuidad o calculativa, se 
+relaciona con el costo que le generaría al empleado abandonar la organización 
+basándose en un análisis de costo – beneficio. Frente a una evaluación de lo 
+que implicaría dejarla, en relación con los sacrificios realizados, las 
+consecuencias a nivel familiar y la posibilidad de encontrar un nuevo empleo, 
+concluye que serían más altos los costos que los beneficios y permanecerá en 
+la organización por necesidad.  
+Por último, el compromiso llamado normativo se relaciona con el deber de 
+permanecer. Este tipo está vinculado con el proceso de socialización, es decir 
+el respeto a las normas, la lealtad, el sentimiento de pertenencia, y el reconocer 
+las acciones que ha llevado a cabo la empresa para su desarrollo personal 
+tales como capacitación. Estos factores generarían un sentimiento de 
+obligación por parte del empleado de permanecer entendiéndolo como una 
+retribución o reconocimiento. Estas dimensiones pueden vivenciarse de 
+manera simultánea y en distintos niveles, pudiendo prevalecer un tipo (Omar, 
+Paris & Vaamonde, 2005). 
+Frente a la presencia de estresores en el ambiente, cada individuo posee 
+características personales que pueden favorecer estrategias de afrontamiento y 
+su adaptación al entorno. El estrés se define como un estado de tensión en el 
+cual el individuo siente que no posee la capacidad o los recursos suficientes 
+para tal situación de exigencia, manifestándose de diversas maneras y con 
+múltiples consecuencias. Si esta situación se da en el ámbito laboral se 
+denomina estrés laboral (Atalaya, 2001).  
+Según Pérez, Frenis y Toca (2009) se define como las respuestas nocivas y 
+emocionales que se dan cuando las exigencias laborales no se equiparan con 
+las capacidades o recursos que posee el individuo. Los principales síntomas 
+son cansancio emocional, apatía y sentimientos de incapacidad para lograr sus 
+objetivos laborales. Los individuos se muestran quejosos, irritables y tienen 
+tendencia a no hacerse cargo de sus errores, atribuyéndolos a otros (Davis & 
+Newstrom, 1991).  
+ 
+10 
+ 
+En el contexto organizacional se detectan tres tipos de fuentes: personales, en 
+relación con el puesto que se desempeña y organizacionales. Estas últimas, 
+relacionadas con las características de la empresa se dividen en físicas, tales 
+como ruidos, ambiente y de tipo comportamental, como posibilidades de 
+carrera, exceptivas hacia el empleado, entre otras (Cooper, 1978). 
+De acuerdo con Gil Monte (2010) cuando el estrés laboral se vuelve crónico, la 
+persona experimenta emociones, actitudes y cogniciones de carácter negativo. 
+Estas se pueden dar hacia tres receptores: el trabajo en sí mismo, las personas 
+con las que interactúa especialmente hacia quienes brinda sus servicios 
+(clientes) y hacia su rol profesional. El origen del estrés es en el entorno laboral 
+y no en el trabajador en sí mismo.  
+Se estima que aproximadamente cada 15 años se puede analizar las 
+consecuencias sociales y comportamentales de ciertas políticas públicas, es 
+decir las sociedades evolucionan de manera cíclica, lo cual permite establecer 
+un referente de corte para evaluar dichos efectos (Leibe, 2016).   
+Ogg y Bonvalet (2006, citado en Simón & Allard, 2007) define grupo 
+generacional como el conjunto de personas que de acuerdo con su edad 
+comparten experiencias que las distingue de sus predecesores. Para Strauss y 
+Howe (1991, citado en Chirinos, 2009) el contexto histórico proporciona una 
+imagen común colectiva.  
+Actualmente, conviven en el mercado laboral tres generaciones. Los Baby 
+Boomers nacidos entre 1941 y 1960, cuyo contexto histórico se encuentra 
+definido por el post II Guerra Mundial, el surgimiento de las primeras 
+tecnologías como la televisión y en lo social se vivió la liberación de la mujer. 
+En Argentina se sucede un desarrollo industrial importante, cambios en las 
+clases sociales, aparecen los sindicatos y se promulga el voto femenino.  
+La generación X (1961 a 1981) convivio con un periodo de crisis de la 
+seguridad social, crisis política con el Watergate y la lucha contra Irán 
+(Chirinos, 2009). Además, de acuerdo con García de Lombardía, Stein y Pin 
+(2008) esta generación vivió importantes sucesos políticos como dictaduras (en 
+Argentina se sucedieron dictaduras militares y represión), acciones terroristas, 
+la guerra Fría, sucesos que condujeron a la caída del muro de Berlín, y 
+acontecimientos sociales tales como el movimiento Punk, MTV y la aparición 
+ 
+11 
+ 
+pública del Sida. Todo esto denota en un clima de incertidumbre y sensación 
+de cambio.  
+Finalmente, la generación Y convive con un contexto sociohistórico de nuevas 
+tecnologías y avances tecnológicos vertiginosos, internet y el boom económico 
+de los años 90. Esta generación vivió siempre en democracia. Corresponden a 
+los nacidos entre 1982 y 2000, también llamados Millenials, Generación Net, 
+entre otros. Se caracterizan por ser más idealistas; valoran el trabajo en 
+equipo; sus objetivos se orientan a logros; poseen generalmente formación 
+académica y tienen un pensamiento social y activo. En cambio, sus 
+antecesores (generación X) en cuanto a sus principales características 
+laborales son: independientes; el trabajo es el centro de su vida; son leales 
+hacia la empresa; escépticos y orientan sus acciones basándose en resultados 
+(Chirinos, 2009). 
+En el presente trabajo se excluye la generación Baby Boomers dado que por la 
+edad que tienen en la actualidad hay muy poca presencia de estos en las 
+organizaciones, los que quedan están por retirarse de la vida laboral. 
+Los rasgos y características de cada generación hacen que tengan una manera 
+de relacionarse con la organización, con la autoridad y con sus pares de 
+maneras distintas. A su vez, su concepto y sentido del trabajo difiere de 
+acuerdo con sus valores, aprehendidos por el contexto social y cultural que les 
+tocó vivir. Por lo cual su experiencia con las variables estudiadas podría 
+resultar distinta dando como resultado la necesidad en las organizaciones de 
+adaptarse y promover una gestión de recursos humanos que tenga en cuenta 
+las necesidades de ambas generaciones.  
+La organización seleccionada para la presente investigación es una entidad 
+financiera de carácter público. La muestra está compuesta por empleados de 
+ambos géneros y edades comprendidas entre 18 y 57 años, con el fin de 
+realizar un estudio comparativo entre ambas generaciones.  
+La elección se basa en las políticas que tiene la institución seleccionada que 
+podrían promover el compromiso organizacional tales como: posibilidad de 
+carrera dentro de la entidad (la organización le brinda la posibilidad a sus 
+empleados de capacitarse dentro de ella para poder ascender gradualmente en 
+su cargo de acuerdo al nivel de estudio alcanzado); la posibilidad de ingreso 
+ 
+12 
+ 
+para hijos de empleados (dicha modalidad hace que el empleado tenga un 
+vínculo con la organización aún antes de ingresar en ella a través de sus 
+padres); ingreso de hijos de empleados fallecidos en actividad (los hijos de 
+empleados que fallecieron siendo empleados activos en la institución ingresan 
+como planta permanente); lugares de esparcimiento y ocio exclusivos con 
+beneficios económicos (la institución cuenta con colonias de vacaciones en 
+distintas provincias del país, clubes de diversos deportes en varias localidades; 
+mutual de salud propia, etc.); estabilidad laboral (la desvinculación de la 
+entidad se puede dar solo en caso de hurto o alguna acción grave en perjuicio 
+de la misma), entre otras.  
+2. Estado del arte 
+ 
+El compromiso organizacional es una variable en creciente interés. En una 
+muestra compuesta por empleados de la Administración pública, Mañas, 
+Salvador, Boada, González y Agullo (2007), estudiaron la relación entre esta y 
+las variables satisfacción laboral y bienestar psicológico, confirmando que 
+ambas son facilitadoras del compromiso. 
+Relacionando las variables compromiso, estrés y clima laboral, Rego y Souto 
+(2004) determinaron en un estudio aplicado a empresas portuguesas y 
+brasileras, que el clima laboral influye en la presencia de compromiso en sus 
+empleados y en la ausencia de estrés. Asimismo, el tipo de compromiso 
+afectivo y normativo promueven elevados desempeños de los empleados. 
+En Bolivia, se realizó un estudio donde se analizó el compromiso en sus tres 
+dimensiones de acuerdo con el puesto y el tipo de trabajo. Los investigadores, 
+Borth, Romero y Diaz Bretone (2014), concluyeron que es influyente en el tipo y 
+nivel de compromiso el puesto especifico que se ocupa, el tipo de organización 
+y el tipo de trabajo que se realiza. Tal es el caso de empleados que tienen 
+contacto con clientes (obreros de cuello blanco) los cuales poseen respuestas 
+más fuertes al tipo de compromiso normativo. En el caso de que el trabajo sea 
+más monótono y sin contacto con clientes se verifica el tipo de compromiso de 
+continuidad o normativo. 
+En el mismo país también se estudió el nivel de compromiso en mujeres que 
+trabajan en una entidad bancaria realizando una comparación entre la variable 
+ 
+13 
+ 
+con o sin hijos. Blanco y Castro (2011) se basaron en los resultados obtenidos 
+por otros investigadores que estudiaron el grado de compromiso en función de 
+variables sociodemográficas como género. Los resultados arrojaron que las 
+mujeres tienen mayor compromiso organizacional que los hombres, resultado 
+que fue disparador de su investigación. Se concluyo que no existen diferencias 
+ingresando la variable maternidad. Adicionalmente se observó que el tipo de 
+compromiso más alto en las mujeres es el normativo, el cual se podría deber al 
+alto grado de beneficios que el banco le brinda a sus empleados y el más bajo 
+es el afectivo.  
+En un estudio comparativo de género y edad realizado por Chiang, Núñez, 
+Martin y Zalazar (2010), en el cual se analizaron relaciones entre las variables 
+clima y compromiso organizacional, no se detectaron diferencias en función del 
+género y la edad. Sin embargo, en ambos sexos al tener más de 40 años, se 
+vio un aumento en el compromiso laboral en sus dimensiones afectivas y 
+normativas. 
+Por otro lado, en otro análisis comparativo teniendo en cuenta la edad, 
+efectuado en organizaciones latinoamericanas, Guevara Bedoya y Fernández 
+Poveda (2015) determinaron que la edad es un factor influyente en el desarrollo 
+del compromiso y el work engagement, a mayor edad mayor es la correlación 
+entre variables.   
+En Argentina se trabajó con la vinculación entre el compromiso y los valores 
+personales y a su vez se lo comparo con variables sociodemográficas. Omar, 
+Paris y Vaamonde (2005) concluyeron que aquellas personas que sus valores 
+son de tipo colectivista desarrollan la dimensión de compromiso afectivo, 
+mientras que las de tipo individualista se vinculan con la organización a través 
+del compromiso normativo y de pertenencia. Por otro lado, las mujeres y los 
+empleados con mayor antigüedad dan cuenta de un mayor tipo de compromiso 
+afectivo y normativo. En el caso que los empleados posean mayor 
+escolarización u ocupen puestos gerenciales desarrollan el tipo de compromiso 
+normativo. Por último, la dimensión de pertenencia no parece asociada con 
+ninguna variable sociodemográfica. 
+En un estudio realizado en el año 2010, Mercado Salgado y Gil Monte, 
+analizaron las variables conflictos interpersonales, compromiso organizacional 
+ 
+14 
+ 
+y burnout, comprobando que aquellos trabajadores que desarrollan un 
+compromiso organizacional de tipo afectivo presentan menores niveles de 
+estrés. Asimismo, si los individuos perciben bajos niveles de conflictos 
+interpersonales y se encuentran más comprometidos, a nivel afectivo y 
+normativo, presentan menores niveles de burnout. Por el contrario, si la 
+variable conflictos interpersonales difiere a lo antedicho, es decir es crítica, esta 
+relación entre el estrés y el compromiso se modifica ya que se verificaron en 
+ese caso altos niveles de estrés. Es decir, ante conflictos con sus pares, jefes o 
+usuarios del servicio, el estrés tiende a ser mayor en los empleados más 
+comprometidos. En la presente investigación se concluyó que el compromiso 
+organizacional actúa como modulador ante la presencia de estresores. Esto se 
+debe a que cuando hay altos niveles de compromiso, una situación estresante 
+puede ser interpretada y afrontada de manera positiva.  
+En un estudio realizado en Chile por Castro Otto, Martínez Adrioasola, Robledo 
+Candia y Sierra Palacios (2014) en una empresa minera, cuya muestra estuvo 
+compuesta por hombres y mujeres, concluyo que ciertas variables laborales 
+tales como la antigüedad en la organización y en el puesto de trabajo influyen 
+significativamente sobre la variable compromiso, aumentándola. 
+De León y Jiménez García (2014) al analizar la relación entre el compromiso y 
+el sentido de pertenencia, concluyeron que ambos constructos son diferentes 
+entre sí y se relacionan de manera distinta con el bienestar psicológico de 
+acuerdo con el tipo de trabajo desempeñado por el individuo. En este caso, los 
+empleados que se encuentran en puestos de base desarrollan un mayor 
+compromiso afectivo. En los casos de desempeñarse en un puesto de mando 
+será mayor su sentido de pertenencia. 
+Por otro lado, en cuanto al estudio del estrés laboral en Portugal, Ramos y 
+Jordao (2015) analizaron la relación de esta variable en función del sector de 
+pertenencia de la empresa. Los resultados arrojaron que el sector privado 
+vivencia mayores niveles de estrés que el sector público. Con respecto a las 
+fuentes de estrés, no difieren en ambos sectores. 
+Ramírez y Zurita (2009) en un estudio realizado a trabajadores en el ámbito 
+educacional evidenciaron que los empleados que presentan una visión positiva 
+hacia su trabajo presentan menor tendencia a desarrollar estrés.  
+ 
+15 
+ 
+En un estudio comparativo de esta variable en función del género, realizado en 
+el año 2005 en Argentina aplicado a una muestra de empleados bancarios, los 
+autores Zaldúa, Bottineli, Pawlowicz y Nabergoi, concluyeron que las mujeres 
+sufren mayor estrés laboral que los hombres. Asimismo, en la población 
+estudiada, las causas que producen un mayor nivel de estrés son las 
+vinculadas con el trato de los clientes (maltrato y presión por tiempos de 
+espera).  
+La relación entre la implicación con el trabajo, el estrés y la satisfacción laboral 
+fue estudiada en México dando como resultado que, a mayor implicación con el 
+trabajo, el estrés no influye sobre la satisfacción laboral. Sin embargo, los 
+autores López Araujo, Segovia y Peiró (2007), concluyeron que en los casos en 
+que el estrés es elevado, la satisfacción laboral puede ser alta si las 
+dimensiones “sentimientos de deber” y “obligación hacia el trabajo” 
+(correspondiente a la variable implicación en el trabajo), son altas. 
+De acuerdo con los resultados obtenidos por Ramos y Jordao (2014), la 
+variable sociodemográfica género no presenta diferencias significativas en 
+cuanto a la vivencia de estrés laboral. Sin embargo, los hombres mostraron 
+mayor implicancia con la organización y menos factores de riesgo que las 
+mujeres. 
+De acuerdo con investigaciones realizadas en organizaciones brasileñas 
+públicas y privadas, Oswlado, Días, Spers y Filho (2012) concluyeron que las 
+principales causas de estrés laboral son la presión en el trabajo, desajustes en 
+el clima, remuneración inadecuada, ausencia de apoyo de sus pares y 
+supervisores, ausencia de un plan de carrera, entre otros. 
+En un estudio cualitativo realizado en la banca brasilera efectuado con el fin de 
+investigar las condiciones laborales de los empleados bancarios, Silva y 
+Navarro 
+(2012) 
+determinaron 
+que 
+presentaban 
+enfermedades 
+físicas 
+relacionadas con la intensificación de su trabajo y la necesidad de cumplir con 
+objetivos difíciles, entre otros. Esto les generaba angustia, preocupación y 
+frustración ante la falta de crecimiento profesional. 
+Ariza, Casamedunt y Morales (2013) analizaron el estrés en empleados de un 
+banco en Europa y concluyeron que el nivel de estrés se relacionaba con el 
+grado de implicación del empleado con la organización. Además, lo relacionan 
+ 
+16 
+ 
+con la crisis económica de los países ya que las personas (clientes) suelen 
+responsabilizar a los empleados por cualquier consecuencia de las políticas 
+económicas.  
+La relación entre las variables estudiadas en la presente investigación, 
+compromiso organizacional y estrés laboral ha sido investigada por Chirumbolo 
+y Hellgren (2003), determinando que, en niveles de estrés altos, el trabajador 
+tendería a alejarse psicológicamente de la situación, por lo cual se produce 
+menos compromiso con la empresa y menor satisfacción laboral. 
+Por otro lado, un estudio realizado en entidades financieras españolas, 
+Sánchez Hernández (2003) concluyo que, a mayor presencia de compromiso 
+organizacional, menor estrés se produce en sus empleados. 
+Lazarini y Urbiola Solís (2012) partieron de dos perspectivas opuestas en 
+cuanto a la relación de las variables estudiadas. Por un lado, la influencia entre 
+un alto compromiso laboral y el mayor efecto del estrés, debido a que su 
+identificación con la organización y los esfuerzos invertidos en ella los hacen 
+más vulnerables. Por otro lado, la segunda perspectiva seria su opuesto, es 
+decir que el compromiso organizacional da como resultado menores niveles de 
+estrés ya que esta funcionaria como una protección frente a estresores. Luego 
+de su estudio a una empresa de gas en Costa Rica, corroboro la segunda 
+vertiente. Sin embargo, la correlación entre ambas variables fue débil por lo 
+cual sugieren que pueden existir otras variables que interfieran en la relación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+3 - Marco Teórico 
+ 
+3.1 Compromiso organizacional 
+ 
+3.1.1 Definición de compromiso 
+ 
+El término compromiso se define como una obligación contraída. Es un deber, 
+moral o psicológico hacia una persona, situación o institución (Arias Galicia, 
+2001).  
+3.1.2 Definición de compromiso organizacional 
+ 
+El deseo de un trabajador por seguir perteneciendo a la organización se define 
+como compromiso organizacional, el cual influye en la persona en su decisión 
+de quedarse en la empresa o bien abandonarla (Colquitt, 2007). 
+Por otro lado, Ayensa y González Menoda (2007) lo definen como la fuerza con 
+la que un individuo se relaciona con la organización y en función de eso sigue 
+un curso de acción relevante para la misma. 
+Siguiendo a estos autores, postulan que la gran mayoría de las definiciones 
+sobre este constructo implican que esta vinculación se relaciona con un tipo de 
+actitud o comportamiento que beneficiará a la organización, ya que predispone 
+al trabajador a ser de determinada manera.  
+Según Kahn (1990) es un estado psicológico, de tipo positivo que experimentan 
+los trabajadores en relación con la empresa en la cual se desempeñan. Este 
+vínculo de lealtad, por el cual el trabajador desea permanecer en la 
+organización, se relaciona con la creencia que tiene acerca de la importancia 
+de su labor y la necesidad y utilidad de sus funciones. Asimismo, este vínculo 
+implica la aceptación de las metas de la organización, la decisión de realizar 
+esfuerzos extras en beneficio de esta y el deseo de seguir siendo miembro 
+activo de la misma.  
+Siguiendo con esta línea, Meyer y Allen (1991), también lo definen como un 
+estado psicológico que experimenta el individuo hacia la organización, el cual 
+influye en la decisión de permanecer en ella. Los empleados que se encuentran 
+comprometidos tienen mayores probabilidades de permanecer en la 
+organización que aquellos que no lo están.  
+ 
+18 
+ 
+Kruser (2013) lo describe como el sentimiento que lleva a recomendar dicha 
+organización y a sentirse orgulloso de pertenecer a ella. A su vez, la persona 
+se siente más satisfecha, razón por lo cual no evalúa la posibilidad de buscar 
+otro trabajo. Como consecuencia del grado de compromiso del individuo con la 
+organización, su conducta y comportamiento tendrán determinado curso. 
+Por otro lado, se lo podría definir como el desempeño global del talento de la 
+persona, ya que permite verificar el nivel de satisfacción del empleado hacia la 
+organización. Puede suceder que éste no se encuentre conforme con su 
+puesto, pero eso no lo llevará a renunciar ya que se encuentra satisfecho con 
+la organización en su conjunto, el puesto podría ser temporal. La diferencia 
+entre el compromiso con el trabajo y el compromiso organizacional es que el 
+primero significa la identificación con el trabajo específico de uno (puesto), 
+mientras que el segundo es hacia la organización en su conjunto (Robbins, 
+1999).  
+Chiavenato (1992) lo define como la comprensión del pasado y presente de la 
+organización y de sus objetivos, los cuales sus miembros comparten. Es el 
+vínculo afectivo entre estos y la organización, el que se desarrolla con el fin de 
+hacer propio los objetivos de esta.  
+3.1.3 Factores que lo promueven 
+ 
+Una persona puede estar obligada legalmente mediante un contrato a 
+desempeñarse en determinada organización sin que esto implique estar ligado 
+afectivamente a ella. En el caso que trabaje allí a desgano puede generar 
+múltiples consecuencias tales como estrés, conflictos interpersonales, 
+ausentismo, abandono de la organización, entre otros. Por lo cual el 
+compromiso resulta ser un activo importante para las organizaciones (Arias, 
+2001).  
+Para que se desarrolle es fundamental que el empleado y la organización 
+compartan los valores, la visión y misión, es decir tenga la misma mirada hacia 
+el futuro de la empresa, conozcan el porqué de su existencia y sepan describir 
+y contribuir a los valores que promueve en la vida cotidiana. Esto se da a través 
+de la socialización organizacional, donde se aprende además la cultura, 
+normas y creencias de la misma (Senge, 1990).  
+ 
+ 
+ 
+19 
+ 
+Steers (1977) propuso tres fuentes de compromiso:  
+- 
+Características personales: refiere a los intereses del sujeto, escolaridad, 
+necesidad de logro, entre otros. 
+- 
+Características del trabajo: características de la tarea, feedback, sentir el 
+trabajo como un desafío, identidad con la tarea, etc. 
+- 
+Experiencias en el trabajo: equipo de trabajo, percibirse importante dentro de la 
+organización, tiempo invertido, esfuerzo, confianza en la organización, 
+capacitación, etc. (Steers, 1977, citado en Arias, 2001). 
+Ayensa y González (2007) postulan que algunas de las variables que 
+promueven y condicionan el compromiso organizacional son: la antigüedad en 
+la organización y en el puesto; el clima laboral; la estructura de la organización; 
+la variedad de las tareas realizadas y el sistema de gestión de calidad.  
+El empowerment también puede determinar el compromiso ya que si la 
+organización potencia sus recursos humanos a través de capacitación y el 
+desarrollo de conocimientos y habilidades, el empleado podría alcanzar un alto 
+grado de compromiso. El individuo, al reconocer estas posibilidades, fortalecerá 
+el vínculo con esta. El empowerment se define como la habilitación a que la 
+persona actué por sí misma y facilité la iniciativa por parte de otros (Ríos 
+Manríquez, Téllez, Ramírez & Ferrer Guerra, 2010).  
+3.1.4 Modelo de Meyer & Allen. 
+ 
+Meyer y Allen lo definen como un estado psicológico entre la organización y el 
+individuo, que da como resultado determinado curso de acción en relación con 
+su continuidad en la misma. Estos autores postulan el compromiso como un 
+constructo multidimensional, el cual debe ser comprendido desde diferentes 
+visiones, basándose en los diversos vínculos que puede formar el trabajador 
+con la institución, los supervisores y su puesto de trabajo. Cada componente 
+refiere a una manera distinta de relacionarse con la organización postulando 
+entonces tres dimensiones: afectivo, el cual se refiere al deseo; de 
+continuación o pertenencia, el que se relaciona con la necesidad y el 
+normativo, el cual lo vincula con el deber. (Chiang, Núñez, Martin & Salazar, 
+2010). 
+La primera dimensión es de tipo emocional y se encuentra basada en la 
+identificación y el involucramiento hacia la organización. Los empleados que 
+ 
+20 
+ 
+presentan dicha dimensión continúan en la empresa porque así lo desean. El 
+compromiso afectivo se encuentra influido por la cultura organizacional y sus 
+elementos simbólicos (Cabrera Lazarini & Urbiola Solís, 2012). Los individuos 
+sienten satisfechas sus necesidades y expectativas, por lo cual disfrutan el 
+pertenecer a la organización (Chiang., et al, 2010). Este sentimiento de 
+pertenencia los hace sentir orgullosos e implica una identificación con los 
+valores y metas de la empresa que conlleva a un estado de preocupación 
+cuando se presentan problemas en la misma. Las personas con elevado 
+compromiso afectivo disfrutan realizando esfuerzos extras en pos de un buen 
+desempeño en sus tareas (Meyer & Allen, 1991). 
+El compromiso de continuidad, permanencia o calculativo se relaciona con los 
+costos que generaría dejar la organización, por lo cual permanecen en ella por 
+necesidad (Cabrera Lazarini & Urbiola Solís, 2012). El trabajador se siente 
+vinculado a la organización en función de lo invertido, es decir por el tiempo, 
+esfuerzo y dinero. Evalúa entonces los costos físicos, psíquicos y financieros 
+concluyendo que dejarla implicaría una perdida. Además de reconocer las 
+escasas posibilidades que tiene en el mercado laboral si desea renunciar. Por 
+lo expuesto, permanece en esta para que su inversión se vea retribuida (Blanco 
+& Castro, 2011). Este tipo de compromiso se encuentra vinculado de manera 
+negativa con el desempeño laboral excepto cuando la permanencia en el 
+empleo se relaciona con este factor. Por lo tanto, en aquellos empleados que 
+prevalezca, permanecerán, pero no se esforzaran por el buen rendimiento, sino 
+que será lo justo y necesario, cumpliendo sus tareas dentro de lo esperado 
+(Meyer & Allen, 1991).  
+Por último, el normativo refiere a los sentimientos de obligación de permanecer 
+como una especie de deber (Cabrera Lazarini & Urbiola Solís, 2012). Para que 
+se desarrolle este tipo de compromiso es importante el proceso de 
+socialización que tuvo el individuo, es decir el respeto por las normas, el valor 
+que le de los grupos de pertenencia, la lealtad al empleador y el reconocer lo 
+que la empresa le ha brindado por ejemplo en capacitación y desarrollo. Esto 
+genera sentimientos de retribución que implican la obligación de permanecer 
+como un reconocimiento hacia la organización. Su vínculo en este caso se 
+reflejará como un deber (Omar. et al, 2005). Cuando este tipo de vinculación se 
+da de manera primaria, se relaciona con un buen desempeño laboral, la 
+asistencia al trabajo y la ciudadanía organizacional.  
+ 
+21 
+ 
+El compromiso afectivo es el que mayor influencia positiva tiene para la salud 
+mental ya que establecer lazos basados en experiencias positivas, los hacen 
+sentir satisfechos y dispuestos a dar su mayor esfuerzo para lograr las metas 
+organizacionales.  
+Por otro lado, estos componentes o dimensiones se relacionan con 
+perspectivas distintas. El compromiso afectivo se lo vincula con una 
+perspectiva psicológica, la cual posee tres elementos: identificación con los 
+valores y metas de la organización, el deseo de contribuir al alcance de los 
+objetivos de la empresa y el deseo de formar parte de esta. Esta identificación 
+se experimenta con sentimientos tales como orgullo y solidaridad. La segunda 
+dimensión, de continuidad, refiere a una perspectiva de intercambio ya que 
+surge como resultado de una transacción de incentivos y contribuciones entre 
+la organización y el trabajador. El individuo ve a los beneficios que le brinda la 
+organización como incentivos. En esta relación influye la edad, antigüedad en 
+la empresa, nivel educativo y capacitación.  
+La tercera perspectiva, la de atribución, se relaciona con el compromiso 
+normativo. Esta perspectiva también es de tono emocional ya que el 
+sentimiento de obligación puede tener su origen en la formación del trabajador 
+desde momentos evolutivos distintos tales como la adolescencia, primera 
+experiencia laboral, etc. La persona puede experimentar un sentimiento de 
+deuda hacia la organización por la oportunidad, por lo que su trabajo puede ser 
+incondicional (Ríos Manríquez.  et al, 2010).  
+Estas dimensiones pueden ser vivenciadas de manera simultánea y en 
+distintos grados, es decir puede darse un elevado nivel de compromiso de un 
+tipo y un grado bajo o medio de otro, en líneas generales prevalece uno. El 
+instrumento que crearon para su medición de hecho no indica un puntaje 
+global, sino que mide la presencia de las tres dimensiones (Meyer & Allen, 
+1996). 
+Por otro lado, se podría agrupar distintas causales que influyen en el grado de 
+compromiso. Las variables relacionadas con la persona serian la edad, sexo, 
+nivel educativo, estado civil, entre otros. En líneas generales estas se 
+relacionan con el tipo de compromiso de continuidad ya que están relacionadas 
+con el costo que le generaría el dejar la organización.  
+ 
+22 
+ 
+Adicionalmente se encuentran aquellos aspectos relacionados con el trabajo en 
+sí, tales como variedad en la tarea, autonomía, el rol que se cumple dentro de 
+la organización, desarrollo de habilidades, salario, participación en la toma de 
+decisiones, etc. Estas experiencias se relacionan de manera positiva con el 
+compromiso afectivo y normativo.  
+Por último, se encuentran las variables relacionadas con el grupo como el clima 
+laboral, liderazgo, estructura y tamaño de la organización, valores que 
+promueve, etc., las cuales se relacionan también con los compromisos antes 
+mencionados (Ayensa & González Menorca, 2007).  
+3.1.5 Otros modelos 
+ 
+O´Reilly y Chatman (1986) definen al compromiso como un lazo psicológico el 
+cual  puede tener tres dimensiones: la primera llamada cumplimiento, en la cual 
+las acciones del sujeto se dan para obtener determinados reconocimientos por 
+lo cual las actitudes privadas y públicas pueden diferir; identificación con la 
+empresa, en donde el individuo se puede sentir orgulloso de pertenecer y 
+respetar los valores del grupo sin adoptarlos como propios es decir lo sienten 
+en función de mantener o establecer una relación satisfactoria; y por último la 
+llamada internalización en donde la influencia se da porque los valores que 
+promueven son congruentes con los propios. Estas tres dimensiones pueden 
+combinarse entre sí (Cabrera Lazarini & Urbiola Solís, 2012). 
+La teoría de Becker (1960) postula que el compromiso se da por una decisión 
+individual. El trabajador realiza esfuerzos para obtener beneficios en la 
+empresa como por ejemplo una jubilación. Entonces el compromiso aparece en 
+función de las acciones que realiza a favor de la organización. El vínculo se da 
+como consecuencia de las inversiones realizadas, que resultan ser incentivos 
+para no abandonar la empresa (Betanzos Diaz, Andrade Pals & Paz Rodríguez, 
+2006).  
+Solinger (2008), como crítica al modelo de Meyer y Allen, postula que el 
+compromiso en un concepto general. Una actitud del individuo hacia la 
+organización equivalente a un apego emocional. Lo que refieren los autores 
+antedichos como compromiso normativo y calculativo son comportamientos 
+que derivan en el abandono o no por parte del trabajador. Solo tiene en cuenta 
+ 
+23 
+ 
+entonces el tipo de compromiso afectivo, a saber, la lealtad de la persona hacia 
+la organización en su conjunto y no hacia su tarea o trabajo en sí. 
+Swinscoe (2013) plantea al compromiso desde el lado de la organización hacia 
+sus empleados postulando así cinco componentes claves en el compromiso. 
+En primer lugar, señala la importancia de que la organización haga foco en el 
+compromiso de sus miembros, lo cual conlleva a la percepción por parte de 
+estos de posibilidades de crecimiento. Por otro lado, el bienestar de los 
+trabajadores dará lugar al orgullo hacia la organización y el trabajo. Este 
+bienestar se ve promovido por la motivación, clima laboral y el sentir que la 
+organización lo considera como alguien importante. El tercer elemento refiere al 
+rol que ocupan los directivos de la organización en cuanto al informar a su 
+equipo de los objetivos estratégicos y aspiraciones de la organización, es decir 
+una comunicación que promueva la identificación de estos objetivos como 
+propios. El cuarto componente refiere al trato de los puestos jerárquicos hacia 
+los empleados en cuanto a que este sea justo y equitativo. Por último, indica 
+que es necesaria la participación, es decir fomentar la comunicación abierta 
+entre los miembros lo que llevará a relaciones significativas entre estos. Es 
+necesario que los directivos se relacionen con sus empleados y estén atentos a 
+sus necesidades y preocupaciones.  
+May, Gilson y Harter (2004) también definen al compromiso de manera 
+multidimensional, identificando tres componentes, los cuales se relacionan 
+entre sí. Las tres dimensiones son: física relacionada con la energía que se 
+utiliza para realizar las actividades laborales; emocional, el cual refiere a los 
+sentimientos que se involucran en la labor y el componente cognitivo que sería 
+la implicación con el trabajo.  
+La teoría del vínculo afectivo define al compromiso desde una faceta 
+actitudinal, la cual expresa la ligazón psicológica entre el individuo y la 
+organización. Se postulan tres componentes: la identificación con las metas y 
+valores de la organización, contribuir entonces para que esta alcance sus 
+objetivos y el deseo de formar parte de la organización. Se genera entonces un 
+vínculo empleado - organización a través de una identificación e implicación lo 
+cual llevara a determinadas respuestas cognitivas. El instrumento que lo mide, 
+siguiendo esta teoría hace foco en la lealtad y el esfuerzo a favor de la 
+empresa (Betanzos Diaz, et al, 2006). 
+ 
+ 
+24 
+ 
+3.1.6 Consecuencias del compromiso organizacional 
+ 
+El compromiso influye en el comportamiento del individuo dentro de la 
+organización.  
+El desempeño y la retención laboral se relacionan con la variable compromiso 
+en los trabajadores dado que su presencia daría como resultado un buen 
+desempeño y se evitaría el deseo de abandono de la empresa influyendo 
+también en la disminución de la rotación laboral. A su vez es relevante para la 
+eficiencia de la empresa ya que tiene inferencia en el cumplimiento de las 
+metas y objetivos organizacionales a través de su capital humano (Otto, 
+Martínez Adrioazola, Robledo Candia & Sierra Palacios, 2014).  
+Existen cuatro tipos de resultados que se verían influidos por el grado de 
+compromiso a saber: talento vinculado con el ausentismo y retención, 
+operativos generando mayor o menor productividad, relacionado con clientes 
+en función de su satisfacción y retención y, por último, financieros, es decir de 
+rentabilidad (incremento en los ingresos de la organización).  
+Las organizaciones en las cuales sus empleados experimentan un grado alto 
+de compromiso presentan mayores niveles de productividad y mayores índices 
+de rentabilidad. En relación con el talento, los niveles de retención no son tan 
+significativos y con el resultado vinculado a los usuarios del servicio, es decir 
+clientes, la satisfacción es alta (Aon Hewitt, 2015).  
+El clima organizacional, las características del trabajo, las características 
+individuales y los roles influyen en la variable compromiso organizacional. A su 
+vez esta variable es antecedente para predecir el ausentismo, la rotación, el 
+abandono a la organización, el desarrollo de los empleados, la productividad y 
+el alcance de las metas organizacionales (Betanzos Diaz., et al, 2006). 
+El sentido de pertenencia también resulta ser una variable en íntima relación 
+con el compromiso desde la perspectiva de la identificación con la 
+organización. Se la podría definir como la implicancia hacia un sistema social, 
+de manera tal que la persona se sienta de alguna forma como indispensable 
+para ese sistema. Por lo cual para poder desarrollarla es necesario que las 
+personas se sientan valoradas, aceptadas y necesitadas dentro de ese grupo y 
+adicionalmente sean congruentes entre sí. El desarrollo entonces de ambas 
+variables daría como resultado bienestar psicológico de los empleados (Dávila 
+de León & Jiménez García, 2004). 
+ 
+25 
+ 
+Glazer y Kruse (2008), postulan al compromiso como una variable moduladora 
+que hará que aquellos empleados que se encuentren comprometidos con la 
+organización intenten resolver activamente los problemas de misma, lo cual 
+aumenta su ansiedad y los hace más vulnerables ante el estrés. Sin embargo, 
+también se convierte en una estrategia de afrontamiento ante una situación 
+estresante, ya que los empleados altamente comprometidos se sentirán más 
+seguros lo cual será un recurso adaptativo muy valioso.  
+ 
+3.2 Estrés laboral 
+ 
+3.2.1 Definición de estrés 
+ 
+Se lo define como una adaptación del individuo a su ambiente, en la que 
+influyen las características individuales y los procesos psicológicos. Se da 
+como consecuencia de alguna acción o situación que le demanda a la persona 
+determinadas respuestas físicas y psicológicas (Ivancevich & Matteson, 1985 
+citado en Atalaya, 2001). 
+Es un estado de tensión y presión que se produce ante situaciones 
+consideradas exigentes y en las cuales el individuo siente que podrían superar 
+sus recursos y capacidades (Atalaya, 2001).  
+Lazarus y Folkman definen al estrés como la interpretación cognitiva que las 
+personas realizan de su entorno, es decir ante determinada situación percibe 
+que podría ser potencialmente peligrosa y que no posee los recursos para 
+enfrentarla. Durante este proceso se realizan tres tipos de valoraciones: la 
+primaria en donde se evalúa la cantidad de peligro presente en la situación; la 
+secundaria en donde entran en juego los recursos o estrategias para hacerle 
+frente y, por último, la revaloración en base a lo evaluado anteriormente. Se 
+determina entonces si la situación resulta ser estresante o no (Lazarus, 1991 
+citado por Guevara Gasca & Galán Cuevas).  
+Existen dos tipos de estrés, el positivo llamado eustres en el cual la situación 
+es considerada por el individuo como un reto o desafío y el negativo llamado 
+distrés, el cual produce emociones negativas.  
+El estrés prepara al individuo para dos respuestas, huir o luchar, es decir lo 
+activa. Sin embargo, esta situación por un tiempo prolongado resulta ser 
+ 
+26 
+ 
+perjudicial. El equilibrio se daría con la combinación de distrés y eustres (Selye, 
+1974).  
+Según Schwab y Pritchard (1950 citado en Atalaya, 2011), el estrés se puede 
+evaluar de acuerdo con su intensidad y duración. Hay situaciones breves de 
+estrés, que se pueden dar en la vida diaria como por ejemplo un problema en el 
+tránsito, el cual dura un tiempo corto (horas) y tiene una influencia mínima en el 
+sujeto, quien podría controlarlo y recuperarse rápidamente de sus efectos. Las 
+situaciones moderadas pueden durar varios días por ejemplo exceso de 
+trabajo, y pueden iniciar problemas y enfermedades psicosomáticas. Por 
+último, las situaciones graves de estrés son aquellas que se manifiestan por un 
+prolongado periodo de tiempo y los estresores se tornan crónicos generando 
+síntomas físicos y psíquicos.  
+3.2.1.1 Modelo transaccional 
+ 
+Lazarus y Folkman (1984) postulan al estrés como una relación entre un 
+estresor y un individuo, es decir una relación estimulo respuesta donde el 
+sujeto percibe la situación como amenazante o desbordante.  
+A este modelo se lo llama transaccional ya que se refiere a un proceso 
+dinámico que se da entre el individuo y su ambiente, en donde al evaluar este 
+entorno el sujeto percibe que su bienestar se ve en peligro debido a no poder 
+hacer frente a este con los recursos con los que cuenta (citado en Atalaya, 
+2001). 
+3.2.2 Definición de estrés laboral 
+ 
+Según la OMS se lo define como la reacción del individuo ante las exigencias y 
+presiones que se dan en el ámbito laboral, las cuales no se ajustan a sus 
+capacidades y conocimientos. Dependiendo de las características individuales 
+y de los recursos personales, el individuo experimentará diferentes vivencias. 
+Frente a presiones laborales, puede que la persona se sienta motivada, con 
+ganas de aprender, es decir que resulte positivo. Sin embargo, cuando estas 
+presiones, en función de lo antedicho, resultan excesivas o difíciles de controlar 
+dará como resultado la vivencia de estrés (OMS, 2014).  
+Siguiendo la línea de las dos vertientes del estrés aplicado al ámbito laboral, el 
+eutres, sería cuando la persona siente que posee los recursos para responder 
+ 
+27 
+ 
+de manera eficiente ante las exigencias laborales, las experimenta como un 
+desafío, llevándolo a desarrollar habilidades nuevas. Cuando siente que estas 
+no son suficientes para enfrentar la situación surgiría entonces el estrés (Leal 
+2010, citado por Lazarini & Urbiola Solís, 2012). Es decir, las características 
+individuales influyen en la manera de interpretar las situaciones y así 
+experimentarlas como estrés. Las situaciones que pueden ser estresantes para 
+una persona puede que no lo sean para otra (Lazarini & Urbiola Solís, 2012).  
+Sin embargo, hay autores que lo consideran no como algo individual sino 
+colectivo ya que los sujetos en una organización van a estar condicionados por 
+las mismas fuentes de estrés, las cuales serán interpretadas de la misma 
+manera en función de la cultura organizacional. Por lo tanto, consideran al 
+estrés como una vivencia colectiva con fuentes y estrategias de afrontamiento 
+también comunes. La vivencia de estrés tendrá consecuencias en cuanto al 
+comportamiento de los trabajadores en relación con su vínculo con la 
+organización y asociados con su desempeño laboral. El individuo ante esta 
+vivencia desarrollará estrategias de afrontamiento dirigidas a disminuir o 
+convivir con ella o bien ante situaciones potencialmente estresantes las 
+desarrollará con el fin de evitarlas (Ramos & Jordao, 2015). 
+Otros autores definen a la variable estrés como el estado psicológico y 
+fisiológico que se produce en las personas ante ciertas características 
+ambientales que producen un desequilibrio entre la demanda y la capacidad de 
+adaptación a la misma, lo que da como resultado una respuesta indefinida. Se 
+lo podría describir en varias fases, en primera instancia las personas 
+experimentan alarma al enfrentarse a un estresor. Si este persiste se trata de 
+responder a él de dos maneras: a través de la resistencia, atacando al tensor 
+en forma directa o bien adaptándose a él para ser más productivo y creativo. La 
+presencia del estresor de manera crónica da lugar a diversos síntomas 
+fisiológicos y psicológicos como por ejemplo el agotamiento (Atalaya, 2001).  
+Siguiendo el proceso antedicho, se postula entonces tres fases, según Selye 
+(1956), la fase de alarma en la cual el organismo frente a la tensión se prepara 
+para la lucha o la huida con el fin de preservarse. Si el tensor permanece por 
+un tiempo indeterminado se da lugar a la siguiente fase que es la de 
+resistencia, en donde los principales síntomas son problemas de memoria, 
+cansancio, alteraciones en la atención, entre otras. Lipp (2000) agrega una fase 
+más llamada cuasiextenuación que se da cuando el organismo se encuentra 
+ 
+28 
+ 
+débil y no consigue la adaptación de la fase precedente. Ante esta debilidad 
+aumenta la vulnerabilidad y el sujeto se encuentra más propenso a sufrir 
+enfermedades. Por último, la fase de extenuación se produce cuando la 
+situación es crónica y la persona no puede desarrollar estrategias para 
+enfrentarla lo que produce agotamiento y quiebre de la homeostasis (Oswaldo, 
+Dias, Spers & Ferraz Filho, 2012). 
+3.2.3 Fuentes de estrés laboral 
+ 
+Se refiere a aquellos factores ambientales o situacionales que dan lugar a 
+determinado estado emocional y darán origen a la vivencia de estrés (Mazzola, 
+Schonfeld & Spector, 2011). 
+Según el modelo de Cooper y Payne (1978) hay tres tipos de fuentes 
+potenciales de estrés. Los factores ambientales tales como la incertidumbre 
+económica ante cambios de políticas económicas, las incertidumbres políticas 
+por cambios en los sistemas y la incertidumbre tecnológica como innovaciones 
+y automatización. Las fuentes organizacionales se dividen en varios 
+elementos, a saber: las demandas de la tarea las cuales se relacionan con el 
+diseño del trabajo, la autonomía, la variedad en las actividades, el espacio 
+físico, el grado de automatización de la tarea, entre otras. Cuanto más 
+interdependientes sean las tareas entre las personas mayor es el estrés; las 
+demandas del papel la cual tiene que ver con el rol ambiguo o sobrecarga de 
+tareas; demandas interpersonales que tienen que ver con las presiones debido 
+a la falta de apoyo social y los conflictos interpersonales; estructura 
+organizacional en relación a las diferencias jerárquicas, en donde pueda darse 
+un exceso de reglamento y falta de participación en la toma de decisiones; el 
+liderazgo organizacional el cual representa el estilo administrativo de los 
+directivos los cuales crean determinada cultura en la organización y la etapa de 
+vida de la organización ya que todas forman parte de un ciclo de vida durante 
+el cual presentan crecimiento, maduración y una posterior declinación. Por 
+último, los factores individuales en relación con el contexto de la persona 
+tales como problemas familiares y económicos y los que se vinculan con las 
+características de cada sujeto, los cuales moderan la relación entre el estresor 
+y el individuo. Alguna de estas características individuales son la percepción de 
+la situación, la experiencia laboral, el apoyo social (vínculos positivos entre 
+pares y jefes), el punto de control (cuanto piensan las personas que controlan 
+ 
+29 
+ 
+lo que sucede en sus vidas) y la personalidad de tipo A (personas adictas al 
+trabajo).  
+El ambiente facilitador para desarrollar estrés es aquel en el cual los individuos 
+tienen poco control y posibilidades de decisión, menor apoyo social y siente 
+que las exigencias laborales superan su capacidad. El rol de las entidades 
+juega un papel importante dado que influyen las características del trabajo 
+(puestos, tareas, volumen y horarios de trabajo).  
+Las mayores causas de estrés laboral se relacionan con las características 
+del trabajo y con el contexto laboral. En el primer caso hay que tener en 
+cuenta las características del puesto (tareas monótonas, desagradables, con 
+poca variedad), volumen y ritmo de trabajo (exceso o escases), horario de 
+trabajo (horarios estrictos, prolongados, impredecibles) y participación y control 
+(falta de participación en la toma de decisiones, falta de control sobre los 
+métodos de trabajo, horario, entorno). En relación al contexto laboral se 
+encuentran las siguientes variables: perspectivas profesionales, estatus y 
+salario (inseguridad laboral, pocas perspectivas profesionales, sueldo bajo, 
+actividad poco valorada, entre otros), papel en la entidad (puesto ambiguo, 
+funciones poco claras o contradictorias, tener a  cargo otras personas, etc.), 
+relaciones interpersonales (supervisión inadecuada o que brinda escaso apoyo, 
+conflictos entre compañeros, trabajo solitario, acoso, violencia), cultura 
+organizacional (mala comunicación y liderazgo, falta de claridad en los 
+objetivos y metas organizacionales) y, por último, relación entre la vida familiar 
+y laboral (exigencias contradictorias, falta de apoyo cuando se presentan 
+problemas en alguna de las áreas) (Leka, Griffiths & Cox, 2004).  
+Retomando el contexto laboral a analizar en el presente estudio, las demandas 
+laborales en el sector bancario que dan como resultado la vivencia de estrés se 
+relacionan con los altos estándares de calidad que se les exige a los 
+trabajadores, los controles de seguridad por el manejo de dinero y la 
+prevención de lavado de activos, las regulaciones propias del sistema 
+financiero, los trabajos rutinarios y el ambiente de presión de parte de los 
+usuarios del servicio (Gómez García, Susanavas & Rodríguez, 2018). 
+Siguiendo este último punto, las exigencias de los clientes se hacen mayores 
+en momentos de crisis financieras, por lo cual el estrés aumenta. La ansiedad, 
+las cargas físicas y psíquicas son mayores en función del aumento de horas y 
+la polivalencia de tareas que exige que el trabajador ponga en marcha recursos 
+ 
+30 
+ 
+nuevos constantemente frente a la diversidad de tareas. Las situaciones que 
+producen mayores niveles de estrés son las vinculadas al trato con los clientes, 
+la sobrecarga y la responsabilidad ante las fallas (Zaldúa, Bottineli, Pawlowicz 
+& Nabergoi, 2005). 
+ 
+3.2.4 Efectos del estrés laboral 
+ 
+3.2.4.1 Consecuencias físicas y psíquicas 
+ 
+Las consecuencias del estrés laboral pueden ser de varios tipos. En cuanto a 
+las fisiológicas hay alteraciones hormonales, del sistema nervioso central y 
+cardiovasculares lo que da como resultado síntomas tales como taquicardia, 
+aumento de la presión arterial, tensión muscular, sudoración y problemas 
+respiratorios. En tanto que los efectos psicológicos son el negativismo, tensión, 
+preocupación, depresión, miedo, irritabilidad, ansiedad, motivación disminuida, 
+entre otros. Cognitivamente, la atención y la percepción se verán alteradas, el 
+pensamiento será poco efectivo y el individuo será poco resolutivo.  
+Todos los síntomas antedichos traerán como correlato determinados 
+comportamientos tales como un déficit en el desempeño y rendimiento laboral, 
+ausentismo, rotación y consumo excesivo de sustancias (Houtman, Jettinghoff, 
+& Cedillo, 2008).  
+Sumado a lo anterior, otros autores agregan los siguientes síntomas: angustia, 
+dificultades para la toma de decisiones, displacer en su trabajo, cansancio, 
+intranquilidad y también puede presentar síntomas físicos tales como 
+problemas al dormir, cardiopatías, trastornos digestivos y trastornos musculo 
+esqueléticos. Las reacciones al estrés varían de acuerdo con cada persona, 
+afectándola de manera física, psíquica y comportamental. 
+Desde la perspectiva de la organización, el estrés en sus trabajadores también 
+causa efectos importantes tales como aumento de ausentismo, llegadas tardes, 
+bajo rendimiento, baja productividad, se produce un aumento en la tasa de 
+accidentes laborales y de violencia, por lo cual aumenta el costo para mantener 
+dichas situaciones.  
+Por lo expuesto, es esencial la prevención del estrés tanto para las 
+organizaciones como para sus empleados (Leka, Griffiths & Cox, 2004).  
+ 
+ 
+31 
+ 
+3.2.4.2 BurnOut (Síndrome de “quemarse” en el trabajo) 
+ 
+Cuando el estrés se prolonga en el tiempo y se vuelve crónico se lo denomina 
+Burnout. Se lo define por la coexistencia de tres síntomas principales: 
+agotamiento emocional, despersonalización y baja realización personal. El 
+agotamiento emocional se manifiesta cuando el individuo siente que a nivel 
+afectivo ya llegó a su máxima capacidad y no puede dar más de sí mismo. La 
+despersonalización tiende a evidenciarse en actitudes negativas hacia los 
+receptores del servicio y pares. Por último, la baja realización personal refiere a 
+sentimientos de fracaso y baja autoestima.  
+En principio se lo identificó como un síndrome que se daba en profesionales del 
+ámbito de la salud, pero en estudios posteriores se corroboro que puede darse 
+en otros ámbitos (López Araujo, Segovia & Rodríguez Muñoz, 2008). 
+El primer antecedente histórico se encuentra en un estudio realizado por 
+Schwartz y Mill en 1953, citado en Ramírez Pérez y Lee Maturana (2011), en el 
+cual se describía un sentimiento de baja moral y distancia hacia los pacientes 
+por parte de enfermeras.  
+Algunos de los síntomas que presenta son alteraciones de carácter 
+psicosomático en el sistema inmunológico y defensivo del organismo, 
+alteraciones del cortisol y procesos inflamatorios y en el ámbito psicológico 
+ansiedad y depresión. Además, de carácter cognitivo se puede observar un 
+incremento en la distracción, baja eficacia y errores laborales (Mercado 
+Salgado & Gil Monte, 2011). 
+ 
+2.4.3 Efectos en las organizaciones 
+ 
+El estrés laboral puede afectar el buen funcionamiento y resultados de la 
+entidad ya que sus empleados no se encontrarán en condiciones de dar todo 
+su potencial para lograr sus objetivos por lo cual la productividad y rentabilidad 
+de esta se verán afectadas.  
+Las consecuencias más importantes son: aumento del ausentismo, menor 
+rendimiento y productividad de sus empleados, aumento de la rotación del 
+personal, aumento de quejas de los receptores del servicio (clientes), aumento 
+de posibles demandas legales por parte de los empleados que sufren de 
+estrés, entre otros (Leka, Griffiths & Cox, 2004).  
+ 
+32 
+ 
+3.2.5 Modelos teóricos 
+ 
+3.2.5.1 Modelo de interacción 
+ 
+Este modelo considera al estrés como resultado entre las interacciones de las 
+altas demandas psicológicas y el bajo control por parte del sujeto de estas. 
+Entonces el estrés se da cuando el entorno laboral es muy demandante y el 
+individuo tiene una baja capacidad de control de estas. En esta interacción 
+influye un tercer factor que es el apoyo social. A bajos niveles de apoyo social 
+mayores serán los efectos del estrés. El apoyo social refiere a las relaciones 
+entre pares, entre empleados y sus jefes, el cual puede influir en la estructura y 
+clima laboral (Karasek, 1990 citado en Moreno, García, Rubio Valdehita, & 
+Ramiro, 2004). 
+ 
+3.2.5.2 Modelo de desequilibrio entre demandas y recursos 
+ 
+Este modelo postula que el estrés se produce frente al desequilibrio entre las 
+demandas laborales, exigencias, y los recursos del sujeto frente a estas. 
+Agregando a este desajuste un factor extra que refiere a como el sujeto percibe 
+estas demandas ya que podrían diferir de las demandas en si (Harrison, 1978 
+citado en Atalaya, 2001). 
+3.2.5.3 Modelo de desajuste entre esfuerzo y recompensa 
+ 
+Cuando el esfuerzo es considerado alto en relación con la recompensa recibida 
+surge el estrés, es decir cuando no hay equilibrio entre ambas variables. 
+Influyen entonces en la vivencia de estrés esfuerzos elevados, salarios bajos y 
+bajo control sobre el estatus ocupacional (Moreno, García, Rubio Valdehita, & 
+Ramiro, 2004)  
+3.2.5.4 Modelo ajuste – persona – ambiente 
+Consideran al estrés en relación con las características del entorno laboral que 
+pueden afectar la conducta y salud del trabajador. Los efectos negativos 
+ocurren cuando hay un desajuste entre las capacidades del sujeto y las 
+demandas laborales. Postulan entonces una serie de inputs tales como 
+cantidad de horas de trabajo, libertad para toma de decisiones, capacidad del 
+ 
+33 
+ 
+trabajador, etc., es decir características del entorno de trabajo. Asimismo, hay 
+una serie de outputs a saber: motivación, enfermedades, conductas de riesgo, 
+estados negativos, entre otros (Leibovich de Figueroa & Schmidt, 2004). 
+3.2.5.5 Modelo transaccional 
+Definen al estrés como resultado de la valoración que realiza el sujeto del 
+contexto laboral en relación con los recursos de afrontamiento que este posea 
+para hacerle frente a estos estresores. Es decir, se produce como resultado de 
+la discrepancia entre la percepción de las demandas laborales y los recursos 
+de afrontamiento. 
+Para este enfoque, para poder evaluar el estrés laboral es necesario indagar 
+las interacciones entre estas dos variables (Leibovich de Figueroa & Schmidt, 
+2004). 
+ 
+3.3 Generación X e Y 
+ 
+3.3.1 Definición de generación 
+ 
+Kupperschmidt (2002) define generación como un grupo de personas que 
+comparten determinadas características tales como año de nacimiento, eventos 
+históricos significativos y etapas de desarrollo.  
+Es decir, no solo comparten la cercanía de edad sino también un conjunto de 
+experiencias históricas que los lleva a tener una visión común de la vida, del 
+contexto y de los valores compartidos (González, 2011). 
+Para William Strauss y Neil Howe (1991) citado por Chirinos (2009) una 
+generación está compuesta por individuos que comparten un momento de la 
+historia que les brinda una imagen colectiva. 
+Siguiendo a varios autores, López Paz (2011) postula que el concepto de 
+generación va más allá de una cuestión temporal y biológica, sino que se 
+relaciona con las conductas, acciones, valores y normas que comparten un 
+grupo de personas. Las define como un conjunto de relaciones sociales que se 
+establecen entre distintos grupos, personas y culturas.  
+ 
+34 
+ 
+Golik (2013) coincide con el resto de los autores, postulando como central la 
+idea de compartir experiencias y hechos históricos tales como guerras, 
+movimientos 
+políticos 
+y 
+económicos 
+y 
+cambios 
+tecnológicos. 
+Estas 
+experiencias serán formativas de personalidad, valores y expectativas en 
+común, definiendo así el concepto de personalidad generacional. Esta 
+personalidad vinculada al ámbito laboral se reflejará en las expectativas 
+laborales, el clima laboral y las actitudes y motivaciones laborales. Estas 
+características son propias de cada generación y se diferencian de sus 
+predecesores y posteriores. 
+Se podría estimar que cada 15 años aproximadamente se puede evaluar como 
+ciertas políticas públicas han impactado en el desarrollo y comportamiento de 
+una sociedad. Por este motivo el punto de corte se da tras ese periodo que 
+permitirá evaluar ciertas características generacionales similares (Leibe, 2016).   
+3.3.2 Generación X 
+ 
+Forman esta generación aquellas personas nacidas entre 1961 y 1981.  
+Se caracterizan por ser individualistas, escépticos, orientados hacia los 
+resultados, organizando su vida alrededor del trabajo (Chirinos, 2009). 
+Los rasgos mencionados los distinguen notablemente de la generación anterior 
+(los Baby Boomers), en función de los acontecimientos que vivieron tales como 
+la dificultad e incertidumbre del mercado laboral (Simón & Allard, 2007). 
+Adicionalmente viven un cambio en torno al modelo tradicional de familia ya 
+que comienza la incorporación masiva de las mujeres en el mundo del trabajo 
+(González, 2011). 
+Culturalmente aparecen grupo musicales vinculados con el consumo y dos 
+movimientos llamados “Yuppies” y “Dinks”. El primero se trata de personas con 
+alto poder adquisitivo con expectativas de crecimiento social, profesional y 
+económico. Los segundos son un segmento que se caracterizó por dedicarse a 
+sus carreras profesionales postergando así la formación de una familia.  
+(García, Stein & Pin, 2008). 
+Guilburg (2007), citado por Chirinos (2009), los relaciona con el arquetipo 
+nómada, en función de que viven una infancia independiente, con mucho 
+tiempo solos ya que ambos padres trabajaban y socialmente se verifica una 
+alta tasa de divorcios.  
+ 
+35 
+ 
+Todo lo antedicho hace que sean personas que se adaptan con facilidad a los 
+cambios y busquen flexibilidad en el trabajo con el fin de hallar en él motivación 
+(Chirinos, 2009).  
+3.3.3 Generación Y 
+ 
+ 
+La generación “Y” o Millenians, según Chirinos (2009) comprende aquellas 
+personas nacidas entre comienzos de los años 80 y el inicio del 2000, (1982 – 
+2000 aproximadamente), la mayoría de los estudios realizados giran en torno a 
+esas fechas.  
+Las principales características de este grupo se refieren a su idealismo, su 
+pensamiento es de tipo social ya que privilegian el respeto por el otro, priorizan 
+el trabajo en equipo orientado al logro y la creatividad. Suelen formarse 
+académicamente ya que es de suma importancia el desarrollo personal.  
+Según Lowe, Levitt & Wilson, citado en Irizarry (2009) al crecer en un mundo 
+diferente al de sus predecesores poseen características distintivas y otras 
+expectativas laborales. Tienden a valorar el trabajo en equipo, en función de 
+cómo se desarrolló su formación educativa, un estilo gerencial inclusivo, 
+deseando un feedback inmediato de su desempeño.  
+Buscan trabajos que los motiven y que les representen un desafío. La libertad, 
+independencia y patriotismo son valores fundamentales en su vida. Privilegian 
+en su vida lo que les da placer, por lo cual el tiempo lo invierten en aquellas 
+actividades que lo gratifiquen, es decir su vida no gira en torno al trabajo. Por lo 
+cual buscan un equilibrio entre su trabajo y su vida personal ya que el 
+compromiso consigo mismo es de vital importancia. 
+Cristiani (2010) los denomina la generación “Einstein” por su acceso a la 
+información y las redes sociales y por su capacidad de realizar varias tareas de 
+forma simultánea. Como los autores anteriores destaca que estas personas 
+trabajan como una necesidad de sobrevivir, pero sin sacrificar por ello su 
+realización personal, su valor supremo. 
+Ambas generaciones actualmente comparten el mundo laboral teniendo 
+diferentes perspectivas de la vida, distintos valores y actitudes y formas de 
+trabajar. García, (et al, 2008) plantea que la generación Y son más decididos 
+que sus predecesores, quizás por su formación académica, lo que conlleva a 
+ 
+36 
+ 
+que sean más persistentes en sus ideas y su forma de comunicación sea 
+respetuosa pero no muy formal. Por lo expuesto es necesario lograr integrar 
+ambas miradas para lograr un buen clima laboral y beneficios organizacionales.  
+A diferencia de la generación anterior no buscan la estabilidad en el empleo por 
+lo cual el desafío de las entidades es lograr la fidelización de esta generación 
+de empleados. La lealtad en este caso es hacia las personas y no hacia las 
+organizaciones por lo tanto se debe lograr una cercanía con los empleados que 
+les brinde seguridad y confianza para establecer un vínculo a largo plazo 
+(Leibe, 2016). 
+4. Objetivos, Hipótesis, Justificación y relevancia 
+ 
+4.1 Objetivo General 
+ 
+Indagar si existe relación entre el compromiso organizacional y el estrés laboral 
+en empleados de un banco público en función de pertenecer a la generación X 
+o Y.  
+4.2 Objetivos específicos 
+ 
+Caracterizar la muestra de acuerdo con las variables sociodemográficas 
+recogidas. 
+Describir el compromiso organizacional en sus tres dimensiones en empleados 
+de la entidad bancaria. 
+Evaluar si todas las dimensiones de la variable compromiso organizacional se 
+relacionan de igual manera con el estrés laboral.  
+Determinar el compromiso organizacional en función de pertenecer a la 
+generación X o Y. 
+Comparar el estrés laboral de acuerdo a la pertenencia de los empleados a la 
+generación X o Y.  
+Indagar si existe la relación entre el compromiso organizacional y el estrés 
+laboral en función de pertenecer a la generación X o Y. 
+ 
+ 
+37 
+ 
+4.3 Hipótesis 
+ 
+1) 
+La presencia de compromiso organizacional en cualquiera de sus 
+dimensiones se relaciona con la presencia de menor estrés laboral. 
+2) 
+Las diferencias intragrupales entre la generación X e Y no influye en la 
+relación entre compromiso organizacional y estrés laboral en lo que respecta a 
+las particularidades de cada grupo generacional.   
+3) 
+Con relación a las dimensiones del compromiso organizacional en la 
+muestra se presenta mayor presencia de compromiso afectivo y normativo, en 
+detrimento del tipo de compromiso llamado de continuidad o pertenencia en 
+función de las características de la organización seleccionada.  
+4.4 Justificación y Relevancia 
+ 
+4.4.1 Teórica 
+ 
+La información resultante de la presente investigación arroja datos oportunos 
+que podrían ayudar a determinar si en las variables compromiso y estrés 
+laboral influyen factores sociodemográficos tales como la generación de 
+pertenencia. En función del relevamiento de estudios anteriores la tipología de 
+generaciones no es tenida en cuenta para el estudio de esta relación por lo 
+cual resulta relevante los resultados obtenidos como puntapié inicial para el 
+desarrollo de próximas investigaciones y teorías.  
+4.4.2 Practica 
+ 
+Teniendo 
+en 
+cuenta 
+la 
+importancia 
+del 
+desarrollo 
+del 
+compromiso 
+organizacional y de las consecuencias negativas del estrés laboral y 
+considerando las características de cada generación, la organización en la cual 
+se realizó la muestra y replicándose en otras, podrían promocionar desarrollos 
+de programas abocados a fomentar estrategias institucionales tendientes a 
+favorecer el desarrollo del compromiso de los empleados. Dicha gestión de 
+recursos humanos llevaría a resultados eficaces tanto para las organizaciones 
+como para los empleados tanto en términos de rendimientos como de salud 
+individual e institucional.  
+ 
+ 
+38 
+ 
+ 
+ 
+5. Propuesta metodológica 
+ 
+5.1 Tipo de estudio o diseño 
+ 
+El presente estudio es de tipo cuantitativo y su diseño es no experimental ex 
+post facto ya que no se producen manipulación de las variables intervinientes 
+(Montero & León, 2007). Son investigaciones donde el hecho sucedió y con 
+posterioridad se realiza un análisis de sus causas y consecuencias. 
+De acuerdo con el objetivo se trata de un estudio correlacional ya que se 
+intenta verificar la relación entre las variables a través de coeficientes de 
+correlación. Estos coeficientes indican el grado, intensidad y dirección de la 
+relación de las variables. En el caso que la variable independiente y 
+dependiente varíen de igual forma, es decir hacia la misma dirección, se 
+denominará positiva y su coeficiente será entre 0 y 1. Este coeficiente cuanto 
+más cercano al 1 sea, mayor intensidad habrá en dicha relación. En el caso 
+que las variables covarien hacia direcciones opuestas su coeficiente será 
+negativo (Gordillo, Mayo, Galindo & Gigante, 2010). 
+Adicionalmente es exploratoria ya que pretende ampliar el campo de 
+conocimiento del problema y descriptiva pues describe el objeto de estudio 
+midiéndolo mediante instrumentos, logrando así un conocimiento completo del 
+mismo. 
+A su vez se trata de una investigación transversal ya que los datos son 
+medidos en un tiempo único. De acuerdo con el tipo de datos el estudio es 
+primario ya que los datos son recolectados directamente por el investigador 
+(Corbetta, 2007). 
+5.2 Muestra y Muestreo 
+ 
+Una muestra es probabilística cuando las unidades que la componen tienen 
+una probabilidad conocida de pertenecer a la misma. Cuando este tipo de 
+muestra no es posible, se la llama no probabilística. La presente muestra se 
+seleccionará de acuerdo con un muestreo subjetivo por decisión razonada ya 
+ 
+39 
+ 
+que las unidades de la muestra se incluyeron en función de sus características. 
+(Corbetta, 2007) 
+La muestra estará conformada por 88 empleados de una entidad financiera de 
+carácter público de ambos sexos en un rango de edad de 18 a 57 años los 
+cuales desempeñan sus funciones en diversas áreas del banco y con distintos 
+puestos jerárquicos. Se les brindo los cuestionarios de manera presencial 
+durante la jornada laboral.  
+Criterios de inclusión: 
+- 
+Ser empleado activo de la entidad. 
+- 
+Tener entre 18 a 57 años. 
+Criterios de exclusión: 
+- 
+Ser empleado activo mayor a 57 años ya que no pertenecería a las 
+generaciones estudiadas. 
+- 
+Ser empleado nuevo, es decir con una antigüedad menor 6 meses de ingreso 
+ya que por la poca permanencia en la organización no se podrían evaluar las 
+variables estudiadas.  
+ 
+5.3 Participantes 
+ 
+La muestra estuvo conformada por 88 empleados de ambos sexos (51.1% 
+Masculinos; 48.9% Femenino). Teniendo en cuenta la pertenencia a cada 
+generación se puede observar un 36.4 % generación X y 63.6 % generación Y. 
+En cuanto al resto de las variables sociodemográficas más relevantes se puede 
+ver un 75% de la muestra con residencia en el Gran Buenos Aires y un 25% en 
+CABA. Además, en relación con el nivel de estudios alcanzados, un 36.4% 
+posee universitario completo; un 31.8% universitario incompleto; 17% 
+secundario completo; 11.4% terciario completo y un 3.4% terciario incompleto.  
+Por último, cabe aclarar el nivel de antigüedad de los empleados ya que solo 
+un 19.3% poseen menos de cinco años de antigüedad en la organización 
+mientras que un 25% tienen más de 20 años, un 20.5% entre 11 a 20 años y un 
+35.2% se encuentran en un rango de cinco a diez años de permanencia en la 
+entidad.  
+ 
+ 
+40 
+ 
+ 
+ 
+5.3 Instrumentos 
+ 
+Escala de compromiso organizacional (Allen & Meyer, 1993) en su 
+adaptación y validación al español realizada por Ortega Leyva y Quiroz (2003). 
+Posee una escala de tipo Likert con 7 opciones en un rango que oscila desde 
+1= “totalmente en desacuerdo” a 7= “totalmente de acuerdo”. En total se 
+presentan 18 ítems, 6 para cada tipo de compromiso, a mayor puntuación, 
+mayor presencia de la dimensión, no se obtiene una puntuación global. La 
+dimensión afectiva refiere a un vínculo de tipo emocional relacionada a un 
+deseo de formar parte de la organización. El tipo de compromiso llamado de 
+continuidad refiere a la necesidad de permanencia en la organización en base 
+a un análisis de costo/beneficio. Por último, la dimensión normativa refiere a 
+una vinculación del tipo de un deber u obligación que siente el empleado hacia 
+la organización. Se obtiene entonces tres puntajes que refieren a la mayor o 
+menos presencia del tipo de compromiso.  
+Este instrumento fue utilizado en muestras argentinas por Omar, Paris y 
+Vaamonde (2005). La consistencia interna que se obtuvo (utilizando el 
+coeficiente Alpha de Cronbach) fue de .82 de compromiso afectivo, .76 de 
+compromiso continuo y .73 de compromiso normativo.  
+ 
+Inventario de estrés ocupacional OSI (Osipow & Sponake, 1987) Este 
+cuestionario fue validado en Argentina por Schmidt, Leibovich de Figueroa, 
+Schufer, González y Marconi (2003). Consta de 140 ítems con una escala 
+Likert de 5 puntos (Nunca, Algunas veces, A menudo, Muy a menudo, Siempre) 
+que evalúan la frecuencia en la cual experimentan dicha situación el evaluado.  
+Tiene tres dimensiones: Estrés ocupacional, Tensión psicológica y Recursos de 
+afrontamiento.  
+Estrés ocupacional: mide el grado y manera por la cual vivencia el individuo el 
+estrés laboral. Las subescalas de la dimensión Estrés Ocupacional son: 
+Sobrecarga ocupacional (RO): mide el grado en que las demandas 
+ocupacionales exceden los recursos (personales y del lugar de trabajo) y el 
+ 
+41 
+ 
+grado en que el individuo es capaz de cumplir con la carga esperada en el 
+trabajo; Insuficiencia del rol (RI): mide el grado en que el entrenamiento, la 
+educación, las habilidades y la experiencia del individuo están ajustadas a los 
+requerimientos del trabajo; Ambigüedad del rol (RA): mide el grado en que las 
+prioridades, expectativas y criterios de evaluación, en su lugar de trabajo, son 
+claros para el individuo; Fronteras del rol (RB): mide el grado en que el 
+individuo experimenta demandas de rol y lealtades conflictivas en su ambiente 
+de trabajo; Responsabilidad (R): mide el grado en que el individuo tiene o 
+siente que tiene una gran responsabilidad sobre el desempeño o el bienestar 
+de otros en el trabajo; Ambiente físico (PE): mide el grado en que el individuo 
+está expuesto a altos niveles de toxicidad ambiental o a condiciones físicas 
+extremas.  
+Tensión Psicológica: refiere a los problemas emocionales y psicológicos que 
+vivencia el individuo, la calidad y actitud hacia el trabajo.  
+Recursos de afrontamiento: son las capacidades, entorno de apoyo, 
+habilidades y autocuidado que influyen en el afrontamiento del estrés.  
+Para la dimensión de Roles ocupacionales el coeficiente Alpha de Cronbach 
+fue de .86, para Tensión personal fue de .80 y para Recursos de afrontamiento 
+el coeficiente fue de .85.  
+ 
+5.4 Procedimiento y análisis 
+ 
+Para llevar a cabo el análisis estadístico, descriptivo e inferencial se utilizará el 
+programa estadístico SPSS versión 21. 
+ 
+6 - Resultados 
+ 
+6.1. Prueba de Normalidad y Alfa de Cronbach 
+ 
+Se realizaron los estadísticos descriptivos correspondientes a los ítems de 
+ambas escalas y se obtuvieron los valores de asimetría y curtosis para analizar 
+la normalidad de las mismas. Se obtuvieron índices comprendidos entre ±1,5 
+ 
+42 
+ 
+en todas las variables, lo cual resulta óptimo para realizar análisis estadísticos 
+paramétricos (George & Mallery, 2003). 
+En el presente estudio, la Escala de Compromiso organizacional mostró un alfa 
+de Cronbach entre = 0.71 y 0.85 y en el Inventario de Estrés ocupacional (OSI), 
+se obtuvo un índice Alfa de Cronbach entre = 0.85 y 0.92. 
+6.2 Caracterización de la muestra 
+ 
+Tabla I –Generación 
+Generación de pertenencia 
+% Porcentaje 
+Generación X 
+36.4 
+Generación Y  
+63.6 
+ 
+Tabla II – Sexo 
+Sexo 
+% Porcentaje 
+Femenino 
+48.9 
+Masculino 
+51.1 
+ 
+Tabla III – Estado civil 
+ 
+ 
+ 
+ 
+Tabla IV – Tiene hijos 
+Respuesta % Porcentaje 
+Si 
+42 
+No 
+58 
+ 
+ 
+Tabla V - Estudios alcanzados 
+ 
+Estudios 
+alcanzados 
+% 
+Porcentaje 
+ 
+Secundario completo 17.0 
+Estado civil 
+% Porcentaje 
+ 
+Soltero 
+ 
+39.8 
+ 
+En pareja 
+ 
+40.9 
+ 
+Casado 
+ 
+19.3 
+ 
+43 
+ 
+Universitario 
+incompleto 
+31.8 
+Universitario 
+completo 
+36.4 
+ 
+Terciario incompleto 
+ 
+3.4 
+ 
+Terciario completo 
+ 
+11.4 
+ 
+ 
+Tabla VI – Zona de residencia 
+ 
+Zona 
+ 
+% Porcentaje 
+Ciudad Autónoma 
+de Buenos Aires 
+ 
+25 
+Gran Buenos Aires 75 
+ 
+ 
+ 
+Tabla VII - Antigüedad 
+Rango antigüedad 
+% Porcentaje 
+ 
+Hasta cinco años 
+ 
+19.3 
+ 
+De cinco a diez años 
+ 
+35.2 
+ 
+De once a veinte 
+años 
+ 
+20.5 
+ 
+Mas de veinte años 
+ 
+25.0 
+ 
+ 
+Tabla VIII – Familiares en la organización 
+Respuesta 
+% Porcentaje 
+Si 
+46.6 
+No 
+53.4 
+ 
+Tabla IX – Tiene gente a cargo 
+ 
+Respuesta % Porcentaje 
+ 
+Si 
+26.1 
+ 
+No 
+73.9 
+ 
+ 
+44 
+ 
+ 
+Tabla X – Permanencia en el puesto 
+Tiempo 
+% Porcentaje 
+ 
+Hasta 
+cinco 
+años 
+56.8 
+ 
+De cinco a diez 
+años 
+34.1 
+ 
+De 
+once 
+a 
+veinte años 
+8.0 
+ 
+Mas de veinte 
+años 
+1.1 
+ 
+ 
+ 
+Tabla XI – Se encuentra conforme con su puesto 
+Respuesta % Porcentaje 
+ 
+Si 
+68.2 
+ 
+No 
+31.8 
+ 
+ 
+Tabla XII – Nivel de ingresos 
+Ingresos 
+% Porcentaje 
+ 
+Hasta $30.000 
+8.0 
+ 
+De $30 a $50.000 
+27.3 
+ 
+De 
+$50.000 
+a 
+$70.000 
+28.4 
+ 
+Mayor a $70.000 
+ 
+ 
+36.4 
+ 
+ 
+ 
+6.3.  Descripción de las variables 
+ 
+Escala de Compromiso organizacional 
+ 
+Tabla XIII – Resumen estadísticos de los ítems de la dimensión Compromiso 
+afectivo 
+  
+Ítem 
+M 
+DT 
+ 
+45 
+ 
+ 
+Estaría muy contento de pasar 
+el resto de mi carrera en esta 
+organización. 
+ 
+5.63   1.635 
+Realmente 
+siento 
+como 
+propios los problemas de esta 
+organización. 
+ 
+4.78 1.835 
+No siento un fuerte sentido de 
+pertenencia a mi organización. 
+ 
+5.39 1.974 
+No me siento emocionalmente 
+unido a esta organización. 
+ 
+5.75 1.649 
+No me siento como parte de 
+una familia en mi organización. 
+ 
+5.47 1.681 
+ 
+ 
+ 
+Esta organización tiene un 
+gran significado personal para 
+mi 
+5.70 1.463 
+ 
+Tabla XIV – Resumen estadísticos de los ítems de la dimensión 
+Compromiso de continuidad 
+ 
+Ítem 
+M 
+DT 
+ 
+Ahora mismo, permanecer 
+en mi organización es una 
+cuestión de necesidad más 
+que de deseo. 
+ 
+3.61 
+2.157 
+Aunque quisiera sería muy 
+duro para mi dejar mi 
+organización ahora. 
+ 
+5.42 
+1.766 
+Demasiado en mi vida se 
+vería 
+interrumpido 
+si 
+decidiera 
+dejar 
+mi 
+organización ahora mismo. 
+ 
+5.65 
+1.532 
+Creo que tengo muy pocas 
+opciones para considerar 
+marcharme 
+de 
+esta 
+organización. 
+ 
+4.74 
+1.872 
+Si no hubiese puesto ya 
+tanto de mí mismo en esta 
+organización 
+podría 
+considerar trabajar en otro 
+lugar. 
+ 
+3.44 
+1.982 
+ 
+46 
+ 
+Una 
+de 
+las 
+pocas 
+consecuencias 
+negativas 
+de 
+abandonar 
+esta 
+organización podría ser la 
+escasez 
+de 
+alternativas 
+disponibles. 
+4.44 
+2.061 
+ 
+Tabla XV – Resumen estadísticos de los ítems de la dimensión 
+Compromiso normativo 
+ 
+ 
+ Ítem 
+M 
+DT 
+ 
+No 
+siento 
+ninguna 
+obligación de tener que 
+seguir 
+trabajando 
+para 
+esta organización. 
+4.83 
+1.913 
+ 
+Incluso si fuera para mi 
+beneficioso, no siento que 
+estaría bien dejar ahora 
+mi organización. 
+4.30 
+2.029 
+ 
+Me sentiría culpable si 
+dejase 
+ahora 
+mi 
+organización. 
+3.77 
+2.362 
+ 
+Esta organización merece 
+mi lealtad. 
+4.80 
+2.203 
+ 
+No 
+dejaría 
+mi 
+organización ahora mismo 
+porque tengo un sentido 
+de 
+obligación 
+con 
+las 
+personas de está. 
+3.93 
+2.111 
+ 
+Le debo mucho a mi 
+organización. 
+5.14 
+2.058 
+ 
+Tabla XVI – Resumen estadísticos del cuestionario Compromiso 
+ 
+ 
+ Dimensión  
+N 
+M 
+DT 
+ 
+Compromiso 
+Afectivo 
+88 
+5.45  
+1.31 
+ 
+ 
+Compromiso 
+de 
+continuidad 
+ 
+ 
+ 
+88 
+ 
+ 
+ 
+4.55 
+ 
+ 
+ 
+1.13 
+ 
+Compromiso 
+normativo 
+88 
+4.46 
+1.53 
+ 
+ 
+47 
+ 
+Los ítems relacionados con el tipo de compromiso afectivo arrojaron una media 
+de 5.45, ubicándose por encima de la media de los otros dos tipos de 
+compromiso, por lo cual podríamos inferir que el tipo de compromiso que 
+prevalece en la población estudiada es del tipo afectivo. 
+ 
+Inventario de estrés ocupacional OSI 
+ 
+Tabla XVII – Resumen estadísticos de los ítems del cuestionario Estrés 
+ocupacional 
+ 
+  
+Ítem 
+M 
+DT 
+ 
+En mi trabajo se espera que realice muchas tareas 
+diferentes en muy poco tiempo. 
+3.07 
+1.129 
+ 
+Siento que mis responsabilidades en el trabajo 
+están aumentando. 
+3.43 
+1.019 
+ 
+Se espera que desempeñe tareas para las cuales 
+nunca fui preparada. 
+2.62 
+1.144 
+ 
+Tengo que llevar trabajo a casa. 
+1.40 
+.723 
+ 
+Tengo los recursos que necesito para hacer mi 
+trabajo. 
+2.54 
+1.108 
+ 
+Me siento competente en lo que hago. 
+1.89 
+.895 
+ 
+Trabajo con plazos muy ajustados. 
+2.91 
+.996 
+ 
+Desearía tener más ayuda para cumplir con las 
+demandas que tengo en el trabajo. 
+2.72 
+1.053 
+ 
+Mi trabajo requiere que trabaje en varias áreas 
+importantes al mismo tiempo. 
+2.93 
+1.097 
+ 
+Se espera que haga más trabajo de lo que es 
+razonable. 
+2.51 
+1.119 
+Siento que mi carrera laboral está progresando 
+como lo esperaba. 
+3.43 
+1.335 
+ 
+Siento que mi trabajo se adecua a mis capacidades 
+e intereses. 
+2.95 
+1.302 
+ 
+Estoy aburrido/a de mi trabajo. 
+1.93 
+1.076 
+ 
+Siento que tengo suficiente responsabilidad en mi 
+trabajo. 
+2.92 
+1.203 
+ 
+Siento que estoy usando mi talento. 
+3.08 
+1.222 
+ 
+Siento que mi trabajo tiene futuro. 
+ 
+2.92 
+ 
+1.314 
+ 
+48 
+ 
+ 
+Mi trabajo satisface mis necesidades de éxito y de 
+reconocimiento. 
+2.64 
+1.276 
+ 
+Siento que mi preparación es mayor que la que 
+requiere mi trabajo 
+2.61 
+1.103 
+ 
+En mi trabajo aprendo cosas nuevas. 
+2.69 
+1.174 
+ 
+Tengo que realizar tareas que están por debajo de 
+mis habilidades 
+2.18 
+.959 
+ 
+Mis superiores me hacen comentarios útiles acerca 
+de mi desempeño. 
+3.10 
+1.303 
+ 
+Tengo claro que es lo que tengo que hacer para 
+progresar. 
+2.57 
+1.254 
+ 
+Tengo dudas acerca de lo que debo realizar en mi 
+trabajo. 
+1.92 
+.879 
+ 
+Cuando tengo que hacer frente a varias tareas sé 
+cuál debo hacer primero. 
+2.24 
+1.067 
+ 
+Cuando me asignan un nuevo proyecto sé por 
+dónde comenzar. 
+2.44 
+1.075 
+ 
+Mi superior pide una cosa, pero realmente quiere 
+otra. 
+2.33 
+1.158 
+ 
+Sé 
+cuáles 
+son 
+las 
+conductas 
+personales 
+(vestimenta, 
+relaciones 
+interpersonales, 
+etc.) 
+apropiadas en mi trabajo. 
+1.41 
+.620 
+ 
+Tengo claras las prioridades de mi trabajo. 
+1.76 
+.889 
+ 
+Entiendo claramente cómo mi jefe quiere que 
+emplee mi tiempo. 
+2.52 
+1.199 
+ 
+Conozco los criterios con los que me evalúan. 
+2.95 
+1.210 
+Tengo conflicto entre lo que mi empleador espera 
+que haga y lo que creo que es correcto o 
+apropiado. 
+2.21 
+1.091 
+ 
+En el trabajo estoy tironeado por diferentes grupos 
+o personas. 
+1.98 
+1.089 
+ 
+Hay más de una persona que me dice qué es lo 
+que debo hacer. 
+2.44 
+1.086 
+ 
+Me siento responsable de una parte del éxito de mi 
+empleador (o empresa). 
+2.95 
+1.247 
+ 
+Me siento bien con el trabajo que hago. 
+2.43 
+1.117 
+ 
+Mis superiores no se ponen de acuerdo acerca de 
+lo que debo hacer. 
+2.08 
+1.059 
+ 
+Estoy orgulloso de lo que hago para ganarme la 
+vida. 
+2.10 
+1.182 
+ 
+Donde trabajo es claro quién manda realmente. 
+2.61 
+1.195 
+ 
+49 
+ 
+ 
+Tengo lealtades hacia diferentes grupos o personas 
+en mi trabajo. 
+3.11 
+1.333 
+ 
+El trabajo que hago tiene tanto beneficio para mí 
+como para mi empleador. 
+2.55 
+1.301 
+ 
+Durante el día trato a más personas de lo que 
+preferiría. 
+2.55 
+1.218 
+ 
+En el trabajo, pierdo tiempo preocupado con los 
+problemas que otras personas me traen. 
+2.20 
+.938 
+ 
+Soy 
+responsable 
+del 
+bienestar 
+de 
+mis 
+subordinados. 
+ 
+2.62 
+ 
+1.433 
+ 
+La gente en el trabajo busca que yo sea el líder. 
+ 
+2.30 
+ 
+1.047 
+ 
+En el trabajo tengo responsabilidad por las 
+actividades de otras personas. 
+2.51 
+1.109 
+ 
+Me preocupa si la gente que trabaja conmigo (o 
+que 
+trabaja 
+para 
+mí) 
+hará 
+las 
+cosas 
+adecuadamente. 
+3.38 
+1.269 
+ 
+La gente que trabaja conmigo (o que trabaja para 
+mí) es realmente difícil de tratar. 
+1.94 
+.907 
+ 
+Si cometo un error en mi trabajo, las consecuencias 
+para otros pueden ser bastante malas. 
+2.34 
+1.087 
+ 
+En mi trabajo debo tratar con un público enojado. 
+ 
+2.47 
+1.247 
+Me gusta la gente con la que trabajo. 
+ 
+2.32 
+1.298 
+En mi trabajo estoy expuesto a altos niveles de 
+ruido. 
+ 
+2.46 
+1.265 
+En mi trabajo estoy expuesto a altos niveles de 
+humedad. 
+ 
+1.79 
+1.080 
+ 
+En mi trabajo estoy expuesto a altos niveles de 
+polvo. 
+1.72 
+1.042 
+ 
+En mi trabajo estoy expuesto a altas   temperaturas 1.83 
+.967 
+ 
+En mi trabajo estoy expuesto a luces fuertes 
+1.75 
+1.102 
+ 
+En mi trabajo estoy expuesto a bajas temperaturas 
+1.72 
+.831 
+ 
+Tengo un cronograma de trabajo irregular. 
+1.93 
+1.076 
+ 
+En mi trabajo estoy obligado a estar aislado. 
+1.37 
+.823 
+ 
+En 
+mi 
+trabajo 
+estoy 
+expuesto 
+a 
+olores 
+desagradables. 
+1.75 
+1.213 
+ 
+En mi trabajo estoy expuesto a sustancias 
+venenosas. 
+1.05 
+.260 
+ 
+ 
+50 
+ 
+ 
+Tabla XVIII – Resumen estadísticos de los ítems del cuestionario tensión 
+psicológica 
+ 
+  
+Ítems 
+ 
+M 
+ 
+DT 
+ 
+Me parece que no soy capaz 
+de cumplir con todas mis 
+tareas. 
+ 
+1.81 
+1.096 
+Últimamente detesto ir a 
+trabajar. 
+ 
+1.81 
+1.086 
+Estoy 
+aburrido/a 
+de 
+mi 
+trabajo. 
+ 
+1.89 
+1.000 
+Últimamente, me retraso en 
+mis tareas. 
+ 
+1.68 
+.759 
+Tengo accidentes de trabajo. 
+ 
+1.14 
+.515 
+La calidad de mi trabajo es 
+buena. 
+ 
+2.42 
+1.257 
+Recientemente 
+he 
+estado 
+faltando al trabajo. 
+ 
+1.47 
+.933 
+Encuentro que mi trabajo es 
+interesante y/o estimulante. 
+ 
+2.78 
+1.304 
+Me puedo concentrar en las 
+cosas del trabajo. 
+ 
+2.40 
+1.060 
+Cometo 
+errores 
+en 
+mi 
+trabajo. 
+ 
+1.94 
+.605 
+Últimamente, 
+me 
+irrito 
+fácilmente. 
+ 
+1.94 
+1.028 
+Últimamente, 
+he 
+estado 
+deprimido/a. 
+ 
+1.68 
+.941 
+Últimamente, me he sentido 
+ansioso/a. 
+ 
+2.27 
+1.095 
+Últimamente 
+me 
+siento 
+contento/a. 
+ 
+2.72 
+1.201 
+Tantos 
+pensamientos 
+me 
+dan vuelta por la cabeza a la 
+noche que tengo problemas 
+para dormirme. 
+ 
+1.80 
+1.009 
+Últimamente, respondo de 
+mala manera en situaciones 
+que normalmente no me 
+molestarían. 
+ 
+1.79 
+.832 
+ 
+51 
+ 
+ 
+Me quejo por cosas sin 
+importancia. 
+1.86 
+.861 
+Últimamente, 
+he 
+estado 
+preocupado/a. 
+ 
+2.41 
+1.083 
+Tengo 
+buen 
+sentido 
+del 
+humor. 
+ 
+2.31 
+1.155 
+Las cosas me están saliendo 
+bien. 
+ 
+2.75 
+1.022 
+Desearía tener más tiempo 
+para 
+pasarlo 
+con 
+mis 
+amigos. 
+ 
+3.31 
+1.273 
+Me peleo con mi pareja. 
+1.68 
+.727 
+Me peleo con mis amigos. 
+ 
+1.55 
+.809 
+Mi pareja y yo somos felices 
+juntos. 
+ 
+2.32 
+1.382 
+Últimamente, hago las cosas 
+solo y no con otra gente. 
+ 
+2.42 
+1.084 
+Me peleo con mis familiares. 1.81 
+.932 
+Últimamente, mis relaciones 
+con la gente son buenas. 
+ 
+2.29 
+1.143 
+Necesito tiempo para mí 
+para resolver mis problemas. 2.76 
+1.172 
+ 
+Desearía tener más tiempo 
+para mí. 
+ 
+3.13 
+1.270 
+Últimamente, me he estado 
+alejando de la gente. 
+ 
+2.01 
+1.139 
+He aumentado o bajado de 
+peso sin quererlo. 
+ 
+1.95 
+1.112 
+Mis hábitos de comida son 
+irregulares. 
+ 
+2.21 
+1.283 
+Últimamente, estoy bebiendo 
+demasiado. 
+ 
+1.69 
+1.113 
+Últimamente, 
+estoy 
+cansado/a. 
+ 
+2.69 
+1.195 
+Me siento tenso/a. 
+ 
+2.31 
+1.145 
+Tengo 
+problemas 
+para 
+conciliar el sueño y dormir. 
+ 
+1.91 
+1.087 
+Tengo dolores que no puedo 
+explicar. 
+ 
+1.79 
+1.036 
+ 
+52 
+ 
+No estoy comiendo bien. 
+2.05 
+1.068 
+Me siento desganado/a. 
+ 
+2.11 
+1.091 
+Me siento soñoliento/a. 
+2.22 
+1.267 
+ 
+Tabla XIX – Resumen estadísticos de los ítems del cuestionario Recursos 
+de afrontamiento 
+ 
+ 
+Ítem 
+M 
+DT 
+ 
+Cuando 
+necesito 
+vacaciones, las tomo. 
+3.24 
+1.286 
+ 
+Hago lo que quiero en mi 
+tiempo libre. 
+ 
+3.77 
+1.111 
+Los fines de semana 
+paso el tiempo haciendo 
+las cosas que más me 
+gustan. 
+ 
+3.75 
+1.064 
+Últimamente, 
+para 
+distraerme mi principal 
+actividad recreativa es 
+mirar televisión. 
+ 
+3.82 
+.917 
+Una gran parte de mi 
+tiempo libre lo dedico a 
+presenciar espectáculos 
+tales 
+como 
+cine, 
+conciertos, espectáculos 
+deportivos, etc. 
+ 
+2.40 
+.929 
+Dedico una gran parte 
+de mi tiempo libre a 
+realizar actividades tales 
+como practicar deportes, 
+pintar, coser, trabajar en 
+madera, etc. 
+ 
+2.66 
+1.294 
+Dedico 
+parte 
+de 
+mi 
+tiempo 
+a 
+actividades 
+comunitarias 
+(scouts, 
+escolares, 
+religiosas, 
+municipales, 
+gubernamentales, etc.). 
+ 
+1.47 
+.830 
+Encuentro que participar 
+en 
+actividades 
+recreativas es relajante. 
+ 
+3.01 
+1.119 
+El tiempo que paso en 
+actividades 
+recreativas 
+es 
+suficiente 
+para 
+satisfacer 
+mis 
+necesidades. 
+2.64 
+1.106 
+ 
+53 
+ 
+Dedico gran parte de mi 
+tiempo libre a un hobby 
+(coleccionar 
+alguna 
+cosa, etc.). 
+ 
+2.42 
+1.220 
+Soy cuidadoso/a con mi 
+dieta 
+(como 
+regularmente, 
+moderadamente 
+y 
+teniendo en cuenta la 
+buena nutrición). 
+ 
+2.56 
+1.102 
+Me 
+hago 
+controles 
+médicos regularmente. 
+ 
+2.84 
+1.221 
+Evito 
+el 
+consumo 
+excesivo de alcohol. 
+ 
+3.45 
+1.454 
+Hago 
+ejercicio 
+regularmente 
+(por 
+lo 
+menos veinte minutos 
+varias 
+veces 
+por 
+semana). 
+ 
+3.11 
+1.360 
+Practico 
+técnicas 
+de 
+“relajación”. 
+ 
+1.89 
+1.098 
+Duermo lo que necesito. 
+ 
+2.84 
+1.092 
+Evito 
+consumir 
+cosas 
+que sé que hacen mal a 
+la 
+salud 
+(ej. 
+café, 
+cigarrillos, etc.). 
+ 
+3.06 
+1.409 
+Practico 
+técnicas 
+de 
+autoconocimiento, 
+meditación, 
+control 
+mental, etc. 
+ 
+1.84 
+1.113 
+Practico 
+ejercicios 
+de 
+respiración profunda por 
+algunos minutos varias 
+veces al día. 
+ 
+1.73 
+1.080 
+Me dejo un tiempo para 
+hacer las cosas que 
+realmente me gustan. 
+ 
+3.22 
+1.198 
+Hay por lo menos una 
+persona importante para 
+mí que me valora. 
+ 
+4.24 
+1.124 
+Tengo ayuda para hacer 
+las cosas de la casa. 
+ 
+3.32 
+1.394 
+Tengo ayuda para hacer 
+las cosas importantes 
+que deben ser hechas. 
+ 
+3.48 
+1.330 
+ 
+54 
+ 
+Hay por lo menos una 
+persona 
+dispuesta 
+a 
+quien puedo contarle mis 
+preocupaciones. 
+ 
+4.84 
+5.506 
+Hay por lo menos una 
+persona dispuesta con 
+quien 
+puedo 
+hablar 
+sobre mis problemas de 
+trabajo. 
+ 
+4.18 
+1.067 
+Sé que cuento por lo 
+menos 
+con 
+un 
+buen 
+amigo. 
+ 
+4.47 
+.994 
+Me siento querido/a. 
+ 
+4.44 
+.969 
+Hay una persona a la 
+que 
+me 
+siento 
+muy 
+unido/a. 
+ 
+4.52 
+.971 
+Tengo 
+un 
+grupo 
+de 
+amigos que me valoran. 
+ 
+4.38 
+1.032 
+Me hace bien participar 
+en 
+grupos 
+formales 
+(religiosos, 
+políticos, 
+organizaciones 
+profesionales, etc.). 
+ 
+2.22 
+1.385 
+Puedo 
+olvidarme 
+del 
+trabajo cuando llego a 
+casa. 
+ 
+3.47 
+1.174 
+Siento que hay otros 
+trabajos 
+que 
+puedo 
+hacer 
+aparte 
+de 
+mi 
+trabajo actual. 
+ 
+3.14 
+1.243 
+Periódicamente 
+reexamino y reorganizo 
+mi estilo y mi plan de 
+trabajo. 
+ 
+2.77 
+1.014 
+Puedo 
+establecer 
+prioridades en el uso de 
+mi tiempo. 
+ 
+3.19 
+.993 
+Una vez que establezco 
+mis prioridades las llevo 
+a cabo. 
+ 
+3.44 
+.969 
+Tengo 
+métodos 
+para 
+concentrarme. 
+ 
+2.64 
+1.176 
+Puedo 
+identificar 
+los 
+aspectos importantes de 
+los problemas que se me 
+plantean. 
+ 
+3.48 
+.959 
+Cuando me enfrento a 
+un problema lo analizo 
+detalladamente. 
+3.63 
+1.009 
+ 
+55 
+ 
+Cuando tengo que tomar 
+una decisión trato de 
+pensar bien. 
+ 
+3.86 
+.899 
+Trato de ser consciente 
+de cómo actúo y qué 
+hago. 
+3.84 
+.981 
+ 
+ 
+6.4. Análisis de la relación entre las variables 
+ 
+Tabla XX – Correlación entre las variables Compromiso organizacional y 
+Estrés laboral 
+ 
+Sobrec. 
+Ocup. 
+Insuf. 
+Rol 
+Ambi. 
+Rol 
+Front. 
+Rol 
+Respon. 
+Amb. 
+Fisico 
+Est. 
+Ocup 
+Tens. Psi 
+Recur. 
+Afron 
+ 
+C. Afectivo -0.254* 
+-0.378** -0.299** -0.225* 
+-0.15 
+0.5 
+-0.323** -0.494** 0.222* 
+C. 
+Continui. 
+0.128 
+0.157 
+0.220* 
+0.315** 
+0.132 
+0.158 
+0.204 
+0.338* 
+-0.136 
+C. Normati. -0.159 
+-0.367** -0.278** -0.321** -0.145 
+0.122 
+-0.234** -0.203** 0.175 
+Coeficiente de correlación de Pearson/ ** Correlación es significativa al nivel 0,01 (bilateral)/* significante 0,05 
+(bilateral). 
+Los resultados, permiten visualizar las siguientes correlaciones significativas 
+entre las dimensiones de los instrumentos de Compromiso organizacional y 
+Estrés laboral: 
+- 
+La dimensión de Compromiso afectivo se relaciona de manera negativa e 
+inversa con la dimensión correspondiente a Estrés ocupacional y de igual 
+manera con las siguientes subescalas: Sobrecarga ocupacional (r = -0.254, p < 
+0.05); Insuficiencia de rol (r = -0.378, p < 0.01); Ambigüedad de rol (r = -0.299, 
+p < 0.01) y Fronteras del rol (r = 0.225, p < 0.05). Asimismo, se relaciona con la 
+dimensión correspondiente a Tensión psicológica de igual manera (r= -0.494, p 
+< 0.01). Sin embargo, con la dimensión Recursos de afrontamiento (r = 0.222, p 
+> 0.05) se relaciona de manera positiva y directa es decir a mayor presencia de 
+una, mayor nivel de la otra.  
+Es decir, a mayor presencia de compromiso afectivo, el cual refiere a un 
+vínculo de tipo emocional relacionado con un deseo de pertenecer, se refleja 
+un menor nivel de estrés ocupacional es decir el sujeto vivencia las situaciones 
+laborales de una manera equilibrada, se siente con los suficientes recursos 
+para hacer frente a las demandas laborales. Asimismo, se relaciona con una 
+ 
+56 
+ 
+presencia menor de la dimensión Tensión psicológica, lo cual indica que tendrá 
+un menor nivel de conflictos de tipo emocional y psicológico y viceversa.  
+Sin embargo, la relación con la dimensión Recursos de afrontamiento indica 
+que la presencia de este compromiso brinda al empleado mayores recursos y 
+habilidades para hacerle frente a las situaciones laborales ya que a mayor 
+presencia de un factor, el otro también sube.  
+- 
+La dimensión de Compromiso de continuidad correlaciona de manera positiva y 
+directa con la dimensión de Estrés ocupacional (r = 0.204, p > 0.05) y las 
+siguientes subescalas: Ambigüedad de rol (r = 0.220, p > 0.05) y Fronteras del 
+rol (r = 0.315, p > 0.01). De igual manera se relaciona con la dimensión Tensión 
+psicológica (r = 0.338, p > 0.05). 
+Este tipo de compromiso, que refiere a estar ligado a la organización por una 
+necesidad, es decir analizando los costos y beneficios de seguir perteneciendo 
+opta por quedarse por un mayor nivel de costos, da como resultado un 
+aumento del nivel de Estrés ocupacional, dado que el sujeto vivencia las 
+situaciones y demandas laborales como abrumadoras no siendo claros además 
+los roles en la organización y que implica el puesto que ocupa (Fronteras y 
+Ambigüedad de rol). Además, se relaciona de igual manera con Tensión 
+psicológica, es decir presenta mayores problemas emocionales y psicológicos 
+hacia su trabajo.  
+- 
+La dimensión de Compromiso normativo presenta relación con las dimensiones 
+Estrés ocupacional (r = -0.234, p < 0.01) y Tensión psicológica (r = -0.203, p < 
+0.01) y a su vez con las siguientes subescalas: Ambigüedad de rol (r = -0.278, 
+p < 0.01); Insuficiencia de rol (r = -0.367, p < 0.01) y Fronteras de rol (r = -
+0.321, p < 0.01). La relación es negativa e inversa, es decir ante la presencia 
+de un factor, el otro disminuye.  
+Ante la presencia de un mayor Compromiso Normativo, es decir cuando la 
+persona siente un sentimiento de obligación y deber de pertenecer a la 
+organización, disminuye el Estrés ocupacional y viceversa. Además, esto 
+implica que el individuo experimente menores problemas psicológicos y 
+emocionales brindando un trabajo de calidad (Tensión psicológica) 
+ 
+ 
+ 
+57 
+ 
+Tabla XXI – Correlación entre las variables Compromiso organizacional y 
+Estrés laboral según Generación X 
+ 
+ 
+Sobrec. 
+Ocup. 
+Insuf. 
+Rol 
+Ambi. 
+Rol 
+Front. 
+Rol 
+Respon. 
+Amb. 
+Fisico 
+Est. 
+Ocup 
+Tens. 
+Psi 
+Recur. 
+Afron 
+ 
+C. Afectivo -0.191 
+-0.314 
+-0.257 
+-0.202 
+0.113 
+0.152 
+-0.112 
+-0.303 
+0.305 
+C. 
+Continui. 
+0.307 
+0.196 
+0.151 
+0.348 
+0.22 
+0.226 
+0.295 
+0.287 
+0.012 
+C. 
+Normati. 
+-0.130 
+-0.437* 
+-0.414* 
+-
+0.511** -0.09 
+0.122 
+-0.205 
+-0.365* 
+0.073 
+Coeficiente de correlación de Pearson/ ** Correlación es significativa al nivel 0,01 (bilateral)/* significante 0,05 
+(bilateral). 
+ 
+Tabla XXII – Correlación entre las variables Compromiso organizacional y 
+Estrés laboral según Generación Y 
+ 
+  
+Sobrec. 
+Ocup. 
+Insuf. 
+Rol 
+Ambi. 
+Rol 
+Front. 
+Rol 
+Respon. 
+Amb. 
+Fisico 
+Est. 
+Ocup 
+Tens. 
+Psi 
+Recur. 
+Afron 
+ 
+C. Afectivo 
+-0.292* 
+-
+0.418** -0.317* -0.240 
+-0.257 
+-0.410 
+-
+0.433** 
+-
+0.569** 0.183 
+C. Continui. 
+0.270 
+0.180 
+0.264* 
+0.322* 
+0.110 
+0.200 
+0.207 
+0.421** 0.264 
+C. Normati. 
+-0.181 
+-0.324* -0.193 
+-0.184 
+-0.231 
+0.147 
+-0.261 
+-0.135 
+0.049 
+Coeficiente de correlación de Pearson/ ** Correlación es significativa al nivel 0,01 (bilateral)/* significante 0,05 
+(bilateral). 
+ 
+Los resultados arrojan la siguiente relación de las variables Compromiso 
+organizacional y Estrés laboral de acuerdo con pertenecer a la generación X o 
+Y: 
+- 
+En la generación X se relacionan de manera negativa e inversa la dimensión de 
+Compromiso normativo con la dimensión correspondiente a Tensión 
+psicológica (r = -0.365, p < 0.05) y a las siguientes subescalas de la dimensión 
+Estrés ocupacional: Insuficiencia de rol (r = -0.437, p < 0.05); Ambigüedad de 
+rol (r = -0.414, p < 0.05) y Fronteras del rol (r = -0.511, p < 0.01).  
+En esta generación que se caracteriza por concebir al trabajo como el centro 
+de su vida y por lo tanto ser leales a su empresa, se puede ver que cuando se 
+presenta un mayor nivel de Compromiso normativo la Tensión Psicológica baja. 
+Es decir que, si su vínculo con la organización se relaciona con el deber de 
+pertenecer como una forma de retribución por lo que esta le ha brindado, esto 
+ 
+58 
+ 
+genera que no se presenten mayores conflictos emocionales en relación con la 
+calidad y actitud hacia el trabajo. 
+El mismo tipo de relación se ve con los subdimensiones relacionadas con el rol 
+en la empresa, es decir las demandas y los criterios de la organización hacia el 
+empleado no son contradictorios.  
+- 
+En la generación Y la correlación se da de la siguiente manera: el Compromiso 
+Afectivo se relaciona de manera negativa e inversa con las dimensiones Estrés 
+Ocupacional (r = -0.433, p < 0.01) y Tensión psicológica (r = -0.569, p < 0.01). 
+Adicionalmente de igual manera con las subescalas Sobrecarga Ocupacional (r 
+= -0.292, p < 0.05); Insuficiencia de rol (r = -0.418, p < 0.01) y Ambigüedad de 
+rol (r = -0.317, p < 0.05). 
+Esta generación busca trabajos que los motiven y sean compatibles con 
+aquello que les da placer, privilegiando su libertad e independencia. Ante esta 
+generación, la relación que se da con el Compromiso afectivo y el Estrés 
+ocupacional refiere a que cuando hay mayor presencia de una, la otra 
+dimensión baja. Es decir que, si el vínculo con la organización es de tipo 
+emocional y la persona logra identificarse con la misma, puede responder a las 
+situaciones y demandas laborales sin sentirlo como una presión u exceso. Lo 
+mismo sucede con los problemas emocionales que repercutirán en la calidad y 
+actitud hacia el trabajo (Tensión Psicológica).  
+- 
+En la misma generación también se relacionan los otros dos tipos de 
+compromiso, a saber: el Compromiso de continuidad de manera positiva y 
+directa con la dimensión Tensión Psicológica (r = 0.421, p > 0.05) y con las 
+subescalas Ambigüedad de rol (r = 0.264, p > 0.05) y Fronteras de rol (r = 
+0.322, p > 0.05)  correspondientes a la dimensión Estrés ocupacional; el 
+Compromiso normativo sin embargo correlaciona de manera negativa e inversa 
+solo con la subescala Insuficiencia de rol (r = -0.324, p < 0.05). 
+En este caso cuando las personas presentan mayor tipo de Compromiso de 
+continuidad, es decir están en la organización no guiados por un deseo sino por 
+una necesidad, la Tensión Psicológica es mayor es decir presentarían mayores 
+conflictos psicológicos y vocacionales. De igual manera sucede con aquellos 
+subdimensiones relacionado la Ambigüedad de rol y Fronteras de rol, las 
+cuales miden el grado en que las prioridades, expectativas y criterios de 
+evaluación, en su lugar de trabajo, son claros para el individuo.  
+ 
+59 
+ 
+Por último la dimensión Compromiso Normativo que se refiere a la vinculación 
+del tipo de retribución u obligación moral hacia la empresa se relaciona con la 
+subdimensión Insuficiencia de rol, la cual mide el grado en que el 
+entrenamiento, la educación, las habilidades y la experiencia del individuo 
+están ajustadas a los requerimientos del trabajo; al aumentar una la otra tiende 
+a bajar.  
+ 
+6.5 Análisis de las diferencias de grupos según variables 
+ 
+Tabla XXIII – Diferencias grupales según Generación en la variable 
+Compromiso organizacional 
+ 
+  
+Generación Media 
+DT 
+T 
+Comp. 
+Afectivo 
+Generación 
+X 
+5.401 
+1.170 
+-0.279 
+Generación 
+Y 
+5.4821 
+1.388 
+-0.292 
+Comp. 
+Continuidad 
+Generación 
+X 
+4.8281 
+1.192 
+1.765 
+Generación 
+Y 
+4.3929 
+1.065 
+1.711 
+Comp. 
+Normativo 
+Generación 
+X 
+4.4948 
+1.781 
+0.159 
+Generación 
+Y 
+4.4405 
+1.390 
+0.149 
+ 
+Se ha utilizado el estadístico T de Student para evaluar si existen diferencias 
+significativas en la variable Compromiso organizacional en función de la 
+generación, es decir de pertenecer a la generación X o Y. El nivel de 
+significatividad arrojado resulta mayor a 0.05 por lo cual se concluye que no 
+existen diferencias entre grupos conforme a la variable compromiso 
+organizacional.  
+ 
+ 
+Tabla XXIV – Diferencias grupales según Generación en la variable Estrés 
+laboral 
+ 
+  
+Generación Media 
+DT 
+T 
+ 
+Estrés 
+ocupacional 
+ 
+Generación 
+X 
+136.61 
+22.207 
+-1.251 
+ 
+60 
+ 
+Generación 
+Y 
+143.11 
+23.602 
+-1.273 
+Tensión 
+Psicológica 
+Generación 
+X 
+81.45 
+17.099 
+-1.118 
+Generación 
+Y 
+86.95 
+24.204 
+-1.232 
+Recursos 
+de 
+afrontamiento 
+Generación 
+X 
+130.18 
+23.964 
+0.386 
+Generación 
+Y 
+128.30 
+20.620 
+0.371 
+ 
+En el caso de la variable Estrés laboral, no se verificaron diferencias entre 
+grupos en sus dimensiones por un nivel de significatividad mayor a 0.05.  
+Por lo expuesto se puede concluir que al comparar los grupos en ambas 
+variables no influye fuertemente el factor generacional.  
+7 –Discusión 
+ 
+A partir de los resultados obtenidos en la presente investigación se podría 
+concluir que existe una relación significativa entre las variables Compromiso 
+Organizacional y Estrés laboral. Asimismo, fue congruente con el estudio 
+realizado por Sánchez Hernández (2013) en el cual el Compromiso afectivo y 
+Normativo funcionaban como una protección ante el estrés. Al respecto cabe 
+aclarar que el Compromiso afectivo refiere a un vínculo con la organización de 
+tipo emocional, por lo cual el empleado se encuentra deseoso y orgulloso de 
+pertenecer a la misma (Meyer & Allen, 1991). Esto trae aparejado experiencias 
+positivas con el trabajo y proyecta en sus trabajadores seguridad y confianza, 
+por lo cual los mismos cuentan con los recursos necesarios para afrontar 
+diversas demandas laborales, es decir ante una situación potencialmente 
+estresante vivirán la misma como un desafío ya que cuentan con las 
+habilidades para afrontarlas. Siguiendo este concepto es esperable que el 
+mismo influya en el estrés ya que la persona se sentirá satisfecha y 
+reconfortada realizando tareas en beneficio de la organización sin considerarlo 
+como una carga extra, explicando entonces la relación con la subescala 
+Sobrecarga ocupacional, la cual refiere al grado en que el individuo es capaz 
+de cumplir con las demandas laborales (Schmidt, et al., 2003).  Además, es 
+esperable este tipo de vinculación ya que es el tipo de compromiso que mayor 
+influencia positiva tiene para la salud mental al establecer lazos basados en 
+ 
+61 
+ 
+experiencias gratificantes logrando empleados satisfechos y dispuestos a dar 
+su mayor esfuerzo para lograr las metas (Ríos Manríquez et al., 2010). Por lo 
+tanto, la dimensión Tensión psicológica, que refiere a los aspectos psicológicos 
+y emocionales del individuo en su trabajo, se verá favorecida ante la presencia 
+de este factor. 
+El Compromiso normativo genera sentimientos de retribución que implican la 
+obligación de permanecer como un reconocimiento hacia la organización. Su 
+vínculo en este caso se reflejará como un deber (Omar et al., 2005). En 
+relación con el Estrés laboral se relaciona de manera muy similar al 
+compromiso antedicho, ambos son de tipo emocional, por lo cual es esperable 
+que las emociones negativas que provoca el estrés se vean mermadas ante la 
+presencia de este compromiso.  
+Desde el lado de las causales que influyen en el grado de compromiso de 
+manera positiva, estos dos tipos se encuentran afectados por aspectos del 
+trabajo en sí, tales como el rol que se cumple dentro de la organización, 
+desarrollo de habilidades, salario, participación en la toma de decisiones, etc. 
+Además, también se ven influidos por las variables de grupo como clima 
+organizacional, valores organizacionales, entre otros (Ayensa et al., 2007).  
+Estos factores, paralelamente, si se dan de manera negativa son causas de 
+estrés llamados “factores relacionados con el contexto laboral” por lo cual en 
+este punto se entiende la relación que se reflejó entre el estrés ocupacional y el 
+compromiso. Si el sujeto siente que es valorado dentro de la organización, que 
+es bien remunerado, que la institución promueve el desarrollo de sus 
+habilidades y su crecimiento, aumentará estos dos tipos de compromiso y a su 
+vez no fomentará la presencia del estresor contexto laboral.  
+Siguiendo a Ramos y Jordao (2015) las fuentes de estrés son colectivas ya que 
+los sujetos las interpretaran de la misma manera en función de la cultura 
+organizacional. La vivencia de estrés tendrá consecuencias en cuanto al 
+comportamiento de los trabajadores en relación con su vínculo con la 
+organización y asociados con su desempeño laboral. Teniendo en cuenta que 
+los compromisos afectivo y normativo también se relacionan con el desempeño 
+laboral, influyendo en él de manera positiva, y vinculando al trabajador desde 
+un lado emocional, podría entonces suponerse que la vivencia de estrés ante la 
+presencia de estos será distinta de aquellos trabajadores que no lo están. Por 
+ 
+62 
+ 
+este motivo en los resultados se refleja que cuando los niveles de dichos 
+compromisos se incrementan, el estrés ocupacional y la tensión psicológica 
+disminuyen, y viceversa.  
+En relación con el Compromiso de continuidad, en el cual el vínculo se da en 
+función de una necesidad, es decir el empleado no ve una opción mejor para él 
+en el mercado y además ya contribuyo en tiempo, sacrificio etc. (Blanco & 
+Castro, 2011), se podría pensar que el estrés en este caso podría prevalecer 
+ya que la relación con el trabajo y la organización no le brindará experiencias 
+positivas que le sirvan como atenuante. Al contrario, ante una demanda laboral 
+excesiva, sentirá que no puede ser capaz de afrontarla y lo vivirá como una 
+carga, por lo cual los síntomas relacionados con el estrés se verán afectados. 
+Esto explica el resultado de este tipo de Compromiso, donde a mayor 
+presencia, mayor nivel de estrés. 
+Cuando se introdujo la variable generacional, no se observaron diferencias 
+entre grupos en cada variable. Es decir que a pesar de que ambas 
+generaciones tienen valores, intereses y una relación con el trabajo distintas, 
+esto no influye en el tipo de compromiso y en la vivencia de estrés. 
+Era esperable este resultado ya que el compromiso organizacional es influido 
+por variables laborales tales como la cultura organizacional, por las 
+características del trabajo en sí y por la experiencia que este le brinde al 
+empleado (como el sentirse valorado dentro de la institución; Steers, 1977) por 
+lo cual las características individuales no deberían ser un factor decisivo en la 
+presencia de esta variable. Teniendo en cuenta que ambas generaciones 
+poseen características distintas, por ejemplo, en la generación X prevalece la 
+lealtad hacia la empresa y el valor supremo al trabajo como centro de su vida, 
+en contraposición con la generación Y que privilegia el crecimiento personal y 
+el compromiso consigo mismo (Chirinos, 2009), se podría llegar a pensar que si 
+comparamos ambos grupos la presencia del compromiso hacia la organización 
+podría variar, sin embargo en el presente trabajo las características particulares 
+de cada generación no resultaron ser un factor influyente en la presencia de la 
+variable compromiso. Por lo cual si la organización cuenta con determinadas 
+características y posee una gestión de recursos humanos que promueva el 
+compromiso serán afectados todo el personal por igual sin distinción de lo 
+generacional, siendo diluidas en cierto modo las brechas generacionales en 
+ 
+63 
+ 
+tanto la organización lograría a través de su cultura institucional homogeneizar 
+valores o visiones compartidas por sus miembros generando un sentido de 
+pertenencia común, colectivo (Schein, 1988). 
+En cuanto a la variable estrés, se postula que la influencia de las 
+características personales es determinante ya que incide en la forma de 
+interpretar la situación potencialmente estresante y el poder hacerle frente. Sin 
+embargo, algunos autores consideran que lo determinante en el caso del estrés 
+laboral, son las condiciones y contexto laboral ya que las personas van a estar 
+expuestas a los mismos estresores, los cuales serán interpretados de manera 
+colectiva en función de la cultura organizacional (Ramos & Jordao, 2015). 
+Siguiendo esta línea se podría considerar que la pertenencia a determinada 
+generación no implicaría una diferencia en la vivencia de estrés ya que sería 
+experimentado de la misma manera independientemente de las características 
+personales y valores individuales.  
+Sin embargo, lo generacional tiene influencia en la interacción entre ambas 
+variables en algunas dimensiones y subescalas. Lo más llamativo es la 
+diferencia de la dimensión Tensión Psicológica relacionada con distintos tipos 
+de compromiso en función de pertenecer a la generación X o Y.  
+La generación Y considera de suma importancia la realización personal, por lo 
+cual en lo laboral los sujetos buscan que cumplan con sus expectativas 
+personales. El trabajo que elijan tiene que motivarlos y representarles un 
+desafío (Lowe, Levitt & Wilson, citado en Irizarry, 2009). En esta generación, el 
+compromiso de continuidad correlacionó con la dimensión Tensión Psicológica, 
+lo cual resulta esperable ya que este tipo de compromiso refiere a un vínculo 
+con la organización basado en una necesidad, es decir el trabajador no 
+permanece en la misma por un deseo sino porque realizando un análisis de 
+costo – beneficio concluye que dejarla conllevaría más perdidas que beneficios 
+(Omar et al., 2005). Si la persona se relaciona con la organización bajo este 
+tipo de vínculo, que resultan contradictorios con su manera de ver el mundo del 
+trabajo, provocaría un aumento de la tensión psicológica, es decir presentaría 
+síntomas relacionados con malestar psicológico y vocacional ya que sus 
+valores entrarían en contradicción.  
+ 
+64 
+ 
+Sin embargo, en la generación X, la dimensión Tensión Psicológica 
+correlacionó con el Compromiso normativo. Teniendo en cuenta que este tipo 
+de compromiso se relaciona con un deber de permanecer en función de 
+retribuirle a la organización lo que ella le brindó, la presencia de este en 
+personas con las características de esta generación disminuirá los problemas 
+psicológicos o emocionales; es decir ante la presencia de este tipo de 
+compromiso, los problemas emocionales y psicológicos serian menores. Cabe 
+aclarar que en esta generación sus valores giran en torno a la supremacía del 
+trabajo en su vida (Chirinos, 2009). 
+Por otro lado, se podría inferir que el motivo por el cual prevaleció el tipo de 
+compromiso afectivo en la muestra analizada es por las características de la 
+organización que podría influir en un vínculo con la misma de índole emocional. 
+Algunas de las características son la cultura organizacional, los beneficios 
+laborales, la posibilidad de desarrollo y crecimiento dentro de la organización 
+en función del desempeño del empleado, estabilidad laboral, familiares dentro 
+de la organización lo cual vincula al empleado con la institución con 
+anterioridad a su ingreso, entre otros. Este compromiso se encuentra basado 
+en la identificación y el involucramiento con la organización, sintiendo sus 
+empleados satisfechas sus expectativas y necesidades generándose un 
+sentimiento de orgullo y pertenencia (Meyer & Allen, 1991). Además de las 
+características antedichas, es de suma importancia resaltar que esta institución 
+es de carácter público por lo cual posee un rol social e histórico en la sociedad 
+que puede incidir en el desarrollo de un compromiso de índole emocional. Por 
+ejemplo, en muchas localidades, esta institución es la única entidad bancaria 
+de la zona por lo cual los empleados forjan un sentimiento hacia el trabajo y 
+sus usuarios mucho mayor en función de su cercanía. Asimismo, en momentos 
+de crisis económica y financiera, al ser tener un carácter social y auxiliar por lo 
+tanto a pymes y personas humanas, podría generar en sus empleados este 
+sentimiento de orgullo y pertenencia que caracteriza a este tipo de compromiso 
+ya que no es una empresa privada que solo se basa en las ganancias, sino que 
+cumple un rol fundamental en la sociedad. En resumen, tanto las 
+características de banco público, como las particulares de la organización 
+podrían pensarse como decisivas para la prevalencia de este factor.   
+ 
+ 
+65 
+ 
+Asimismo, haciendo hincapié en las características de cada generación, en el 
+caso de la generación X, valoran la estabilidad laboral, la posibilidad de 
+crecimiento y por sus valores son leales a la empresa donde trabajan (Pérez, 
+2019), por lo cual se podría suponer que esto incide en el compromiso hacia 
+esta organización en particular que le brinda estas posibilidades.  
+La generación Y privilegian otros valores y generalmente muestran poco 
+compromiso y fidelidad hacia la empresa, pueden cambiar de trabajo con 
+facilidad. Sin embargo, si la misión/ visión de la empresa posee un componente 
+ético y social, dicha generación se identifica con la misma logrando un alto 
+compromiso organizacional (Pérez, 2019). En este caso, la organización al ser 
+una entidad pública posee dichos valores como objetivo de su existencia por lo 
+cual favorece el vínculo de la generación en cuestión. 
+Adicionalmente vale aclarar que el presente estudio se realizó en un momento 
+organizacional crítico ya que, al ser una entidad pública, los empleados se 
+encontraban en conflicto con las autoridades gubernamentales de turno en 
+función de cambios en su régimen laboral y jubilatorio, que afectaban a la 
+existencia y buen funcionamiento de la organización. Por la identificación y 
+deseo de pertenecer que tienen sus miembros, resultado que se vio en el 
+presente estudio en el tipo de compromiso que prevaleció, afectivo, 
+colectivamente se observaron acciones que reflejaron la primacía de este factor 
+ya que los empleados podrían sentir los problemas organizacionales como 
+propios y forjar un curso de acción que tratará de solucionar los conflictos y se 
+cumplan con la visión y misión de la organización.  
+A raíz de estos resultados, podría pensarse que, para investigaciones futuras, 
+queda abierto un camino para profundizar en relación entre las variables 
+estudiadas considerando que podría significar un factor relevante para la 
+promoción de la salud individual de los miembros de la organización y salud 
+institucional.  
+Asimismo, se considera de importancia la alternativa de planificar proyectos 
+que sirvan para desarrollar la presencia de compromiso organizacional en los 
+empleados y también desarrollar programas que promuevan la prevención del 
+estrés ocupacional y estrategias de afrontamiento. 
+Teniendo en cuenta que el protocolo de la investigación estaba dirigido a las 
+generaciones X e Y sería interesante investigar cómo se da en las otras 
+ 
+66 
+ 
+generaciones laborales las variables bajo estudio e incluso repetir el presente 
+estudio en otras instituciones con el fin de ampliar el campo de conocimientos y 
+verificar si rectifican o ratifican los resultados a los cuales se arribó en este 
+proyecto.  
+Por otro lado, incluir el sector de pertenencia de la organización podría brindar 
+datos relevantes, es decir replicar la misma en una entidad de carácter privado 
+dado que en función de las características distintivas entre ambos sectores de 
+pertenecía (es decir banco público y banco privado) podría ampliar el campo de 
+conocimiento y verificar los resultados que arrojo el presente estudio. Además, 
+resulta interesante incluir la comparación de generaciones. 
+Por último, es necesario aclarar que el tamaño de la muestra si bien es 
+representativo resulta un limitante para poder llegar a resultados certeros dado 
+que un número mayor de participantes lograría mayor claridad en los 
+resultados considerando que al ser una entidad pública su volumen de 
+empleados es grande. Asimismo, hay que tener en cuenta lograr una cantidad 
+de igual proporción en ambas generaciones ya que en el presente estudio 
+prevaleció la generación Y.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+67 
+ 
+8 – Anexo 
+ 
+8.1 La organización 
+ 
+La industria financiera es aquel sector económico de alcance global cuyo 
+objetivo refiere a los servicios financieros que consiste en préstamos y 
+facilidades de financiamiento de dinero a personas físicas o jurídicas a través 
+de sus entidades. 
+Una entidad financiera es aquella que se encuentra comprendida dentro de la 
+Ley de Entidades financieras N° 21526, tales como: Bancos comerciales, de 
+inversión e hipotecarios, compañías financieras, sociedades de ahorro y 
+préstamos y cajas de crédito. (Asamblea legislativa de Panamá, 2001). 
+El presente trabajo fue realizado en una entidad bancaria de carácter público, 
+la cual se encuentra constituida desde el año 1822 en la provincia de Buenos 
+Aires. Cuenta con más de 400 sucursales distribuidas dentro del territorio de la 
+provincia, caja de jubilaciones y obra social propia, lugares de esparcimiento 
+exclusivos y un museo bancario, que se constituyó en el primer museo 
+bancario de la Argentina. 
+Su rol en el país fue fundamental ya que se constituyó como el primer banco 
+del país y de Hispanoamérica, emitiendo además el primer billete de Argentina. 
+Se conformo en un instrumento para solucionar cuestiones relacionadas con la 
+vivienda y la industria, desarrollando el aparato productivo de la provincia.  
+Uno de sus principales objetivos es la función social e integradora, con 
+sucursales estratégicamente localizadas, constituyéndose en algunos sitios 
+como el único banco de la localidad. Asimismo, brinda apoyo a 
+emprendimientos que promuevan el desarrollo económico y crecimiento de 
+pymes y familias y asiste financieramente a municipios, clubes sociales y 
+deportivos, economías regionales y culturales de la provincia, cumpliendo así 
+con su rol de banca pública y social.  
+Se caracteriza por su política inclusiva, en el año 1919 incorpora a su primera 
+trabajadora, en un contexto mundial donde la mujer comenzaba a incorporarse 
+al mercado, en 1960 empieza a desempeñarse empleados con capacidades 
+ 
+68 
+ 
+diferentes y en 1984 incorpora a veteranos de Malvinas. En la actualidad 
+cuenta con aproximadamente 10.500 empleados (Museo Banco Provincia).  
+Es una institución autárquica de derecho público, administrada por el gobierno 
+provincial, con un directorio conformado por autoridades elegidas vía poder 
+ejecutivo, de acuerdo con el senado. Contará con una gerencia general, 
+conformada por empleados del banco. Los empleados de la institución cuentan 
+con la posibilidad de desarrollo dentro de la organización, pasando por 
+diferentes 
+escalafones 
+hasta 
+el 
+puesto 
+máximo 
+antedicho 
+(http://bancoprovincia.com.ar). 
+Las políticas de ingreso del personal son varias: parentesco con algún familiar 
+dentro de la organización, pasantías con universidades públicas como la 
+Universidad de Lomas de Zamora y en menor medida a través del CV 
+ingresado por la web de la institución. Las posibilidades de crecimiento dentro 
+de la institución se brindan a través de capacitación constante, con carreras 
+internas para poder ascender en el puesto.  
+La organización brinda una amplia variedad de actividades recreativas como 
+clubes privados en distintas localidades e incluso en otras provincias del país. 
+Además, cuenta con obra social y caja de jubilaciones propia.  
+La desvinculación se produce por jubilación, luego de 30 años de servicio, o 
+bien por cesantía (ante algún hecho de conducta grave) o renuncia.  
+La organización se encuentra nucleada dentro del Sindicato La bancaria y 
+posee comisiones gremiales internas, cinco en total de acuerdo con la zona 
+geográfica.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+69 
+ 
+8.2 Consentimiento informado 
+ 
+Como alumna de la Universidad Abierta Interamericana solicito su colaboración para la 
+realización de mi tesis de grado con la finalidad de obtener el título de Licenciatura en 
+Psicología. La información brindada por usted es anónima y sus datos no serán 
+difundidos. Los resultados de la misma serán utilizados sólo para fines académicos-
+científicos. 
+Recuerde que no hay respuestas correctas o incorrectas, por favor intente no 
+omitir ninguna pregunta y responder a todo el cuestionario. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+70 
+ 
+8.3 Cuestionario Compromiso organizacional 
+ 
+INSTRUCIONES GENERALES 
+ 
+Por favor indique su grado De acuerdo y Desacuerdo con las siguientes frases. Para 
+ello rodee con un círculo el numero correspondiente según la siguiente escala. No hay 
+respuestas correctas e incorrectas, queremos conocer cómo se siente usted en su 
+organización. Recuerde contestar todas las frases.  
+ 
+1= Muy en desacuerdo 
+2= Moderadamente en desacuerdo 
+3= Levemente en desacuerdo 
+4= En duda 
+5= Levemente de acuerdo 
+6= Moderadamente de acuerdo 
+7= Muy de acuerdo. 
+ 
+ 
+1) Estaría muy contento de pasar el resto de mi carrera en esta 
+organización. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+2) Realmente siento como propios los problemas de esta 
+organización. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+3) No siento un fuerte sentido de pertenencia a mi 
+organización.  
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+4) No me siento emocionalmente unido a esta organización.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+5) No me siento como parte de una familia en mi 
+organización. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+6)  Esta organización tiene un gran significado personal para 
+mi 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+7) Ahora mismo, permanecer en mi organización es una 
+cuestión de necesidad más que de deseo. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8) Aunque quisiera sería muy duro para mi dejar mi 
+organización ahora. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+9) Demasiado en mi vida se vería interrumpido si decidiera 
+dejar mi organización ahora mismo. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+10) Creo que tengo muy pocas opciones para considerar 
+marcharme de esta organización.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+11) Si no hubiese puesto ya tanto de mí mismo en esta 
+organización podría considerar trabajar en otro lugar. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+12) Una de las pocas consecuencias negativas de abandonar 
+esta organización podría ser la escasez de alternativas 
+disponibles.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+ 
+71 
+ 
+13) No siento ninguna obligación de tener que seguir 
+trabajando para esta organización.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+14) Incluso si fuera para mi beneficioso, no siento que estaría 
+bien dejar ahora mi organización.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+15) Me sentiría culpable si dejase ahora mi organización. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+16) Esta organización merece mi lealtad.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+17) No dejaría mi organización ahora mismo porque tengo un 
+sentido de obligación con las personas de está. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+18) Le debo mucho a mi organización.  
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+72 
+ 
+8.3 Cuestionario Estrés Laboral 
+ 
+INSTRUCIONES GENERALES 
+ 
+Marque con una cruz el casillero que mejor represente el grado en el cual experimento las 
+situaciones que se indican a continuación. 
+ 
+1= Nunca 
+2= Algunas veces 
+3= A menudo  
+4= Muy a menudo 
+5= Siempre 
+ 
+En mi trabajo se espera que realice muchas tareas diferentes en 
+muy poco tiempo. 
+1 
+2 
+3 
+4 
+5 
+ Siento que mis responsabilidades en el trabajo están aumentando. 
+1 
+2 
+3 
+4 
+5 
+Se espera que desempeñe tareas para las cuales nunca fui 
+preparada. 
+ 
+1 
+2 
+3 
+4 
+5 
+Tengo que llevar trabajo a casa. 
+1 
+2 
+3 
+4 
+5 
+Tengo los recursos que necesito para hacer mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Me siento competente en lo que hago. 
+1 
+2 
+3 
+4 
+5 
+Trabajo con plazos muy ajustados. 
+1 
+2 
+3 
+4 
+5 
+Desearía tener más ayuda para cumplir con las demandas que 
+tengo en el trabajo. 
+1 
+2 
+3 
+4 
+5 
+Mi trabajo requiere que trabaje en varias áreas importantes al 
+mismo tiempo.  
+1 
+2 
+3 
+4 
+5 
+Se espera que haga más trabajo de lo que es razonable. 
+1 
+2 
+3 
+4 
+5 
+Siento que mi carrera laboral está progresando como lo esperaba. 
+1 
+2 
+3 
+4 
+5 
+Siento que mi trabajo se adecua a mis capacidades e intereses. 
+1 
+2 
+3 
+4 
+5 
+Estoy aburrido/a de mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Siento que tengo suficiente responsabilidad en mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Siento que estoy usando mi talento. 
+1 
+2 
+3 
+4 
+5 
+Siento que mi trabajo tiene futuro. 
+1 
+2 
+3 
+4 
+5 
+ Mi trabajo satisface mis necesidades de éxito y de reconocimiento. 
+1 
+2 
+3 
+4 
+5 
+Siento que mi preparación es mayor que la que requiere mi trabajo 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo aprendo cosas nuevas. 
+1 
+2 
+3 
+4 
+5 
+ 
+73 
+ 
+Tengo que realizar tareas que están por debajo de mis habilidades 
+1 
+2 
+3 
+4 
+5 
+Mis superiores me hacen comentarios útiles acerca de mi 
+desempeño. 
+1 
+2 
+3 
+4 
+5 
+Tengo claro que es lo que tengo que hacer para progresar. 
+1 
+2 
+3 
+4 
+5 
+Tengo dudas acerca de lo que debo realizar en mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Cuando tengo que hacer frente a varias tareas sé cuál debo hacer 
+primero. 
+1 
+2 
+3 
+4 
+5 
+Cuando me asignan un nuevo proyecto sé por dónde comenzar. 
+1 
+2 
+3 
+4 
+5 
+Mi superior pide una cosa, pero realmente quiere otra. 
+1 
+2 
+3 
+4 
+5 
+Sé cuáles son las conductas personales (vestimenta, relaciones 
+interpersonales, etc.) apropiadas en mi trabajo 
+1 
+2 
+3 
+4 
+5 
+Tengo claras las prioridades de mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Entiendo claramente cómo mi jefe quiere que emplee mi tiempo. 
+1 
+2 
+3 
+4 
+5 
+Conozco los criterios con los que me evalúan. 
+1 
+2 
+3 
+4 
+5 
+Tengo conflicto entre lo que mi empleador espera que haga y lo 
+que creo que es correcto o apropiado 
+1 
+2 
+3 
+4 
+5 
+En el trabajo estoy tironeado por diferentes grupos o personas. 
+1 
+2 
+3 
+4 
+5 
+Hay más de una persona que me dice qué es lo que debo hacer. 
+1 
+2 
+3 
+4 
+5 
+ Me siento responsable de una parte del éxito de mi empleador (o 
+empresa). 
+1 
+2 
+3 
+4 
+5 
+Me siento bien con el trabajo que hago. 
+1 
+2 
+3 
+4 
+5 
+Mis superiores no se ponen de acuerdo acerca de lo que debo 
+hacer. 
+1 
+2 
+3 
+4 
+5 
+Estoy orgulloso de lo que hago para ganarme la vida. 
+1 
+2 
+3 
+4 
+5 
+Donde trabajo es claro quién manda realmente. 
+1 
+2 
+3 
+4 
+5 
+Tengo lealtades hacia diferentes grupos o personas en mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+ El trabajo que hago tiene tanto beneficio para mí como para mi 
+empleador. 
+1 
+2 
+3 
+4 
+5 
+Durante el día trato a más personas de lo que preferiría. 
+1 
+2 
+3 
+4 
+5 
+En el trabajo, pierdo tiempo preocupado con los problemas que 
+otras personas me traen. 
+1 
+2 
+3 
+4 
+5 
+Soy responsable del bienestar de mis subordinados. 
+1 
+2 
+3 
+4 
+5 
+La gente en el trabajo busca que yo sea el líder. 
+1 
+2 
+3 
+4 
+5 
+En el trabajo tengo responsabilidad por las actividades de otras 
+personas. 
+1 
+2 
+3 
+4 
+5 
+Me preocupa si la gente que trabaja conmigo (o que trabaja para 
+mí) hará las cosas adecuadamente. 
+1 
+2 
+3 
+4 
+5 
+La gente que trabaja conmigo (o que trabaja para mí) es realmente 
+difícil de tratar. 
+1 
+2 
+3 
+4 
+5 
+ Si cometo un error en mi trabajo, las consecuencias para otros 
+pueden ser bastante malas.  
+1 
+2 
+3 
+4 
+5 
+En mi trabajo debo tratar con un público enojado. 
+1 
+2 
+3 
+4 
+5 
+Me gusta la gente con la que trabajo. 
+1 
+2 
+3 
+4 
+5 
+ 
+74 
+ 
+En mi trabajo estoy expuesto a altos niveles de ruido. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a altos niveles de humedad. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a altos niveles de polvo. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a altas   temperaturas. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a luces fuertes. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a bajas temperaturas. 
+1 
+2 
+3 
+4 
+5 
+Tengo un cronograma de trabajo irregular. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy obligado a estar aislado. 
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a olores desagradables.  
+1 
+2 
+3 
+4 
+5 
+En mi trabajo estoy expuesto a sustancias venenosas. 
+1 
+2 
+3 
+4 
+5 
+ 
+Segunda sección 
+ 
+Me parece que no soy capaz de cumplir con todas mis tareas 
+1 
+2 
+3 
+4 
+5 
+Últimamente detesto ir a trabajar. 
+1 
+2 
+3 
+4 
+5 
+Estoy aburrido/a de mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, me retraso en mis tareas 
+1 
+2 
+3 
+4 
+5 
+Tengo accidentes de trabajo. 
+1 
+2 
+3 
+4 
+5 
+La calidad de mi trabajo es buena. 
+1 
+2 
+3 
+4 
+5 
+Recientemente he estado faltando al trabajo. 
+1 
+2 
+3 
+4 
+5 
+Encuentro que mi trabajo es interesante y/o estimulante 
+1 
+2 
+3 
+4 
+5 
+Me puedo concentrar en las cosas del trabajo. 
+1 
+2 
+3 
+4 
+5 
+Cometo errores en mi trabajo. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, me irrito fácilmente. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, he estado deprimido/a. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, me he sentido ansioso/a. 
+1 
+2 
+3 
+4 
+5 
+Últimamente me siento contento/a. 
+1 
+2 
+3 
+4 
+5 
+Tantos pensamientos me dan vuelta por la cabeza a la noche que 
+tengo problemas para dormirme. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, respondo de mala manera en situaciones que 
+normalmente no me molestarían. 
+1 
+2 
+3 
+4 
+5 
+ Me quejo por cosas sin importancia 
+1 
+2 
+3 
+4 
+5 
+ Últimamente, he estado preocupado/a. 
+1 
+2 
+3 
+4 
+5 
+Tengo buen sentido del humor. 
+1 
+2 
+3 
+4 
+5 
+Las cosas me están saliendo bien. 
+1 
+2 
+3 
+4 
+5 
+Desearía tener más tiempo para pasarlo con mis amigos. 
+1 
+2 
+3 
+4 
+5 
+ 
+75 
+ 
+Me peleo con mi pareja. 
+1 
+2 
+3 
+4 
+5 
+Me peleo con mis amigos. 
+1 
+2 
+3 
+4 
+5 
+Mi pareja y yo somos felices juntos. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, hago las cosas solo y no con otra gente. 
+1 
+2 
+3 
+4 
+5 
+Me peleo con mis familiares. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, mis relaciones con la gente son buenas. 
+1 
+2 
+3 
+4 
+5 
+ Necesito tiempo para mí para resolver mis problemas. 
+1 
+2 
+3 
+4 
+5 
+Desearía tener más tiempo para mí. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, me he estado alejando de la gente. 
+1 
+2 
+3 
+4 
+5 
+ He aumentado o bajado de peso sin quererlo. 
+1 
+2 
+3 
+4 
+5 
+Mis hábitos de comida son irregulares. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, estoy bebiendo demasiado. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, estoy cansado/a. 
+1 
+2 
+3 
+4 
+5 
+Me siento tenso/a. 
+1 
+2 
+3 
+4 
+5 
+Tengo problemas para conciliar el sueño y dormir. 
+1 
+2 
+3 
+4 
+5 
+Tengo dolores que no puedo explicar. 
+1 
+2 
+3 
+4 
+5 
+ No estoy comiendo bien. 
+1 
+2 
+3 
+4 
+5 
+ Me siento desganado/a. 
+1 
+2 
+3 
+4 
+5 
+Me siento soñoliento/a. 
+1 
+2 
+3 
+4 
+5 
+ 
+Tercera sección 
+ 
+Cuando necesito vacaciones, las tomo. 
+1 
+2 
+3 
+4 
+5 
+Hago lo que quiero en mi tiempo libre. 
+1 
+2 
+3 
+4 
+5 
+Los fines de semana paso el tiempo haciendo las cosas que más 
+me gustan. 
+1 
+2 
+3 
+4 
+5 
+Últimamente, para distraerme mi principal actividad recreativa es 
+mirar televisión. 
+1 
+2 
+3 
+4 
+5 
+Una gran parte de mi tiempo libre lo dedico a presenciar 
+espectáculos tales como cine, conciertos, espectáculos deportivos, 
+etc. 
+1 
+2 
+3 
+4 
+5 
+Dedico una gran parte de mi tiempo libre a realizar actividades 
+tales como practicar deportes, pintar, coser, trabajar en madera, 
+etc. 
+1 
+2 
+3 
+4 
+5 
+Dedico parte de mi tiempo a actividades comunitarias (scouts, 
+escolares, religiosas, municipales, gubernamentales, etc.). 
+1 
+2 
+3 
+4 
+5 
+ Encuentro que participar en actividades recreativas es relajante. 
+1 
+2 
+3 
+4 
+5 
+ El tiempo que paso en actividades recreativas es suficiente para 
+1 
+2 
+3 
+4 
+5 
+ 
+76 
+ 
+satisfacer mis necesidades. 
+Dedico gran parte de mi tiempo libre a un hobby (coleccionar 
+alguna cosa, etc.). 
+1 
+2 
+3 
+4 
+5 
+Soy 
+cuidadoso/a 
+con 
+mi 
+dieta 
+(como 
+regularmente, 
+moderadamente y teniendo en cuenta la buena nutrición). 
+1 
+2 
+3 
+4 
+5 
+Me hago controles médicos regularmente. 
+1 
+2 
+3 
+4 
+5 
+Evito el consumo excesivo de alcohol. 
+1 
+2 
+3 
+4 
+5 
+Hago ejercicio regularmente (por lo menos veinte minutos varias 
+veces por semana). 
+1 
+2 
+3 
+4 
+5 
+Practico técnicas de “relajación”. 
+1 
+2 
+3 
+4 
+5 
+Duermo lo que necesito 
+1 
+2 
+3 
+4 
+5 
+Evito consumir cosas que sé que hacen mal a la salud (ej. café, 
+cigarrillos, etc) 
+1 
+2 
+3 
+4 
+5 
+Practico técnicas de autoconocimiento, meditación, control mental, 
+etc. 
+1 
+2 
+3 
+4 
+5 
+Practico ejercicios de respiración profunda por algunos minutos 
+varias veces al día. 
+1 
+2 
+3 
+4 
+5 
+Me dejo un tiempo para hacer las cosas que realmente me gustan. 
+1 
+2 
+3 
+4 
+5 
+Hay por lo menos una persona importante para mí que me valora 
+1 
+2 
+3 
+4 
+5 
+Tengo ayuda para hacer las cosas de la casa. 
+1 
+2 
+3 
+4 
+5 
+Tengo ayuda para hacer las cosas importantes que deben ser 
+hechas 
+1 
+2 
+3 
+4 
+5 
+Hay por lo menos una persona dispuesta a quien puedo contarle 
+mis preocupaciones 
+1 
+2 
+3 
+4 
+5 
+Hay por lo menos una persona dispuesta con quien puedo hablar 
+sobre mis problemas de trabajo. 
+1 
+2 
+3 
+4 
+5 
+Sé que cuento por lo menos con un buen amigo. 
+1 
+2 
+3 
+4 
+5 
+Me siento querido/a. 
+1 
+2 
+3 
+4 
+5 
+Hay una persona a la que me siento muy unido/a. 
+1 
+2 
+3 
+4 
+5 
+Tengo un grupo de amigos que me valoran. 
+1 
+2 
+3 
+4 
+5 
+Me hace bien participar en grupos formales (religiosos, políticos, 
+organizaciones profesionales, etc.). 
+1 
+2 
+3 
+4 
+5 
+Puedo olvidarme del trabajo cuando llego a casa. 
+1 
+2 
+3 
+4 
+5 
+Siento que hay otros trabajos que puedo hacer aparte de mi 
+trabajo actual. 
+1 
+2 
+3 
+4 
+5 
+Periódicamente reexamino y reorganizo mi estilo y mi plan de 
+trabajo. 
+1 
+2 
+3 
+4 
+5 
+Puedo establecer prioridades en el uso de mi tiempo. 
+1 
+2 
+3 
+4 
+5 
+Una vez que establezco mis prioridades las llevo a cabo. 
+1 
+2 
+3 
+4 
+5 
+ 
+77 
+ 
+Tengo métodos para concentrarme. 
+1 
+2 
+3 
+4 
+5 
+Puedo identificar los aspectos importantes de los problemas que 
+se me plantean. 
+1 
+2 
+3 
+4 
+5 
+Cuando me enfrento a un problema lo analizo detalladamente. 
+1 
+2 
+3 
+4 
+5 
+Cuando tengo que tomar una decisión trato de pensar bien 
+1 
+2 
+3 
+4 
+5 
+Trato de ser consciente de cómo actúo y qué hago. 
+1 
+2 
+3 
+4 
+5 
+ 
+Por favor, asegúrese de haber respondido todas las frases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78 
+ 
+8.4 Cuestionario sociodemográfico 
+ 
+Datos sociodemográficos 
+ 
+1. Sexo: 
+1. Femenino 
+2. Masculino 
+ 
+2. Edad: 
+ 
+3. Año de nacimiento: 
+ 
+ 
+4. Estado civil:  
+1. Soltero/a 
+2. En pareja 
+3. Casado/a 
+4. Separado/a 
+5. Divorciado/a 
+6. Viudo/a 
+ 
+5. Zona de residencia actual: 
+1. Ciudad autónoma de Buenos aires 
+2. Gran Buenos Aires 
+ 
+6. Tiene hijos: 
+1. Si 
+2. No 
+ 
+ 
+7. Estudios alcanzados: 
+1. Secundario completo 
+2. Universitario incompleto 
+3. Universitario completo 
+4. Terciario incompleto 
+5. Terciario completo 
+ 
+8. ¿Cuál es su antigüedad en la organización? 
+1. Hasta cinco años 
+2. De cinco a diez años 
+3. De once a veinte años 
+4. Más de veinte años 
+ 
+ 
+9. Indicar si tiene/tuvo familiares en la organización: 
+1. Si 
+2. No 
+ 
+79 
+ 
+3. En caso de responder SI  indique el parentesco  
+ 
+10. ¿Tiene gente a cargo?  
+1. Si 
+2. No  
+ 
+11. Indique en años el tiempo de permanencia en el puesto actual: 
+1. Hasta cinco años 
+2. De cinco a diez años 
+3. De once a veinte años 
+4. Más de veinte años 
+ 
+12. ¿Se encuentra conforme con su puesto? 
+1. Si 
+2. No 
+ 
+13. ¿Cuál es su nivel de ingresos? 
+1. Hasta $30.000 
+2. De $30.000 a $50.000. 
+3. De $50.000 a $70.000. 
+4. Mayor a $70.000. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80 
+ 
+Referencias bibliográficas 
+ 
+Álvarez Toro, F. (1998). Predicción del compromiso del personal a partir del análisis de 
+clima organizacional. Revista de psicología y las organizaciones, 14, (3), 333-344.  
+Araujo López, B & Segovia, A. (2007). Estrés de rol, implicación con el trabajo y burnout 
+en soldados profesionales españoles. Revista Latinoamericana de psicología, 40, 
+(2), 293-304. 
+Ariza Montes, L. & Casamedunt Morales L (2013) La implicación emocional de los 
+empleados de la banca europea. Universia Bussines Review 38, 32-49. 
+Arias Galicia, F (2001). El compromiso personal hacia la organización y la intención de 
+permanencia: algunos factores para su incremento. Revista Contaduría y 
+Administración, 200, 6-10 
+Asamblea Legislativa de Panamá (2011). http//: asamblea.gob.pa. 
+Atalaya, M. (2001). El estrés laboral y su influencia en el trabajo. Industrial data, 4, (2), 
+25-36. 
+Ayensa, E. & Menorca González, L. (2007). Definición, antecedentes y consecuencias del 
+compromiso organizativo. Revista conocimiento, innovación y emprendedores, 89, 
+3590 – 3609.  
+Ayensa, E & Menorca González, L (2007) Compromiso organizativo en organizaciones 
+del tercer sector.  Revista de trabajo y seguridad social, 292, 165 – 208.  
+Blanco, M & Castro, P. (2011). Análisis comparativo del compromiso organizacional 
+manifestado por madres y mujeres sin hijos. Revista Ajayu, 9, (2), 215-233. 
+Begley, T. M., & Czajka, J. M. (1993). Panel analysis of the moderating effects of 
+commitment on job satisfaction, intent to quit, and health following organizational 
+change. Journal of Applied Psychology, 78(4), 552–556. 
+Betanzos Díaz, N., Andrade P, y Paz Rodríguez, F. (2006). Compromiso organizacional 
+en una muestra de trabajadores mexicanos. Revista de Psicología del Trabajo y de 
+las Organizaciones, 22, (1),25-43. 
+Borth, R. Romero, C. & Diaz Bretones, F (2014). El compromiso organizacional entre 
+obreros: un estudio en cuatro organizaciones bolivianas. Ajayu Órgano de difusión 
+ 
+81 
+ 
+científica del departamento de psicología de la Universidad católica boliviana, 12, 
+(2), 227-245. 
+Cabrera Lazarini, J. & Urbiola Solís, A. (2012). Compromiso organizacional y estrés 
+ocupacional: estudio de un caso en una empresa de distribución y venta de gas LP 
+en Costa Rica. Revista Gestión y estrategia, 41, 15-28. 
+Castro Otto, D. Martínez Adriasola, F. Robledo Candia, D & Sierra Palacios, E. (2014). 
+Compromiso organizacional en trabajadores del rubro minero de la IV Región. 
+Revista de psicología, Universidad Viña del Mar, 3, (6), 34-51. 
+Chiang, M. Núñez, P. Martin, M.J. & Salazar, M. (2010). Compromiso del trabajador hacia 
+su organización y la relación con el clima organizacional: un análisis de género y 
+edad. Panorama socioeconómico, 89, (40), 90 – 100. 
+Chiavenato, I (1999). Administración de recursos humanos. New York. Editorial Mc Graw 
+Hill. 
+Chirinos, N. (2009). Características generacionales y los valores. Su impacto en lo 
+laboral. Observatorio laboral Revista Venezolana, 2, (4), 133-153. 
+Chirumbolo, A & Hellgren, J. (2003). Individual and organizational consequences of job in 
+security: a European study. Economic and Industrial Democracy, 24 (2), 217 – 240. 
+Colquitt, J (2007). Organizational Behavior: Improving Performance and Commitment in 
+the workplace. EE. UU, Ed Mc Graw Hill. 
+Cooper, C y Payne, R (1978). Stress at work. New York, Wiley Digital books. 
+Corbetta, P. (2007). Metodologías y Técnicas de Investigación Social. Madrid: McGraw-
+Hill/Interamericana. 
+Cristiani, A. (2010). La generación Einstein. Revista de Antiguos Alumnos del IEEM, 2, 57 
+– 61. 
+Dávila de León, C. & Jiménez García, G. (2014). Sentido de pertenencia y compromiso 
+organizacional: predicción del bienestar. Revista de Psicología, 32, (2), 271-302. 
+Davis K y Newstrom J. (1991) Comportamiento humano en el trabajo. Comportamiento 
+organizacional. México. Mc Graw Hill. 
+ 
+82 
+ 
+García, Lombardía, P; Stein, G. & Pin, J. R. (2008) Políticas para dirigir a los nuevos 
+profesionales motivaciones y valores de la generación Y. IESE Business School, 
+193, 2 - 21. Universidad de Navarra. Barcelona, España. 
+George, D. & Mallery, M. (2003). Using SPSS for Windows step by step: a simple guide 
+and reference. Boston, MA: Allyn & Bacon. 
+Gil Monte, P (2010). Situación actual y perspectiva de futuro en el estudio del estrés 
+laboral: la Psicología de la Salud Ocupacional. Información Psicológica, 100, 68-83 
+Glazer, S & Kruse, B (2008). The role of orgnizational commitment in Ocuppational Stress 
+Models. International Journal of Stress Management (4), 329 – 334.  
+González, R (2011). La incorporación de la generación Y al mercado laboral. El caso de 
+una entidad financiera de la ciudad de Resistencia. Palermo Business Review, 5, 
+67-93. 
+Gómez García, A. Susanavas, P. & Rodríguez, S. (2018) Cansancio emocional 
+despersonalización y realización en trabajadores del sector bancario. Innova 
+research jorunal, 3, (1),10-18. 
+Golik, M. (2013). Las expectativas de equilibrio entre vida laboral y vida privada y las 
+elecciones laborales de la nueva generación. Cuadernos de Administración, 26, 
+107 – 133.  
+Gordillo, R., Mayo, N., Galindo, G & Gigante, L (2010). Metodología de la investigación 
+Educativa. Investigación Ex post facto. Madrid.  
+Griffiths, Amanda, Leka, Stavroula & Cox, Tom. (2004). La organización del trabajo y el 
+estrés: estrategias sistemáticas de solución de problemas para empleadores, 
+personal directivo y representantes sindicales. Ginebra: Organización Mundial de 
+la Salud. 
+Guevara Gasca, M. & Galán Cuevas, S. (2010). El papel del estrés y el aprendizaje de 
+las 
+enfermedades 
+crónicas: 
+Hipertensión 
+arterial 
+y 
+diabetes. 
+Revista 
+Latinoamericana de Medicina Conductual. 1, (1), 45-75. 
+Guevara Bedoya, L. & Fernández Podeva, L. (2017). Work Engagement y compromiso 
+laboral. ¿es la edad un factor diferenciador? Revista Interamericana de Psicología 
+Ocupacional, 34, (2), 108-119. 
+ 
+83 
+ 
+Harter, J., Schmidt, F., & Hayes, T. (2002). Business unit level relationship between 
+employee satisfaction, employee engagement, and business outcomes: A meta-
+analysis. Journal of Applied Psychology, 87, (2), 268-279. 
+Hernández Irizarry, E (2009). La generación Y o generación milenaria: el nuevo 
+paradigma laboral. Revista Empresarial Inter metro, 5, (2), 10-25. 
+Hewwit Aon (2015). Tendencias globales del compromiso de los empleados 2015. 
+Empower Results, AON, 4- 8.  
+Houtman, I., Jettinghoff, K & Cedillo, L (2008). Sensibilización sobre el estrés laboral en 
+países en desarrollo. Serie Protección de la salud de los trabajadores, 6, Ginebra: 
+Organización Mundial de la Salud. 
+Kahn, W.A. (1990). Psychological conditions of personal engagement and disengagement 
+at work. Academy of Management Journal, 33, (4), 692-724. 
+Kasarek, R (1990). Healthy work stress productivity and reconstruction of working life. 
+New york. Basic Books. 
+Kobasa, S.C. (1982). Commitment and coping ins stress resistance among lawyers. 
+Journal of Personality and Social Psychology, 42, 707-717. 
+Kruser, K (2013). How do you measure engagement. Revista Forbes. 
+Kupperschmidt, B. (2002). Multi generation employees: strategies for effective 
+management.  Healthcare Manager; 19, (1), 65 -76. 
+Lancaster, L. & Stillman, D. (2002). When generations collide: who they are, why the 
+Clash, how to solve the generational puzle. New york, EEUU: Harpers Collins. 
+Leibe, L (2016) La generación Y (Millenias) Principales características y estrategias para 
+su mejor inserción laboral. Investigación Flasco Chile, 1 – 11.  
+Leibovich de Figueroa, N & Schimidt, V. (2004). El uso de instrumentos psicológicos para 
+la evaluación del estrés ocupacional en nuestro medio. Ridep, 17, (1), 139-157. 
+Leibovich de Figueroa, N, Schimidt, V. & Marconi, A (2003). Inventario de Estrés 
+ocupacional OSI La muestra argentina. Departamento de publicaciones, Facultad 
+de psicología, UBA. 
+ 
+84 
+ 
+López Araujo, B; Segovia, A & Rodríguez Muñoz, M (2008). Estrés de rol, implicación en 
+el 
+trabajo 
+y 
+Burnout 
+en 
+soldados 
+profesionales 
+españoles. 
+Revista 
+Latinoamericana de Psicología, 40, (2), 293-304.  
+López Paz, J. F. (2011). El proceso de envejecimiento, especialmente en las personas 
+mayores, dinamizado por valores asociados al encuentro intergeneracional. 
+Revista Malestar y Subjetividades, XI (1) 13-38. 
+Maldonado Acosta, L & Osio Havriluk, L (2018). Diversidad generacional y la era del 
+acceso: un reto para la gestión de gente. Visión gerencial. Universidad de los 
+Andes, 1, 84-98. 
+Mañas, M. Salvador, C. Boada, J. González, E. & Agullo, E. (2007). La satisfacción y el 
+bienestar psicológico como antecedentes del compromiso organizacional. 
+Psicothema 2007, 19, (3), 395-400. 
+May, D. Gilson, R.  & Harter, L.M. (2004). The psychological conditions of meaning 
+fulness, safety and the engagement of the human spirit at work. Journal of 
+occupational and organizational psychology. (77), 11-33. 
+Mazzola, J. Schonfeld, I.  & Spector P (2011) What qualitative research has taugh tu 
+about occupational stress. Stress & Health: Journal of the international society for 
+the investigation of stress, 27, 93 – 110.  
+Mercado Salgado, P & Gil Monte, P. (2011). Influencia del compromiso organizacional en 
+la relación entre conflictos interpersonales y el síndrome de quemarse en el trabajo 
+(burnout) en profesionales de servicios (salud y educación). Revista Innovar, 20, 
+(38), 161-173. 
+Meyer, J., & Allen, N. (1991). A three component conceptualization of Organizational 
+commitment. Human Resource Management Review, 1, (1), 61-89. 
+Meyer, J & Allen, N (1996). The measurement and antecedents of affective, continuance 
+and normative commiment to the organization. Journal of occupational psychology, 
+63, 1-18. 
+Montero, I. & León, O (2007). Guía para nombrar los estudios de investigación en 
+Psicología. Revista International Journal of Clinical and Healthy Psychology, 7, (3), 
+847 – 862.  
+ 
+85 
+ 
+Moreno, L., García, J., Rubio Valdehita, S & Ramiro, E (2004). Factores psicosociales en 
+el entorno laboral, estrés y enfermedad. Revista EduPsykhé, 3, (1), 95 – 108.  
+Museo Banco Provincia. Página oficial. http://museobancoprovincia.com 
+Omar, A., Paris, L y Vaamonde, J.D (2005). La cultura organizacional de las empresas 
+argentinas. Rosario, Argentina. CONICET 
+Omar, A., Paris, L & Vaamonde, J.D (2009). El Inter juego entre el compromiso 
+organizacional y los valores personales. Psicodebate: psicología, cultura y 
+sociedad, 9, 27-43. 
+Organización Mundial de la Salud (2004). La organización del trabajo y el estrés. Serie 
+protección de los trabajadores. N°3.  
+Ortega Leiva, V. & Quiros, M.A. (2003). Adaptación al castellano de la versión revisada 
+de las Commitment Scales de Meyer, Allen y Smith (1993). Departamento de 
+psicología social y metodológica de las ciencias del comportamiento, Facultad de 
+Psicología, Universidad de Granada.  
+Oswaldo, C;  Días, Y;  Spers R & Filho V (2012). Impacto de los estresores laborales en 
+los profesionales y en las organizaciones. Análisis de investigaciones publicadas. 
+Invenio, 15, (29), 67-80. 
+Página oficial del Banco Provincia. http://bancoprovincia.com.ar. 
+Peña Sevez, L & Chico, R. (2007). Prevalencia del síndrome de quemarse en el trabajo 
+en empleados de un banco dominicano. Revista Ciencia y Sociedad, 22, (4), 645-
+667. 
+Pérez Ramírez, M & Lee Maturana, S. (2011). Síndrome de Burnout entre hombres y 
+mujeres medido por el clima y la satisfacción laboral. Revista polis online, 30.  
+Pérez, H (2019). Dime a que generación perteneces y te diré cuál es el “engagement” 
+con tu empresa. Revista Compromiso Empresarial. Versión online.  
+Pérez, A., Frenis, B., y Toca, L. (2009). El estrés laboral: Causas, efectos en la empresa 
+contemporánea 
+actual 
+y 
+formas 
+de 
+prevenirlo. 
+Disponible 
+en: 
+http://www.gestiopolis.com/organizacion-talento/causas-efectos-del-estres-laboral-
+comoprevenirlo.htm 
+ 
+86 
+ 
+Ramírez, M. & Zurita, R. (2009), Variables organizacionales y psicosociales asociadas al 
+síndrome de burnout en trabajadores del ámbito educacional. Revistas de la 
+Universidad Bolivariana, 9, (25), 537-553. 
+Ríos Manríquez, M. Téllez Ramírez, M & Ferrer Guerra, J. (2010). El empowerment como 
+predictor 
+del 
+compromiso 
+organizacional 
+en 
+las 
+pymes. 
+Contaduría 
+y 
+administración, (231), 103-125. 
+Sancerni, M. Peiró, J. González Roma, V. & Melia, J. (1998). El compromiso con el 
+trabajo en la transición de la escuela al mundo laboral. Revista de Psicología 
+Social, 4, (3), 247-259. 
+Sánchez Hernández, M.I. (2013). Compromiso laboral y estrés en los empleados de 
+bancos y cajas. Universidad de Extremadura. Revista Pecvnia, 16, 85-100. 
+Senge, P. (1990). La quinta disciplina. El arte y la práctica de la organización abierta al 
+aprendizaje. Madrid, Granica.  
+Selye (1956). The Stress of life. New York. Mc Graw Hill. 
+Selye (1974). Estrés sin distrés. Filadelfia. Lippincott Co. 
+Schein, E, H. (1988). La cultura empresarial y el liderazgo. Una visión dinámica. 
+Barcelona: Plaza & Janes.  
+Silva, J. & Navarro, V. (2012). Organización del trabajo y salud de empleados de banco. 
+Revista Latinoamericana Enfermagen, 20, (2), 226 – 340. 
+Simón, C. & Allard, G., (2007). Generación “Y” y mercado laboral: Modelo de gestión de 
+Recursos Humanos para los jóvenes profesionales. Instituto de Empresa Business 
+School. España. 
+Solinger, O., Ollfen, W. van, & Roe, R. (2008). Beyond the three-component model of 
+organizational commitment. Journal of Applied Psychology, 93,  (1), 70-83. 
+Swinscoe, A (2013). Sustaining businesses succesfully through employee engagement. 
+Recuperado de https://www.adrianswinscoe.com. 
+Ramos, V. & Jordao, F. (2014). Género y estrés laboral: semejanzas y diferencias de 
+acuerdo a factores de riesgo y mecanismos de coping. Revista psicología: 
+organizacoes e trabalho, 14, (2), 218-229. 
+ 
+87 
+ 
+Ramos, V. & Jordao, F. (2015). La relación entre el estrés laboral, las fuentes que le dan 
+origen y las estrategias de coping en el sector público y privado. Revista Psicología 
+del trabajo y de las organizaciones, 31, (1), 1 – 18. 
+Rego, A. & Souto, S. (2004). La relación entre los climas organizacionales autentizoticos 
+y las variables intención de salidas de la organización, el compromiso 
+organizacional y el estrés. Revista Latinoamericana de administración, 32, 77-102. 
+Robbins, S (1999). Comportamiento organizacional. 4° edición. México. Prentice Hall. 
+Yeda, O. Dias, E. Rueda Elias, V. & Ferraz, O. (2012). Impacto de los estresores 
+laborales en los profesionales y en las organizaciones, análisis de investigaciones 
+publicadas. Invenio, 15, (29), 67-80. 
+Zaldúa, G. Bottinelli, M. Pawlowicz, M. P & Nabergoi, M. (2005). El trabajo bancario en 
+contextos críticos: un estudio de caso. XII Jornadas de Investigación y Primer 
+Encuentro de Investigadores en Psicología del Mercosur. Facultad de Psicología - 
+Universidad de Buenos Aires, Buenos Aires. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

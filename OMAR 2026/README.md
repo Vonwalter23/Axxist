@@ -30,11 +30,16 @@ La escala tridimensional de **Allen & Meyer (1996)** fue **validada para empleo 
 - Emails públicos de sus papers:`agomar@arnet.com.ar` ; `agraomar@yahoo.com`.
 - Dirección: Italia 1365, Piso 1, Dpto. A,(S2000DFA, Rosario, Santa Fe, Argentina..
 
+## ⭐ NUEVO — Versión argentina de los 18 ítems (reconstruida y documentada)
+Ver **`VERSION_ARGENTINA_18_ITEMS.md`**: lista completa de los  ​18 ítems (6 afectivos +​ 6 calculativos +​ 6 normativos), con indicación de los  ​3 ítems inversos ( 4,  ​5 y  ​12), basada en la aplicación argentina real titulada "adaptada por Omar & Urteaga (2008) en Argentina" + papers de la autora + la versión revisada de Allen & Meyer( 1993). Más evidencia en `EVIDENCIA_ADICIONAL/`.
+
 ## Estructura de la carpeta
 ```
 OMAR 2026/
-├── README.md                    ← este respaldo documental
-├── FUENTES_PRIMARIAS/        ← artículos de la propia Alicia Omar ( citar prioritario)
-├── FUENTES_CONFIRMACION/     ← artículos indexados y tesis que confirman la validación
-└── CONTEXTO_INFORME_2005/     ← el informe original de cultura organizacional (2005) y su estudio publicado (2010)
+├── README.md                           ← este respaldo documental
+├── VERSION_ARGENTINA_18_ITEMS.md    ← ⭐ los 18 ítems reconstruidos ( con inversos)
+├── FUENTES_PRIMARIAS/              ← artículos de la propia Alicia Omar( citar prioritario)
+├── FUENTES_CONFIRMACION/           ← artículos indexados y tesis que confirman la validación
+├── CONTEXTO_INFORME_2005/           ← el informe original de cultura organizacional(2005) y su estudio publicado(2010)
+└── EVIDENCIA_ADICIONAL/            ← aplicación argentina real del cuestionario( Google Forms;, tesis UAI;, artículo Liberabit 2020
 ```

@@ -1,0 +1,1413 @@
+1
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+* sebastian_gabini@live.com.ar
+Para citar este artículo:
+Gabini, S. (2020). Articulación trabajo-familia y satisfacción laboral:
+El rol del compromiso afectivo. Liberabit, 26(1), e352. https://
+doi.org/10.24265/liberabit.2020.v26n1.06
+Este es un artículo Open Access bajo la licencia Creative Commons
+Atribución-NoComercial-CompartirIgual 4.0
+Universidad de San Martín de Porres, Lima - Perú
+http://ojs3.revistaliberabit.com
+Liberabit, 2020, 26(1), e352 (enero - junio)
+ISSN (Digital): 2223-7666
+https://doi.org/10.24265/liberabit.2020.v26n1.06
+Articulación trabajo-familia y satisfacción laboral:
+El rol del compromiso afectivo
+Work–family interface and job satisfaction: The role of affective commitment
+Sebastián Gabinia,b,*
+aInstituto de Investigaciones, Facultad de Humanidades y Artes, Universidad Nacional de Rosario - CONICET, Argentina
+bFacultad de Psicología y Relaciones Humanas, Universidad Abierta Interamericana, Argentina
+Recibido: 14 de noviembre de 2019
+Aceptado: 08 de junio de 2020
+Resumen
+Objetivo: el objetivo de la presente investigación fue analizar si
+alguno de los tipos de compromiso organizacional mediaba la
+relación entre la articulación trabajo-familia y la satisfacción laboral.
+Método: para ello, se diseñó un estudio empírico, cuantitativo y
+transversal, enmarcado en los lineamientos de la estrategia
+asociativa-explicativa. La medición de las variables de interés se
+llevó a cabo con una batería compuesta por instrumentos validados
+al contexto y que cuentan con adecuadas propiedades
+psicométricas. Se trabajó con una muestra no probabilística, por
+conveniencia, de 376 empleados (191 varones y 185 mujeres) de
+organizaciones del sector terciario, dada su importancia en el
+mundo actual del trabajo. Resultados: los resultados indicaron
+que el compromiso afectivo media parcialmente las relaciones entre
+las dimensiones del constructo articulación trabajo-familia
+(enriquecimiento y conflicto) y la satisfacción laboral. Este tipo
+de compromiso se erige como un constructo mediacional entre la
+satisfacción laboral y las posibilidades de articular las demandas
+de las distintas esferas vitales. Tal mecanismo puede ser explicado
+a la luz de la teoría del estrés de rol y de la teoría del intercambio
+social. Conclusiones: estos hallazgos pueden resultar de interés
+a la hora de diseñar prácticas de gerenciamiento amigables con la
+familia que posibiliten retener el talento humano y aumentar los
+lazos afectivos de los empleados con la organización.
+Palabras clave: compromiso organizacional; articulación trabajo-
+familia; satisfacción laboral; mediación.
+Abstract
+Objective: this research was to analyze if any of the types of
+organizational commitment mediated the relationship between
+work–family interface and job satisfaction. To that end, an
+empirical, quantitative and cross-sectional study was designed,
+framed within the guidelines of an associative–explanatory
+approach. Method: the study variables were measured using a
+set of validated instruments with adequate psychometric
+properties. The study population consisted of a non-probabilistic
+convenience sample of 376 workers (191 males and 185 females)
+from third-sector organizations, due to their importance in the
+current working world. Results: the results showed that
+affective commitment partially mediates the relationships
+between the dimensions work–family interface (enrichment and
+conflict) and job satisfaction. This type of commitment emerges
+as a mediational construct between job satisfaction and the
+possibilities of dealing with the demands from different vital
+spheres. Such mechanism may be explained through the role
+stress theory and the social exchange theory. Conclusions: these
+findings might be useful when it comes to designing family–
+friendship policies in order to retain human talent and promote
+affective bonds between employees and organizations.
+Keywords: organizational commitment; work–family interface;
+job satisfaction; mediation.
+2
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Introducción
+Los cambios en relación a la vida laboral y familiar
+acontecidos en las últimas décadas, marcados por el
+crecimiento del número de mujeres trabajadoras, la
+emergencia de parejas donde ambos cónyuges se
+desempeñan en el mercado laboral externo y el
+incremento de familias monoparentales, han
+provocado alteraciones en los enfoques tradicionales
+de la organización del trabajo (Gabini, 2017; Timms
+et al., 2015). Estas modificaciones también han
+impactado los distintos sectores productivos al interior
+de la economía de un país. En efecto, el rubro
+servicios y comercios es uno de lo que más ha crecido
+en las últimas tres décadas y, por lo tanto, se
+posiciona como una fuente de empleos que podría
+absorber a los trabajadores expulsados de los
+primeros sectores. En Argentina, particularmente, el
+sector terciario es el que más empleos proporciona
+a sus habitantes (más del 80% pertenece a empresas
+privadas) y genera más del 65% de su producto bruto
+interno (Oficina Económica y Comercial de España
+en Buenos Aires, 2018).
+Ante esta nueva realidad, muchos empleados
+pertenecientes a este rubro se encuentran, día a día,
+sumergidos en el desafío de balancear sus roles
+familiares y laborales. Consecuentemente, la
+posibilidad de articular estas esferas vitales se ha
+transformado en un objeto de estudio primordial para
+los investigadores de la psicología organizacional, lo
+que ha generado un cuerpo sustancial de literatura
+específica sobre la temática (Allen, Johnson, Kiburz,
+& Shockley, 2013).
+En un primer momento, la investigación referida a
+esta problemática estuvo dominada por una perspectiva
+ligada al conflicto (Greenhaus & Powell, 2006). De
+esta manera, el conflicto trabajo-familia (CTF) ha
+sido delimitado como la interferencia que ocurre entre
+los roles familiares y laborales, resultante de las
+presiones y demandas asociadas a cada dominio y que,
+además, puede llegar a tener efectos negativos sobre
+ambas esferas (Buonocore & Russo, 2013).
+Posteriormente, algunos estudiosos de la temática
+(Lingard, Francis, & Turner, 2010) se han mostrado
+escépticos de la perspectiva del conflicto y han
+sugerido que las ventajas de participar simultáneamente
+en diversos roles son ser capaces de equilibrar las
+desventajas generadas entre estos dominios. A pesar
+de ello, las primeras investigaciones realizadas en este
+sentido se han visto obstaculizadas por la carencia de
+claridad conceptual y por la falta de un marco teórico
+general e integrador (McNall, Scott, & Nicklin, 2015).
+Este desacuerdo en relación a la vertiente positiva de
+la interacción trabajo-familia, se ha traducido en la
+utilización de diversas designaciones para señalar al
+constructo tales como derrame positivo, mejoramiento
+o facilitación (Omar, Urteaga, & Salessi, 2015). Con
+base en las dificultades provenientes de la falta de una
+denominación unívoca del fenómeno, Greenhaus y
+Powell (2006) propusieron el término enriquecimiento
+trabajo-familia (ETF) en referencia al grado en el
+que las experiencias vividas en un rol contribuyen a
+mejorar la calidad de vida en otros roles.
+Sin embargo, el estudio aislado del conflicto o del
+enriquecimiento no ha provisto una base conceptual
+sólida para comprender la dinámica de la articulación
+entre ambas esferas. Por lo que desde hace más de
+una década, se ha comenzado a señalar que la
+naturaleza de la interacción trabajo-familia debe
+investigarse a partir de las combinaciones específicas
+de ambas perspectivas (Geurts et al., 2005; Michel
+& Clark, 2009). Esta propuesta integradora ha
+generado la necesidad de definir los modos en que
+el aspecto positivo y el negativo se relacionan, vale
+decir, si se trata de constructos isomorficos (aspectos
+opuestos de un continuum con los mismos
+antecedentes y consecuencias) u ortogonales
+(dimensiones distintas con antecedentes y
+consecuencias particulares). En términos generales,
+se observan mayores acuerdos sobre la ortogonalidad
+de ambos constructos (Michel & Clark, 2009), así
+como sobre la necesidad de estudiarlos conjuntamente
+para lograr un abordaje holístico de la interacción
+trabajo-familia (Padhi & Pattnaik, 2013; Rantanen,
+Kinnunen, Mauno, & Tement, 2013; Romeo, Berger,
+Montserrat, & Ramos, 2014).
+3
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+La revisión de la bibliografía muestra que existen
+mayores evidencias sobre los antecedentes que sobre
+las consecuencias de ambos constructos. En este
+sentido, como antecedentes del ETF se destacan las
+políticas amigables con la familia (Crain & Hammer,
+2013), la flexibilidad de horario y de lugar (Jijena-Michel
+& Jijena-Michel, 2015; Rastogi, Rangnekar, & Rastogi,
+2016), así como las condiciones de trabajo que
+contemplen seguridad laboral, autonomía y prestigio
+(Cooklin et al., 2015). En tanto que como antecedentes
+del CTF se han indicado, por un lado, características
+laborales tales como ambigüedad de rol, sobrecarga
+de rol, demandas de tiempo, inseguridad laboral,
+modalidad de contratación y, por el otro, características
+familiares como el números de hijos o personas a
+cargo, la falta de apoyo marital o clima familiar
+(Cooklin et al., 2015; Mauno et al., 2015).
+En relación con las consecuencias, mientras que las
+ligadas al CTF han sido ampliamente exploradas (Scott,
+Ingram, Zagenczyk, & Shoss, 2015), las relacionadas
+con el ETF no han arribado al mismo nivel de
+sistematización (Padhi & Pattnaik, 2013).
+Particularmente, se ha señalado que el incremento en
+los niveles de CTF contribuye a aumentar las tensiones
+psicológicas (Brummelhuis & Bakker, 2012), el
+cansancio emocional (Leineweber, Baltzer, Hanson, &
+Westerlund, 2013) y el burnout (Bagherzadeh et al.,
+2016). En términos generales, existe consenso en que
+el CTF predice negativamente el bienestar (Mauno et
+al., 2015) y la salud del empleado (Leineweber et al.,
+2013). En contraposición, se ha indicado que el ETF
+tiene un efecto directo sobre la reducción del cansancio
+laboral y las intenciones de renunciar (Mauno et al.,
+2015), el bienestar cultural del lugar de trabajo
+(Brougham, Haar, & Roche, 2015), la generación de
+sentimientos positivos hacia el trabajo (Wayne, Randel,
+& Stevens, 2006) y el compromiso organizacional
+(McNall et al., 2015; Timms et al., 2015).
+A pesar de tales evidencias, hasta la fecha no se
+ha evaluado de manera conjunta la influencia del CTF
+y ETF sobre algunos resultados laborales
+significativos, tales como el grado de satisfacción
+laboral del empleado. Ni tampoco se ha explorado si
+estas posibles relaciones (directas o bivariadas)
+podrían estar influenciadas por terceras variables que
+medien o moderen su intensidad y dirección. El
+presente trabajo se enmarcó, justamente, en esta
+perspectiva conocida como «de segunda generación»
+(Hopwood, 2007), orientada a identificar terceras
+variables que faciliten la asociación entre variables
+antecedentes y consecuentes. Concretamente, el
+objetivo del presente estudio fue analizar si alguno de
+los tipos de compromiso organizacional desempeña
+el rol de mediador (total o parcial) entre la
+articulación trabajo-familia (ETF y CTF) y la
+satisfacción laboral de los trabajadores.
+Articulación trabajo-familia y satisfacción laboral
+Desde su irrupción en el ámbito académico, la
+satisfacción laboral ha sido objeto de diversas
+conceptualizaciones. Estas incluyen desde su
+consideración como un sentimiento positivo, a su
+definición en términos de la favorabilidad (o
+desfavorabilidad) con la que los empleados evalúan
+su trabajo (Salessi, 2014). En los últimos años, ha
+comenzado a cobrar fuerza la alternativa de
+concebirla como un conjunto de respuestas cognitivas
+y afectivas a la situación laboral, con importantes
+implicancias en el comportamiento de los empleados
+y en los resultados organizacionales (Judge &
+Kammeyer-Mueller, 2012). A nivel individual, los
+trabajadores con índices elevados de satisfacción
+laboral suelen experimentar un mayor grado de
+autoestima, felicidad y bienestar. Mientras que, a nivel
+institucional, las organizaciones pueden verse
+recompensadas por rendimientos destacados, que se
+traducen en incrementos de la productividad y el
+compromiso, así como en menores intenciones de
+renunciar por parte de sus miembros (Salessi &
+Omar, 2017).
+En lo que hace a su relación con la articulación
+trabajo-familia, si bien la mayor parte de los estudios
+ha focalizado en el rol de variables contextuales ligadas
+al clima organizacional y al diseño del puesto, alguna
+4
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+evidencia indica que la posibilidad de balancear los roles
+familiares y laborales influye sobre la satisfacción del
+empleado. Al respecto, se ha encontrado (AlAzzam,
+AbuAlRub, & Nazzal, 2017; Mauno & Ruokolainen,
+2017) que el CTF predice negativamente la
+satisfacción laboral en diferentes países, aunque con
+mayor impacto en aquellos donde prima una cultura
+individualista (Haar, Russo, Suñe, & Ollier-Malaterre,
+2014). Por otra parte, resultados empíricos recientes
+(Brougham et al., 2015; McNall et al., 2015) coinciden
+en afirmar que el ETF se relaciona con un mayor
+grado de satisfacción laboral. Este doble aspecto de
+la articulación trabajo-familia y su relación con la
+satisfacción puede encontrar fundamento en el modelo
+de las demandas y recursos laborales. Ambos se
+presentan como los factores desencadenantes de los
+procesos de deterioro de la salud (energético) y
+procesos motivacionales. Entonces, mientras que las
+demandas laborales son predictoras de variables como
+el agotamiento, los recursos son antecedentes de la
+satisfacción en el trabajo y el engagement (Bakker
+& Demerouti, 2013).
+En base a estos antecedentes se tienen las
+siguientes hipótesis:
+-
+Hipótesis 1: El CTF se relacionará negativamente
+con la satisfacción laboral.
+-
+Hipótesis 2: El ETF se relacionará positivamente
+con la satisfacción laboral.
+Los tipos de compromiso organizacional como
+variables mediadoras
+En la actualidad, el modelo de compromiso
+organizacional propuesto por Allen y Meyer (1990)
+ha alcanzado un importante grado de consenso entre
+los especialistas en la temática (Albdour &
+Altarawneh, 2014; Liu & Wang, 2013; Muneer, Iqbal,
+Khan, & Long, 2014). Desde esta perspectiva, el
+constructo ha sido definido como el grado con que
+las personas se identifican con sus organizaciones, se
+encuentran consustanciadas con las mismas, y están
+dispuestas a continuar trabajando en ellas. El modelo
+en cuestión distingue entre tres tipos de compromiso
+en función de los motivos por los que un trabajador
+desea continuar formando parte de su organización:
+compromiso afectivo (lazos emocionales que unen al
+individuo con la organización), compromiso calculativo
+(toma de conciencia por parte del empleado de los
+altos costos que generaría el hecho de dejar la
+organización) y compromiso normativo (obligación del
+empleado de permanecer en la organización no solo
+porque está contratado, sino porque cree que esto es
+lo correcto). En relación a ello, se ha indicado que
+es probable que los empleados experimenten
+diferencialmente las tres formas de compromiso. Un
+empleado, por ejemplo, puede sentir tanto un fuerte
+deseo (afectivo) y necesidad de permanecer
+(calculativo), pero poca obligación (normativo) de
+hacerlo (Allen & Meyer, 1990).
+El hipotético rol de la tercera variable se
+fundamenta en las conclusiones de algunos estudiosos
+recientes que subrayan la función mediadora del
+compromiso afectivo (Fazio, Gong, Sims, & Yurova,
+2017; Wong & Wong, 2017), normativo (Al Momani,
+2017) o calculativo (Kaur & Soch, 2018), entre los
+sentimientos generados por articular las demandas del
+trabajo con las de la familia (como el apoyo
+organizacional percibido o la calidad de la vida laboral)
+y las actitudes vinculadas con el trabajo (tales como
+las intenciones de renuncia o el rendimiento). Estos
+antecedentes, proponen un rol mediador dado que se
+han centrado en la explicación de los procesos y
+mecanismos que producen determinados efectos, es
+decir, cómo se explica la relación entre una variable
+independiente y una variable dependiente. Para, de esta
+manera, buscar explicaciones (teóricas) que ayuden a
+entender los procesos que operan en la realidad.
+Este mecanismo puede ser explicado a la luz de
+la teoría del intercambio social, cuya presunción
+general es que los empleados pueden establecer,
+desde su rol laboral, diferentes acuerdos sociales que
+tienen implicancias en sus modos de comportarse. De
+esta manera, es probable que los trabajadores tiendan
+a intercambiar su compromiso con la organización por
+el apoyo de su empleador, muchas veces ligado a
+5
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+determinadas políticas amigables con la familia que
+conllevan la posibilidad de balancear ambos roles
+(Cropanzano, Anthony, Daniels, & Hall, 2017).
+Sumado a ello, la teoría del estrés de rol sostiene que
+la necesidad de cumplimentar con las demandas
+generadas a partir de la participación en múltiples
+roles tiende a generar estrés. Sin embargo, los
+empleados comprometidos generan sentimientos de
+estabilidad y de seguridad para con la empresa que
+le permiten hacer frente a estos estresores
+(Buonocore & Russo, 2013).
+Particularmente, investigaciones empíricas han
+indicado que el compromiso organizacional media la
+relación entre la satisfacción laboral y los
+comportamientos de ciudadanía organizacional
+(Chhabra & Mohanty, 2016), las condiciones laborales,
+el salario y la seguridad laboral (Sangadji, 2014). Sin
+embargo, hasta el momento no se tiene conocimiento
+de estudios que hayan indagado el rol mediador de
+alguno de los tipos de compromiso afectivo en la
+relación entre la articulación trabajo-familia y la
+satisfacción laboral. Por ello, se conjetura lo siguiente:
+-
+Hipótesis 3: Al menos uno de los tipos de
+compromiso organizacional mediará las relaciones
+entre el CTF y la satisfacción laboral.
+-
+Hipótesis 4: Al menos uno de los tipos de
+compromiso organizacional mediará las relaciones
+entre el ETF y la satisfacción laboral.
+Método
+La presente investigación corresponde a un
+estudio empírico de corte cuantitativo y transversal.
+El mismo se enmarca en los lineamientos de la
+estrategia asociativa-explicativa (Ato, López, &
+Benavente, 2013), ya que su finalidad fue explorar
+la relación funcional existente entre variables.
+Participantes y procedimiento
+Se trabajó con una muestra por conveniencia no
+probabilística de 376 empleados (191 varones y 185
+mujeres) del sector terciario que mantenían
+interacciones interpersonales frecuentes con clientes.
+El mayor porcentaje de los participantes tenía edades
+comprendidas entre los 21-30 años (37.9%) y los 31-
+40 años (28.7%). Porcentajes menores se ubicaron
+en los rangos etarios comprendidos entre los 18-20
+(13.6%) y entre 41-50 años (11.7%), en tanto que el
+rango de los mayores de 50 años (8.1%) fue el menos
+representado.
+Para la selección de la muestra se tomó contacto
+con diversas organizaciones públicas y privadas que
+ofrecieran distintos tipos de servicios, localizadas en
+la ciudad de Rosario (provincia de Santa Fe,
+Argentina) invitándolas a participar del estudio. Con
+aquellas que aceptaron colaborar se pautaron días y
+horarios para concretar la recolección de los datos.
+Para ello, se acordó hacerles llegar una determinada
+cantidad de protocolos para que los empleados
+pudieran responderlos en sus momentos libres, de modo
+de no generar interrupciones durante la jornada laboral.
+Las cédulas respondidas fueron retiradas una semana
+después de la recepción. Para cumplimentar con el
+número de casos esperados (más de 300), se
+confeccionaron y entregaron 750 cédulas de
+recolección de datos. Del total entregados, cerca de
+60% fueron recuperados; sin embargo, un buen número
+de protocolos (cerca de un 10%) debieron ser
+descartados por encontrarse incompletos o presentar
+patrones de respuesta que denotaban una clara falta
+de compromiso (por ejemplo, seleccionar la misma
+opción de respuesta para todos los reactivos).
+Instrumentos
+Variables personales. A cada empleado se le
+solicitó información acerca de su género, edad y rubro
+de la empresa.
+Satisfacción laboral. Se utilizó la Escala
+Satisfacción Laboral Genérica de MacDonald y
+MacIntyre (1997), adaptada por Salessi y Omar
+(2016). Las propiedades psicométricas de esta
+versión fueron evaluadas a través de análisis
+factoriales (exploratorios y confirmatorios) que
+indicaron una estructura unidimensional, correlaciones
+6
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+entre los puntajes de satisfacción laboral y
+compromiso (r = .81; p < .01), confianza (r = .84; p
+< .01) y cinismo organizacional (r = -.70; p < .01)
+para medir su validez convergente, y el método de
+consistencia interna (α = .87) para estimar su
+confiabilidad. El instrumento, integrado por 7 ítems
+(e.g., «En mi trabajo puedo aplicar todas mis
+capacidades y habilidades.»), proporciona una
+estimación global del grado de satisfacción laboral.
+Cada reactivo es evaluado según una escala tipo
+Likert con 5 opciones de respuesta (1 = totalmente
+en desacuerdo; 5 = totalmente de acuerdo). A
+mayor puntaje, mayor satisfacción laboral.
+Compromiso organizacional. Fue evaluado
+mediante la adaptación argentina (Omar & Urteaga,
+2008) de las escalas de Compromiso Organizacional
+de Allen y Meyer (1990) para valorar el modelo de
+tres componentes: afectivo (e.g., «Esta empresa tiene
+mucho significado para mí.»), normativo (e.g., «Siento
+que tengo una gran deuda hacia mi empresa.») y
+calculativo (e.g., «Siento que tengo pocas opciones
+de trabajo como para considerar dejar mi
+organización.»). Se trata de escalas independientes
+que miden constructos distinguibles entre ellos. Con
+base en ello, innumerables investigaciones han elegido
+medir el modelo completo o alguno de sus tres
+componentes (Meyer, Stanley, Herscovitch, &
+Topolnytsky, 2002). La versión validada se encuentra
+conformada por seis ítems para cada una, con
+formato Likert de 5 puntos (variando desde 1 =
+totalmente en desacuerdo a 5 = totalmente de
+acuerdo). Los índices de consistencia interna (alfa
+de Cronbach) fueron de .82 para el compromiso
+afectivo, de .73 para el normativo y de .76 para el
+calculativo.
+Articulación trabajo-familia. Se exploró
+mediante la adaptación argentina (Gabini, 2017) del
+Cuestionario de Interacción Trabajo-Familia
+(SWING; Geurts et al., 2005), integrada por ocho
+ítems con formato Likert de 5 puntos (variando desde
+1 = nunca a 5 = siempre). Esta escala explora tanto
+los recursos ganados en las esferas familiares y
+laborales, denominado enriquecimiento trabajo-familia,
+a través de cuatro ítems (e.g., «Tengo más
+autoconfianza en el trabajo porque mi vida en casa
+está bien organizada.»); así como el vínculo negativo
+entre ambos dominios, conflicto trabajo-familia, a
+partir de cuatro ítems (e.g., «Me resulta difícil
+concentrarme en mi trabajo porque estoy preocupado
+por asuntos domésticos.»). Para la adaptación y
+validación de la escala, se ejecutaron análisis
+factoriales exploratorios y confirmatorios, los que
+indicaron una estructura bifactorial con adecuada
+consistencia (ETF: α = .76 y CTF: α = .74),
+confiabilidad compuesta (mayores a .70) y validez
+convergente (mayor a .50).
+Consideraciones éticas
+El contacto con los empleados y la aplicación de
+la cédula de recolección de datos se llevó a cabo en
+los lugares habituales de trabajo, previa solicitud de
+autorización a las autoridades organizacionales. La
+participación fue voluntaria y la totalidad de los
+participantes firmaron un protocolo de consentimiento
+informado. Se garantizó el anonimato y la
+confidencialidad de la información suministrada.
+Durante todo el proceso se tomaron en consideración
+todos los recaudos éticos vinculados con la
+investigación con seres humanos establecidos por la
+Asociación Americana de Psicología (2017) y las
+recomendaciones del CONICET (2006) para las
+investigaciones en las ciencias sociales y humanas.
+Análisis de datos
+Se examinó la matriz de datos con miras a detectar
+valores perdidos y/o atípicos. Se calcularon los índices
+descriptivos (medias y desvíos típicos) y los
+coeficientes de correlación entre los constructos en
+estudio con el objeto de verificar qué aspecto o
+aspectos del compromiso organizacional retener para
+los posteriores análisis. A continuación, se analizó la
+distribución conjunta de las variables a través del
+cómputo del coeficiente de curtosis multivariada
+estandarizado (Bentler, 2006) y se ejecutó un análisis
+factorial confirmatorio (AFC) para determinar el ajuste
+7
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+del modelo de medida utilizado. En este caso, un modelo
+conformado por los factores ETF, CTF, dimensión del
+compromiso organizacional retenida y satisfacción
+laboral; sus respectivos ítems como indicadores
+observables y sus respectivos términos de error. La
+confiabilidad se examinó a partir del índice de
+confiabilidad compuesta (CR, Composite Reliability),
+recomendado cuando se tienen en cuenta las
+interacciones entre dos o más constructos. La validez
+convergente se determinó a través de la varianza media
+extraída (AVE, Average Variance Extracted). La
+validez discriminante se analizó con base en la raíz
+cuadrada del AVE (Fornell & Larcker, 1981). La
+presencia de potenciales sesgos debidos al método
+común se evaluó a partir de la prueba de un solo factor
+de Harman (Podsakoff, MacKenzie, & Podsakoff,
+2012). Complementariamente, se realizaron pruebas de
+diferencias de medias (t de Student) para el género y
+análisis de varianza (ANOVA de un factor) para la
+edad de los participantes. Tal procedimiento se realizó
+a fin de detectar posibles diferencias significativas que
+pudieran ameritar incluir a estas características
+sociodemográficas como variables control.
+La verificación empírica de las hipótesis propuestas
+se realizó mediante la modelización con ecuaciones
+estructurales, a partir de la estrategia de modelos rivales
+(Bentler, 2006) que permite contrastar dos modelos
+distintos: (a) un modelo de efectos indirectos o de
+mediación total (modelo A) y (b) un modelo de efectos
+indirectos y directos o de mediación parcial (modelo
+B). En el modelo A, el ETF y el CTF se desempeñaron
+como variables independientes con efectos indirectos
+sobre la satisfacción laboral a través de la dimensión
+del compromiso organizacional retenida. En el modelo
+B, se añadieron efectos directos residuales por parte
+de las variables antecedentes sobre la satisfacción
+laboral. Para la estimación de los modelos se empleó
+el método de máxima verosimilitud con la corrección
+robusta de Satorra-Bentler (S-B), recomendado
+cuando los datos provienen de escalas tipo Likert
+(Bentler, 2006). Para evaluar la bondad de ajuste se
+analizó que la razón entre índice chi-cuadrado
+corregido no fuera significativo y los grados de libertad
+(S-Bχ2/gl) fuera inferior a 4; que el índice de bondad
+de ajuste (GFI, Goodness of Fit Index) y el índice
+de ajuste comparativo (CFI, Comparative Fit Index)
+alcanzaran valores iguales o superiores a .90, y que el
+valor del error cuadrático medio de aproximación
+(RMSEA, 
+Root 
+Mean 
+Square 
+Error 
+of
+Approximation) fuera inferior a .05. Adicionalmente,
+se analizó el índice esperado de validación cruzada
+(ECVI, Expected Cross-Validation Index) y el criterio
+consistente de información de Akaike (CAIC,
+Consistent Akaike Information Criterion),
+considerando que el modelo más adecuado sería el que
+presente valores comparativamente más pequeños.
+Complementariamente, se computó la prueba de
+diferencias entre los estadísticos chi-cuadrado (S-Bχ2)
+y se ejecutó un análisis con bootstrapping para
+determinar la significación estadística de los efectos
+totales, directos e indirectos. Con tal propósito, se
+seleccionaron 5000 muestras al azar del conjunto de
+datos y se estimaron los intervalos de confianza al
+95%. Comparada con los métodos tradicionales (Baron
+& Kenny, 1986; Mackinnon, Lockwood, Hoffman,
+West, Sheets, 2002; Sobel, 1982), esta alternativa es
+más flexible y fácil de utilizar. Los análisis fueron
+ejecutados con los softwares SPSS (versión 23) y EQS
+(versión 6.1).
+Resultados
+Análisis preliminares
+Sobre las 376 cédulas se efectuó una exploración
+preliminar para identificar la presencia de valores
+perdidos y/o observaciones atípicas que pudieran
+afectar los resultados del estudio. Esta inspección
+demostró que no existían valores perdidos que
+pudieran disminuir la eficacia de las pruebas
+estadísticas. Tampoco se encontraron observaciones
+extremas univariadas (Tabachnick & Fidell, 2013) o
+multivariadas (Hair, Black, Babin, Anderson, &
+Tatham, 2010). En definitiva, la totalidad de los casos
+fueron considerados válidos para continuar con los
+análisis posteriores.
+8
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+En la Tabla 1 se presentan los estadísticos
+descriptivos y los coeficientes de correlación
+bivariada para la muestra total. Como se desprende
+de la misma, los tres tipos de compromiso
+organizacional se correlacionaron con la satisfacción
+laboral y el ETF, siendo el compromiso afectivo el
+que presentó las asociaciones más fuertes. Por otra
+(S-Bχ2/gl = 9.36, GFI = .86, CFI = .85, RMSEA =
+.06 [IC = .05; .06]). Sin embargo, a partir de la
+eliminación de tres indicadores que no se vincularon
+significativamente con la variable correspondiente (ítem
+4 correspondiente a satisfacción laboral, ítem 3
+correspondiente a ETF e ítem 4 correspondiente a
+CTF) se consiguió un ajuste más adecuado a los datos
+empíricos (S-Bχ2/gl = 1.87, GFI = .91, CFI = .92,
+RMSEA = .04 [IC = .03; .05]). La Tabla 2 presenta
+los resultados derivados de las pruebas de confiabilidad
+y validez del modelo de medida. En todos los casos,
+los índices de confiabilidad compuesta superaron el
+mínimo de .70, el índice AVE para cada constructo fue
+parte, el CTF se correlacionó negativa y
+significativamente con el compromiso afectivo (r = -
+.14; p < .01) y no con los otros compromisos. A raíz
+de tales resultados se optó por retener solo al
+componente afectivo para los análisis posteriores,
+dado que era la única dimensión constructo que se
+vinculaba con las demás variables de interés.
+El coeficiente de curtosis multivariante
+estandarizado fue de 28.31, ubicándose muy por
+encima de los límites estipulados (-3; 3) para asumir
+multinormalidad (Bentler, 2006). Con base en dicho
+resultado, se optó por el uso de estimadores robustos
+para el cálculo de los parámetros, tanto del modelo de
+medida como del modelo estructural. El modelo de
+medida quedó conformado por cuatro variables
+correlacionadas: ETF, CTF, compromiso afectivo y
+satisfacción laboral. A cada variable latente se le
+sumaron sus respectivos indicadores y los
+correspondientes errores de medida. El modelo de
+medida inicial no logró un ajuste totalmente satisfactorio
+CA
+.88
+.55
+.74
+SL
+.86
+.51
+.71
+CTF
+.76
+.52
+.72
+ETF
+.78
+.55
+.74
+Tabla 2
+Confiabilidad y validez correspondientes a las variables en estudio
+CR
+Nota: CR = Composite Reliability; AVE = Average Variance Extracted.
+AVE
+Raíz cuadrada de AVE
+1. CN
+3.07
+.79
+—
+.42
+.68
+.46
+-.00
+.34
+2. CC
+3.12
+.67
+—
+.27
+.12
+.10
+.15
+3. CA
+3.26
+.97
+—
+.63
+-.14
+.35
+4. SL
+3.85
+.66
+—
+-.29
+.40
+5. CTF
+2.44
+.82
+—
+-.19
+6. ETF
+3.59
+.75
+—
+Tabla 1
+Medias, desvíos típicos y correlaciones entre los factores del compromiso organizacional, la
+satisfacción laboral, el CTF y el ETF
+Media
+Nota: Negrita = p < .01; cursiva = p < .05
+DT
+1
+2
+3
+4
+5
+6
+9
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+mayor a .50, y la raíz cuadrada del mismo fue superior
+que la correlación entre ese constructo y todos los
+demás (Fornell & Larcker, 1981). Por su parte, la
+prueba del factor único de Harman indicó que los datos
+no se encontraban sesgados desde el momento que la
+varianza explicada por un solo factor era del 27.40%.
+En lo que hace a las diferencias de medias en
+función de las variables sociodemográficas, la prueba
+t de Student para la variable sexo no arrojó resultados
+significativos. En cuanto a la edad de los trabajadores,
+solo se encontró una exigua diferencia en relación al
+compromiso afectivo entre los empleados mayores de
+50 años y aquellos que tenían entre 19 y 30 años de
+edad. Dado que solo se encontró una diferencia entre
+la totalidad de las comparaciones de las medias
+obtenidas por los cinco rangos etarios propuestos para
+cada uno de los constructos de interés (CTF, ETF,
+compromiso afectivo y satisfacción), se optó por no
+incluir las variables sociodemográficas (control) en los
+análisis posteriores.
+Verificación empírica
+La modelización con ecuaciones estructurales
+permitió conocer la magnitud y dirección de los
+coeficientes de regresión entre las relaciones
+estipuladas. En este sentido, el ETF se relacionó
+positivamente con la satisfacción laboral (β = .46, p
+<.001) y el CTF lo hizo negativamente (β = -.12, p
+<.001). Estos resultados brindan apoyo empírico a las
+hipótesis 1 y 2. De manera similar, el ETF se vinculó
+positivamente con el compromiso afectivo (β = .53, p
+<.001), en tanto que el CTF se relacionó
+negativamente con este tipo de compromiso (β = -.12,
+p <.05). Por su parte, el compromiso afectivo se asoció
+de manera positiva a la satisfacción laboral (β = .25,
+p <.001). De este modo, se pudo demostrar que se
+cumplían las premisas que rigen el mecanismo de
+mediación.
+La comparación de los índices de ajuste indicó que
+el modelo de mediación parcial se ajustaba mejor a los
+datos empíricos (S-Bχ2 = 5.14; S-Bχ2/gl = 5.14; GFI
+= .92; CFI = .93; RMSEA = .04; ECVI = 1.03; CAIC
+= 54.52) que el modelo de mediación total (S-Bχ2 =
+25.94; S-Bχ2/gl = 12.97; GFI = .77; CFI = .73;
+RMSEA = .07; ECVI = 1.12; CAIC = 245.59).
+Posteriormente, el análisis de bootstrapping
+permitió ratificar tales resultados, así como determinar
+la significancia estadística de los efectos entre las
+variables. De la Tabla 3 se desprende que los efectos
+indirectos de las dimensiones de la articulación trabajo-
+familia sobre la satisfacción laboral a través del
+compromiso afectivo son estadísticamente
+significativos, lo que demuestra la existencia de
+mediación. Sin embargo, a pesar de la reducción de
+la magnitud de los valores absolutos (efectos totales)
+en presencia del compromiso afectivo (efectos
+directos), el hecho de que las variables independientes
+sigan teniendo efectos significativos sobre la
+satisfacción laboral indica un tipo de mediación parcial.
+De este modo, se confirma empíricamente la hipótesis
+3 y 4 en tanto un tipo de compromiso organizacional
+(afectivo) cumplía el rol de tercera variable propuesto.
+ETF=>SL
+ .60
+.54; .66
+ .46
+.39; .54
+ .13
+.09; .18
+CTF=>SL
+-.15
+-.23; -.08
+-.12
+-.20; -.05
+-.03
+-.05; -.01
+Tabla 3
+Coeficientes estandarizados e intervalos de confianza correspondientes a los efectos indirectos y directos
+del ETF y del CTF sobre la SL
+Nota: negrita = p < .001; cursiva = p < .01; ETF = enriquecimiento trabajo-familia; CTF = conflicto trabajo-familia;
+SL = satisfacción laboral; IC = intervalo de confianza.
+Relación
+Efectos totales
+Efectos directos
+Efectos indirectos
+β
+IC al 95%
+β
+IC al 95%
+β
+IC al 95%
+10
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+La Figura 1 resume los coeficientes de regresión
+estandari-zados y las proporciones de varianzas
+explicadas (R2) para la variable dependiente y
+mediadora. En este caso el modelo verificado explica
+cerca de un 50% de la varianza de la satisfacción
+laboral.
+Figura 1. Coeficientes estandarizados y proporción de varianza explicada correspondiente al modelo
+de mediación parcial. Las líneas cortadas representan los efectos directos residuales; mientas que
+las líneas continuas, los efectos indirectos.
+Discusión
+El objetivo de la presente investigación fue analizar
+si alguno de los tipos de compromiso organizacional
+mediaba la relación entre las dos dimensiones de la
+articulación trabajo familia (ETF y CTF) y la
+satisfacción laboral del empleado. En función a la
+inspección de los análisis preliminares, se escogió el
+compromiso afectivo dado que era el único que se
+correlacionaba con las otras variables de interés. Esta
+elección se encuentra en línea con lo expuesto por
+Simintiras, Watkins, Ifie y Georgakas (2012) al señalar
+que este aspecto es una medida más efectiva del
+compromiso organizacional desde el momento que ha
+demostrado tener mayores efectos sobre los resultados
+de los trabajadores que los otros dos tipos de
+compromiso. Posteriormente, se elaboraron dos
+modelos teóricos rivales en los que el compromiso
+afectivo recibió los roles de mediador total y parcial.
+La modelización mediante ecuaciones estructurales de
+los mismos permitió concluir que el modelo de
+mediación parcial era el que mejor se ajustaba a los
+datos empíricos. A partir de los resultados obtenidos
+se pudo confirmar que los lazos emocionales del
+empleado con su organización establecen un puente
+entre los demás constructos de interés. Sin embargo,
+el hecho de que la mediación sea parcial podría indicar
+la presencia de otras variables mediadoras entre la
+articulación trabajo-familia y la satisfacción laboral.
+El modelo explicativo seleccionado, además,
+permitió establecer otras relaciones significativas entre
+las variables de interés. En este sentido, el compromiso
+afectivo se vinculó simultáneamente con el CTF y el
+ETF. Las asociaciones negativas entre este tipo de
+compromiso y la faceta negativa de la articulación
+trabajo-familia han sido ampliamente documentadas en
+la bibliografía previa (Buonocore & Russo, 2013). Por
+su parte, si bien la relación entre el ETF y el
+compromiso afectivo no ha arribado al mismo nivel de
+sistematización, algunas investigaciones recientes
+(Marques, Chambel, & Pinto, 2015; Rahman, Sa’adah,
+Amin, Mahadi, & Ismail, 2017) han señalado una
+vinculación positiva entre ambos constructos.
+La satisfacción laboral presentó asociaciones
+significativas con las dos dimensiones de la
+articulación trabajo-familia. Algunos estudios
+11
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+empíricos actuales (AlAzzam et al., 2017; Mauno &
+Ruokolainen, 2017) han corroborado que mientras el
+CTF predice negativamente la satisfacción laboral, el
+ETF lo hace de manera positiva (Brougham et al.,
+2015; McNall et al., 2015). Las razones de estos
+efectos son que el trabajo exige esfuerzo y consume
+recursos energéticos (demandas), mientras que los
+recursos laborales satisfacen necesidades humanas
+básicas, como autonomía y autoeficacia, y permiten
+la persecución de objetivos concordantes con uno
+mismo. De hecho, estas personas se encuentran
+intrínsecamente motivadas a perseguir tales objetivos
+y, por tanto, experimentan mayor satisfacción
+(Bakker & Demerouti, 2013). Sin embargo, a la
+fecha no existen suficientes evidencias que valoren
+el impacto simultáneo de ambas facetas de la
+interacción trabajo-familia sobre este resultado laboral
+del modo que lo hace la presente investigación. Esta
+perspectiva se torna imprescindible para futuras
+investigaciones dado que los individuos experimentan
+ambos fenómenos de manera simultánea (Padhi &
+Pattnaik, 2013). Por lo tanto, no debieran ser
+estudiados como compartimentos estancos sin
+interacción o influencia entre ellos, ya que ninguno
+de estos mecanismos aislados provee una base
+conceptual sólida para comprender la dinámica de la
+articulación entre ambas esferas (Frone, 2003).
+Por su parte, el rol que cumple el compromiso
+afectivo en este modelo se condice con los resultados
+provenientes de estudios más recientes que han
+destacado a este tipo de compromiso como un
+constructo mediacional entre la satisfacción laboral
+y algunas posibilidades de articular las demandas de
+las distintas esferas vitales, tales como las condiciones
+laborales (Yousef, 2017), las prácticas de
+gerenciamiento (Leggat, Karimi, & Bartram, 2017)
+o los comportamientos cívicos al interior de las
+organizaciones (Chhabra & Mohanty, 2016).
+Particularmente, el modelo que prueba que el
+compromiso afectivo media parcialmente las
+relaciones entre las dimensiones de la articulación
+trabajo-familia (CTF y ETF) y la satisfacción laboral
+resulta totalmente novedoso por las particularidades
+ya expuestas. El mismo puede ser explicado dado
+que en el proceso de formación de estos lazos
+afectivos interviene la valoración que el empleado
+realiza del apoyo y los beneficios recibidos por parte
+de la organización. Si tales evaluaciones resultan
+positivas, el trabajador percibirá los objetivos de la
+empresa como si fueran propios y deseará seguir
+perteneciendo a la misma porque la considera parte
+de su vida (Omar & Urteaga, 2008). En este sentido,
+es probable que el empleado intercambie su
+compromiso por el acceso a determinadas políticas
+amigables con la familia que conllevan la posibilidad
+de balancear las demandas provenientes de los roles
+familiares y laborales. Estos niveles de compromiso
+afectivo, a su vez, podrían derivar en un mayor grado
+de satisfacción laboral (Cropanzano, Anthony,
+Daniels, & Hall, 2017). En concordancia, la teoría del
+estrés de rol sostiene que los empleados altamente
+comprometidos con su organización tienden a generar
+sentimientos de estabilidad y de seguridad para con
+la empresa que le permiten hacer frente a los
+conflictos derivados de la dificultad de articular las
+demandas de ambas esferas (Buonocore & Russo,
+2013).
+Los resultados aquí obtenidos podrían ser de
+utilidad para gerentes, líderes o personas que se
+encuentren relacionadas a la gestión de los recursos
+humanos a la hora de evaluar la implementación de
+políticas de trabajo flexible amigables con la familia
+dado su impacto sobre aspectos tales como la
+retención del talento (compromiso) y la percepción
+que estos tienen sobre sus empleos. Asimismo, el
+hecho de mantener altamente motivados
+(satisfechos) a los trabajadores del sector terciario
+al momento de realizar las tareas propias del rol se
+traslada esa actitud positiva a los clientes, que aportan
+a la rentabilidad de la organización. En este tipo de
+organizaciones, una buena atención puede lograr
+competitividad a la hora de buscar y retener a los
+consumidores. Es por ello que el capital humano se
+ha convertido en una clave para el éxito de las
+compañías de servicios o comercios (Guerrero,
+Parra, & Arce, 2018).
+12
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Como toda investigación empírica, la presente no
+se encuentra exenta de ciertas debilidades y
+fortalezas. En lo que respecta a las limitaciones, vale
+aclarar que si bien el estudio se diseñó teniendo en
+cuenta una estrategia asociativa-explicativa (Ato et al.,
+2013), el mismo se orienta más hacia una investigación
+de carácter exploratorio, dado que desde un principio:
+(a) no se propone exclusivamente a un tipo de
+compromiso organizacional como el posible mediador,
+sino que la selección del compromiso afectivo (así
+como el título de la presente publicación) surge a
+posteriori de los análisis preliminares, exploratorios, y
+no de una hipótesis previa; (b) ni se tuvo en cuenta el
+tipo de mediación (total o parcial) que podría esperarse
+entre las variables de interés, la cual se determina a
+partir de la contrastación de dos modelos rivales. El
+carácter transversal de la investigación también podría
+considerarse una debilidad del estudio en tanto impide
+la realización de inferencias de causalidad entre las
+variables de interés. Al respecto, futuras
+investigaciones podrían emplear diseños longitudinales
+a los fines de establecer dicho orden causal. En tercer
+lugar, dado que el procedimiento utilizado para la
+selección de la muestra ha sido no probabilístico y se
+desconoce el número total de trabajadores
+pertenecientes a las organizaciones que participaron
+del estudio, los resultados aquí obtenidos no podrían ser
+generalizados al conjunto de la población objetivo. Para
+superar tal debilidad, estudios venideros deberían
+enriquecer el método de selección de participantes a
+través de la representatividad de la muestra y de
+valorar el posible sesgo de selección de los mismos.
+En este sentido, por ejemplo, podrían valerse de
+muestras aleatorias que permitan representar
+adecuadamente los diversos estratos ocupacionales y
+conglomerados geográficos. Cuarto, la prueba de
+factor único de Harman tiene sus limitaciones, por lo
+que en la evaluación de los posibles sesgos del método
+común se podría sumar la técnica de medición directa
+del factor latente (MacKenzie & Podsakoff, 2012) para
+identificar la naturaleza del mismo. Una última
+limitación podría estar vinculada al carácter
+autodescriptivo de las escalas utilizadas las que,
+además, podrían ser proclives a la tendencia de los
+participantes a mostrar una imagen mejorada de sí
+mismos. No obstante, cabe aclarar que todos los
+trabajadores tuvieron garantizado el anonimato durante
+el proceso de recolección y análisis de los datos. En
+definitiva, esta debilidad podría sobrellevarse mediante
+la inclusión de escalas de deseabilidad social o datos
+provenientes de otras fuentes más objetivas.
+Entre las fortalezas, esta investigación constituye
+un aporte original a la literatura psicológica desde el
+momento que (a) corrobora que el compromiso
+afectivo es la medida más efectiva del compromiso
+organizacional, (b) prueba el potencial predictivo de
+las dimensiones de la articulación trabajo-familia sobre
+la satisfacción laboral de manera conjunta, (c) verifica
+que el compromiso afectivo media parcialmente el
+vínculo entre dichas variables, y (e) ofrece sustento
+teórico para las interacciones empíricamente
+verificadas. Por lo tanto, los hallazgos obtenidos
+contribuyen a cubrir un área de vacancia desde el
+momento que la revisión de la literatura más
+actualizada no arroja ningún estudio que haya
+examinado simultáneamente esta particular
+combinación de constructos.
+Con base en estos resultados, futuros estudios
+podrían incorporar nuevas variables mediadoras que
+expliquen el efecto residual entre la satisfacción
+laboral y los aspectos de la articulación trabajo-
+familia. En este sentido, otras variables disposicionales
+(como las estrategias de afrontamiento del estrés) u
+organizacionales (como la autonomía laboral o el
+trabajo flexible) podrían ocupar este rol.
+Paralelamente, se podrían comparar los resultados
+obtenidos con los de otros sectores económicos para
+verificar si cada rubro presenta particularidades en
+lo que hace al interjuego de las variables propuestas.
+Conflicto de intereses
+El trabajo enviado no presenta ningún conflicto de
+interés.
+13
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Responsabilidad ética
+Se tomaron en consideración todos los recaudos
+éticos vinculados con la investigación con seres
+humanos establecidos por la Asociación Americana
+de Psicología (2017) y las recomendaciones del
+CONICET (2006) para las investigaciones en las
+ciencias sociales y humanas.
+Contribución de autoría
+El trabajo ha sido realizado en su totalidad por el
+autor.
+Agradecimientos
+El presente trabajo ha sido realizado en el marco
+de la beca posdoctoral otorgada al autor por el
+CONICET (Consejo Nacional de Investigaciones
+Científicas y Técnicas), y dirigida por la Dra. Alicia
+Omar (CONICET; Universidad Nacional de Rosario,
+Argentina.
+Referencias
+Al Momani, H. M. (2017). The Mediating Effect of
+Organizational Commitment on the Relationship between
+Work-Life Balance and Intention to Leave: Evidence
+from Working Women in Jordan. International Business
+Research, 10(6), 164-177. doi: 10.5539/ibr.v10n6p164
+AlAzzam, M., AbuAlRub, R. F., & Nazzal, A. H. (2017). The
+Relationship between Work-Family Conflict and Job
+Satisfaction among Hospital Nurses. Nursing Forum,
+52(4), 278-288. doi: 10.1111/nuf.12199
+Albdour, A. A., & Altarawneh, I. I. (2014). Employee
+Engagement and Organizational Commitment: Evidence
+from Jordan. International Journal of Business, 19(2), 192-
+212. Recuperado de https://pdfs.semanticscholar.org/fd0f/
+fc62aa4b60c4b4d695f510845bce7bca75ed.pdf
+Allen, T. D., Johnson, R. C., Kiburz, K. M., & Shockley, K.
+M. (2013). Work-Family Conflict and Flexible Work
+Arrangements: Deconstructing Flexibility. Personnel
+Psychology, 66(2), 345-376. doi: 10.1111/peps.12012
+Allen, N. J., & Meyer, J. P. (1990). The Measurement and
+Antecedents of Affective, Continuance and Normative
+Commitment to the Organization. Journal of
+Occupational Psychology, 63(1), 1-18. doi: 10.1111/j.20
+44-8325.1990.tb00506.x
+American Psychological Association. (2017). Ethical
+principles of psychologists and code of conduct (2002,
+amended effective June 1, 2010, and January 1, 2017).
+Recuperado de http://www.apa.org/ethics/code/
+index.html
+Ato, M., López, J. J., & Benavente, A. (2013). Un sistema
+de clasificación de los diseños de investigación en
+Psicología. Anales de Psicología, 29(3), 1038-1059.
+doi: 10.6018/analesps.29.3.178511
+Bagherzadeh, R., Taghizadeh, Z., Mohammadi, E.,
+Kazemnejad, A., Pourreza, A., & Ebadi, A. (2016).
+Relationship of Work-Family Conflict with Burnout and
+Marital Satisfaction: Cross-Domain or Source
+Attribution Relations? Health Promotion Perspectives,
+6(1), 31-36. doi: 10.15171/hpp.2016.05
+Bakker, A. B., & Demerouti, E. (2013). La teoría de las
+demandas y los recursos laborales. Revista de
+Psicología del Trabajo y de las Organizaciones, 29(3),
+107-115. doi: 10.5093/tr2013a16
+Baron, R. M., & Kenny, D. A. (1986). The moderator–
+mediator variable distinction in social psychological
+research: Conceptual, strategic, and statistical
+considerations. Journal of Personality and Social
+Psychology, 51(6), 1173-1182. doi:10.1037/0022-35
+14.51.6.1173
+Bentler, P. (2006). EQS 6 Structural Equations Program
+Manual. Encino, CA: Multivariate Software.
+Brougham, D., Haar, J., & Roche, M. (2015). Work-Family
+Enrichment, Collectivism, and Workplace Cultural
+Outcomes: A Study of New Zealand Maori. New
+Zealand Journal of Employment Relations, 40(1), 19-
+34. Recuperado de https://hdl.handle.net/10289/9933
+Brummelhuis, L. L. ten, & Bakker, A. B. (2012). A Resource
+Perspective on the Work-Home Interface: The Work-
+Home Resources Model. American Psychologist, 67(7),
+545-556. doi: 10.1037/a0027974
+Buonocore, F., & Russo, M. (2013). Reducing the Effects of
+Work-Family Conflict on Job Satisfaction: The Kind of
+Commitment Matters. Human Resource Management
+Journal, 23(1), 91-108. doi: 10.1111/j.1748-8583.2011.00187.x
+14
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Chhabra, B., & Mohanty, R. P. (2016). Moderating Role of
+Locus of Control in the Relationship between Job
+Satisfaction and Organisational Citizenship Behaviour:
+A Study of the Indian IT Sector. International Journal
+of Indian Culture and Business Management, 13(3),
+288-309. Recuperado de https://EconPapers.repec.org/
+RePEc:ids:ijicbm:v:13:y:2016:i:3:p:288-309
+CONICET (2006). Lineamientos para el comportamiento
+ético en las Ciencias Sociales y Humanidade. Buenos
+Aires: CONICET.
+Cooklin, A. R., Westrupp, E., Strazdins, L., Giallo, R., Martin,
+A., & Nicholson, J. M. (2015). Mothers’ Work-Family
+Conflict and Enrichment: Associations with Parenting
+Quality and Couple Relationship. Child: Care, Health
+and Development, 41(2), 266-277. doi: 10.1111/cch.12137
+Crain, T. L., & Hammer, L. B. (2013). Work-Family
+Enrichment: A Systematic Review of Antecedents,
+Outcomes, and Mechanisms. In A. B. Bakker (Ed.),
+Advances in Positive Organizational Psychology (pp.
+303-328). Howard House, UK: Emerald Group
+Publishing Limited.
+Cropanzano, R., Anthony, E. L., Daniels, S. R., & Hall, A.
+V. (2017). Social Exchange Theory: A Critical Review
+with Theoretical Remedies. Academy of Management
+Annals, 11(1), 479-516. doi: 10.5465/annals.2015.0099
+Fazio, J., Gong, B., Sims, R., & Yurova, Y. (2017). The Role
+of Affective Commitment in the Relationship between
+Social Support and Turnover Intention. Management
+Decision, 55(3), 512-525. doi: 10.1108/MD-05-2016-0338
+Fornell, C., & Larcker, D. F. (1981). Structural Equation
+Models with Unobservable Variables and Measurement
+Error: Algebra and Statistics. Journal of Marketing
+Research, 18(3), 382-388. doi: 10.2307/3150980
+Frone, M. R. (2003). Work-Family Balance. In J. C. Quick
+& L. E. Tetrick (Eds.), Handbook of occupational
+health psychology (pp. 143-162). Washington, DC:
+American Psychological Association.
+Gabini, S. (2017). Interacción trabajo-familia: Adaptación
+y validación de un instrumento para medirla. Revista
+da UIIPS, 5(5), 24-32. Recuperado de http://
+lms.essaude.ipsantarem.pt/index.php/REVUIIPS/article/
+view/438
+Geurts, S. A., Taris, T. W., Kompier, M. A., Dikkers, J. S.,
+Hooff, M. L. van, & Kinnunen, U. M. (2005). Work-
+Home Interaction from a Work Psychological
+Perspective: Development and Validation of a New
+Questionnaire, the SWING. Work & Stress, 19(4), 319-
+339. doi: 10.1080/02678370500410208
+Greenhaus, J. H., & Powell, G. N. (2006). When Work and
+Family are Allies: A Theory of Work-Family
+Enrichment. Academy of Management Review, 31(1),
+72-92. doi: 10.5465/amr.2006.19379625
+Guerrero, M. A., Parra, R. J., & Arce, M. F. (2018). La
+satisfacción laboral y su efecto en la satisfacción del
+cliente, un análisis teórico. INNOVA Research Journal,
+3(8), 140-146. doi: 10.33890/innova.v3.n8.2018.879
+Haar, J. M., Russo, M., Suñe, A., & Ollier-Malaterre, A.
+(2014). Outcomes of Work-Life Balance on Job
+Satisfaction, Life Satisfaction and mental health: A
+study across seven cultures. Journal of Vocational
+Behavior, 85(3), 361-373. doi: 10.1016/j.jvb.2014.08.010
+Hair, J. F., Black, W. C., Babin, B. J., Anderson, R. E., &
+Tatham R. L. (2010). Multivariate Data Analysis (6a
+ed.). Upper Saddle River, NJ: Pearson-Prentice Hall.
+Hopwood, C. (2007). Moderation and Mediation in
+Structural Equation Modeling: Applications for Early
+Intervention Research. Journal of Early Intervention,
+29(3), 262-272. doi: 10.1177/105381510702900305
+Jijena-Michel, R. D., & Jijena-Michel, C. E. (2015). El rol
+moderador de la flexibilidad del horario de trabajo en
+la relación del enriquecimiento trabajo familia y la
+satisfacción docente. Horizontes Empresariales, 10(2),
+41-56. Recuperado de http://revistas.ubiobio.cl/inde
+x.php/HHEE/article/view/2018
+Judge, T. A., & Kammeyer-Mueller, J. D. (2012). General and
+Specific Measures in Organizational Behavior Research:
+Considerations, Examples, and Recommendations for
+Researchers. Journal of Organizational Behavior, 33(2),
+161-174. doi: 10.1002/job.764
+Kaur, H., & Soch, H. (2018). Satisfaction, Trust and Loyalty:
+Investigating the Mediating Effects of Commitment,
+Switching Costs and Corporate Image. Journal of Asia
+Business Studies, 12(4), 361-380. doi: 10.1108/JABS-08-
+2015-0119
+15
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Leggat, S. G., Karimi, L., & Bartram, T. (2017). A Path Analysis
+Study of Factors Influencing Hospital Staff Perceptions
+of Quality of Care Factors Associated with Patient
+Satisfaction and Patient Experience. BMC Health
+Services Research, 17(1), 39-53. doi: 10.1186/s12913-017-
+2718-x
+Leineweber, C., Baltzer, M., Hanson, L. L. M., & Westerlund,
+H. (2013). Work-Family Conflict and Health in Swedish
+Working Women and Men: A 2-Year Prospective
+Analysis. The European Journal of Public Health,
+23(4), 710-716. doi: 10.1093/eurpub/cks064
+Lingard, H. C., Francis, V., & Turner, M. (2010). Work-Family
+Enrichment in the Australian Construction Industry:
+Implications for Job Design. Construction Management
+and Economics, 28(5), 467-480. doi: 10.1080/01446
+190903511268
+Liu, X. P., & Wang, Z. M. (2013). Perceived Risk and
+Organizational Commitment: The Moderating Role of
+Organizational Trust. Social Behavior and Personality:
+An International Journal, 41(2), 229-240. doi: 10.2224/
+sbp.2013.41.2.229
+MacDonald, S., & Maclntyre, P. (1997). The Generic Job
+Satisfaction Scale: Scale Development and its Correlates.
+Employee Assistance Quarterly, 13(2), 1-16. doi: 10.1300/
+J022v13n02_01
+MacKenzie, S. B., & Podsakoff, P. M. (2012). Common
+Method Bias in Marketing: Causes, Mechanisms, and
+Procedural Remedies. Journal of Retailing, 88(4), 542-
+555. doi: 10.1016/j.jretai.2012.08.001
+MacKinnon, D. P., Lockwood, C. M., Hoffman, J. M.,
+West, S. G., & Sheets, V. (2002). A comparison of
+methods to test mediation and other intervening
+variable effects. Psychological Methods, 7(1), 83-104.
+doi:10.1037/1082-989x.7.1.83
+Marques, A. M., Chambel, M. J., & Pinto, I. (2015). The
+Exchange Relationship between Work-Family
+Enrichment and Affective Commitment: The Moderating
+Role of Gender. The Spanish Journal of Psychology, 18,
+1-11. doi: 10.1017/sjp.2015.38
+Mauno, S., Cuyper, N. de, Kinnunen, U., Ruokolainen, M.,
+Rantanen, J., & Mäkikangas, A. (2015). The Prospective
+Effects of Work–Family Conflict and Enrichment on Job
+Exhaustion and Turnover Intentions: Comparing Long-
+Term Temporary vs. Permanent Workers across Three
+Waves. Work & Stress, 29(1), 75-94. doi: 10.1080/026783
+73.2014.1003997
+Mauno, S., & Ruokolainen, M. (2017). Does Organizational
+Work-Family Support Benefit Temporary and Permanent
+Employees Equally in a Work-Family Conflict Situation
+in Relation to Job Satisfaction and Emotional Energy at
+Work and at Home? Journal of Family Issues, 38(1), 124-
+148. doi: 10.1177/0192513X15600729
+McNall, L. A., Scott, L. D., & Nicklin, J. M. (2015). Do Positive
+Affectivity and Boundary Preferences Matter for Work-
+Family Enrichment? A Study of Human Service Workers.
+Journal of Occupational Health Psychology, 20(1), 93-
+104. doi: 10.1037/a0038165
+Meyer, J. P., Stanley, D. J., Herscovitch, L., & Topolnytsky,
+L. (2002). Affective, Continuance, and Normative
+Commitment to the Organization: A Meta-Analysis of
+Antecedents, Correlates, and Consequences. Journal
+of Vocational Behavior, 61(1), 20-52. doi: 10.1006/jvb
+e.2001.1842
+Michel, J. S., & Clark, M. A. (2009). Has it been Affect All
+Along? A Test of Work-to-Family and Family-to-Work
+Models of Conflict, Enrichment, and Satisfaction.
+Personality and Individual Differences, 47(3), 163-168.
+doi: 10.1016/j.paid.2009.02.015
+Muneer, S., Iqbal, S., Khan, S., & Long, C. S. (2014). An
+Incorporated Structure of Perceived Organizational
+Support, Knowledge-Sharing Behavior, Organizational
+Trust and Organizational Commitment: A Strategic
+Knowledge Management Approach. Pakistan Journal
+of Commerce and Social Sciences, 8(1), 42-57.
+Recuperado de http://www.jespk.net/publications/
+161.pdf
+Oficina Económica y Comercial de España en Buenos Aires
+(2018). Informe económico y comercial. Argentina:
+Oficina Económica y Comercial de España en Buenos
+Aires. Recuperado de http://www.comercio.gob.es/tmp
+DocsCanalPais/C051C360DAC4A84922DEBEA5C90C
+F938.pdf
+Omar, A., & Urteaga, F. (2008). Valores personales y
+compromiso organizacional. Enseñanza e Investigación
+en Psicología, 13(2), 353-372. Recuperado de https://
+www.redalyc.org/articulo.oa?id=292/29213210
+16
+Sebastián Gabini
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Omar, A., Urteaga, F., & Salessi, S. (2015). Propiedades
+psicométricas de la Escala de Enriquecimiento Trabajo-
+Familia para la población argentina. Revista de
+Psicología, 24(2), 1-18. doi: 10.5354/0719-0581.2015.37689
+Padhi, M., & Pattnaik, S. (2013). A Typology of Work Family
+Research: Perspectives from Literature. Vilakshan: The
+XIMB Journal of Management, 10(2), 83-98.
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012).
+Sources of Method Bias in Social Science Research and
+Recommendations on How to Control it. Annual Review
+of Psychology, 63, 539-569. doi: 10.1146/annurev-psych-
+120710-100452
+Rahman, A., Sa’adah, N., Amin, S. M., Mahadi, N., & Ismail,
+F. (2017). The Relationship between Work-Family
+Balance and Affective Organizational Commitment
+among Academic Staff of Malaysian Research
+Universities. Advanced Science Letters, 23(1), 482-485.
+doi: 10.1166/asl.2017.7229
+Rantanen, J., Kinnunen, U., Mauno, S., & Tement, S. (2013).
+Patterns of Conflict and Enrichment in Work-Family
+Balance: A Three-Dimensional Typology. Work & Stress,
+27(2), 141-163. doi: 10.1080/02678373.2013.791074
+Rastogi, M., Rangnekar, S., & Rastogi, R. (2016). Flexibility
+as a Predictor of Work-Family Enrichment. Global
+Journal of Flexible Systems Management, 17, 5-14.
+doi: 10.1007/s40171-015-0108-y
+Romeo, M., Berger, R., Yepes-Baldó, M.., & Ramos, B. (2014).
+Adaptation and Validation of the Spanish Version of the
+«Survey Work-Home Interaction–NijmeGen»(SWING) to
+Spanish Speaking Countries. Anales de Psicología,
+30(1), 287-293. doi: 10.6018/analesps.30.1.148291
+Salessi, S. (2014). Satisfacción laboral: acerca de su
+conceptualización, medición y estado actual del arte.
+Revista de Psicología, 10(19), 67-83. Recuperada de
+https://core.ac.uk/download/pdf/32622524.pdf
+Salessi, S., & Omar, A. (2016). Satisfacción Laboral
+Genérica. Propiedades psicométricas de una escala
+para medirla. Alternativas en Psicología, 20(34), 93-
+108. Recuperado de http://hdl.handle.net/11336/53885
+Salessi, S., & Omar, A. (2017). Satisfacción laboral: un
+modelo explicativo basado en variables disposicionales.
+Revista Colombiana de Psicología, 26(2), 329-345.
+doi: 10.15446/rcp.v26n2.60651.
+Sangadji, E. M. (2014). The Effect of Organizational Culture
+on Lecturers’ Job Satisfaction and Performance.
+International Journal of Learning and Development,
+3(3), 1-18. doi: 10.5296/ijld.v3i3.3673
+Scott, K. L., Ingram, A., Zagenczyk, T. J., & Shoss, M. K.
+(2015). Work-Family Conflict and Social Undermining
+Behaviour: An Examination of PO Fit and Gender
+Differences. Journal of Occupational and
+Organizational Psychology, 88(1), 203-218. doi: 10.1111/
+joop.12091
+Simintiras, A., Watkins, A., Ifie, K., & Georgakas, K. (2012).
+Individual and Contextual Influences on the Affective
+Commitment of Retail Salespeople. Journal of Marketing
+Management, 28(11-12), 1377-1398. doi: 10.1080/
+0267257X.2012.691529
+Sobel, M. E. (1982). Asymptotic Confidence Intervals for
+Indirect Effects in Structural Equation Models.
+Sociological Methodology, 13, 290. doi:10.2307/270723
+Tabachnick, B. G., & Fidell, L. S (2013). Using Multivariate
+Statistics (6a ed.). Boston, MA: Pearson.
+Timms, C., Brough, P., O’Driscoll, M., Kalliath, T., Siu, O. L.,
+Sit, C., & Lo, D. (2015). Positive Pathways to Engaging
+Workers: Work-Family Enrichment as a Predictor of
+Work Engagement. Asia Pacific Journal of Human
+Resources, 53(4), 490-510. doi: 10.1111/1744-7941.12066
+Wayne, J. H., Randel, A. E., & Stevens, J. (2006). The Role
+of Identity and Work-Family Support in Work-Family
+Enrichment and its Work-Related Consequences.
+Journal of Vocational Behavior, 69(3), 445-461.
+doi: 10.1016/j.jvb.2006.07.002
+Wong, Y. W., & Wong, Y. T. (2017). The Effects of Perceived
+Organizational Support and Affective Commitment on
+Turnover Intention. Journal of Chinese Human
+Resource Management, 8(1), 2-21. doi: 10.1108/JCHRM-
+01-2017-0001
+Yousef, D. A. (2017). Organizational Commitment, Job
+Satisfaction and Attitudes toward Organizational
+Change: A Study in the Local Government.
+International Journal of Public Administration, 40(1),
+77-88. doi: 10.1080/01900692.2015.1072217
+17
+Articulación trabajo-familia y satisfacción laboral: El rol del compromiso afectivo
+ISSN (Digital): 2223-7666
+Liberabit, 2020, 26(1), e352 (enero - junio)
+Sebastián Gabini
+Instituto de Investigaciones, Facultad de Humanidades y Artes, Universidad Nacional de Rosario, CONICET, Argentina.
+Facultad de Psicología y Relaciones Humanas, Universidad Abierta Interamericana, Argentina.
+Licenciado en Psicología (Universidad Abierta Interamericana), profesor universitario para la Educación Secundaria y Superior
+(Universidad Abierta Interamericana) y doctor en Psicología (Universidad Nacional de la Plata). Becario posdoctoral del CONICET
+con lugar de trabajo en el Instituto de Investigaciones de la Facultad de Humanidades y Artes, Universidad Nacional de Rosario
+(Argentina). Profesor asociado e investigador de la Facultad de Psicología y Relaciones Humanas, Universidad Abierta Interamericana
+(Argentina).
+ORCID: https://orcid.org/0000-0002-0997-1423
+Autor corresponsal: sebastian_gabini@live.com.ar
