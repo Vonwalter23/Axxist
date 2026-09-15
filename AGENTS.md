@@ -15,7 +15,7 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
-- **Última revisión de monitoreo**: 2026-09-15 (sexta pasada del mismo día, ~18:18 UTC)
+- **Última revisión de monitoreo**: 2026-09-15 (séptima pasada del mismo día, ~18:26 UTC)
 
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
@@ -45,7 +45,7 @@ completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
 
 ## Actividad Reciente del Repositorio
 
-Última revisión: 2026-09-15, sexta pasada del mismo día sobre la misma `main` (`a414c65`,
+Última revisión: 2026-09-15, séptima pasada del mismo día sobre la misma `main` (`a414c65`,
 sin cambios). La API de GitHub confirmó otra vez que no hay commits nuevos en `main` ni
 issues reales abiertos.
 
@@ -69,8 +69,10 @@ trigger siga sin filtro, el bucle continúa.
 
 La corrección recomendada (no aplicada en este run, requiere decisión del propietario) es
 filtrar el trigger con JMESPath, por ejemplo
-`ref == 'refs/heads/main' || startswith(ref, 'refs/tags/')`, o excluir las ramas de
-monitoreo. Alternativa complementaria en el workflow: `paths-ignore: ['**/*.md']` en
+`starts_with(ref, 'refs/heads/main') || starts_with(ref, 'refs/tags/')`, o excluir las
+ramas de monitoreo. El nombre de la función importa: la expresión se evalúa en minúsculas,
+así que `startswith(...)` no matchea y el filtro fallaría en silencio filtrando *todo*.
+Alternativa complementaria en el workflow: `paths-ignore: ['**/*.md']` en
 `pull_request` para que un cambio de solo documentación no dispare el Quality Gate completo.
 
 Commits en `main` (más recientes primero):
@@ -309,11 +311,11 @@ Documentadas para que no se interpreten como trabajo pendiente de stages:
   toque el mismo archivo: mientras el trigger siga sin filtro, cada pasada produce un PR
   duplicado más (#5 a #8 el 2026-09-15). La solución de fondo es el filtro del trigger, no
   acumular PRs.
-- La automatización `Axxist GitHub Monitor` dispara en `push` sin filtro, por lo que se
-  re-dispara con sus propios commits: cada pasada que escribe `AGENTS.md` genera un push,
-  que genera la pasada siguiente. Recomendación: filtrar el trigger a `ref == 'refs/heads/main'`
-  (o excluir las ramas `docs/agents-*` y `openhands/monitor-activity-*`) para que el
-  monitoreo deje de auto-alimentarse.
+- La automatización `Axxist GitHub Monitor` (`id a25a0304-8290-44d9-b449-49fe9e455ffe`)
+  se dispara con `on = ["push", "pull_request.opened"]` y `filter = null`, así que su propio
+  push la vuelve a disparar: cada pasada que escribe `AGENTS.md` genera un push, que genera
+  la pasada siguiente. El arreglo es aplicarle el filtro descrito en "Actividad Reciente"
+  (`PATCH /api/automation/v1/a25a0304-8290-44d9-b449-49fe9e455ffe`), no acumular PRs.
 - Al resumir CI en este archivo, no fijar el color del Quality Gate como un hecho: se
   relanza en cada push y un snapshot puede quedar vencido en minutos. Vale documentar el
   historial de `main` (estable) o la cobertura del workflow, no el último badge observado
