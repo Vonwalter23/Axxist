@@ -35,6 +35,9 @@ Commits en `main` (más recientes primero):
 | `d7ce807` .. `4d499b3` | 2026-07-17 | openhands | Implementación del Quality Gate CI/CD |
 | `b9a1edc` .. `0d544c2` | 2026-07-16 | openhands | STAGE_01 a STAGE_08 |
 
+El último commit de `main` sigue siendo `a414c65` (2026-08-20, tag `OMAR-2026`): no hay
+commits nuevos en `main` desde esa fecha.
+
 Ramas:
 
 | Rama | Estado |
@@ -42,9 +45,11 @@ Ramas:
 | `main` | Rama de integración |
 | `docs/colquitt-compact-pdf` | PR #1 abierto |
 | `docs/meyer-allen-compact-pdf` | PR #2 abierto |
-| `omar-2026-validacion` | PR #4 abierto |
+| `omar-2026-validacion` | PR #4 abierto; Quality Gate en verde |
 | `docs/resumen-chiavenato` | Sin PR asociado |
 | `docs/resumen-commitment-workplace` | Sin PR asociado |
+| `docs/agents-refresh-repo-status` | PR #7 abierto (monitoreo duplicado) |
+| `docs/agents-md-monitor-update` | PR #5 cerrado sin merge |
 
 Pull requests abiertos (requieren revisión humana):
 
@@ -53,13 +58,17 @@ Pull requests abiertos (requieren revisión humana):
 | #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` |
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` |
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` |
+| #6 | Actualizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
+| #7 | Refrescar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 
-Estos PRs son **documentación de investigación**, no código de producto. No aportan
-avance de stages. El **PR #4 es grande (23 archivos, ~16.5k líneas)** y trae PDFs
-binarios; conviene revisarlo con criterio de peso del repositorio.
+Todos salvo el presente son **documentación de investigación**, no código de producto.
+Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
+**PR #4 es grande (23 archivos, ~16.5k líneas)** y trae PDFs binarios; conviene revisarlo
+con criterio de peso del repositorio.
 
-> Ninguno de estos PRs toca `src/` ni `android/`, por lo que el roadmap de stages
-> no cambia.
+> **Aviso de duplicación**: los PR #5 (cerrado), #6 y #7 son todos actualizaciones de
+> `AGENTS.md` generadas por el mismo monitoreo del 2026-09-15. Conviene mergear uno solo
+> y cerrar el resto para evitar conflictos recurrentes en `AGENTS.md`.
 
 ## Módulos Implementados
 
@@ -76,6 +85,10 @@ binarios; conviene revisarlo con criterio de peso del repositorio.
 | STAGE_06 | AI Router | ✅ |
 | STAGE_07 | Intent Engine | ✅ |
 | STAGE_08 | Action Framework | ✅ |
+
+Quedan **STAGE_09 a STAGE_20** pendientes (Android Actions, Contacts & Phone, WhatsApp,
+Email, Spotify & Media, Calendar, Memory Engine, Automations, Plugin System, Local AI,
+Beta y Commercial Ready). Tabla sincronizada con `docs/PROJECT_STATE.md`.
 
 ## Arquitectura de Calidad
 
@@ -182,6 +195,8 @@ queda fuera del alcance de este monitoreo:
   no existen en el repositorio.
 - `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados
   pese a que `docs/DECISIONS.md` recoge decisiones aprobadas.
+- `docs/PROJECT_STATE.md` declara una "Rama de desarrollo" `develop` que no existe en
+  el repositorio (verificado contra la API: solo existe `main` y ramas de documentación).
 
 ## Convenciones de Trabajo
 
