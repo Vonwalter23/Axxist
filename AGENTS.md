@@ -15,7 +15,7 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
-- **Última revisión de monitoreo**: 2026-09-15 (segunda pasada del mismo día, ~17:40 UTC)
+- **Última revisión de monitoreo**: 2026-09-15 (tercera pasada del mismo día, ~17:55 UTC)
 
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
@@ -45,7 +45,7 @@ completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
 
 ## Actividad Reciente del Repositorio
 
-Última revisión: 2026-09-15, segunda pasada del mismo día sobre la misma `main`.
+Última revisión: 2026-09-15, tercera pasada del mismo día sobre la misma `main`.
 
 El proyecto no registra actividad de producto desde 2026-07-17. Todo lo posterior es
 documentación de investigación (PDFs de FUNIBER, validación OMAR 2026), ajena al
@@ -82,9 +82,10 @@ Ramas remotas:
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin fusionar (duplicado de monitoreo) |
 
 Todas las ramas de monitoreo parten del mismo `main` (`a414c65`) y tocan únicamente
-`AGENTS.md`. La rama `openhands/monitor-activity-2026-09-15` (PR #6) recibió commits
-nuevos durante esta misma ventana después de abrir el PR (`beafa96` → `15f0759`), así
-que su contenido sigue cambiando mientras las demás ramas permanecen estáticas.
+`AGENTS.md`. La rama `openhands/monitor-activity-2026-09-15` (PR #6) sigue recibiendo
+commits durante esta ventana (`dad0b56` → `eb1b1f6`) y acumula 12 commits sobre `main`,
+frente a 5 de `docs/agents-refresh-repo-status` (#7) y 3 de
+`docs/agents-md-monitor-2026-09-15` (#8). Su contenido sigue cambiando; el de #7 y #8 no.
 
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
 
@@ -95,9 +96,9 @@ Pull requests abiertos (ninguno fusionado):
 | #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | — | Sí |
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16479 líneas, PDFs binarios | Sí |
-| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +172 −13 | No |
+| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +194 −13 | No |
 | #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +190 −14 (incluye esta pasada) | No |
-| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +159 −16 | No |
+| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +184 −17 | No |
 
 Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
 conviene revisarlo con criterio de peso del repositorio (~4 MB de PDFs).
@@ -106,14 +107,23 @@ Los PRs #6, #7 y #8 son **duplicados**: tres ejecuciones del mismo monitoreo aut
 del 2026-09-15 escribieron `AGENTS.md` de forma independiente, y el PR #5 quedó cerrado
 sin fusionar por el mismo motivo. Conviene fusionar uno solo y cerrar el resto.
 
-Sobre cuál fusionar: los tres son `mergeable: true` y rebaseables, así que ninguno está
-bloqueado. El PR #6 tiene Quality Gate en verde pero quedó en `unstable` (una ejecución
-en curso sobre su rama); los PRs #7 y #8 están en `clean` con los cuatro checks en verde
-(`Build Summary`, `APK Validation Report`, `Build Validation`, `Final Quality Gate
-Status`). El PR #6 es además el único que sigue recibiendo commits, así que su contenido
-todavía cambia y el de #7/#8 no. Elegir por contenido, no por color del gate: mientras los
-tres sigan abiertos van a quedar en conflicto entre sí, porque todos editan el mismo
-archivo desde el mismo `main`.
+Sobre cuál fusionar: los tres están `mergeable: true` (`clean`) y son rebaseables, así que
+ninguno está bloqueado. **El color del Quality Gate no sirve como criterio**: el workflow
+se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido — en
+esta tercera pasada los tres aparecían en `clean` con chequeos en verde, y minutos antes
+#6 figuraba en `unstable` porque tenía una ejecución en curso. #6 es el único que sigue
+recibiendo commits (12 sobre `main`, contra 5 de #7 y 3 de #8), por lo que es también el
+más cambiante. Elegir por contenido y cobertura de la verificación, no por el badge; y
+mientras los tres sigan abiertos van a quedar en conflicto entre sí, porque todos editan
+el mismo archivo desde el mismo `main`.
+
+Las tres ramas de monitoreo parten de `main` en `a414c65` y no se han rebasado entre sí,
+así que sus diffs se solapan en las mismas secciones de `AGENTS.md`: fusionar dos produce
+conflicto. Ninguna rama de monitoreo está *behind* `main` (`behind_by: 0`).
+
+Nota de alcance: `docs/resumen-chiavenato` y `docs/resumen-commitment-workplace` no están
+"sin PR asociado" por olvido — están **divergidas** de `main` (`ahead 2 / behind 1`), no
+solo adelantadas, así que un merge directo tampoco sería limpio.
 
 Issues: la API de GitHub reporta 6 abiertos (#1, #2, #4, #6, #7, #8), pero son los
 mismos pull requests — GitHub comparte numeración entre issues y PRs. **No hay issues
@@ -132,9 +142,12 @@ Tags / Releases:
 de producto. `v0.0.9-action-framework` marca el primer commit del Quality Gate, no el
 commit de STAGE_08 (`b9a1edc`).
 
-**Quality Gate**: `Android Quality Gate` está activo en `push` y `pull_request`, y en
-verde en todos los commits de `main`. `Android Runtime Validation` sigue siendo manual
-(`workflow_dispatch`).
+**Quality Gate**: `Android Quality Gate` está activo en `push` y `pull_request`. En `main`
+acumula 9 ejecuciones, 6 en verde y 3 en rojo — las tres fallas son del 2026-07-17, cuando
+se estaba implementando el propio workflow (commits `68a8756`, `4d499b3` —que aún corrían
+como `.github/workflows/android-quality-gate.yml` sin nombre de workflow— y `6037c4e`).
+Todos los commits posteriores (`f073ca7` en adelante, hasta `a414c65` del 2026-08-20) están
+en verde. `Android Runtime Validation` sigue siendo manual (`workflow_dispatch`).
 
 ## Arquitectura de Calidad
 
@@ -255,11 +268,15 @@ Documentadas para que no se interpreten como trabajo pendiente de stages:
   (`docs/GITHUB_BRANCH_PROTECTION.md`).
 - Las ramas `docs/*` y `omar-2026-validacion` no contienen código de producto: son
   documentación de investigación. `docs/resumen-chiavenato` y
-  `docs/resumen-commitment-workplace` llevan 2 commits cada una por delante de `main` y no
-  tienen PR asociado; quedaron huérfanas.
+  `docs/resumen-commitment-workplace` llevan 2 commits por delante de `main` y 1 por detrás
+  (divergidas, no solo adelantadas); no tienen PR asociado y quedaron huérfanas.
 - Antes de abrir un PR que toque `AGENTS.md`, revisar si ya existe otro abierto del mismo
   monitoreo: el 2026-09-15 se generaron cuatro PRs idénticos (#5 a #8) y quedaron en
   conflicto entre sí.
+- Al resumir CI en este archivo, no fijar el color del Quality Gate como un hecho: se
+  relanza en cada push y un snapshot puede quedar vencido en minutos. Vale documentar el
+  historial de `main` (estable) o la cobertura del workflow, no el último badge observado
+  en una rama en movimiento.
 
 ## Recursos Adicionales
 
