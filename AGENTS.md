@@ -15,7 +15,7 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
-- **Última revisión de monitoreo**: 2026-09-15
+- **Última revisión de monitoreo**: 2026-09-15 (segunda pasada del mismo día, ~17:40 UTC)
 
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
@@ -45,11 +45,15 @@ completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
 
 ## Actividad Reciente del Repositorio
 
-Última revisión: 2026-09-15.
+Última revisión: 2026-09-15, segunda pasada del mismo día sobre la misma `main`.
 
 El proyecto no registra actividad de producto desde 2026-07-17. Todo lo posterior es
 documentación de investigación (PDFs de FUNIBER, validación OMAR 2026), ajena al
 roadmap de stages.
+
+La única actividad del 2026-09-15 son ejecuciones del propio monitoreo automático:
+ramas `docs/agents-*` y `openhands/monitor-activity-2026-09-15`, sus PRs asociados (#5
+a #8) y los workflows disparados por esos pushes. Ninguna toca `src/` ni `android/`.
 
 Commits en `main` (más recientes primero):
 
@@ -77,6 +81,11 @@ Ramas remotas:
 | `openhands/monitor-activity-2026-09-15` | PR #6 abierto (duplicado de monitoreo) |
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin fusionar (duplicado de monitoreo) |
 
+Todas las ramas de monitoreo parten del mismo `main` (`a414c65`) y tocan únicamente
+`AGENTS.md`. La rama `openhands/monitor-activity-2026-09-15` (PR #6) recibió commits
+nuevos durante esta misma ventana después de abrir el PR (`beafa96` → `15f0759`), así
+que su contenido sigue cambiando mientras las demás ramas permanecen estáticas.
+
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
 
 Pull requests abiertos (ninguno fusionado):
@@ -85,19 +94,26 @@ Pull requests abiertos (ninguno fusionado):
 |----|--------|-----------|--------|-------|
 | #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | — | Sí |
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
-| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16.5k líneas, PDFs binarios | Sí |
-| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +166 −13 | No |
-| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +148 −14 | No |
-| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +151 −16 | No |
+| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16479 líneas, PDFs binarios | Sí |
+| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +172 −13 | No |
+| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +174 −14 | No |
+| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +159 −16 | No |
 
 Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
 conviene revisarlo con criterio de peso del repositorio (~4 MB de PDFs).
 
 Los PRs #6, #7 y #8 son **duplicados**: tres ejecuciones del mismo monitoreo automático
 del 2026-09-15 escribieron `AGENTS.md` de forma independiente, y el PR #5 quedó cerrado
-sin fusionar por el mismo motivo. Conviene fusionar uno solo y cerrar el resto; mientras
-sigan abiertos van a quedar en conflicto entre sí, porque todos editan el mismo archivo
-desde el mismo `main`.
+sin fusionar por el mismo motivo. Conviene fusionar uno solo y cerrar el resto.
+
+Sobre cuál fusionar: los tres son `mergeable: true` y rebaseables, así que ninguno está
+bloqueado. El PR #6 tiene Quality Gate en verde pero quedó en `unstable` (una ejecución
+en curso sobre su rama); los PRs #7 y #8 están en `clean` con los cuatro checks en verde
+(`Build Summary`, `APK Validation Report`, `Build Validation`, `Final Quality Gate
+Status`). El PR #6 es además el único que sigue recibiendo commits, así que su contenido
+todavía cambia y el de #7/#8 no. Elegir por contenido, no por color del gate: mientras los
+tres sigan abiertos van a quedar en conflicto entre sí, porque todos editan el mismo
+archivo desde el mismo `main`.
 
 Issues: la API de GitHub reporta 6 abiertos (#1, #2, #4, #6, #7, #8), pero son los
 mismos pull requests — GitHub comparte numeración entre issues y PRs. **No hay issues
