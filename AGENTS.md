@@ -55,8 +55,8 @@ Ramas:
 | `docs/resumen-chiavenato` | Sin PR asociado |
 | `docs/resumen-commitment-workplace` | Sin PR asociado |
 | `docs/agents-refresh-repo-status` | PR #7 abierto (monitoreo duplicado) |
-| `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin merge |
+| `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
 
 Pull requests abiertos (requieren revisión humana):
 
@@ -74,10 +74,13 @@ Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
 **PR #4 es grande (23 archivos, ~16.5k líneas)** y trae PDFs binarios; conviene revisarlo
 con criterio de peso del repositorio.
 
-> **Aviso de duplicación**: los PR #5 (cerrado) y #6, #7 y #8 (abiertos) son todos
-> actualizaciones de `AGENTS.md` generadas por el mismo monitoreo del 2026-09-15.
-> Conviene mergear uno solo y cerrar el resto para evitar conflictos recurrentes en
-> `AGENTS.md`.
+> **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó cuatro ejecuciones
+> concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7 y #8, todos
+> actualizando `AGENTS.md`. Conviene mergear uno solo y cerrar el resto para evitar
+> conflictos recurrentes. El PR #7 es el único con el Quality Gate completo en verde
+> (`Final Quality Gate Status`, `Build Summary`, `APK Validation Report`, `Build
+> Validation`); en #6 y #8 el gate queda en verde pero sin required status checks
+> configurados en `main`.
 
 ## Módulos Implementados
 
