@@ -17,6 +17,23 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Última actividad verificada**: 2026-09-15 (monitoreo automático)
 - **Issues abiertos**: ninguno (verificado contra la API de GitHub)
 
+### Datos verificados
+
+Fuente: API de GitHub, 2026-09-15T18:02Z.
+
+| Campo | Valor |
+|-------|-------|
+| HEAD de `main` | `a414c65` (2026-08-20, tag `OMAR-2026`) |
+| Runtime (React Native) | 0.76.6 / React 18.3.1, `package.json` con `"version": "0.0.1-foundation"` |
+| Build Android | Gradle 8.5 (wrapper), Kotlin 2.1.0, AGP vía `android/build.gradle` |
+| `minSdk` / `targetSdk` | 29 / 34 |
+| Stage actual | STAGE_08 completado; STAGE_09 pendiente |
+| Releases publicadas | 4 (`OMAR-2026`, `v0.0.9-action-framework`, `v0.0.9`, `v0.0.2-android-core`) |
+| Tags en el repo | 4 (ninguno para `v0.0.3`..`v0.0.8`) |
+| Ramas remotas | 10 |
+| PRs totales | 8 (3 abiertos y activos: #6, #7, #8; #4 en draft; #5 cerrado sin merge) |
+| Execuciones del Quality Gate | 39 en total (9 por `push` a `main`, 30 por `pull_request`) |
+
 No hay stages nuevos completados desde STAGE_08. El estado de stages de este archivo
 está sincronizado con `docs/PROJECT_STATE.md`.
 
@@ -36,17 +53,17 @@ sobre `main` (todas por `push`) están en `success`. Las tres primeras del 2026-
 28 ejecuciones restantes son PRs de ramas `docs/*`, `omar-2026-validacion` y de monitoreo,
 todas en `success`.
 
-> **Bucle de retroalimentación (hallazgo de este run)**: 23 de esas ejecuciones se
-> lanzaron el 2026-09-15 entre las 17:22 y las 17:51, y todas son `pull_request` de PRs
-> que tocan únicamente `AGENTS.md`. El automation está configurado con
-> `on: [push, pull_request.opened]`, así que commitear a la rama de un PR ya abierto
-> **no** lo redispara: el ciclo aparece porque cada run abre o actualiza un PR de
-> monitoreo, y la creación del PR emite `pull_request.opened`, que arranca el run
-> siguiente. De ahí nacieron las cuatro ramas del aviso de duplicación. Mientras los PRs
-> #6, #7 y #8 sigan abiertos, cada push del monitoreo relanza el Quality Gate sobre todos
-> ellos; cortar el ciclo requiere mergear uno y cerrar los demás, y a futuro conviene
-> limitar el trigger a `push` con filtro por rama o excluir las ramas `openhands/*` y
-> `docs/agents-*` del `pull_request.opened`.
+> **Bucle de retroalimentación (verificado en este run)**: 25 de las 30 ejecuciones de
+> `pull_request` se lanzaron el 2026-09-15 entre las 17:22 y las 18:01, y todas
+> corresponden a PRs que tocan únicamente `AGENTS.md`. El disparador es el workflow
+> (`pull_request` sin filtro de rutas), no el automation: cada commit empujado a una de
+> esas ramas dispara una ejecución nueva, y el automation commitea a su propia rama en
+> cada run. La correlación es directa — `git log` de la rama de monitoreo da 14 commits
+> con 14 ejecuciones asociadas, una por commit y cada una ~1–2 s después. De ahí nacieron
+> las cuatro ramas del aviso de duplicación. Mientras los PRs #6, #7 y #8 sigan abiertos,
+> cada push relanza el Quality Gate sobre todos ellos; cortar el ciclo requiere mergear uno
+> y cerrar los demás, y a futuro conviene filtrar el trigger por rutas
+> (`paths-ignore: ['**/*.md']`) o excluir las ramas `openhands/*` y `docs/agents-*`.
 
 Commits en `main` (más recientes primero):
 
@@ -245,6 +262,13 @@ queda fuera del alcance de este monitoreo:
 - `docs/PROJECT_STATE.md` declara una "Rama de desarrollo" `develop` que no existe en
   el repositorio (verificado contra la API: solo existen `main`, las ramas `docs/*`, la
   rama de investigación `omar-2026-validacion` y la rama de monitoreo actual).
+- `docs/PROJECT_STATE.md` y `CHANGELOG.md` fechan los stages STAGE_00 a STAGE_08 y el
+  Quality Gate en 2024-07-16/17, pero las releases de GitHub para los mismos commits se
+  publicaron en 2026-07-16/17. Son un año de diferencia, no una discrepancia de zona
+  horaria.
+- `docs/PROJECT_STATE.md` lista releases `v0.0.3-runtime` a `v0.0.8-intent-framework` y
+  `v0.0.1-foundation` que no existen como tag ni release en GitHub; solo hay 4 tags
+  (`OMAR-2026`, `v0.0.9-action-framework`, `v0.0.9`, `v0.0.2-android-core`).
 
 ## Convenciones de Trabajo
 
@@ -271,6 +295,12 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
   repetidas del mismo automation; requieren revisión humana para elegir uno y cerrar
   los demás. Este run de monitoreo **no abrió un PR nuevo**: reutilizó la rama
   `openhands/monitor-activity-2026-09-15` (PR #6) para no generar una cuarta copia.
+- El Quality Gate sobre un PR de solo documentación no aporta señal de calidad: no compila
+  nada distinto según el texto de `AGENTS.md`. Ese es el argumento de fondo para filtrarlo
+  por rutas. Útil además porque el gate tarda varios minutos por ejecución.
+- Antes de reportar estado de CI, distinguir "ejecuciones por `push` a `main`" de
+  "ejecuciones de `pull_request`": mezclarlas produce conteos que cambian a cada minuto
+  mientras haya PRs abiertos.
 - El último run de monitoreo (2026-09-15) verificó que los PR #6, #7 y #8 son
   `mergeable` y que sus cuatro checks del Quality Gate quedaron en `success`. Los tres
   actualizan solo `AGENTS.md`, así que conviene mergear el que mejor describa el estado

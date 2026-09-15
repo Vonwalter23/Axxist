@@ -10,6 +10,9 @@
 
 **Repositorio:** https://github.com/Vonwalter23/Axxist
 
+**Última verificación:** 2026-09-15 (monitoreo automático, API de GitHub). HEAD de `main`:
+`a414c65` (2026-08-20). Sin issues abiertos. Sin stages nuevos completados desde STAGE_08.
+
 ---
 
 ## Estado actual
@@ -97,7 +100,7 @@ STAGE_09 Android Actions
 
 | Campo | Valor |
 |-------|-------|
-| **Fecha de Validación** | 2024-07-17 |
+| **Fecha de Validación** | 2026-07-17 |
 | **Commit Probado** | d7ce807 |
 | **Workflow Run (Build)** | 29588855650 |
 | **Resultado Build** | ✅ PASS |
@@ -172,28 +175,37 @@ Ver: [docs/GITHUB_BRANCH_PROTECTION.md](docs/GITHUB_BRANCH_PROTECTION.md)
 
 ## Releases
 
+Solo tres de las versiones listadas existen como release en GitHub; verificado contra la
+API el 2026-09-15. Los tags `v0.0.3` a `v0.0.8` no existen en el repositorio: los stages
+STAGE_02 a STAGE_07 quedaron registrados aquí y en el CHANGELOG, pero sin release propia.
+Las fechas de abajo son las de publicación real en GitHub (2026), no las del CHANGELOG.
+
 | Versión | Stage | Fecha | Notas |
 |---------|-------|-------|-------|
-| v0.0.1-foundation | STAGE_00 | 2024-07-16 | Foundation completado |
-| v0.0.2-android-core | STAGE_01 | 2024-07-16 | Android Core completado |
-| v0.0.2-android-core | STAGE_01.5 | 2024-07-16 | Production Foundation completado |
-| v0.0.3-runtime | STAGE_02 | 2024-07-16 | Runtime completado |
-| v0.0.4-audio-core | STAGE_03 | 2024-07-16 | Audio Core completado |
-| v0.0.5-wakeword-framework | STAGE_04 | 2024-07-16 | Wake Word Framework completado |
-| v0.0.6-conversation-engine | STAGE_05 | 2024-07-16 | Conversation Engine completado |
-| v0.0.7-ai-router | STAGE_06 | 2024-07-16 | AI Router completado |
-| v0.0.8-intent-framework | STAGE_07 | 2024-07-16 | Intent Engine completado |
-| v0.0.9-action-framework | STAGE_08 | 2024-07-16 | Action Framework completado |
+| v0.0.1-foundation | STAGE_00 | — | Sin release en GitHub |
+| v0.0.2-android-core | STAGE_01 | 2026-07-16 | Android Core completado, sin assets |
+| v0.0.2-android-core | STAGE_01.5 | 2026-07-16 | Production Foundation completado |
+| v0.0.3-runtime | STAGE_02 | — | Sin tag ni release en GitHub |
+| v0.0.4-audio-core | STAGE_03 | — | Sin tag ni release en GitHub |
+| v0.0.5-wakeword-framework | STAGE_04 | — | Sin tag ni release en GitHub |
+| v0.0.6-conversation-engine | STAGE_05 | — | Sin tag ni release en GitHub |
+| v0.0.7-ai-router | STAGE_06 | — | Sin tag ni release en GitHub |
+| v0.0.8-intent-framework | STAGE_07 | — | Sin tag ni release en GitHub |
+| v0.0.9-action-framework | STAGE_08 | 2026-07-17 | Action Framework completado (APK) |
+| v0.0.9 | STAGE_08 | 2026-07-17 | Recertificación APK de 0.0.9 |
+| OMAR-2026 | — | 2026-09-11 | Respaldo documental (`OMAR_2026.zip`), no artefacto de código |
 
 ---
 
 ## Rama principal
 
-main
+`main`
 
 ## Rama de desarrollo
 
-develop
+No existe una rama `develop` en el repositorio (verificado contra la API el 2026-09-15).
+La documentación y las políticas la mencionan, pero el trabajo se integra directamente por
+`main` mediante pull requests.
 
 ---
 
