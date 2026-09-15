@@ -78,11 +78,12 @@ con criterio de peso del repositorio.
 > **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó varias ejecuciones
 > concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7 y #8, todos
 > actualizando `AGENTS.md`. Conviene mergear uno solo y cerrar el resto para evitar
-> conflictos recurrentes. Los tres PR abiertos tienen el Quality Gate completo en verde
-> (`Final Quality Gate Status`, `Build Summary`, `APK Validation Report`, `Build
-> Validation`) al 2026-09-15, así que el gate no distingue entre ellos; la elección
-> queda a criterio humano. Ninguno tiene required status checks configurados en `main`
-> todavía.
+> conflictos recurrentes. No hay un criterio objetivo para elegir: ninguno tiene required
+> status checks configurados en `main`, y el Quality Gate no distingue de forma estable
+> entre ellos porque cada push relanza las ejecuciones (`Build Summary`, `APK Validation
+> Report`, `Build Validation`, `Final Quality Gate Status`), que quedan en `queued` o
+> `in_progress` mientras el monitoreo sigue corriendo. Conviene decidir por contenido y
+> cerrar el resto, no por el color del gate.
 
 ## Módulos Implementados
 
