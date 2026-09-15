@@ -15,7 +15,7 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
-- **Última revisión de monitoreo**: 2026-09-15 (quinta pasada del mismo día, ~18:06 UTC)
+- **Última revisión de monitoreo**: 2026-09-15 (sexta pasada del mismo día, ~18:18 UTC)
 
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
@@ -45,7 +45,7 @@ completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
 
 ## Actividad Reciente del Repositorio
 
-Última revisión: 2026-09-15, quinta pasada del mismo día sobre la misma `main` (`a414c65`,
+Última revisión: 2026-09-15, sexta pasada del mismo día sobre la misma `main` (`a414c65`,
 sin cambios). La API de GitHub confirmó otra vez que no hay commits nuevos en `main` ni
 issues reales abiertos.
 
@@ -174,10 +174,12 @@ como `.github/workflows/android-quality-gate.yml` (sin nombre de workflow asigna
 `a414c65` del 2026-08-20) están en verde. `Android Runtime Validation` sigue siendo
 manual (`workflow_dispatch`).
 
-El repositorio acumula ~45 ejecuciones del workflow. La mayoría no son de `main` sino de
-`pull_request` y provienen de los pushes del propio bucle de monitoreo: una ejecución por
-cada commit de cada rama `docs/agents-*` y `openhands/monitor-activity-*`. Es costo de CI
-generado por la automatización, no por trabajo de producto.
+El repositorio acumula decenas de ejecuciones del workflow, pero su composición es
+estable: solo 9 son de `main` (todas en `push`) y **las 3 fallas están entre esas 9**. El
+resto son ejecuciones de `pull_request` disparadas por pushes de ramas que no son de
+producto, en su mayoría del propio bucle de monitoreo (`docs/agents-*` y
+`openhands/monitor-activity-*`). El total sube con cada pasada del bucle; lo que no cambia
+es que se trata de costo de CI generado por la automatización, no por trabajo de producto.
 
 ## Arquitectura de Calidad
 
