@@ -31,8 +31,9 @@ Fuente: API de GitHub, 2026-09-15T18:02Z.
 | Releases publicadas | 4 (`OMAR-2026`, `v0.0.9-action-framework`, `v0.0.9`, `v0.0.2-android-core`) |
 | Tags en el repo | 4 (ninguno para `v0.0.3`..`v0.0.8`) |
 | Ramas remotas | 10 |
-| PRs totales | 8 (3 abiertos y activos: #6, #7, #8; #4 en draft; #5 cerrado sin merge) |
-| Execuciones del Quality Gate | 39 en total (9 por `push` a `main`, 30 por `pull_request`) |
+| PRs totales | 8 (6 abiertos: #1, #2 y #4 en `draft`, #6, #7 y #8 activos; #5 cerrado sin merge) |
+| Issues abiertos | 0 |
+| Execuciones del Quality Gate | 45 en total (9 por `push` a `main`, 36 por `pull_request`) |
 
 No hay stages nuevos completados desde STAGE_08. El estado de stages de este archivo
 está sincronizado con `docs/PROJECT_STATE.md`.
@@ -45,25 +46,31 @@ que la listan como pendiente. STAGE_09 sigue pendiente de implementación.
 
 ## Actividad Reciente del Repositorio
 
-Verificado contra la API de GitHub el 2026-09-15. No hay actividad de producto reciente:
-el último commit de `main` es de 2026-08-20. El workflow Android Quality Gate se dispara
-con `push` a `main` o `develop` y con `pull_request` hacia `main` (sin filtro de rutas).
+Verificado contra la API de GitHub el 2026-09-15 (18:12 UTC). No hay actividad de producto
+reciente: el último commit de `main` es de 2026-08-20. El workflow Android Quality Gate se
+dispara con `push` a `main` o `develop` y con `pull_request` hacia `main` (sin filtro de
+rutas).
 
-De sus 39 ejecuciones, 9 corresponden a `push` sobre `main` y están todas en `success`;
-las tres primeras del 2026-07-17 (`68a8756e`, `4d499b31`, `6037c4ed`) fallaron y se
-corrigieron en la misma jornada. Las 30 ejecuciones restantes son de `pull_request`, en
-ramas `docs/*`, `omar-2026-validacion` y de monitoreo.
+De sus 45 ejecuciones, 9 corresponden a `push` sobre `main` y 36 a `pull_request`. En los
+`push`, 6 están en `success` y 3 en `failure`: las tres fallidas son del 2026-07-17
+(`68a8756e`, `4d499b31`, por la creación del workflow, y `6037c4ed`, por sintaxis YAML),
+corregidas en la misma jornada; desde `f073ca7` todos los `push` a `main` están en
+`success`. Las 36 ejecuciones de `pull_request` cubren ramas `docs/*`,
+`omar-2026-validacion` y de monitoreo.
 
-> **Bucle de retroalimentación (verificado en este run)**: 25 de las 30 ejecuciones de
-> `pull_request` se lanzaron el 2026-09-15 entre las 17:22 y las 18:01, y todas
+> **Bucle de retroalimentación (medido en este run)**: 31 de las 36 ejecuciones de
+> `pull_request` se lanzaron el 2026-09-15 entre las 17:22 y las 18:07, y todas
 > corresponden a PRs que tocan únicamente `AGENTS.md`. El disparador es el workflow
 > (`pull_request` sin filtro de rutas), no el automation: cada commit empujado a una de
 > esas ramas dispara una ejecución nueva, y el automation commitea a su propia rama en
-> cada run. La correlación es directa — `git log` de la rama de monitoreo da 14 commits
-> con 14 ejecuciones asociadas, una por commit y cada una ~1–2 s después. De ahí nacieron
-> las cuatro ramas del aviso de duplicación. Mientras los PRs #6, #7 y #8 sigan abiertos,
-> cada push relanza el Quality Gate sobre todos ellos; cortar el ciclo requiere mergear uno
-> y cerrar los demás, y a futuro conviene filtrar el trigger por rutas
+> cada run. La correlación es directa — la rama de monitoreo tiene 14 commits y 16
+> ejecuciones (una por commit, cada una ~1–2 s después, más las relanzadas). El reparto
+> por rama es `openhands/monitor-activity-2026-09-15` (16),
+> `docs/agents-refresh-repo-status` (11), `docs/agents-md-monitor-2026-09-15` (3) y
+> `docs/agents-md-monitor-update` (1, del PR #5 ya cerrado). De ahí nacieron las cuatro
+> ramas del aviso de duplicación. Mientras los PRs #6, #7 y #8 sigan abiertos, cada push
+> relanza el Quality Gate sobre todos ellos; cortar el ciclo requiere mergear uno y cerrar
+> los demás, y a futuro conviene filtrar el trigger por rutas
 > (`paths-ignore: ['**/*.md']`) o excluir las ramas `openhands/*` y `docs/agents-*`.
 
 Commits en `main` (más recientes primero):
@@ -233,7 +240,7 @@ recae en el Quality Gate de CI, aunque `package.json` define los scripts `test` 
 
 | Tag | Fecha | Assets |
 |-----|-------|--------|
-| `OMAR-2026` | 2026-09-11 | `OMAR_2026.zip` |
+| `OMAR-2026` | 2026-08-20 | `OMAR_2026.zip` |
 | `v0.0.9` | 2026-07-17 | `Axxist-debug-0.0.9.apk`, `Axxist-release-0.0.9.apk` |
 | `v0.0.9-action-framework` | 2026-07-17 | `app-debug.apk`, `app-release.apk` |
 | `v0.0.2-android-core` | 2026-07-16 | Sin assets |
@@ -242,6 +249,12 @@ recae en el Quality Gate de CI, aunque `package.json` define los scripts `test` 
 respaldo documental, no un artefacto de código. Los tags `v0.0.3` a `v0.0.8` no existen
 como releases: los stages STAGE_02 a STAGE_07 quedaron en `docs/PROJECT_STATE.md` y el
 CHANGELOG, pero sin release propia en GitHub.
+
+Precisión sobre `OMAR-2026`: la release fue **creada** el 2026-08-20 (mismo timestamp que
+el commit `a414c65`) y **publicada** el 2026-09-11, cuando se abrió el PR #4. `main` no
+recibió ningún commit en septiembre; el archivo `OMAR_2026.zip` se subió el 2026-09-11
+junto con el tag, que apunta a `main` sin aportar código nuevo. Al citar la fecha de esa
+release, conviene decir cuál de las dos se usa.
 
 ## Documentación Desactualizada (drift conocido)
 
