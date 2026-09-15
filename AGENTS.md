@@ -89,11 +89,12 @@ Ramas remotas:
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin fusionar (duplicado de monitoreo) |
 
 Todas las ramas de monitoreo parten del mismo `main` (`a414c65`) y tocan únicamente
-`AGENTS.md`. Los conteos de commits cambian en cada pasada porque el bucle las sigue
-alimentando: en esta cuarta pasada `openhands/monitor-activity-2026-09-15` (#6) va por 13
-commits sobre `main` (HEAD `702afc7`, con un workflow en curso), `docs/agents-refresh-repo-status`
-(#7) por 8 (este push), `docs/agents-md-monitor-2026-09-15` (#8) por 3 y `docs/agents-md-monitor-update`
-(#5, cerrado) por 1. El contenido de #8 y #5 está fijo; #6 y #7 siguen escribiéndose.
+`AGENTS.md`. Los conteos de commits sobre `main` cambian en cada pasada porque el bucle
+las sigue alimentando, así que no se fijan aquí como dato: al cierre de esta cuarta pasada
+iban aproximadamente 13 en `openhands/monitor-activity-2026-09-15` (#6), 10 en
+`docs/agents-refresh-repo-status` (#7, la rama de este PR), 3 en
+`docs/agents-md-monitor-2026-09-15` (#8) y 1 en `docs/agents-md-monitor-update` (#5,
+cerrado). #6 y #7 siguen escribiéndose; el contenido de #8 y #5 está fijo.
 
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
 
@@ -105,7 +106,7 @@ Pull requests abiertos (ninguno fusionado):
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16479 líneas, PDFs binarios | Sí |
 | #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +205 −13 | No |
-| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +225 −14 (incluye esta pasada) | No |
+| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | ≈ +230 −16 (esta pasada) | No |
 | #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +184 −17 | No |
 
 Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
@@ -119,10 +120,10 @@ Sobre cuál fusionar: **el color del Quality Gate no sirve como criterio**: el w
 se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido. En
 esta cuarta pasada #7 y #8 estaban en `clean` y #6 en `unstable` (tenía un run en curso,
 sha `702afc7`). Los tres son `mergeable: true` y rebaseables, así que ninguno está
-bloqueado. #6 es el único que sigue recibiendo commits (13 sobre `main`, contra 8 de #7 y
-3 de #8) y por eso es también el más cambiante. Elegir por contenido y cobertura de la
-verificación, no por el badge; y mientras los tres sigan abiertos van a quedar en
-conflicto entre sí, porque todos editan el mismo archivo desde el mismo `main`.
+bloqueado. #6 es el único que sigue recibiendo commits y por eso es también el más
+cambiante. Elegir por contenido y cobertura de la verificación, no por el badge; y
+mientras los tres sigan abiertos van a quedar en conflicto entre sí, porque todos editan
+el mismo archivo desde el mismo `main`.
 
 Las tres ramas de monitoreo parten de `main` en `a414c65` y no se han rebasado entre sí,
 así que sus diffs se solapan en las mismas secciones de `AGENTS.md`: fusionar dos produce
