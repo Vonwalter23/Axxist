@@ -19,10 +19,16 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 No hay stages nuevos completados desde STAGE_08. El estado de stages de este archivo
 está sincronizado con `docs/PROJECT_STATE.md`.
 
+Existe la especificación `prompts/stages/STAGE_09_ANDROID_ACTIONS.md`, pero **no hay
+código de producto de STAGE_09**: ninguna fuente en `src/` o `android/` referencia
+`stage_09` ni `android.actions`. STAGE_09 sigue pendiente de implementación.
+
 ## Actividad Reciente del Repositorio
 
-Verificado contra la API de GitHub el 2026-09-15. Todos los commits de `main` tienen
-el **Android Quality Gate en verde**.
+Verificado contra la API de GitHub el 2026-09-15. No hay actividad de producto reciente:
+el último commit de `main` es de 2026-08-20. Las ejecuciones de `main` posteriores al
+Quality Gate están en **verde**; las dos primeras del workflow quedaron en fallo y se
+corrigieron en la misma jornada.
 
 Commits en `main` (más recientes primero):
 
@@ -175,12 +181,17 @@ recae en el Quality Gate de CI, aunque `package.json` define los scripts `test` 
 
 ## Releases
 
-| Tag | Assets |
-|-----|--------|
-| `OMAR-2026` | `OMAR_2026.zip` |
-| `v0.0.9` | `Axxist-debug-0.0.9.apk`, `Axxist-release-0.0.9.apk` |
-| `v0.0.9-action-framework` | `app-debug.apk`, `app-release.apk` |
-| `v0.0.2-android-core` | Sin assets |
+| Tag | Fecha | Assets |
+|-----|-------|--------|
+| `OMAR-2026` | 2026-09-11 | `OMAR_2026.zip` |
+| `v0.0.9` | 2026-07-17 | `Axxist-debug-0.0.9.apk`, `Axxist-release-0.0.9.apk` |
+| `v0.0.9-action-framework` | 2026-07-17 | `app-debug.apk`, `app-release.apk` |
+| `v0.0.2-android-core` | 2026-07-16 | Sin assets |
+
+`OMAR-2026` es un tag ligero sobre `a414c65`, el mismo commit que `main`: su ZIP es un
+respaldo documental, no un artefacto de código. Los tags `v0.0.3` a `v0.0.8` no existen
+como releases: los stages STAGE_02 a STAGE_07 quedaron en `docs/PROJECT_STATE.md` y el
+CHANGELOG, pero sin release propia en GitHub.
 
 ## Documentación Desactualizada (drift conocido)
 
@@ -216,6 +227,11 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
 - El Required Status Check de branch protection sigue pendiente de configuración manual
   (`docs/GITHUB_BRANCH_PROTECTION.md`).
 - Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
+- Los PRs de monitoreo (#5 cerrado, #6 y #7 abiertos) provienen de ejecuciones repetidas
+  del mismo automation; requieren revisión humana para elegir uno y cerrar los demás.
+- Antes de dar por completado un stage, verificar que exista código en `src/` o
+  `android/` y un reporte en `docs/reports/`; una especificación en `prompts/stages/`
+  no equivale a un stage implementado.
 
 ## Recursos Adicionales
 
