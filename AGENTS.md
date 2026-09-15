@@ -15,7 +15,7 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
-- **Última revisión de monitoreo**: 2026-09-15 (tercera pasada del mismo día, ~17:55 UTC)
+- **Última revisión de monitoreo**: 2026-09-15 (cuarta pasada del mismo día, ~17:58 UTC)
 
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
@@ -55,6 +55,13 @@ La única actividad del 2026-09-15 son ejecuciones del propio monitoreo automát
 ramas `docs/agents-*` y `openhands/monitor-activity-2026-09-15`, sus PRs asociados (#5
 a #8) y los workflows disparados por esos pushes. Ninguna toca `src/` ni `android/`.
 
+**Causa raíz del bucle**: la automatización `Axxist GitHub Monitor` se dispara con
+`trigger.on = ["push", "pull_request.opened"]` y **sin filtro**. Al escribir `AGENTS.md`
+en su propia rama, su push vuelve a dispararla; cada pasada añade un commit y un push, lo
+que la re-dispara indefinidamente. Eso explica los cuatro PRs (#5 a #8) y la rama
+`openhands/monitor-activity-2026-09-15`, que acumula 13 commits y recibió otro push
+durante esta cuarta pasada. Mientras el trigger siga sin filtro, el bucle continúa.
+
 Commits en `main` (más recientes primero):
 
 | SHA | Fecha | Autor | Descripción |
@@ -82,10 +89,11 @@ Ramas remotas:
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin fusionar (duplicado de monitoreo) |
 
 Todas las ramas de monitoreo parten del mismo `main` (`a414c65`) y tocan únicamente
-`AGENTS.md`. La rama `openhands/monitor-activity-2026-09-15` (PR #6) sigue recibiendo
-commits durante esta ventana (`dad0b56` → `eb1b1f6`) y acumula 12 commits sobre `main`,
-frente a 5 de `docs/agents-refresh-repo-status` (#7) y 3 de
-`docs/agents-md-monitor-2026-09-15` (#8). Su contenido sigue cambiando; el de #7 y #8 no.
+`AGENTS.md`. Los conteos de commits cambian en cada pasada porque el bucle las sigue
+alimentando: en esta cuarta pasada `openhands/monitor-activity-2026-09-15` (#6) va por 13
+commits sobre `main` (HEAD `702afc7`, con un workflow en curso), `docs/agents-refresh-repo-status`
+(#7) por 7, `docs/agents-md-monitor-2026-09-15` (#8) por 3 y `docs/agents-md-monitor-update`
+(#5, cerrado) por 1. El contenido de #8 y #5 está fijo; #6 y #7 siguen escribiéndose.
 
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
 
@@ -96,8 +104,8 @@ Pull requests abiertos (ninguno fusionado):
 | #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | — | Sí |
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16479 líneas, PDFs binarios | Sí |
-| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +194 −13 | No |
-| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +207 −14 (incluye esta pasada) | No |
+| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +205 −13 | No |
+| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +225 −14 (incluye esta pasada) | No |
 | #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +184 −17 | No |
 
 Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
@@ -107,15 +115,14 @@ Los PRs #6, #7 y #8 son **duplicados**: tres ejecuciones del mismo monitoreo aut
 del 2026-09-15 escribieron `AGENTS.md` de forma independiente, y el PR #5 quedó cerrado
 sin fusionar por el mismo motivo. Conviene fusionar uno solo y cerrar el resto.
 
-Sobre cuál fusionar: los tres están `mergeable: true` (`clean`) y son rebaseables, así que
-ninguno está bloqueado. **El color del Quality Gate no sirve como criterio**: el workflow
-se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido — en
-esta tercera pasada los tres aparecían en `clean` con chequeos en verde, y minutos antes
-#6 figuraba en `unstable` porque tenía una ejecución en curso. #6 es el único que sigue
-recibiendo commits (12 sobre `main`, contra 5 de #7 y 3 de #8), por lo que es también el
-más cambiante. Elegir por contenido y cobertura de la verificación, no por el badge; y
-mientras los tres sigan abiertos van a quedar en conflicto entre sí, porque todos editan
-el mismo archivo desde el mismo `main`.
+Sobre cuál fusionar: **el color del Quality Gate no sirve como criterio**: el workflow
+se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido. En
+esta cuarta pasada #7 y #8 estaban en `clean` y #6 en `unstable` (tenía un run en curso,
+sha `702afc7`). Los tres son `mergeable: true` y rebaseables, así que ninguno está
+bloqueado. #6 es el único que sigue recibiendo commits (13 sobre `main`, contra 7 de #7 y
+3 de #8) y por eso es también el más cambiante. Elegir por contenido y cobertura de la
+verificación, no por el badge; y mientras los tres sigan abiertos van a quedar en
+conflicto entre sí, porque todos editan el mismo archivo desde el mismo `main`.
 
 Las tres ramas de monitoreo parten de `main` en `a414c65` y no se han rebasado entre sí,
 así que sus diffs se solapan en las mismas secciones de `AGENTS.md`: fusionar dos produce
@@ -148,6 +155,11 @@ se estaba implementando el propio workflow (commits `68a8756`, `4d499b3` —que 
 como `.github/workflows/android-quality-gate.yml` sin nombre de workflow— y `6037c4e`).
 Todos los commits posteriores (`f073ca7` en adelante, hasta `a414c65` del 2026-08-20) están
 en verde. `Android Runtime Validation` sigue siendo manual (`workflow_dispatch`).
+
+El repositorio acumula ~39 ejecuciones del workflow, casi todas del 2026-09-15 y casi todas
+disparadas por los pushes del propio bucle de monitoreo (una por cada commit de cada rama
+`docs/agents-*` y `openhands/monitor-activity-2026-09-15`). Es costo de CI generado por la
+automatización, no por trabajo de producto.
 
 ## Arquitectura de Calidad
 
@@ -272,7 +284,13 @@ Documentadas para que no se interpreten como trabajo pendiente de stages:
   (divergidas, no solo adelantadas); no tienen PR asociado y quedaron huérfanas.
 - Antes de abrir un PR que toque `AGENTS.md`, revisar si ya existe otro abierto del mismo
   monitoreo: el 2026-09-15 se generaron cuatro PRs idénticos (#5 a #8) y quedaron en
-  conflicto entre sí.
+  conflicto entre sí. La causa no es el azar sino el trigger sin filtro (ver "Actividad
+  Reciente"); conviene arreglarlo antes de seguir fusionando salidas del bucle.
+- La automatización `Axxist GitHub Monitor` dispara en `push` sin filtro, por lo que se
+  re-dispara con sus propios commits: cada pasada que escribe `AGENTS.md` genera un push,
+  que genera la pasada siguiente. Recomendación: filtrar el trigger a `ref == 'refs/heads/main'`
+  (o excluir las ramas `docs/agents-*` y `openhands/monitor-activity-*`) para que el
+  monitoreo deje de auto-alimentarse.
 - Al resumir CI en este archivo, no fijar el color del Quality Gate como un hecho: se
   relanza en cada push y un snapshot puede quedar vencido en minutos. Vale documentar el
   historial de `main` (estable) o la cobertura del workflow, no el último badge observado
