@@ -183,6 +183,25 @@ queda fuera del alcance de este monitoreo:
 - `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados
   pese a que `docs/DECISIONS.md` recoge decisiones aprobadas.
 
+## Convenciones de Trabajo
+
+Decisiones aprobadas en `docs/DECISIONS.md`:
+
+- Los stages aprobados no se modifican; las nuevas funcionalidades van en un stage nuevo.
+- Cada stage debe generar: APK, reporte, actualización de CHANGELOG, commits descriptivos,
+  push a GitHub y una GitHub Release.
+- TypeScript y JDK 17 son obligatorios.
+- El AI Router es la única puerta de acceso a cualquier IA.
+- Todos los cambios deben documentarse.
+
+## Notas de Mantenimiento
+
+- `docs/PROJECT_STATE.md` es la fuente de verdad del stage actual; verificar ahí antes
+  de asumir un avance de stage.
+- El Required Status Check de branch protection sigue pendiente de configuración manual
+  (`docs/GITHUB_BRANCH_PROTECTION.md`).
+- Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
+
 ## Recursos Adicionales
 
 - Material de Investigación FUNIBER: `Material_Investigacion_FUNIBER.pdf`
@@ -190,3 +209,6 @@ queda fuera del alcance de este monitoreo:
 - Reportes por stage: `docs/reports/` (FASE_00 a STAGE_08)
 - Estado del proyecto: `docs/PROJECT_STATE.md`
 - Decisiones técnicas: `docs/DECISIONS.md`
+- Políticas: `docs/DEVELOPMENT_POLICY.md`, `docs/RELEASE_PROCESS.md`,
+  `docs/APK_VALIDATION_POLICY.md`, `docs/RELEASE_VALIDATION_POLICY.md`,
+  `docs/GITHUB_BRANCH_PROTECTION.md`, `docs/KNOWN_ISSUES.md`
