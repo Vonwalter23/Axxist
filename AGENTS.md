@@ -92,7 +92,7 @@ Todas las ramas de monitoreo parten del mismo `main` (`a414c65`) y tocan únicam
 `AGENTS.md`. Los conteos de commits cambian en cada pasada porque el bucle las sigue
 alimentando: en esta cuarta pasada `openhands/monitor-activity-2026-09-15` (#6) va por 13
 commits sobre `main` (HEAD `702afc7`, con un workflow en curso), `docs/agents-refresh-repo-status`
-(#7) por 7, `docs/agents-md-monitor-2026-09-15` (#8) por 3 y `docs/agents-md-monitor-update`
+(#7) por 8 (este push), `docs/agents-md-monitor-2026-09-15` (#8) por 3 y `docs/agents-md-monitor-update`
 (#5, cerrado) por 1. El contenido de #8 y #5 está fijo; #6 y #7 siguen escribiéndose.
 
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
@@ -119,7 +119,7 @@ Sobre cuál fusionar: **el color del Quality Gate no sirve como criterio**: el w
 se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido. En
 esta cuarta pasada #7 y #8 estaban en `clean` y #6 en `unstable` (tenía un run en curso,
 sha `702afc7`). Los tres son `mergeable: true` y rebaseables, así que ninguno está
-bloqueado. #6 es el único que sigue recibiendo commits (13 sobre `main`, contra 7 de #7 y
+bloqueado. #6 es el único que sigue recibiendo commits (13 sobre `main`, contra 8 de #7 y
 3 de #8) y por eso es también el más cambiante. Elegir por contenido y cobertura de la
 verificación, no por el badge; y mientras los tres sigan abiertos van a quedar en
 conflicto entre sí, porque todos editan el mismo archivo desde el mismo `main`.
