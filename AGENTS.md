@@ -1,14 +1,28 @@
 # AGENTS.md - Axxist
 
+## Documento principal
+
+Antes de modificar cualquier cosa, leer `prompts/master/PROMPT_MASTER_V1.md`.
+Las reglas de trabajo y el flujo obligatorio están en `.github/OPENHANDS.md`.
+
 ## Visión del Proyecto
 
 Axxist es un asistente inteligente para Android con capacidades de voz e IA, desarrollado con React Native + Kotlin. El proyecto busca crear una plataforma de asistencia inteligente híbrida que combine IA local con proveedores externos como Groq.
 
 ## Estado Actual
 
-- **Versión**: 0.0.9-action-framework
+- **Versión**: 0.0.9-action-framework (`versionCode` 9, definidos en `android/app/build.gradle`)
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
+- **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
+- **Última revisión de monitoreo**: 2026-09-15, ~18:30 UTC (no se lleva cuenta del número de pasada: ver Actividad Reciente)
+
+> Este archivo es el punto de entrada para agentes. El detalle del estado vive en
+> `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
+
+Existe la especificación `prompts/stages/STAGE_09_ANDROID_ACTIONS.md`, pero **no hay
+código de producto de STAGE_09**: ninguna fuente en `src/` o `android/` referencia
+`stage_09` ni `android.actions`. STAGE_09 sigue pendiente de implementación.
 
 ## Módulos Implementados
 
@@ -25,6 +39,152 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 | STAGE_06 | AI Router | ✅ |
 | STAGE_07 | Intent Engine | ✅ |
 | STAGE_08 | Action Framework | ✅ |
+
+Restan STAGE_09 a STAGE_20 (todos ⏳ pendientes). **No existe ningún stage nuevo
+completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
+
+## Actividad Reciente del Repositorio
+
+Última revisión: 2026-09-15 sobre la misma `main` (`a414c65`, sin cambios). La API de
+GitHub confirmó otra vez que no hay commits nuevos en `main` ni issues reales abiertos, y
+que `docs/PROJECT_STATE.md` sigue marcando STAGE_08 como último stage completado (STAGE_09
+solo tiene spec en `prompts/stages/`; no hay código de acciones Android bajo `src/` ni
+`android/`, y no existe `docs/reports/STAGE_09_REPORT.md`).
+
+El proyecto no registra actividad de producto desde 2026-07-17. Todo lo posterior es
+documentación de investigación (PDFs de FUNIBER, validación OMAR 2026), ajena al
+roadmap de stages.
+
+La única actividad del 2026-09-15 son ejecuciones del propio monitoreo automático:
+ramas `docs/agents-*` y `openhands/monitor-activity-2026-09-15`, sus PRs asociados (#5
+a #8) y los workflows disparados por esos pushes. Ninguna toca `src/` ni `android/`.
+
+**Causa raíz del bucle (confirmada contra la API de automatizaciones)**: la automatización
+`Axxist GitHub Monitor` (`a25a0304-8290-44d9-b449-49fe9e455ffe`) usa
+`trigger.type = "event"`, `source = "github"`, `on = ["push", "pull_request.opened"]` y
+`filter = null`. Sin filtro, cada push a **cualquier** rama la dispara — incluidas las
+ramas que ella misma escribe. Al commitear `AGENTS.md` en su propia rama, ese push la
+re-dispara; cada pasada añade un commit, un push y un PR nuevo, y el ciclo se sostiene
+solo. Eso explica la cadena de PRs de monitoreo del 2026-09-15 (#5 en adelante, con nuevos
+números añadiéndose en cada pasada) y que la rama
+`openhands/monitor-activity-2026-09-15` acumule commits de forma continua. Mientras el
+trigger siga sin filtro, el bucle continúa.
+
+**No citar números concretos de PRs ni conteos de commits en este archivo.** Son la salida
+de un proceso que se re-alimenta: cualquier cifra escrita aquí queda obsoleta antes de
+fusionarse y cada corrección genera un push, que genera otra pasada. Lo estable es el
+diagnóstico (trigger sin filtro) y la lista de ramas con PR abierto, no cuántos son.
+
+La corrección recomendada (no aplicada en este run, requiere decisión del propietario) es
+filtrar el trigger con JMESPath, por ejemplo
+`starts_with(ref, 'refs/heads/main') || starts_with(ref, 'refs/tags/')`, o excluir las
+ramas de monitoreo. El nombre de la función importa: la expresión se evalúa en minúsculas,
+así que `startswith(...)` no matchea y el filtro fallaría en silencio filtrando *todo*.
+Alternativa complementaria en el workflow: `paths-ignore: ['**/*.md']` en
+`pull_request` para que un cambio de solo documentación no dispare el Quality Gate completo.
+
+Commits en `main` (más recientes primero):
+
+| SHA | Fecha | Autor | Descripción |
+|-----|-------|-------|-------------|
+| `a414c65` | 2026-08-20 | Vonwalter23 | Corregir referencias de recursos en AGENTS.md (#3) |
+| `fcecc5c` | 2026-08-05 | openhands | Agregar PDF de investigación científica y skills |
+| `da1ddc0` | 2026-08-05 | Vonwalter23 | Add files via upload |
+| `aa29406` | 2026-07-17 | openhands | Android runtime validation y certificación APK |
+| `d7ce807`..`4d499b3` | 2026-07-17 | openhands | Implementación del Quality Gate CI/CD |
+| `b9a1edc`..`0d544c2` | 2026-07-16 | openhands | STAGE_01 a STAGE_08 |
+
+Ramas remotas:
+
+| Rama | Estado |
+|------|--------|
+| `main` | Única rama de producto; HEAD `a414c65` |
+| `omar-2026-validacion` | PR #4 abierto (documental) |
+| `docs/colquitt-compact-pdf` | PR #1 abierto (documental) |
+| `docs/meyer-allen-compact-pdf` | PR #2 abierto (documental) |
+| `docs/resumen-chiavenato` | Sin PR asociado |
+| `docs/resumen-commitment-workplace` | Sin PR asociado |
+| `docs/agents-refresh-repo-status` | PR de monitoreo abierto (esta rama) |
+| `docs/agents-*`, `openhands/monitor-activity-*` | Familia de ramas de monitoreo; se añade una nueva en cada pasada |
+
+Las ramas de monitoreo parten todas del mismo `main` (`a414c65`) y tocan únicamente
+`AGENTS.md`. Ni sus números de PR ni sus conteos de commits se fijan aquí: el bucle las
+sigue alimentando y cualquier cifra queda vencida. Lo estable es el patrón de nombres y el
+hecho de que son duplicados entre sí, no cuántas hay.
+
+La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
+
+Pull requests abiertos (ninguno fusionado):
+
+| PR | Título | Contenido | Draft |
+|----|--------|-----------|-------|
+| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | Sí |
+| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | Sí |
+| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/`, PDFs binarios (draft) | Sí |
+| (monitoreo) | Uno por cada ejecución del 2026-09-15; el más antiguo de los abiertos es el #6 | `AGENTS.md` (y `docs/PROJECT_STATE.md` en #6) | No |
+
+Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4 pesa
+~4 MB en PDFs y conviene revisarlo con criterio de peso del repositorio. De los PRs de
+monitoreo, el PR #6 es el único que además modifica `docs/PROJECT_STATE.md`; los demás
+tocan solo `AGENTS.md`.
+
+Los PRs de monitoreo del 2026-09-15 son **duplicados** entre sí: cada ejecución escribió
+`AGENTS.md` de forma independiente, y el PR #5 quedó cerrado sin fusionar por el mismo
+motivo. Conviene fusionar uno solo y cerrar el resto.
+
+Sobre cuál fusionar: **el color del Quality Gate no sirve como criterio**: el workflow
+se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido.
+Todos son `mergeable: true` y rebaseables, así que ninguno está bloqueado; el tamaño
+del diff tampoco discrimina, porque cambia con cada pasada. Elegir por contenido y
+cobertura de la verificación, y tener presente que mientras varios sigan abiertos van
+a quedar en conflicto entre sí, porque todos editan el mismo archivo desde el mismo `main`.
+
+Las ramas de monitoreo parten de `main` en `a414c65` y no se han rebasado entre sí,
+así que sus diffs se solapan en las mismas secciones de `AGENTS.md`: fusionar dos produce
+conflicto. Ninguna rama de monitoreo está *behind* `main` (`behind_by: 0`).
+
+Nota de alcance: `docs/resumen-chiavenato` y `docs/resumen-commitment-workplace` no están
+"sin PR asociado" por olvido — están **divergidas** de `main` (`ahead 2 / behind 1`), no
+solo adelantadas, así que un merge directo tampoco sería limpio.
+
+Issues: la API de GitHub reporta un puñado de abiertos, pero todos son pull requests —
+GitHub comparte numeración entre issues y PRs. **No hay issues reales abiertos.** (El
+número exacto no se fija aquí por la misma razón que los conteos de PRs.)
+
+Tags / Releases (verificado contra la API el 2026-09-15):
+
+| Tag | Commit | Publicada | Assets |
+|-----|--------|-----------|--------|
+| `OMAR-2026` | `a414c65` | 2026-09-11 | `OMAR_2026.zip` |
+| `v0.0.9` | `aa29406` | 2026-07-17 | 2 APKs (prerelease) |
+| `v0.0.9-action-framework` | `fec5aec` | 2026-07-17 | 2 APKs |
+| `v0.0.2-android-core` | `0d544c2` | 2026-07-16 | Sin assets |
+
+Solo existen cuatro tags y cuatro releases. La tabla de `docs/PROJECT_STATE.md` lista diez
+(`v0.0.1-foundation` y `v0.0.3-runtime` a `v0.0.8-intent-framework` incluidos), pero esos
+**no tienen tag ni release en GitHub**: los stages STAGE_02 a STAGE_07 quedaron en el
+CHANGELOG y en el estado del proyecto, sin publicar. Además esa tabla fecha todo en
+2024-07-16 mientras los commits y las releases reales son de 2026-07-16/17.
+
+`OMAR-2026` apunta al mismo commit que `main` y es material documental, no una release
+de producto; su fecha de publicación (2026-09-11) es distinta de la del commit
+(`a414c65`, 2026-08-20). `v0.0.9-action-framework` marca el primer commit del Quality
+Gate, no el commit de STAGE_08 (`b9a1edc`).
+
+**Quality Gate**: `Android Quality Gate` está activo en `push` y `pull_request`. En `main`
+acumula 9 ejecuciones, 6 en verde y 3 en rojo. Las tres fallas son del 2026-07-17, cuando
+se estaba implementando el propio workflow: los commits `68a8756` y `4d499b3` corrían
+como `.github/workflows/android-quality-gate.yml` (sin nombre de workflow asignado) y
+`6037c4e` todavía fallaba. Todos los commits posteriores (`f073ca7` en adelante, hasta
+`a414c65` del 2026-08-20) están en verde. `Android Runtime Validation` sigue siendo
+manual (`workflow_dispatch`).
+
+El repositorio acumula decenas de ejecuciones del workflow, pero su composición es
+estable: solo 9 son de `main` (todas en `push`) y **las 3 fallas están entre esas 9**. El
+resto son ejecuciones de `pull_request` disparadas por pushes de ramas que no son de
+producto, en su mayoría del propio bucle de monitoreo (`docs/agents-*` y
+`openhands/monitor-activity-*`). El total sube con cada pasada del bucle; lo que no cambia
+es que se trata de costo de CI generado por la automatización, no por trabajo de producto.
 
 ## Arquitectura de Calidad
 
@@ -68,27 +228,101 @@ npm run format
 ## Requisitos
 
 - Node.js >=18.x
-- Java JDK 17
+- Java JDK 17 (obligatorio según `docs/DECISIONS.md`)
 - Android SDK API 34
+- Gradle 8.5 (wrapper en `android/gradle/wrapper/`)
 - React Native 0.76.6
 - Kotlin 2.1.0
+- TypeScript 5.3
 
 ## Estructura del Proyecto
 
-```
+```text
 axxist/
-├── src/
-│   ├── App.tsx
-│   └── core/
-├── android/
-│   └── app/src/main/java/com/axxist/app/
-├── docs/
-├── prompts/
-├── knowledge/
-└── .agents/
-    └── skills/
-        └── investigacion-cientifica.md
+|-- src/                              # Cliente React Native (TypeScript)
+|   |-- App.tsx
+|   `-- core/                         # nativebridge, eventbus, types, lifecycle,
+|                                     # capability, logger, config, build
+|-- android/
+|   `-- app/src/main/java/com/axxist/app/
+|       |-- core/                     # nativebridge, permission, eventbus, build,
+|       |                             # lifecycle, capability, logger, config
+|       `-- runtime/                  # manager, audio, wakeword, conversation,
+|                                     # ai, intent, action, service, health,
+|                                     # receiver, interfaces
+|-- architecture/ADR/                 # Decisiones de arquitectura (placeholder)
+|-- docs/
+|   |-- reports/                      # FASE_00 a STAGE_08
+|   `-- PROJECT_STATE.md
+|-- prompts/
+|   |-- master/PROMPT_MASTER_V1.md
+|   |-- stages/                       # STAGE_00 a STAGE_20
+|   `-- NEXT_TASK.md
+|-- knowledge/PROJECT_BOOK.md
+|-- .github/
+|   |-- OPENHANDS.md                  # Reglas y flujo obligatorio
+|   `-- workflows/                    # Dual Quality Gate
+`-- .agents/skills/
+    `-- investigacion-cientifica.md
 ```
+
+No existe directorio `tests/`: el proyecto no tiene suite de tests propia. La validación
+recae en el Quality Gate de CI, aunque `package.json` define los scripts `test` y `lint`.
+
+## Convenciones de Trabajo
+
+Decisiones aprobadas en `docs/DECISIONS.md`:
+
+- Los stages aprobados no se modifican; las nuevas funcionalidades van en un stage nuevo.
+- Cada stage debe generar: APK, reporte, actualización de CHANGELOG, commits descriptivos,
+  push a GitHub y una GitHub Release.
+- TypeScript y JDK 17 son obligatorios.
+- El AI Router es la única puerta de acceso a cualquier IA.
+- Todos los cambios deben documentarse.
+
+## Inconsistencias Conocidas
+
+Documentadas para que no se interpreten como trabajo pendiente de stages:
+
+- `package.json` declara `"version": "0.0.1-foundation"` mientras la app Android usa
+  `0.0.9-action-framework` (versionCode 9).
+- `README.md` conserva un roadmap antiguo que marca STAGE_01 a STAGE_20 como
+  "Pendiente", contradiciendo `docs/PROJECT_STATE.md` (STAGE_08 completado).
+- `IMPLEMENTATION_REPORT.md` referencia `pdf_images/` y `pdf_extracted_text.txt`, que no
+  existen en el repositorio.
+- `knowledge/PROJECT_BOOK.md` dice que el proyecto está "iniciado" con la Fundación
+  pendiente.
+- `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados pese
+  a que `docs/DECISIONS.md` recoge decisiones aprobadas.
+- `docs/PROJECT_STATE.md` cita una rama `develop` inexistente.
+- La tabla de releases de `docs/PROJECT_STATE.md` lista diez tags que no existen en GitHub
+  (solo hay cuatro) y fecha todos los stages en 2024-07-16, un año antes de los commits
+  reales (2026-07-16/17).
+- El rango correcto de reportes es `docs/reports/` (FASE_00 a STAGE_08).
+
+## Notas de Mantenimiento
+
+- `docs/PROJECT_STATE.md` es la fuente de verdad del stage actual; verificar ahí antes de
+  asumir un avance de stage.
+- El Required Status Check de branch protection sigue pendiente de configuración manual
+  (`docs/GITHUB_BRANCH_PROTECTION.md`).
+- Las ramas `docs/*` y `omar-2026-validacion` no contienen código de producto: son
+  documentación de investigación. `docs/resumen-chiavenato` y
+  `docs/resumen-commitment-workplace` llevan 2 commits por delante de `main` y 1 por detrás
+  (divergidas, no solo adelantadas); no tienen PR asociado y quedaron huérfanas.
+- Antes de escribir `AGENTS.md` desde este monitoreo, revisar si ya hay otro PR abierto que
+  toque el mismo archivo: mientras el trigger siga sin filtro, cada pasada produce un PR
+  duplicado más cada vez que corre. La solución de fondo es el filtro del trigger, no
+  acumular PRs.
+- La automatización `Axxist GitHub Monitor` (`id a25a0304-8290-44d9-b449-49fe9e455ffe`)
+  se dispara con `on = ["push", "pull_request.opened"]` y `filter = null`, así que su propio
+  push la vuelve a disparar: cada pasada que escribe `AGENTS.md` genera un push, que genera
+  la pasada siguiente. El arreglo es aplicarle el filtro descrito en "Actividad Reciente"
+  (`PATCH /api/automation/v1/a25a0304-8290-44d9-b449-49fe9e455ffe`), no acumular PRs.
+- Al resumir CI en este archivo, no fijar el color del Quality Gate como un hecho: se
+  relanza en cada push y un snapshot puede quedar vencido en minutos. Vale documentar el
+  historial de `main` (estable) o la cobertura del workflow, no el último badge observado
+  en una rama en movimiento.
 
 ## Recursos Adicionales
 
@@ -97,3 +331,8 @@ axxist/
 - Reportes por stage: `docs/reports/` (FASE_00 a STAGE_08)
 - Estado del proyecto: `docs/PROJECT_STATE.md`
 - Decisiones técnicas: `docs/DECISIONS.md`
+- Flujo obligatorio para cualquier cambio: `.github/OPENHANDS.md`
+- Prompt maestro (referencia arquitectónica principal): `prompts/master/PROMPT_MASTER_V1.md`
+- Políticas: `docs/DEVELOPMENT_POLICY.md`, `docs/RELEASE_PROCESS.md`,
+  `docs/APK_VALIDATION_POLICY.md`, `docs/RELEASE_VALIDATION_POLICY.md`,
+  `docs/GITHUB_BRANCH_PROTECTION.md`, `docs/KNOWN_ISSUES.md`
