@@ -45,7 +45,7 @@ completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
 
 ## Actividad Reciente del Repositorio
 
-Última revisión: 2026-09-15, tercera pasada del mismo día sobre la misma `main`.
+Última revisión: 2026-09-15, cuarta pasada del mismo día sobre la misma `main`.
 
 El proyecto no registra actividad de producto desde 2026-07-17. Todo lo posterior es
 documentación de investigación (PDFs de FUNIBER, validación OMAR 2026), ajena al
