@@ -15,20 +15,24 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Última actividad verificada**: 2026-09-15 (monitoreo automático)
+- **Issues abiertos**: ninguno (verificado contra la API de GitHub)
 
 No hay stages nuevos completados desde STAGE_08. El estado de stages de este archivo
 está sincronizado con `docs/PROJECT_STATE.md`.
 
 Existe la especificación `prompts/stages/STAGE_09_ANDROID_ACTIONS.md`, pero **no hay
 código de producto de STAGE_09**: ninguna fuente en `src/` o `android/` referencia
-`stage_09` ni `android.actions`. STAGE_09 sigue pendiente de implementación.
+`stage_09` ni `android.actions`; las únicas apariciones de "STAGE_09" están en
+`docs/reports/FASE_00_REPORT.md` y `docs/reports/STAGE_08_REPORT.md`, que la listan como
+pendiente. STAGE_09 sigue pendiente de implementación.
 
 ## Actividad Reciente del Repositorio
 
 Verificado contra la API de GitHub el 2026-09-15. No hay actividad de producto reciente:
-el último commit de `main` es de 2026-08-20. Las ejecuciones de `main` posteriores al
-Quality Gate están en **verde**; las dos primeras del workflow quedaron en fallo y se
-corrigieron en la misma jornada.
+el último commit de `main` es de 2026-08-20. Las siete ejecuciones más recientes del
+workflow Android Quality Gate en `main` terminaron en `success`; las tres primeras del
+2026-07-17 (`68a8756`, `4d499b3`, `6037c4e`) fallaron y se corrigieron en la misma
+jornada.
 
 Commits en `main` (más recientes primero):
 
@@ -58,6 +62,12 @@ Ramas:
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin merge |
 | `openhands/monitor-activity-2026-09-15` | PR #6 abierto (monitoreo, este PR) |
 | `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
+
+Los PR #6, #7 y #8 modifican únicamente `AGENTS.md` y **no son idénticos**: son tres
+redacciones distintas del mismo estado, con diffs que se solapan. Mergear más de uno
+produce conflicto en `AGENTS.md`, así que la revisión humana debe elegir uno y cerrar los
+otros dos. Los conteos de líneas cambian con cada push, así que el criterio de elección
+debe ser el contenido, no el tamaño del diff.
 
 Pull requests abiertos (requieren revisión humana):
 
@@ -220,7 +230,8 @@ queda fuera del alcance de este monitoreo:
 - `prompts/NEXT_TASK.md` sigue apuntando a "Ejecutar FASE_00 Auditoría Técnica", tarea
   completada hace tiempo.
 - `docs/PROJECT_STATE.md` declara una "Rama de desarrollo" `develop` que no existe en
-  el repositorio (verificado contra la API: solo existe `main` y ramas de documentación).
+  el repositorio (verificado contra la API: solo existen `main`, las ramas `docs/*`, la
+  rama de investigación `omar-2026-validacion` y la rama de monitoreo actual).
 
 ## Convenciones de Trabajo
 
@@ -238,11 +249,15 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
 - `docs/PROJECT_STATE.md` es la fuente de verdad del stage actual; verificar ahí antes
   de asumir un avance de stage.
 - El Required Status Check de branch protection sigue pendiente de configuración manual
-  (`docs/GITHUB_BRANCH_PROTECTION.md`).
+  (`docs/GITHUB_BRANCH_PROTECTION.md`). Este monitoreo **no puede verificarlo**: el token
+  del agente recibe `403 Resource not accessible by integration` al consultar
+  `/branches/main/protection`, así que la afirmación se sostiene en la documentación del
+  repo, no en una lectura directa de la configuración.
 - Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
 - Los PRs de monitoreo (#5 cerrado, #6, #7 y #8 abiertos) provienen de ejecuciones
   repetidas del mismo automation; requieren revisión humana para elegir uno y cerrar
-  los demás.
+  los demás. Este run de monitoreo **no abrió un PR nuevo**: reutilizó la rama
+  `openhands/monitor-activity-2026-09-15` (PR #6) para no generar una cuarta copia.
 - Antes de dar por completado un stage, verificar que exista código en `src/` o
   `android/` y un reporte en `docs/reports/`; una especificación en `prompts/stages/`
   no equivale a un stage implementado.
