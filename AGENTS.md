@@ -56,15 +56,16 @@ Ramas:
 | `docs/resumen-commitment-workplace` | Sin PR asociado |
 | `docs/agents-refresh-repo-status` | PR #7 abierto (monitoreo duplicado) |
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin merge |
+| `openhands/monitor-activity-2026-09-15` | PR #6 abierto (monitoreo, este PR) |
 | `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
 
 Pull requests abiertos (requieren revisión humana):
 
 | PR | Título | Contenido |
 |----|--------|-----------|
-| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` |
-| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` |
-| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` |
+| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` (draft) |
+| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` (draft) |
+| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` (draft) |
 | #6 | Actualizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 | #7 | Refrescar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 | #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
@@ -206,12 +207,16 @@ queda fuera del alcance de este monitoreo:
 
 - `README.md` conserva un roadmap antiguo que marca STAGE_01 en adelante como
   "Pendiente", contradiciendo `docs/PROJECT_STATE.md` (STAGE_08 completado).
-- `package.json` declara `"version": "0.0.1-foundation"`, mientras el proyecto va por
-  `0.0.9-action-framework`.
+- `package.json` declara `"version": "0.0.1-foundation"`, mientras la app Android va
+  por `0.0.9-action-framework` (versionCode 9).
 - `IMPLEMENTATION_REPORT.md` referencia `pdf_extracted_text.txt` y `pdf_images/`, que
   no existen en el repositorio.
 - `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados
   pese a que `docs/DECISIONS.md` recoge decisiones aprobadas.
+- `knowledge/PROJECT_BOOK.md` dice que el proyecto está "iniciado" y que la Fundación
+  está pendiente, cuando STAGE_08 ya cerró.
+- `prompts/NEXT_TASK.md` sigue apuntando a "Ejecutar FASE_00 Auditoría Técnica", tarea
+  completada hace tiempo.
 - `docs/PROJECT_STATE.md` declara una "Rama de desarrollo" `develop` que no existe en
   el repositorio (verificado contra la API: solo existe `main` y ramas de documentación).
 
