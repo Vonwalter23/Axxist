@@ -15,7 +15,7 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
-- **Última revisión de monitoreo**: 2026-09-15 (cuarta pasada del mismo día, ~17:58 UTC)
+- **Última revisión de monitoreo**: 2026-09-15 (quinta pasada del mismo día, ~18:06 UTC)
 
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
@@ -45,7 +45,9 @@ completado desde STAGE_08**, verificado contra la API de GitHub el 2026-09-15.
 
 ## Actividad Reciente del Repositorio
 
-Última revisión: 2026-09-15, cuarta pasada del mismo día sobre la misma `main`.
+Última revisión: 2026-09-15, quinta pasada del mismo día sobre la misma `main` (`a414c65`,
+sin cambios). La API de GitHub confirmó otra vez que no hay commits nuevos en `main` ni
+issues reales abiertos.
 
 El proyecto no registra actividad de producto desde 2026-07-17. Todo lo posterior es
 documentación de investigación (PDFs de FUNIBER, validación OMAR 2026), ajena al
@@ -55,12 +57,21 @@ La única actividad del 2026-09-15 son ejecuciones del propio monitoreo automát
 ramas `docs/agents-*` y `openhands/monitor-activity-2026-09-15`, sus PRs asociados (#5
 a #8) y los workflows disparados por esos pushes. Ninguna toca `src/` ni `android/`.
 
-**Causa raíz del bucle**: la automatización `Axxist GitHub Monitor` se dispara con
-`trigger.on = ["push", "pull_request.opened"]` y **sin filtro**. Al escribir `AGENTS.md`
-en su propia rama, su push vuelve a dispararla; cada pasada añade un commit y un push, lo
-que la re-dispara indefinidamente. Eso explica los cuatro PRs (#5 a #8) y la rama
-`openhands/monitor-activity-2026-09-15`, que acumula 13 commits y recibió otro push
-durante esta cuarta pasada. Mientras el trigger siga sin filtro, el bucle continúa.
+**Causa raíz del bucle (confirmada contra la API de automatizaciones)**: la automatización
+`Axxist GitHub Monitor` (`a25a0304-8290-44d9-b449-49fe9e455ffe`) usa
+`trigger.type = "event"`, `source = "github"`, `on = ["push", "pull_request.opened"]` y
+`filter = null`. Sin filtro, cada push a **cualquier** rama la dispara — incluidas las
+ramas que ella misma escribe. Al commitear `AGENTS.md` en su propia rama, ese push la
+re-dispara; cada pasada añade un commit, un push y un PR nuevo, y el ciclo se sostiene
+solo. Eso explica los cuatro PRs (#5 a #8) y que la rama
+`openhands/monitor-activity-2026-09-15` acumule commits de forma continua. Mientras el
+trigger siga sin filtro, el bucle continúa.
+
+La corrección recomendada (no aplicada en este run, requiere decisión del propietario) es
+filtrar el trigger con JMESPath, por ejemplo
+`ref == 'refs/heads/main' || startswith(ref, 'refs/tags/')`, o excluir las ramas de
+monitoreo. Alternativa complementaria en el workflow: `paths-ignore: ['**/*.md']` en
+`pull_request` para que un cambio de solo documentación no dispare el Quality Gate completo.
 
 Commits en `main` (más recientes primero):
 
@@ -89,41 +100,39 @@ Ramas remotas:
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin fusionar (duplicado de monitoreo) |
 
 Todas las ramas de monitoreo parten del mismo `main` (`a414c65`) y tocan únicamente
-`AGENTS.md`. Los conteos de commits sobre `main` cambian en cada pasada porque el bucle
-las sigue alimentando, así que no se fijan aquí como dato: al cierre de esta cuarta pasada
-iban aproximadamente 13 en `openhands/monitor-activity-2026-09-15` (#6), 10 en
-`docs/agents-refresh-repo-status` (#7, la rama de este PR), 3 en
-`docs/agents-md-monitor-2026-09-15` (#8) y 1 en `docs/agents-md-monitor-update` (#5,
-cerrado). #6 y #7 siguen escribiéndose; el contenido de #8 y #5 está fijo.
+`AGENTS.md`. Sus conteos de commits crecen con cada pasada porque el bucle las sigue
+alimentando, así que no se fijan aquí como dato. Lo estable es lo siguiente: `#6` sigue
+recibiendo commits, `#7` (la rama de este PR) también, y el contenido de `#8` y `#5`
+(cerrado) está fijo.
 
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
 
 Pull requests abiertos (ninguno fusionado):
 
-| PR | Título | Contenido | Tamaño | Draft |
-|----|--------|-----------|--------|-------|
-| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | — | Sí |
-| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
-| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16479 líneas, PDFs binarios | Sí |
-| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +205 −13 | No |
-| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +226 −14 (al cierre de esta pasada) | No |
-| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +184 −17 | No |
+| PR | Título | Contenido | Draft |
+|----|--------|-----------|-------|
+| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | Sí |
+| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | Sí |
+| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/`, PDFs binarios (draft) | Sí |
+| #6 | Actualizar AGENTS.md con el estado real | `AGENTS.md` + `docs/PROJECT_STATE.md` | No |
+| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` (este PR) | No |
+| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | No |
 
-Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
-conviene revisarlo con criterio de peso del repositorio (~4 MB de PDFs).
+Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4 pesa
+~4 MB en PDFs y conviene revisarlo con criterio de peso del repositorio. De los PRs de
+monitoreo, #6 es el único que además modifica `docs/PROJECT_STATE.md`; #7 y #8 tocan solo
+`AGENTS.md`.
 
 Los PRs #6, #7 y #8 son **duplicados**: tres ejecuciones del mismo monitoreo automático
 del 2026-09-15 escribieron `AGENTS.md` de forma independiente, y el PR #5 quedó cerrado
 sin fusionar por el mismo motivo. Conviene fusionar uno solo y cerrar el resto.
 
 Sobre cuál fusionar: **el color del Quality Gate no sirve como criterio**: el workflow
-se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido. En
-esta cuarta pasada #7 y #8 estaban en `clean` y #6 en `unstable` (tenía un run en curso,
-sha `702afc7`). Los tres son `mergeable: true` y rebaseables, así que ninguno está
-bloqueado. #6 es el único que sigue recibiendo commits y por eso es también el más
-cambiante. Elegir por contenido y cobertura de la verificación, no por el badge; y
-mientras los tres sigan abiertos van a quedar en conflicto entre sí, porque todos editan
-el mismo archivo desde el mismo `main`.
+se relanza en cada push, así que cualquier snapshot de más de un minuto está vencido.
+Los tres son `mergeable: true` y rebaseables, así que ninguno está bloqueado; el tamaño
+del diff tampoco discrimina, porque cambia con cada pasada. Elegir por contenido y
+cobertura de la verificación, y tener presente que mientras los tres sigan abiertos van
+a quedar en conflicto entre sí, porque todos editan el mismo archivo desde el mismo `main`.
 
 Las tres ramas de monitoreo parten de `main` en `a414c65` y no se han rebasado entre sí,
 así que sus diffs se solapan en las mismas secciones de `AGENTS.md`: fusionar dos produce
@@ -151,16 +160,17 @@ de producto. `v0.0.9-action-framework` marca el primer commit del Quality Gate, 
 commit de STAGE_08 (`b9a1edc`).
 
 **Quality Gate**: `Android Quality Gate` está activo en `push` y `pull_request`. En `main`
-acumula 9 ejecuciones, 6 en verde y 3 en rojo — las tres fallas son del 2026-07-17, cuando
-se estaba implementando el propio workflow (commits `68a8756`, `4d499b3` —que aún corrían
-como `.github/workflows/android-quality-gate.yml` sin nombre de workflow— y `6037c4e`).
-Todos los commits posteriores (`f073ca7` en adelante, hasta `a414c65` del 2026-08-20) están
-en verde. `Android Runtime Validation` sigue siendo manual (`workflow_dispatch`).
+acumula 9 ejecuciones, 6 en verde y 3 en rojo. Las tres fallas son del 2026-07-17, cuando
+se estaba implementando el propio workflow: los commits `68a8756` y `4d499b3` corrían
+como `.github/workflows/android-quality-gate.yml` (sin nombre de workflow asignado) y
+`6037c4e` todavía fallaba. Todos los commits posteriores (`f073ca7` en adelante, hasta
+`a414c65` del 2026-08-20) están en verde. `Android Runtime Validation` sigue siendo
+manual (`workflow_dispatch`).
 
-El repositorio acumula ~39 ejecuciones del workflow, casi todas del 2026-09-15 y casi todas
-disparadas por los pushes del propio bucle de monitoreo (una por cada commit de cada rama
-`docs/agents-*` y `openhands/monitor-activity-2026-09-15`). Es costo de CI generado por la
-automatización, no por trabajo de producto.
+El repositorio acumula ~45 ejecuciones del workflow. La mayoría no son de `main` sino de
+`pull_request` y provienen de los pushes del propio bucle de monitoreo: una ejecución por
+cada commit de cada rama `docs/agents-*` y `openhands/monitor-activity-*`. Es costo de CI
+generado por la automatización, no por trabajo de producto.
 
 ## Arquitectura de Calidad
 
@@ -283,10 +293,10 @@ Documentadas para que no se interpreten como trabajo pendiente de stages:
   documentación de investigación. `docs/resumen-chiavenato` y
   `docs/resumen-commitment-workplace` llevan 2 commits por delante de `main` y 1 por detrás
   (divergidas, no solo adelantadas); no tienen PR asociado y quedaron huérfanas.
-- Antes de abrir un PR que toque `AGENTS.md`, revisar si ya existe otro abierto del mismo
-  monitoreo: el 2026-09-15 se generaron cuatro PRs idénticos (#5 a #8) y quedaron en
-  conflicto entre sí. La causa no es el azar sino el trigger sin filtro (ver "Actividad
-  Reciente"); conviene arreglarlo antes de seguir fusionando salidas del bucle.
+- Antes de escribir `AGENTS.md` desde este monitoreo, revisar si ya hay otro PR abierto que
+  toque el mismo archivo: mientras el trigger siga sin filtro, cada pasada produce un PR
+  duplicado más (#5 a #8 el 2026-09-15). La solución de fondo es el filtro del trigger, no
+  acumular PRs.
 - La automatización `Axxist GitHub Monitor` dispara en `push` sin filtro, por lo que se
   re-dispara con sus propios commits: cada pasada que escribe `AGENTS.md` genera un push,
   que genera la pasada siguiente. Recomendación: filtrar el trigger a `ref == 'refs/heads/main'`
