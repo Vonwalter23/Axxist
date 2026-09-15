@@ -6,9 +6,13 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 
 ## Estado Actual
 
-- **Versión**: 0.0.9-action-framework
+- **Versión**: 0.0.9-action-framework (versionCode 9)
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
+- **Último commit en `main`**: `a414c65` (2026-08-20) — corrección de referencias en AGENTS.md
+
+> Este archivo es el punto de entrada para agentes. El detalle completo del estado
+> vive en `docs/PROJECT_STATE.md`; si ambos difieren, prevalece PROJECT_STATE.md.
 
 ## Módulos Implementados
 
@@ -25,6 +29,46 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 | STAGE_06 | AI Router | ✅ |
 | STAGE_07 | Intent Engine | ✅ |
 | STAGE_08 | Action Framework | ✅ |
+
+Restan STAGE_09 a STAGE_20 (todos ⏳ pendientes). No existe ningún stage
+nuevo completado desde STAGE_08.
+
+## Estado del Repositorio (monitoreo)
+
+Última revisión: 2026-09-15.
+
+**Ramas remotas**: `main` es la única rama de producto. Existen ramas de
+documentación sin fusionar (`docs/colquitt-compact-pdf`,
+`docs/meyer-allen-compact-pdf`, `docs/resumen-chiavenato`,
+`docs/resumen-commitment-workplace`, `omar-2026-validacion`). La rama `develop`
+mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
+
+**Pull requests abiertos** (todos en borrador, sin fusionar):
+- #1 `docs/colquitt-compact-pdf` — PDF compacto de Colquitt
+- #2 `docs/meyer-allen-compact-pdf` — PDF compacto de Meyer & Allen
+- #4 `omar-2026-validacion` — carpeta `OMAR 2026` (23 archivos, ~16.5k líneas)
+
+Ninguno de estos PRs toca `src/` ni `android/`; son material de investigación ajeno
+al roadmap de stages.
+
+**Tags / Releases**: `v0.0.9` y `v0.0.9-action-framework` (2026-07-17) más
+`OMAR-2026` (2026-09-11). `OMAR-2026` apunta al mismo commit que `main` y es
+material documental, no una release de producto.
+
+**Quality Gate**: `Android Quality Gate` está activo y en verde para el último
+commit de `main`. `Android Runtime Validation` sigue siendo manual.
+
+## Inconsistencias Conocidas
+
+Documentadas para que no se interpreten como trabajo pendiente de stages:
+
+- `package.json` declara `"version": "0.0.1-foundation"` mientras la app Android
+  usa `0.0.9-action-framework` (versionCode 9).
+- `IMPLEMENTATION_REPORT.md` y `knowledge/PROJECT_BOOK.md` están desactualizados:
+  el primero referencia `pdf_images/` y `pdf_extracted_text.txt`, que no existen;
+  el segundo dice que el proyecto está "iniciado" con la Fundación pendiente.
+- `docs/PROJECT_STATE.md` cita una rama `develop` inexistente.
+- El rango correcto de reportes es `docs/reports/` (FASE_00 a STAGE_08).
 
 ## Arquitectura de Calidad
 
@@ -82,8 +126,14 @@ axxist/
 │   └── core/
 ├── android/
 │   └── app/src/main/java/com/axxist/app/
+├── architecture/
+│   └── ADR/
 ├── docs/
+│   └── reports/
 ├── prompts/
+│   ├── master/
+│   ├── stages/
+│   └── NEXT_TASK.md
 ├── knowledge/
 └── .agents/
     └── skills/
@@ -97,3 +147,5 @@ axxist/
 - Reportes por stage: `docs/reports/` (FASE_00 a STAGE_08)
 - Estado del proyecto: `docs/PROJECT_STATE.md`
 - Decisiones técnicas: `docs/DECISIONS.md`
+- Flujo obligatorio para cualquier cambio: `.github/OPENHANDS.md`
+- Prompt maestro (referencia arquitectónica principal): `prompts/master/PROMPT_MASTER_V1.md`
