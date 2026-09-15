@@ -1,14 +1,24 @@
 # AGENTS.md - Axxist
 
+## Documento principal
+
+Antes de realizar cualquier modificación, leer `prompts/master/PROMPT_MASTER_V1.md`.
+Las reglas de trabajo y el flujo obligatorio están en `.github/OPENHANDS.md`.
+
 ## Visión del Proyecto
 
 Axxist es un asistente inteligente para Android con capacidades de voz e IA, desarrollado con React Native + Kotlin. El proyecto busca crear una plataforma de asistencia inteligente híbrida que combine IA local con proveedores externos como Groq.
 
 ## Estado Actual
 
-- **Versión**: 0.0.9-action-framework
+- **Versión**: 0.0.9-action-framework (versionCode 9)
 - **Stage Actual**: STAGE_08 Action Framework completado
 - **Próximo Stage**: STAGE_09 Android Actions
+- **Última actividad verificada**: 2026-09-15 (monitoreo automático)
+
+No hay stages nuevos completados desde STAGE_08. Restan STAGE_09 a STAGE_20, todos pendientes.
+`docs/PROJECT_STATE.md` es la fuente de verdad del stage: si este archivo y PROJECT_STATE.md
+difieren, prevalece PROJECT_STATE.md.
 
 ## Módulos Implementados
 
@@ -26,11 +36,75 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 | STAGE_07 | Intent Engine | ✅ |
 | STAGE_08 | Action Framework | ✅ |
 
+## Actividad Reciente del Repositorio
+
+Verificado contra la API de GitHub el 2026-09-15.
+
+### Commits en `main`
+
+| SHA | Fecha | Autor | Descripción |
+|-----|-------|-------|-------------|
+| `a414c65` | 2026-08-20 | Vonwalter23 | Corregir referencias de recursos en AGENTS.md (#3) |
+| `fcecc5c` | 2026-08-05 | openhands | Agregar PDF de investigación científica y skills |
+| `da1ddc0` | 2026-08-05 | Vonwalter23 | Add files via upload |
+| `aa29406` | 2026-07-17 | openhands | Android runtime validation y certificación APK |
+| `d7ce807` .. `4d499b3` | 2026-07-17 | openhands | Implementación del Quality Gate CI/CD |
+| `b9a1edc` .. `0d544c2` | 2026-07-16 | openhands | STAGE_01 a STAGE_08 |
+
+El último commit de producto es `aa29406` (Quality Gate). Todo lo posterior en `main` es
+documentación de investigación; no representa avance de stages.
+
+### Pull requests
+
+| PR | Título | Rama | Estado |
+|----|--------|------|--------|
+| #7 | docs: refrescar AGENTS.md con el estado real del repositorio | `docs/agents-refresh-repo-status` | Abierto |
+| #6 | docs: actualizar AGENTS.md con el estado real del repositorio | `openhands/monitor-activity-2026-09-15` | Abierto |
+| #5 | docs(agents): actualizar AGENTS.md con estado y actividad reciente | `docs/agents-md-monitor-update` | Cerrado sin fusionar |
+| #4 | OMAR 2026: respaldo documental de validación | `omar-2026-validacion` | Abierto, draft (23 archivos) |
+| #2 | Versión compacta del PDF: Meyer y Allen | `docs/meyer-allen-compact-pdf` | Abierto, draft |
+| #1 | Versión compacta del PDF: Jason A. Colquitt | `docs/colquitt-compact-pdf` | Abierto, draft |
+
+Los PRs #1, #2 y #4 son documentación de investigación (PDFs y texto de respaldo), no
+código de producto: ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no
+cambia. Los PRs #5, #6 y #7 son propuestas de actualización de este mismo archivo; #5 fue
+cerrado sin fusionar el 2026-09-15.
+
+### Ramas remotas
+
+`main` es la única rama de producto. Existen ramas de documentación sin fusionar:
+`docs/agents-md-monitor-update`, `docs/agents-refresh-repo-status`,
+`openhands/monitor-activity-2026-09-15`, `docs/colquitt-compact-pdf`,
+`docs/meyer-allen-compact-pdf`, `docs/resumen-chiavenato`,
+`docs/resumen-commitment-workplace` y `omar-2026-validacion`.
+Las ramas `docs/resumen-chiavenato` y `docs/resumen-commitment-workplace` no tienen PR asociado.
+
+> La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
+
+### Releases
+
+| Tag | Tipo | Assets |
+|-----|------|--------|
+| `OMAR-2026` | Release | `OMAR_2026.zip` (material documental) |
+| `v0.0.9` | Pre-release | `Axxist-debug-0.0.9.apk`, `Axxist-release-0.0.9.apk` |
+| `v0.0.9-action-framework` | Release | `app-debug.apk`, `app-release.apk` |
+| `v0.0.2-android-core` | Release | Sin assets |
+
+`OMAR-2026` apunta al mismo commit que `main` y no es una release de producto.
+
+### Issues
+
+Sin issues abiertos.
+
 ## Arquitectura de Calidad
 
 Dual Quality Gate Architecture:
-- **Nivel 1**: Build Quality Gate (android-quality-gate.yml)
-- **Nivel 2**: Runtime Validation (android-runtime-validation.yml)
+- **Nivel 1**: Build Quality Gate (`android-quality-gate.yml`) — trigger: push, pull_request
+- **Nivel 2**: Runtime Validation (`android-runtime-validation.yml`) — trigger: workflow_dispatch
+
+El Android Quality Gate está activo: los últimos commits de `main` lo tienen en verde.
+El Required Status Check de branch protection sigue pendiente de configuración manual
+(`docs/GITHUB_BRANCH_PROTECTION.md`).
 
 ## Skills Disponibles
 
@@ -68,27 +142,83 @@ npm run format
 ## Requisitos
 
 - Node.js >=18.x
-- Java JDK 17
+- Java JDK 17 (`docs/DECISIONS.md` fija JDK 17 como obligatorio)
 - Android SDK API 34
+- Gradle 8.5 (wrapper en `android/gradle/wrapper/`)
 - React Native 0.76.6
 - Kotlin 2.1.0
+- TypeScript 5.3
 
 ## Estructura del Proyecto
 
-```
+```text
 axxist/
-├── src/
-│   ├── App.tsx
-│   └── core/
-├── android/
-│   └── app/src/main/java/com/axxist/app/
-├── docs/
-├── prompts/
-├── knowledge/
-└── .agents/
-    └── skills/
-        └── investigacion-cientifica.md
+|-- src/                              # Cliente React Native (TypeScript)
+|   |-- App.tsx
+|   `-- core/                         # nativebridge, eventbus, types, lifecycle,
+|                                     # capability, logger, config, build
+|-- android/
+|   `-- app/src/main/java/com/axxist/app/
+|       |-- core/                     # nativebridge, permission, eventbus, build,
+|       |                             # lifecycle, capability, logger, config
+|       `-- runtime/                  # action, ai, audio, conversation, health,
+|                                     # intent, interfaces, manager, receiver,
+|                                     # service, state, wakeword
+|-- architecture/ADR/                 # Decisiones de arquitectura (placeholder)
+|-- docs/
+|   |-- reports/                      # FASE_00 a STAGE_08
+|   `-- PROJECT_STATE.md
+|-- prompts/
+|   |-- master/PROMPT_MASTER_V1.md
+|   |-- stages/                       # STAGE_00 a STAGE_20
+|   `-- NEXT_TASK.md
+|-- knowledge/PROJECT_BOOK.md
+|-- .github/
+|   |-- OPENHANDS.md                  # Reglas y flujo obligatorio
+|   `-- workflows/                    # Dual Quality Gate
+`-- .agents/skills/
+    `-- investigacion-cientifica.md
 ```
+
+No existe directorio `tests/`: el proyecto no tiene suite de tests propia. La validación
+recae en el Quality Gate de CI, aunque `package.json` define los scripts `test` y `lint`.
+
+## Convenciones de Trabajo
+
+Decisiones aprobadas en `docs/DECISIONS.md`:
+
+- Los stages aprobados no se modifican; las nuevas funcionalidades van en un stage nuevo.
+- Cada stage debe generar: APK, reporte, actualización de CHANGELOG, commits descriptivos,
+  push a GitHub y una GitHub Release.
+- TypeScript y JDK 17 son obligatorios.
+- El AI Router es la única puerta de acceso a cualquier IA.
+- Todos los cambios deben documentarse.
+
+Flujo obligatorio (`.github/OPENHANDS.md`): leer el Prompt Maestro, analizar la tarea,
+proponer plan, implementar, ejecutar pruebas, generar informe, commit y push.
+
+## Inconsistencias Conocidas
+
+Detectadas durante el monitoreo automático. Conviene corregirlas, pero quedan fuera del
+alcance del monitoreo:
+
+- `README.md` conserva un roadmap antiguo que marca STAGE_01 en adelante como "Pendiente",
+  contradiciendo `docs/PROJECT_STATE.md` (STAGE_08 completado).
+- `package.json` declara `"version": "0.0.1-foundation"`, mientras la app Android usa
+  `0.0.9-action-framework`.
+- `IMPLEMENTATION_REPORT.md` referencia `pdf_extracted_text.txt` y `pdf_images/`, que no
+  existen en el repositorio.
+- `knowledge/PROJECT_BOOK.md` dice que el proyecto está "iniciado" con la Fundación pendiente.
+- `docs/PROJECT_STATE.md` cita una rama `develop` inexistente.
+- `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados pese a
+  que `docs/DECISIONS.md` recoge decisiones aprobadas.
+
+## Notas de Mantenimiento
+
+- `docs/PROJECT_STATE.md` es la fuente de verdad del stage actual; verificar ahí antes de
+  asumir un avance de stage.
+- Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
+- El rango de reportes por stage es `docs/reports/` (FASE_00 a STAGE_08).
 
 ## Recursos Adicionales
 
@@ -97,3 +227,8 @@ axxist/
 - Reportes por stage: `docs/reports/` (FASE_00 a STAGE_08)
 - Estado del proyecto: `docs/PROJECT_STATE.md`
 - Decisiones técnicas: `docs/DECISIONS.md`
+- Políticas: `docs/DEVELOPMENT_POLICY.md`, `docs/RELEASE_PROCESS.md`,
+  `docs/APK_VALIDATION_POLICY.md`, `docs/RELEASE_VALIDATION_POLICY.md`,
+  `docs/GITHUB_BRANCH_PROTECTION.md`, `docs/KNOWN_ISSUES.md`
+- Flujo obligatorio para cualquier cambio: `.github/OPENHANDS.md`
+- Prompt maestro: `prompts/master/PROMPT_MASTER_V1.md`
