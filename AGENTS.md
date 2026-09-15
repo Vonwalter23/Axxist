@@ -20,6 +20,10 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 > Este archivo es el punto de entrada para agentes. El detalle del estado vive en
 > `docs/PROJECT_STATE.md`; si ambos difieren, prevalece `PROJECT_STATE.md`.
 
+Existe la especificación `prompts/stages/STAGE_09_ANDROID_ACTIONS.md`, pero **no hay
+código de producto de STAGE_09**: ninguna fuente en `src/` o `android/` referencia
+`stage_09` ni `android.actions`. STAGE_09 sigue pendiente de implementación.
+
 ## Módulos Implementados
 
 | Stage | Nombre | Estado |
@@ -68,19 +72,36 @@ Ramas remotas:
 | `docs/meyer-allen-compact-pdf` | PR #2 abierto (documental) |
 | `docs/resumen-chiavenato` | Sin PR asociado |
 | `docs/resumen-commitment-workplace` | Sin PR asociado |
+| `docs/agents-refresh-repo-status` | PR #7 abierto (este PR) |
+| `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (duplicado de monitoreo) |
+| `openhands/monitor-activity-2026-09-15` | PR #6 abierto (duplicado de monitoreo) |
+| `docs/agents-md-monitor-update` | PR #5 cerrado sin fusionar (duplicado de monitoreo) |
 
 La rama `develop` mencionada en `docs/PROJECT_STATE.md` **no existe** en el remoto.
 
-Pull requests abiertos (todos en borrador, ninguno fusionado):
+Pull requests abiertos (ninguno fusionado):
 
-| PR | Título | Contenido | Tamaño |
-|----|--------|-----------|--------|
-| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | — |
-| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — |
-| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16.5k líneas, PDFs binarios |
+| PR | Título | Contenido | Tamaño | Draft |
+|----|--------|-----------|--------|-------|
+| #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` | — | Sí |
+| #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
+| #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16.5k líneas, PDFs binarios | Sí |
+| #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +166 −13 | No |
+| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +148 −14 | No |
+| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +151 −16 | No |
 
-Ninguno toca `src/` ni `android/`. El PR #4 conviene revisarlo con criterio de peso del
-repositorio (~4 MB de PDFs). Sin issues abiertos.
+Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
+conviene revisarlo con criterio de peso del repositorio (~4 MB de PDFs).
+
+Los PRs #6, #7 y #8 son **duplicados**: tres ejecuciones del mismo monitoreo automático
+del 2026-09-15 escribieron `AGENTS.md` de forma independiente, y el PR #5 quedó cerrado
+sin fusionar por el mismo motivo. Conviene fusionar uno solo y cerrar el resto; mientras
+sigan abiertos van a quedar en conflicto entre sí, porque todos editan el mismo archivo
+desde el mismo `main`.
+
+Issues: la API de GitHub reporta 6 abiertos (#1, #2, #4, #6, #7, #8), pero son los
+mismos pull requests — GitHub comparte numeración entre issues y PRs. **No hay issues
+reales abiertos.**
 
 Tags / Releases:
 
@@ -217,7 +238,12 @@ Documentadas para que no se interpreten como trabajo pendiente de stages:
 - El Required Status Check de branch protection sigue pendiente de configuración manual
   (`docs/GITHUB_BRANCH_PROTECTION.md`).
 - Las ramas `docs/*` y `omar-2026-validacion` no contienen código de producto: son
-  documentación de investigación.
+  documentación de investigación. `docs/resumen-chiavenato` y
+  `docs/resumen-commitment-workplace` llevan 2 commits cada una por delante de `main` y no
+  tienen PR asociado; quedaron huérfanas.
+- Antes de abrir un PR que toque `AGENTS.md`, revisar si ya existe otro abierto del mismo
+  monitoreo: el 2026-09-15 se generaron cuatro PRs idénticos (#5 a #8) y quedaron en
+  conflicto entre sí.
 
 ## Recursos Adicionales
 
