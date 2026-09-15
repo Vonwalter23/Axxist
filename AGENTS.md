@@ -146,18 +146,25 @@ Issues: la API de GitHub reporta 6 abiertos (#1, #2, #4, #6, #7, #8), pero son l
 mismos pull requests — GitHub comparte numeración entre issues y PRs. **No hay issues
 reales abiertos.**
 
-Tags / Releases:
+Tags / Releases (verificado contra la API el 2026-09-15):
 
-| Tag | Commit | Fecha | Assets |
-|-----|--------|-------|--------|
-| `OMAR-2026` | `a414c65` | 2026-08-20 | `OMAR_2026.zip` (4.2 MB) |
-| `v0.0.9` | `aa29406` | 2026-07-17 | `Axxist-debug-0.0.9.apk`, `Axxist-release-0.0.9.apk` (prerelease) |
-| `v0.0.9-action-framework` | `fec5aec` | 2026-07-17 | `app-debug.apk`, `app-release.apk` |
+| Tag | Commit | Publicada | Assets |
+|-----|--------|-----------|--------|
+| `OMAR-2026` | `a414c65` | 2026-09-11 | `OMAR_2026.zip` |
+| `v0.0.9` | `aa29406` | 2026-07-17 | 2 APKs (prerelease) |
+| `v0.0.9-action-framework` | `fec5aec` | 2026-07-17 | 2 APKs |
 | `v0.0.2-android-core` | `0d544c2` | 2026-07-16 | Sin assets |
 
+Solo existen cuatro tags y cuatro releases. La tabla de `docs/PROJECT_STATE.md` lista diez
+(`v0.0.1-foundation` y `v0.0.3-runtime` a `v0.0.8-intent-framework` incluidos), pero esos
+**no tienen tag ni release en GitHub**: los stages STAGE_02 a STAGE_07 quedaron en el
+CHANGELOG y en el estado del proyecto, sin publicar. Además esa tabla fecha todo en
+2024-07-16 mientras los commits y las releases reales son de 2026-07-16/17.
+
 `OMAR-2026` apunta al mismo commit que `main` y es material documental, no una release
-de producto. `v0.0.9-action-framework` marca el primer commit del Quality Gate, no el
-commit de STAGE_08 (`b9a1edc`).
+de producto; su fecha de publicación (2026-09-11) es distinta de la del commit
+(`a414c65`, 2026-08-20). `v0.0.9-action-framework` marca el primer commit del Quality
+Gate, no el commit de STAGE_08 (`b9a1edc`).
 
 **Quality Gate**: `Android Quality Gate` está activo en `push` y `pull_request`. En `main`
 acumula 9 ejecuciones, 6 en verde y 3 en rojo. Las tres fallas son del 2026-07-17, cuando
@@ -281,6 +288,9 @@ Documentadas para que no se interpreten como trabajo pendiente de stages:
 - `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados pese
   a que `docs/DECISIONS.md` recoge decisiones aprobadas.
 - `docs/PROJECT_STATE.md` cita una rama `develop` inexistente.
+- La tabla de releases de `docs/PROJECT_STATE.md` lista diez tags que no existen en GitHub
+  (solo hay cuatro) y fecha todos los stages en 2024-07-16, un año antes de los commits
+  reales (2026-07-16/17).
 - El rango correcto de reportes es `docs/reports/` (FASE_00 a STAGE_08).
 
 ## Notas de Mantenimiento
