@@ -102,11 +102,11 @@ Ramas:
 | `openhands/monitor-activity-2026-09-15` | PR #6 abierto (monitoreo, este PR) |
 | `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
 
-Los PR #6, #7 y #8 modifican únicamente `AGENTS.md` y **no son idénticos**: son tres
-redacciones distintas del mismo estado, con diffs que se solapan. Mergear más de uno
-produce conflicto en `AGENTS.md`, así que la revisión humana debe elegir uno y cerrar los
-otros dos. Los conteos de líneas cambian con cada push, así que el criterio de elección
-debe ser el contenido, no el tamaño del diff.
+Los PR #6, #7 y #8 **no son idénticos**: son tres redacciones distintas del mismo estado,
+con diffs que se solapan. #7 y #8 tocan solo `AGENTS.md`; #6 toca `AGENTS.md` y
+`docs/PROJECT_STATE.md`. Mergear más de uno produce conflicto, así que la revisión humana
+debe elegir uno y cerrar los otros dos. Los conteos de líneas cambian con cada push, así
+que el criterio de elección debe ser el contenido, no el tamaño del diff.
 
 Pull requests abiertos (requieren revisión humana):
 
@@ -115,14 +115,14 @@ Pull requests abiertos (requieren revisión humana):
 | #1 | Versión compacta del PDF: Jason A. Colquitt | 1 PDF en `docs/material/` (draft) |
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` (draft) |
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` (draft) |
-| #6 | Actualizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
+| #6 | Sincronizar AGENTS.md y PROJECT_STATE.md (monitoreo 2026-09-15) | 2 archivos: `AGENTS.md`, `docs/PROJECT_STATE.md` |
 | #7 | Refrescar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 | #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 
 Todos salvo el presente son **documentación de investigación**, no código de producto.
 Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
-**PR #4 es grande (23 archivos, ~16.5k líneas)** y trae PDFs binarios; conviene revisarlo
-con criterio de peso del repositorio.
+**PR #4 es el más grande (23 archivos, ~16.5k líneas)** y trae PDFs binarios; conviene
+revisarlo con criterio de peso del repositorio.
 
 > **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó varias ejecuciones
 > concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7 y #8, todos
@@ -315,10 +315,12 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
 - Antes de reportar estado de CI, distinguir "ejecuciones por `push` a `main`" de
   "ejecuciones de `pull_request`": mezclarlas produce conteos que cambian a cada minuto
   mientras haya PRs abiertos.
-- El último run de monitoreo (2026-09-15) verificó que los PR #6, #7 y #8 son
-  `mergeable` y que sus cuatro checks del Quality Gate quedaron en `success`. Los tres
-  actualizan solo `AGENTS.md`, así que conviene mergear el que mejor describa el estado
-  y cerrar los otros dos.
+- El último run de monitoreo (2026-09-15) verificó que los PR #7 y #8 son `mergeable` y
+  que sus cuatro checks del Quality Gate (`Build Validation`, `Build Summary`,
+  `APK Validation Report`, `Final Quality Gate Status`) quedaron en `success`. #7 y #8
+  actualizan solo `AGENTS.md`; #6 actualiza además `docs/PROJECT_STATE.md`, por lo que es
+  el más completo de los tres. Conviene mergear el que mejor describa el estado y cerrar
+  los otros dos.
 - Antes de dar por completado un stage, verificar que exista código en `src/` o
   `android/` y un reporte en `docs/reports/`; una especificación en `prompts/stages/`
   no equivale a un stage implementado.
