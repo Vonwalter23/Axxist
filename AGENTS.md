@@ -29,10 +29,13 @@ pendiente. STAGE_09 sigue pendiente de implementación.
 ## Actividad Reciente del Repositorio
 
 Verificado contra la API de GitHub el 2026-09-15. No hay actividad de producto reciente:
-el último commit de `main` es de 2026-08-20. Las siete ejecuciones más recientes del
-workflow Android Quality Gate en `main` terminaron en `success`; las tres primeras del
-2026-07-17 (`68a8756`, `4d499b3`, `6037c4e`) fallaron y se corrigieron en la misma
-jornada.
+el último commit de `main` es de 2026-08-20. Las seis ejecuciones del workflow Android
+Quality Gate en `main` posteriores a la primera corrección terminaron en `success`; las
+tres primeras del 2026-07-17 (`68a8756e`, `4d499b31`, `6037c4ed`) fallaron y se
+corrigieron en la misma jornada. Las ejecuciones del 2026-09-15 sobre las ramas de
+monitoreo e investigación también quedaron en `success` (`omar-2026-validacion`,
+`docs/agents-refresh-repo-status`, `docs/agents-md-monitor-2026-09-15`,
+`docs/agents-md-monitor-update` y la rama de este PR).
 
 Commits en `main` (más recientes primero):
 
@@ -53,9 +56,9 @@ Ramas:
 | Rama | Estado |
 |------|--------|
 | `main` | Rama de integración |
-| `docs/colquitt-compact-pdf` | PR #1 abierto |
-| `docs/meyer-allen-compact-pdf` | PR #2 abierto |
-| `omar-2026-validacion` | PR #4 abierto; Quality Gate en verde |
+| `docs/colquitt-compact-pdf` | PR #1 abierto (`draft`) |
+| `docs/meyer-allen-compact-pdf` | PR #2 abierto (`draft`) |
+| `omar-2026-validacion` | PR #4 abierto (`draft`); Quality Gate en verde |
 | `docs/resumen-chiavenato` | Sin PR asociado |
 | `docs/resumen-commitment-workplace` | Sin PR asociado |
 | `docs/agents-refresh-repo-status` | PR #7 abierto (monitoreo duplicado) |
@@ -88,12 +91,11 @@ con criterio de peso del repositorio.
 > **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó varias ejecuciones
 > concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7 y #8, todos
 > actualizando `AGENTS.md`. Conviene mergear uno solo y cerrar el resto para evitar
-> conflictos recurrentes. No hay un criterio objetivo para elegir: ninguno tiene required
-> status checks configurados en `main`, y el Quality Gate no distingue de forma estable
-> entre ellos porque cada push relanza las ejecuciones (`Build Summary`, `APK Validation
-> Report`, `Build Validation`, `Final Quality Gate Status`), que quedan en `queued` o
-> `in_progress` mientras el monitoreo sigue corriendo. Conviene decidir por contenido y
-> cerrar el resto, no por el color del gate.
+> conflictos recurrentes. Ninguno de los tres tiene required status checks configurados
+> en `main`, así que el Quality Gate no sirve para elegirlos: como cada push relanza las
+> ejecuciones (`Build Summary`, `APK Validation Report`, `Build Validation`, `Final
+> Quality Gate Status`), su estado cambia de un push a otro y los tres pueden estar en
+> verde a la vez. La decisión debe tomarse por contenido, no por el color del gate.
 
 ## Módulos Implementados
 
@@ -258,6 +260,10 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
   repetidas del mismo automation; requieren revisión humana para elegir uno y cerrar
   los demás. Este run de monitoreo **no abrió un PR nuevo**: reutilizó la rama
   `openhands/monitor-activity-2026-09-15` (PR #6) para no generar una cuarta copia.
+- El último run de monitoreo (2026-09-15) verificó que los PR #6, #7 y #8 son
+  `mergeable` y que sus cuatro checks del Quality Gate quedaron en `success`. Los tres
+  actualizan solo `AGENTS.md`, así que conviene mergear el que mejor describa el estado
+  y cerrar los otros dos.
 - Antes de dar por completado un stage, verificar que exista código en `src/` o
   `android/` y un reporte en `docs/reports/`; una especificación en `prompts/stages/`
   no equivale a un stage implementado.
