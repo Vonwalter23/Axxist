@@ -22,9 +22,9 @@ está sincronizado con `docs/PROJECT_STATE.md`.
 
 Existe la especificación `prompts/stages/STAGE_09_ANDROID_ACTIONS.md`, pero **no hay
 código de producto de STAGE_09**: ninguna fuente en `src/` o `android/` referencia
-`stage_09` ni `android.actions`; las únicas apariciones de "STAGE_09" están en
-`docs/reports/FASE_00_REPORT.md` y `docs/reports/STAGE_08_REPORT.md`, que la listan como
-pendiente. STAGE_09 sigue pendiente de implementación.
+`stage_09` ni `android.actions`; las apariciones de "STAGE_09" están en
+`docs/PROJECT_STATE.md`, `docs/reports/FASE_00_REPORT.md` y `docs/reports/STAGE_08_REPORT.md`,
+que la listan como pendiente. STAGE_09 sigue pendiente de implementación.
 
 ## Actividad Reciente del Repositorio
 
