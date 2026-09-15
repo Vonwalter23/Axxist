@@ -55,6 +55,7 @@ Ramas:
 | `docs/resumen-chiavenato` | Sin PR asociado |
 | `docs/resumen-commitment-workplace` | Sin PR asociado |
 | `docs/agents-refresh-repo-status` | PR #7 abierto (monitoreo duplicado) |
+| `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin merge |
 
 Pull requests abiertos (requieren revisión humana):
@@ -66,15 +67,17 @@ Pull requests abiertos (requieren revisión humana):
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` |
 | #6 | Actualizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 | #7 | Refrescar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
+| #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 
 Todos salvo el presente son **documentación de investigación**, no código de producto.
 Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
 **PR #4 es grande (23 archivos, ~16.5k líneas)** y trae PDFs binarios; conviene revisarlo
 con criterio de peso del repositorio.
 
-> **Aviso de duplicación**: los PR #5 (cerrado), #6 y #7 son todos actualizaciones de
-> `AGENTS.md` generadas por el mismo monitoreo del 2026-09-15. Conviene mergear uno solo
-> y cerrar el resto para evitar conflictos recurrentes en `AGENTS.md`.
+> **Aviso de duplicación**: los PR #5 (cerrado) y #6, #7 y #8 (abiertos) son todos
+> actualizaciones de `AGENTS.md` generadas por el mismo monitoreo del 2026-09-15.
+> Conviene mergear uno solo y cerrar el resto para evitar conflictos recurrentes en
+> `AGENTS.md`.
 
 ## Módulos Implementados
 
@@ -227,8 +230,9 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
 - El Required Status Check de branch protection sigue pendiente de configuración manual
   (`docs/GITHUB_BRANCH_PROTECTION.md`).
 - Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
-- Los PRs de monitoreo (#5 cerrado, #6 y #7 abiertos) provienen de ejecuciones repetidas
-  del mismo automation; requieren revisión humana para elegir uno y cerrar los demás.
+- Los PRs de monitoreo (#5 cerrado, #6, #7 y #8 abiertos) provienen de ejecuciones
+  repetidas del mismo automation; requieren revisión humana para elegir uno y cerrar
+  los demás.
 - Antes de dar por completado un stage, verificar que exista código en `src/` o
   `android/` y un reporte en `docs/reports/`; una especificación en `prompts/stages/`
   no equivale a un stage implementado.
