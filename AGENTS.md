@@ -47,11 +47,12 @@ que la listan como pendiente. STAGE_09 sigue pendiente de implementación.
 
 Verificado contra la API de GitHub el 2026-09-15. No hay actividad de producto reciente:
 el último commit de `main` es de 2026-08-20. El workflow Android Quality Gate se dispara
-con `push` a `main` o `develop` y con `pull_request` hacia `main`; sus nueve ejecuciones
-sobre `main` (todas por `push`) están en `success`. Las tres primeras del 2026-07-17
-(`68a8756e`, `4d499b31`, `6037c4ed`) fallaron y se corrigieron en la misma jornada. Las
-28 ejecuciones restantes son PRs de ramas `docs/*`, `omar-2026-validacion` y de monitoreo,
-todas en `success`.
+con `push` a `main` o `develop` y con `pull_request` hacia `main` (sin filtro de rutas).
+
+De sus 39 ejecuciones, 9 corresponden a `push` sobre `main` y están todas en `success`;
+las tres primeras del 2026-07-17 (`68a8756e`, `4d499b31`, `6037c4ed`) fallaron y se
+corrigieron en la misma jornada. Las 30 ejecuciones restantes son de `pull_request`, en
+ramas `docs/*`, `omar-2026-validacion` y de monitoreo.
 
 > **Bucle de retroalimentación (verificado en este run)**: 25 de las 30 ejecuciones de
 > `pull_request` se lanzaron el 2026-09-15 entre las 17:22 y las 18:01, y todas
