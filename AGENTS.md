@@ -16,10 +16,11 @@ Axxist es un asistente inteligente para Android con capacidades de voz e IA, des
 - **Próximo Stage**: STAGE_09 Android Actions
 - **Última actividad verificada**: 2026-09-15 (monitoreo automático)
 - **Issues abiertos**: ninguno (verificado contra la API de GitHub)
+- **Automation de monitoreo**: `Axxist GitHub Monitor` deshabilitado desde 2026-09-15T18:16:42Z
 
 ### Datos verificados
 
-Fuente: API de GitHub, 2026-09-15T18:02Z.
+Fuente: API de GitHub, 2026-09-15T18:20Z.
 
 | Campo | Valor |
 |-------|-------|
@@ -30,10 +31,10 @@ Fuente: API de GitHub, 2026-09-15T18:02Z.
 | Stage actual | STAGE_08 completado; STAGE_09 pendiente |
 | Releases publicadas | 4 (`OMAR-2026`, `v0.0.9-action-framework`, `v0.0.9`, `v0.0.2-android-core`) |
 | Tags en el repo | 4 (ninguno para `v0.0.3`..`v0.0.8`) |
-| Ramas remotas | 10 |
-| PRs totales | 8 (6 abiertos: #1, #2 y #4 en `draft`, #6, #7 y #8 activos; #5 cerrado sin merge) |
+| Ramas remotas | 12 |
+| PRs totales | 9 (7 abiertos: #1, #2 y #4 en `draft`; #6, #7, #8 y #9 activos; #5 cerrado sin merge; #3 mergeado) |
 | Issues abiertos | 0 |
-| Execuciones del Quality Gate | 45 en total (9 por `push` a `main`, 36 por `pull_request`) |
+| Execuciones del Quality Gate | 9 por `push` a `main` (estables: 6 `success`, 3 `failure` de 2026-07-17). Las de `pull_request` son volátiles mientras haya PRs abiertos (~43 a las 18:20 UTC; ver el aviso de bucle más abajo) |
 
 No hay stages nuevos completados desde STAGE_08. El estado de stages de este archivo
 está sincronizado con `docs/PROJECT_STATE.md`.
@@ -46,32 +47,37 @@ que la listan como pendiente. STAGE_09 sigue pendiente de implementación.
 
 ## Actividad Reciente del Repositorio
 
-Verificado contra la API de GitHub el 2026-09-15 (18:12 UTC). No hay actividad de producto
+Verificado contra la API de GitHub el 2026-09-15 (18:20 UTC). No hay actividad de producto
 reciente: el último commit de `main` es de 2026-08-20. El workflow Android Quality Gate se
 dispara con `push` a `main` o `develop` y con `pull_request` hacia `main` (sin filtro de
 rutas).
 
-De sus 45 ejecuciones, 9 corresponden a `push` sobre `main` y 36 a `pull_request`. En los
-`push`, 6 están en `success` y 3 en `failure`: las tres fallidas son del 2026-07-17
-(`68a8756e`, `4d499b31`, por la creación del workflow, y `6037c4ed`, por sintaxis YAML),
-corregidas en la misma jornada; desde `f073ca7` todos los `push` a `main` están en
-`success`. Las 36 ejecuciones de `pull_request` cubren ramas `docs/*`,
-`omar-2026-validacion` y de monitoreo.
+Los `push` sobre `main` son 9, cifra estable: 6 en `success` y 3 en `failure`, las tres
+fallidas del 2026-07-17 (`68a8756e`, `4d499b31`, por la creación del workflow, y
+`6037c4ed`, por sintaxis YAML), corregidas en la misma jornada; desde `f073ca7` todos los
+`push` a `main` están en `success`. Las ejecuciones de `pull_request` (~43 a las 18:20
+UTC, y creciendo) cubren ramas `docs/*`, `omar-2026-validacion` y de monitoreo. **El
+conteo de `pull_request` no es citable**: cada push a un PR abierto lanza una ejecución
+nueva, así que varía en minutos.
 
-> **Bucle de retroalimentación (medido en este run)**: 31 de las 36 ejecuciones de
-> `pull_request` se lanzaron el 2026-09-15 entre las 17:22 y las 18:07, y todas
-> corresponden a PRs que tocan únicamente `AGENTS.md`. El disparador es el workflow
+> **Bucle de retroalimentación (medido en este run)**: 38 de las ~43 ejecuciones de
+> `pull_request` se lanzaron el 2026-09-15 entre las 17:22 y las 18:19, y todas
+> corresponden a PRs de monitoreo que solo tocan documentación de estado (`AGENTS.md`, y
+> en el caso de #6 también `docs/PROJECT_STATE.md`). El disparador es el workflow
 > (`pull_request` sin filtro de rutas), no el automation: cada commit empujado a una de
 > esas ramas dispara una ejecución nueva, y el automation commitea a su propia rama en
-> cada run. La correlación es directa — la rama de monitoreo tiene 14 commits y 16
-> ejecuciones (una por commit, cada una ~1–2 s después, más las relanzadas). El reparto
-> por rama es `openhands/monitor-activity-2026-09-15` (16),
-> `docs/agents-refresh-repo-status` (11), `docs/agents-md-monitor-2026-09-15` (3) y
-> `docs/agents-md-monitor-update` (1, del PR #5 ya cerrado). De ahí nacieron las cuatro
-> ramas del aviso de duplicación. Mientras los PRs #6, #7 y #8 sigan abiertos, cada push
+> cada run. La correlación es directa — la rama de monitoreo acumula 19 ejecuciones para
+> 17 commits, aproximadamente una por commit. El reparto por rama es
+> `openhands/monitor-activity-2026-09-15` (19),
+> `docs/agents-refresh-repo-status` (14), `docs/agents-md-monitor-2026-09-15` (3),
+> `docs/agents-md-consolidated-2026-09-15` (1, PR #9) y
+> `docs/agents-md-monitor-update` (1, del PR #5 ya cerrado). De ahí nacieron las cinco
+> ramas del aviso de duplicación. Mientras los PRs #6 a #9 sigan abiertos, cada push
 > relanza el Quality Gate sobre todos ellos; cortar el ciclo requiere mergear uno y cerrar
 > los demás, y a futuro conviene filtrar el trigger por rutas
 > (`paths-ignore: ['**/*.md']`) o excluir las ramas `openhands/*` y `docs/agents-*`.
+> El automation ya está deshabilitado (ver Notas de Mantenimiento), así que el bucle está
+> detenido en origen.
 
 Commits en `main` (más recientes primero):
 
@@ -101,12 +107,15 @@ Ramas:
 | `docs/agents-md-monitor-update` | PR #5 cerrado sin merge |
 | `openhands/monitor-activity-2026-09-15` | PR #6 abierto (monitoreo, este PR) |
 | `docs/agents-md-monitor-2026-09-15` | PR #8 abierto (monitoreo duplicado) |
+| `docs/agents-md-consolidated-2026-09-15` | PR #9 abierto (consolidación; propone reemplazar a #6, #7 y #8) |
+| `docs/agents-consolidation-2026-09-15` | Sin PR asociado |
 
-Los PR #6, #7 y #8 **no son idénticos**: son tres redacciones distintas del mismo estado,
+Los PR #6, #7, #8 y #9 **no son idénticos**: son redacciones distintas del mismo estado,
 con diffs que se solapan. #7 y #8 tocan solo `AGENTS.md`; #6 toca `AGENTS.md` y
-`docs/PROJECT_STATE.md`. Mergear más de uno produce conflicto, así que la revisión humana
-debe elegir uno y cerrar los otros dos. Los conteos de líneas cambian con cada push, así
-que el criterio de elección debe ser el contenido, no el tamaño del diff.
+`docs/PROJECT_STATE.md`; #9 toca solo `AGENTS.md` (74 líneas agregadas, 7 eliminadas).
+Mergear más de uno produce conflicto, así que la revisión humana debe elegir uno y cerrar
+los demás. Los conteos de líneas cambian con cada push, así que el criterio de elección
+debe ser el contenido, no el tamaño del diff.
 
 Pull requests abiertos (requieren revisión humana):
 
@@ -118,6 +127,7 @@ Pull requests abiertos (requieren revisión humana):
 | #6 | Sincronizar AGENTS.md y PROJECT_STATE.md (monitoreo 2026-09-15) | 2 archivos: `AGENTS.md`, `docs/PROJECT_STATE.md` |
 | #7 | Refrescar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
 | #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | 1 archivo, solo `AGENTS.md` |
+| #9 | Consolidar AGENTS.md y detener el bucle del monitoreo | 1 archivo, solo `AGENTS.md`; reemplaza a #6, #7 y #8 |
 
 Todos salvo el presente son **documentación de investigación**, no código de producto.
 Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
@@ -125,12 +135,13 @@ Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
 revisarlo con criterio de peso del repositorio.
 
 > **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó varias ejecuciones
-> concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7 y #8, todos
-> actualizando `AGENTS.md`. Conviene mergear uno solo y cerrar el resto para evitar
-> conflictos recurrentes. Ninguno de los tres tiene required status checks configurados
+> concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7, #8 y #9, todos
+> actualizando `AGENTS.md`. **El PR #9 se propone explícitamente como reemplazo de #6, #7
+> y #8** y documenta la causa raíz del bucle. Conviene mergear uno solo y cerrar el resto
+> para evitar conflictos recurrentes. Ninguno tiene required status checks configurados
 > en `main`, así que el Quality Gate no sirve para elegirlos: como cada push relanza las
 > ejecuciones (`Build Summary`, `APK Validation Report`, `Build Validation`, `Final
-> Quality Gate Status`), su estado cambia de un push a otro y los tres pueden estar en
+> Quality Gate Status`), su estado cambia de un push a otro y varios pueden estar en
 > verde a la vez. La decisión debe tomarse por contenido, no por el color del gate.
 
 ## Módulos Implementados
@@ -283,6 +294,15 @@ queda fuera del alcance de este monitoreo:
 - `docs/PROJECT_STATE.md` lista releases `v0.0.3-runtime` a `v0.0.8-intent-framework` y
   `v0.0.1-foundation` que no existen como tag ni release en GitHub; solo hay 4 tags
   (`OMAR-2026`, `v0.0.9-action-framework`, `v0.0.9`, `v0.0.2-android-core`).
+  `docs/PROJECT_STATE.md` **ya reconoce** estas ausencias (sección "Releases", verificada
+  contra la API el 2026-09-15): la discrepancia es entre el CHANGELOG y GitHub, no entre
+  los dos documentos de estado. Su tabla de versiones sigue listando las entradas
+  inexistentes para preservar la numeración de stages, con "Sin tag ni release en GitHub".
+- `docs/PROJECT_STATE.md` fecha `OMAR-2026` como 2026-09-11 en su tabla de releases,
+  mientras la API de GitHub devuelve 2026-08-20 (misma fecha que `a414c65`). La release
+  se creó el 2026-08-20; el 2026-09-11 corresponde al PR #4 (`omar-2026-validacion`).
+  Conviene corregir esa fecha para no atribuir a la release un respaldo que aún está en
+  revisión.
 
 ## Convenciones de Trabajo
 
@@ -305,22 +325,33 @@ Decisiones aprobadas en `docs/DECISIONS.md`:
   `/branches/main/protection`, así que la afirmación se sostiene en la documentación del
   repo, no en una lectura directa de la configuración.
 - Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
-- Los PRs de monitoreo (#5 cerrado, #6, #7 y #8 abiertos) provienen de ejecuciones
+- El automation `Axxist GitHub Monitor` **está deshabilitado** (`enabled: false`,
+  `disabled_reason: manual`, 2026-09-15T18:16:42Z). Su trigger era
+  `on: [push, pull_request.opened]`: cada run abría un PR nuevo contra `main`, ese PR
+  emitía `pull_request.opened` y disparaba el run siguiente. Se verificó contra la API de
+  automatizaciones en este run (2026-09-15 18:20 UTC). Para reactivarlo, acotar el trigger
+  a `push` con filtro de rama, o excluir las ramas del propio automation con un `filter`
+  JMESPath sobre `pull_request.head.ref`.
+- Los PRs de monitoreo (#5 cerrado, #6, #7, #8 y #9 abiertos) provienen de ejecuciones
   repetidas del mismo automation; requieren revisión humana para elegir uno y cerrar
-  los demás. Este run de monitoreo **no abrió un PR nuevo**: reutilizó la rama
-  `openhands/monitor-activity-2026-09-15` (PR #6) para no generar una cuarta copia.
+  los demás. El PR #9 se propone explícitamente como consolidación y reemplazo de #6-#8.
+  Este run de monitoreo **no abrió un PR nuevo**: reutilizó la rama
+  `openhands/monitor-activity-2026-09-15` (PR #6) para no generar otra copia.
+- No commitear cifras volátiles de PRs o de ejecuciones de CI: el propio push las
+  invalida en segundos y genera cadenas de correcciones. Anclar cada cifra a un SHA o
+  fecha, o describir el estado cualitativamente. Esa fue la causa del ruido en las ramas
+  #6 y #7.
 - El Quality Gate sobre un PR de solo documentación no aporta señal de calidad: no compila
   nada distinto según el texto de `AGENTS.md`. Ese es el argumento de fondo para filtrarlo
   por rutas. Útil además porque el gate tarda varios minutos por ejecución.
 - Antes de reportar estado de CI, distinguir "ejecuciones por `push` a `main`" de
   "ejecuciones de `pull_request`": mezclarlas produce conteos que cambian a cada minuto
   mientras haya PRs abiertos.
-- El último run de monitoreo (2026-09-15) verificó que los PR #7 y #8 son `mergeable` y
-  que sus cuatro checks del Quality Gate (`Build Validation`, `Build Summary`,
-  `APK Validation Report`, `Final Quality Gate Status`) quedaron en `success`. #7 y #8
-  actualizan solo `AGENTS.md`; #6 actualiza además `docs/PROJECT_STATE.md`, por lo que es
-  el más completo de los tres. Conviene mergear el que mejor describa el estado y cerrar
-  los otros dos.
+- Los cuatro PRs de monitoreo (#6, #7, #8, #9) son `mergeable` a las 18:20 UTC del
+  2026-09-15. No hay required status checks configurados en `main`, así que el color del
+  Quality Gate no sirve para elegir entre ellos: cada push relanza las cuatro ejecuciones
+  y el estado cambia en minutos. El criterio debe ser el contenido. #9 es el único que
+  documenta la causa raíz del bucle y propone cerrar los duplicados.
 - Antes de dar por completado un stage, verificar que exista código en `src/` o
   `android/` y un reporte en `docs/reports/`; una especificación en `prompts/stages/`
   no equivale a un stage implementado.
