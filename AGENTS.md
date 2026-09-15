@@ -97,7 +97,7 @@ Pull requests abiertos (ninguno fusionado):
 | #2 | Versión compacta del PDF: Meyer y Allen | 1 PDF en `docs/material/` | — | Sí |
 | #4 | OMAR 2026: respaldo documental | 23 archivos en `OMAR 2026/` | +16479 líneas, PDFs binarios | Sí |
 | #6 | Actualizar AGENTS.md con el estado real | Solo `AGENTS.md` | +194 −13 | No |
-| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +190 −14 (incluye esta pasada) | No |
+| #7 | Refrescar AGENTS.md con el estado real | Solo `AGENTS.md` | +207 −14 (incluye esta pasada) | No |
 | #8 | Sincronizar AGENTS.md (monitoreo 2026-09-15) | Solo `AGENTS.md` | +184 −17 | No |
 
 Los PRs #1, #2 y #4 son documentales y ninguno toca `src/` ni `android/`. El PR #4
