@@ -75,13 +75,14 @@ Ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no cambia. El
 **PR #4 es grande (23 archivos, ~16.5k líneas)** y trae PDFs binarios; conviene revisarlo
 con criterio de peso del repositorio.
 
-> **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó cuatro ejecuciones
+> **Aviso de duplicación**: el monitoreo del 2026-09-15 disparó varias ejecuciones
 > concurrentes que produjeron los PR #5 (cerrado sin merge), #6, #7 y #8, todos
 > actualizando `AGENTS.md`. Conviene mergear uno solo y cerrar el resto para evitar
-> conflictos recurrentes. El PR #7 es el único con el Quality Gate completo en verde
+> conflictos recurrentes. Los tres PR abiertos tienen el Quality Gate completo en verde
 > (`Final Quality Gate Status`, `Build Summary`, `APK Validation Report`, `Build
-> Validation`); en #6 y #8 el gate queda en verde pero sin required status checks
-> configurados en `main`.
+> Validation`) al 2026-09-15, así que el gate no distingue entre ellos; la elección
+> queda a criterio humano. Ninguno tiene required status checks configurados en `main`
+> todavía.
 
 ## Módulos Implementados
 
