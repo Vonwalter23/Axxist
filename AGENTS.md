@@ -58,24 +58,26 @@ documentación de investigación; no representa avance de stages.
 
 | PR | Título | Rama | Estado |
 |----|--------|------|--------|
+| #8 | docs(agents): sincronizar AGENTS.md con el estado del repositorio | `docs/agents-md-monitor-2026-09-15` | Abierto (este PR) |
 | #7 | docs: refrescar AGENTS.md con el estado real del repositorio | `docs/agents-refresh-repo-status` | Abierto |
 | #6 | docs: actualizar AGENTS.md con el estado real del repositorio | `openhands/monitor-activity-2026-09-15` | Abierto |
 | #5 | docs(agents): actualizar AGENTS.md con estado y actividad reciente | `docs/agents-md-monitor-update` | Cerrado sin fusionar |
 | #4 | OMAR 2026: respaldo documental de validación | `omar-2026-validacion` | Abierto, draft (23 archivos) |
+| #3 | Corregir referencias de recursos en AGENTS.md | `docs/fix-agents-md-resources` | Fusionado el 2026-08-20 |
 | #2 | Versión compacta del PDF: Meyer y Allen | `docs/meyer-allen-compact-pdf` | Abierto, draft |
 | #1 | Versión compacta del PDF: Jason A. Colquitt | `docs/colquitt-compact-pdf` | Abierto, draft |
 
 Los PRs #1, #2 y #4 son documentación de investigación (PDFs y texto de respaldo), no
 código de producto: ninguno toca `src/` ni `android/`, por lo que el roadmap de stages no
-cambia. Los PRs #5, #6 y #7 son propuestas de actualización de este mismo archivo; #5 fue
-cerrado sin fusionar el 2026-09-15.
+cambia. Los PRs #6, #7 y #8 son propuestas de actualización de este mismo archivo, todas
+abiertas; #5 fue cerrado sin fusionar el 2026-09-15.
 
 ### Ramas remotas
 
 `main` es la única rama de producto. Existen ramas de documentación sin fusionar:
-`docs/agents-md-monitor-update`, `docs/agents-refresh-repo-status`,
-`openhands/monitor-activity-2026-09-15`, `docs/colquitt-compact-pdf`,
-`docs/meyer-allen-compact-pdf`, `docs/resumen-chiavenato`,
+`docs/agents-md-monitor-2026-09-15`, `docs/agents-md-monitor-update`,
+`docs/agents-refresh-repo-status`, `openhands/monitor-activity-2026-09-15`,
+`docs/colquitt-compact-pdf`, `docs/meyer-allen-compact-pdf`, `docs/resumen-chiavenato`,
 `docs/resumen-commitment-workplace` y `omar-2026-validacion`.
 Las ramas `docs/resumen-chiavenato` y `docs/resumen-commitment-workplace` no tienen PR asociado.
 
@@ -202,8 +204,8 @@ proponer plan, implementar, ejecutar pruebas, generar informe, commit y push.
 Detectadas durante el monitoreo automático. Conviene corregirlas, pero quedan fuera del
 alcance del monitoreo:
 
-- `README.md` conserva un roadmap antiguo que marca STAGE_01 en adelante como "Pendiente",
-  contradiciendo `docs/PROJECT_STATE.md` (STAGE_08 completado).
+- `README.md` mantiene un roadmap antiguo que marca STAGE_01 a STAGE_07-20 como "Pendiente"
+  aunque su encabezado ya declara STAGE_08 completado, contradiciendo `docs/PROJECT_STATE.md`.
 - `package.json` declara `"version": "0.0.1-foundation"`, mientras la app Android usa
   `0.0.9-action-framework`.
 - `IMPLEMENTATION_REPORT.md` referencia `pdf_extracted_text.txt` y `pdf_images/`, que no
@@ -212,6 +214,10 @@ alcance del monitoreo:
 - `docs/PROJECT_STATE.md` cita una rama `develop` inexistente.
 - `architecture/ADR/README.md` sigue siendo un placeholder: no hay ADRs registrados pese a
   que `docs/DECISIONS.md` recoge decisiones aprobadas.
+- No existe `docs/reports/STAGE_01.5_REPORT.md`, aunque STAGE_01.5 figura como completado.
+- El monitoreo automático de AGENTS.md genera varias ramas y PRs casi idénticos el mismo día
+  (#6, #7 y #8 el 2026-09-15). Conviene fusionar uno solo y cerrar el resto para no acumular
+  ruido de revisión.
 
 ## Notas de Mantenimiento
 
@@ -219,6 +225,8 @@ alcance del monitoreo:
   asumir un avance de stage.
 - Las ramas `docs/*` no contienen código de producto: son documentación de investigación.
 - El rango de reportes por stage es `docs/reports/` (FASE_00 a STAGE_08).
+- Antes de abrir un nuevo PR de AGENTS.md, revisar si ya hay uno abierto de una ejecución
+  previa del mismo monitoreo.
 
 ## Recursos Adicionales
 
