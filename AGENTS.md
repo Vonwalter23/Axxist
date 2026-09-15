@@ -29,13 +29,24 @@ que la listan como pendiente. STAGE_09 sigue pendiente de implementación.
 ## Actividad Reciente del Repositorio
 
 Verificado contra la API de GitHub el 2026-09-15. No hay actividad de producto reciente:
-el último commit de `main` es de 2026-08-20. Las seis ejecuciones del workflow Android
-Quality Gate en `main` posteriores a la primera corrección terminaron en `success`; las
-tres primeras del 2026-07-17 (`68a8756e`, `4d499b31`, `6037c4ed`) fallaron y se
-corrigieron en la misma jornada. Las ejecuciones del 2026-09-15 sobre las ramas de
-monitoreo e investigación también quedaron en `success` (`omar-2026-validacion`,
-`docs/agents-refresh-repo-status`, `docs/agents-md-monitor-2026-09-15`,
-`docs/agents-md-monitor-update` y la rama de este PR).
+el último commit de `main` es de 2026-08-20. El workflow Android Quality Gate se dispara
+con `push` a `main` o `develop` y con `pull_request` hacia `main`; sus nueve ejecuciones
+sobre `main` (todas por `push`) están en `success`. Las tres primeras del 2026-07-17
+(`68a8756e`, `4d499b31`, `6037c4ed`) fallaron y se corrigieron en la misma jornada. Las
+28 ejecuciones restantes son PRs de ramas `docs/*`, `omar-2026-validacion` y de monitoreo,
+todas en `success`.
+
+> **Bucle de retroalimentación (hallazgo de este run)**: 23 de esas ejecuciones se
+> lanzaron el 2026-09-15 entre las 17:22 y las 17:51, y todas son `pull_request` de PRs
+> que tocan únicamente `AGENTS.md`. El automation está configurado con
+> `on: [push, pull_request.opened]`, así que commitear a la rama de un PR ya abierto
+> **no** lo redispara: el ciclo aparece porque cada run abre o actualiza un PR de
+> monitoreo, y la creación del PR emite `pull_request.opened`, que arranca el run
+> siguiente. De ahí nacieron las cuatro ramas del aviso de duplicación. Mientras los PRs
+> #6, #7 y #8 sigan abiertos, cada push del monitoreo relanza el Quality Gate sobre todos
+> ellos; cortar el ciclo requiere mergear uno y cerrar los demás, y a futuro conviene
+> limitar el trigger a `push` con filtro por rama o excluir las ramas `openhands/*` y
+> `docs/agents-*` del `pull_request.opened`.
 
 Commits en `main` (más recientes primero):
 
